@@ -3,14 +3,17 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
-
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Portfolio 
+  url: /portfolio/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Photostream 
+  url: /photostream/
+
+- title: Checkins
+  url: /checkins/
+
+- title: Posts
+  url: /posts/

@@ -3,10 +3,10 @@ layout: post
 title: "IBM and Ubuntu Going Head To Head Against Windows 7?"
 modified:
 categories: blog
-author: Rami Taibah 
-
+author: rami_taibah 
 permalink: /2009/10/ibm-and-ubuntu-going-head-to-head-against-windows-7/
-tags:[Canonical, Netbook, IBM, Ubuntu, Africa]
+tags: Canonical Netbook IBM Ubuntu Africa
+share: true
 ---
 
 ![Ubuntu-IBM-Netbook](../../../i/Ubuntu-IBM-Netbook.jpg)
