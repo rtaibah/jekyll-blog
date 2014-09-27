@@ -4,7 +4,7 @@ author: Rami Taibah
 layout: post
 permalink: /2009/10/ibm-and-ubuntu-going-head-to-head-against-windows-7/
 categories:
-- News
+- Linux News
 tags:
 - Canonical
 - Netbook

@@ -5,7 +5,9 @@ layout: post
 permalink: /2009/09/will-the-fake-linus-torvalds-please-stand-up/
 categories:
 - General
+- Linux News
 tags:
+- FLT
 - Linus
 - LinuxCon09
 - Torvalds
@@ -21,7 +23,7 @@ They also made a hilarious promotion video parodying Eminem's "Please Stand Up" 
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/uPmeC_pykH0" frameborder="0" allowfullscreen></iframe>
 
-To see the Fake Linus tweets just search for hashtags [\#FLT1](http://search.twitter.com/search?q=%23flt1) [\#FLT2](http://search.twitter.com/search?q=%23flt2) [\#FLT3](http://search.twitter.com/search?q=%23flt3) [\#FLT4](http://search.twitter.com/search?q=%23flt4). They will be tweeting from [The Linux Foundation's twitter account](http://twitter.com/linuxfoundation).
+To see the Fake Linus tweets just search for hashtags [\#FLT1](https://twitter.com/search?q=%23FLT1&src=typd) [\#FLT2](https://twitter.com/search?q=%23FLT2&src=typd) [\#FLT3](https://twitter.com/search?q=%23FLT3&src=typd) [\#FLT4](https://twitter.com/search?q=%23FLT4&src=typd). They will be tweeting from [The Linux Foundation's twitter account](http://twitter.com/linuxfoundation).
 
 
-For more information on visit [The Linux Foundation](http://www.linux.com/fakelinustorvalds).
+For more information visit [The Linux Foundation](http://www.linux.com/fakelinustorvalds).
