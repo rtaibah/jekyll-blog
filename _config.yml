@@ -1,0 +1,13 @@
+# Site settings
+title: Rami Taibah's Blog
+email: taibah@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is an aggregation of all my blogging activities since 2007. My personal blog and Linuxologist.com blog (now defunct) merged into one. 
+# baseurl: "/blog" # the subpath of your site, e.g. /blog/
+# url: "http://taibah.co" # the base hostname & protocol for your site
+twitter_username: rtaibah
+github_username: rtaibah
+
+# Build settings
+markdown: kramdown
+
