@@ -1,0 +1,40 @@
+---
+title: 'In a Perfect World: The Death of AppleTV'
+author: admin
+layout: post
+permalink: /2008/06/in-a-perfect-world-the-death-of-appletv/
+tweetbackscheck:
+- 1236158094
+shorturls:
+- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/7bf2u7";s:4:"isgd";s:17:"http://is.gd/fiVv";s:5:"bitly";s:18:"http://bit.ly/DE2P";s:5:"snipr";s:22:"http://snipr.com/9sg2y";s:5:"snurl";s:22:"http://snurl.com/9sg2y";s:7:"snipurl";s:24:"http://snipurl.com/9sg2y";s:4:"trim";s:17:"http://tr.im/49kd";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/3712ee";s:9:"permalink";s:65:"http://hehe2.net/gadgets/in-a-perfect-world-the-death-of-appletv/";}'
+twittercomments:
+- 'a:1:{i:1116177036;s:7:"retweet";}'
+tweetcount:
+- 1
+categories:
+- Gadgets
+tags:
+- appletv
+- bittorrent
+- filesharing
+- hdtv
+- Linux
+- myka
+- opensource
+- p2p
+- Torrents
+- TV
+---
+Ok let's face it, torrenting isn't really the most user friendly technology out there. There are so many ins and outs in torrenting that would lead your average Joe to scurry away. You know the kind of a guy who gets Rickrolled, gets confused, and moves on not knowing what exactly happened, kind of guy. In order to get the minds and hearts of these average Joe's one need to do one thing! Make their torrenting experience as seamless as possible. Sadly, that's exactly what AppleTV did, except they detoured Joe to the iTunes store and put their hands in his deep pockets for something that is/was freely available...what a shame! If only Joe knew...sigh
+[Myka](http://www.myka.tv/index.html) come on down! [Myka](http://www.myka.tv/index.html) is not very different from AppleTV, but it brings to the table the natural evolution of TV tops; BitTorrent! This means Myka can deliver any kind of 
+content to your TV, developed in an open platform. Your life your rules! .
+Incorporating BitTorrent technology onto TV set-top boxes, will add to the seamlessness that the technology needs to gain ubiquity. One small step for Myka, a huge leap for a DRM-free world
+
+![](http://192.168.1.33/blog2/wp-content/uploads/2008/06/myka11.jpg)
+The box comes with HDTV resolutions up to 1080i, h.264 support meaning that it could play Blu-Ray, WiFi, and HDMI. Here is how the box looks from the back:
+
+![](http://192.168.1.33/blog2/wp-content/uploads/2008/06/back-myka1.jpg)
+The set-top box is available in 3 different hard drive configurations: 80gb ($299), 160gb ($349) and 500gb ($459). The company is taking pre-orders now. According to the company, the boxes will be available Summer 2008, which means any moment now!
+So why should a \*Linux advocacy \*blog care? Well like all things beatiful in the tech-world, this little beast runs on Linux! W00T! In addition to the fact that most of the top tech blogs also cared ([TorrentFreak](http://torrentfreak.com/bittorrent-on-tv-080321/), [Engadget](http://www.engadget.com/2008/03/21/myka-sneaks-bittorrent-into-the-living-room/), [Gizmodo](http://gizmodo.com/370820/myka-brings-bittorrent-to-your-tv), [Electonista](http://www.electronista.com/articles/08/03/21/myka.media.hub/), [Techfresh](http://www.techfresh.net/gadgets/computers/storage/myka-bit-torrent-device/), \[Gadgettastic\]\[1\], \[AppleTV Source\]\[2\])
+\[1\]: http://www.gadgettastic.com/2008/03/21/myka-bittorrent-tv-solution/
+\[2\]: http://appletvsource.com/content/view/601/1/
