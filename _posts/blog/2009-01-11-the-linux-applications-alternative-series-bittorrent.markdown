@@ -1,30 +1,11 @@
 ---
 title: 'The Linux Applications Alternative Series: Bittorrent'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/01/the-linux-applications-alternative-series-bittorrent/
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/7jt5d7";s:4:"isgd";s:17:"http://is.gd/fiS7";s:5:"bitly";s:18:"http://bit.ly/NZuZ";s:5:"snipr";s:22:"http://snipr.com/9sflh";s:5:"snurl";s:22:"http://snurl.com/9sflh";s:7:"snipurl";s:24:"http://snipurl.com/9sflh";s:4:"trim";s:17:"http://tr.im/49ho";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:18:"http://zi.ma/21d2c";s:9:"permalink";s:75:"http://hehe2.net/apps/the-linux-applications-alternative-series-bittorrent/";}'
-tweetbackscheck:
-- 1236167634
-twittercomments:
-- 'a:7:{i:1110152037;s:5:"17631";i:1110795861;s:5:"17745";i:1110795473;s:5:"17746";i:1110848545;s:5:"17749";i:1110858805;s:5:"17750";i:1110901555;s:5:"17754";i:1113069067;s:5:"17805";}'
-tweetcount:
-- 7
 categories:
 - Apps
-tags:
-- Apps
-- Azureus
-- Deluge
-- Ktorrent
-- qBittorrent
-- rTorrent
-- Torrent
-- Transmission
-- uTorrent
-- Vuze
-- Wine
+tags: 
 ---
 
 It's been a while since I updated this blog, and sorry, I know that a lot of people eagerly wait to see what I have to say (hehe :D). First of all I wish you all a belated happy Christmas and New Years. Lately, I have been struggling with new things to blog about, I know that there are a lot of undiscovered territories, but I have been having some difficulty into venturing into them. Maybe because at the end am just a "noob" and don't really understand a lot of technical things, despite me pretending to. If you have any ideas or articles you would like to see please [contact](/blog/contact) me or [tweet](http://www.twitter.com/bianconeri4ever) me.

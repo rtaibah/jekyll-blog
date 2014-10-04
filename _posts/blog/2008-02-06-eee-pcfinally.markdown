@@ -1,19 +1,9 @@
 ---
 title: 'eee pc...Finally!'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/02/eee-pcfinally/
-tweetbackscheck:
-- 1236147705
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/3ce9od";s:4:"isgd";s:17:"http://is.gd/fjqh";s:5:"bitly";s:18:"http://bit.ly/cmvb";s:5:"snipr";s:22:"http://snipr.com/9sj6x";s:5:"snurl";s:22:"http://snurl.com/9sj6x";s:7:"snipurl";s:24:"http://snipurl.com/9sj6x";s:4:"trim";s:17:"http://tr.im/4aci";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/83f800";s:9:"permalink";s:45:"http://hehe2.net/linux-general/eee-pcfinally/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- Gadgets
-- General
+categories: blog
 ---
 After a \[very\]\[1\] \[arduous\]\[2\] journey, I finally got my hands on the highly coveted \[eee pc\]\[3\]. I managed to get a 4G model, upgraded to 1GB ram and an 8GB sdhc card for $555 off \[ebay\]\[4\]
 ![dsc_0535.jpg](/blog/wp-content/uploads/dsc_0535.jpg)

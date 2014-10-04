@@ -1,24 +1,11 @@
 ---
 title: 3 Reasons Why Your System Might Be Slow
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/06/3-reasons-why-your-system-might-be-slow/
-tweetbackscheck:
-- 1236173551
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/64dl44";s:4:"isgd";s:17:"http://is.gd/4xbr";s:5:"bitly";s:18:"http://bit.ly/ULYg";s:5:"snipr";s:22:"http://snipr.com/9shte";s:5:"snurl";s:22:"http://snurl.com/9shte";s:7:"snipurl";s:24:"http://snipurl.com/9shte";s:4:"trim";s:17:"http://tr.im/4a1u";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:17:"http://zi.ma/8c4d";s:9:"permalink";s:68:"http://hehe2.net/linuxhowto/3-reasons-why-your-system-might-be-slow/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Howto
-tags:
-- memory
-- optimizaion
-- renice
-- slowcomputer
-- swap
+tags: 
 ---
 \*Editor's note: This is a guest blog by Martin Matusiak. Martin is a software engineer and a Linux enthusiast. He [blogs](http://www.matusiak.eu/numerodix/blog//) mostly about technology with emphasis on Open Source and Linux. 
 \*

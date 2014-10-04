@@ -1,23 +1,11 @@
 ---
 title: 'Linux and Sex: Debunking the Myth'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/05/linux-and-sex-debunking-the-myth/
-tweetbackscheck:
-- 1236172871
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5t8mmm";s:4:"isgd";s:17:"http://is.gd/fiV9";s:5:"bitly";s:18:"http://bit.ly/o0zV";s:5:"snipr";s:22:"http://snipr.com/9sg0r";s:5:"snurl";s:22:"http://snurl.com/9sg0r";s:7:"snipurl";s:24:"http://snipurl.com/9sg0r";s:4:"trim";s:17:"http://tr.im/49jz";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/8900ef";s:9:"permalink";s:61:"http://hehe2.net/linuxhumor/linux-and-sex-debunking-the-myth/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Humor
-tags:
-- Linux
-- Paris Hilton
-- Sex
-- sexy
+tags: 
 ---
 
 For some reason beyond me, Linux is almost synonymous with _"anti-sex"_. I still don't fully understand from where this notion came from. While I admit that there are some rotten apples out there:

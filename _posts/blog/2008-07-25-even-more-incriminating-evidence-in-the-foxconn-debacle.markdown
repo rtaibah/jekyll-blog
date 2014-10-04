@@ -1,24 +1,11 @@
 ---
 title: Even More Incriminating Evidence in The Foxconn Debacle!
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/07/even-more-incriminating-evidence-in-the-foxconn-debacle/
-tweetbackscheck:
-- 1236145506
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/7p4k3d";s:4:"isgd";s:17:"http://is.gd/fj3L";s:5:"bitly";s:18:"http://bit.ly/RVTl";s:5:"snipr";s:22:"http://snipr.com/9skdf";s:5:"snurl";s:22:"http://snurl.com/9skdf";s:7:"snipurl";s:24:"http://snipurl.com/9skdf";s:4:"trim";s:17:"http://tr.im/4akr";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/2934d0";s:9:"permalink";s:85:"http://hehe2.net/thedarkside/even-more-incriminating-evidence-in-the-foxconn-debacle/";}'
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/7p4k3d";s:4:"isgd";s:17:"http://is.gd/fj3L";s:5:"bitly";s:18:"http://bit.ly/RVTl";s:5:"snipr";s:22:"http://snipr.com/9skdf";s:5:"snurl";s:22:"http://snurl.com/9skdf";s:7:"snipurl";s:24:"http://snipurl.com/9skdf";s:4:"trim";s:17:"http://tr.im/4akr";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/2934d0";s:9:"permalink";s:85:"http://hehe2.net/thedarkside/even-more-incriminating-evidence-in-the-foxconn-debacle/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - The Dark Side
-tags:
-- acpi
-- Foxconn
-- Linux
-- Microsoft
+tags: 
 ---
 Could hardware vendors be deliberately blocking and sabotaging Linux? What would their incentive or motivation be? One would think that would be just stupid, since no matter how small the Linux market is, at the end of the day there will be money exchanging hands. Why would a company say no to paying customers?
 In 1998 the [Halloween documents](http://www.catb.org/~esr/halloween/), (a confidential memorandum on potential strategies relating to free software, open-source software, and to Linux in particular) established that Microsoft actually fears the Open Source and Linux movement. So would it be too far fetched for Microsoft to use it's clout and deep pockets to convince hardware vendors to block Linux? I don't want to jump the gun (or have I already?) but Microsoft isn't really known for it's white hat business tactics.

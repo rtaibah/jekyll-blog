@@ -1,14 +1,12 @@
 ---
 title: 13 Linux Graffiti Art From Around The World
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/08/13-linux-graffiti-art-from-around-the-world/
 categories:
 - Eye Candy
 - General
-tags:
-- Art
-- Graffiti
+tags: 
 ---
 
 Us Linux users are very passionate about our operating system. We get into flame wars with others, push it down other's throats ([which we don't condone](/blog/advocacy/help-spread-linux-without-preaching-it/),) [blog about](/blog/general/30-blogs-every-open-source-enthusiast-should-keep-an-eye-on/), [work feverishly in converting](/blog/linuxhumor/howto-convert-a-friend-to-linux/), and finally "vandalize" our cities.

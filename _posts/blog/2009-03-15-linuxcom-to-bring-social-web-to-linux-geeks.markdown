@@ -1,16 +1,11 @@
 ---
 title: 'Linux.com to Bring "Social Web" To Linux Geeks?'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/03/linuxcom-to-bring-social-web-to-linux-geeks/
 categories:
 - General
-tags:
-- digg
-- Facebook
-- Linux.com
-- LinuxFoundation
-- Twitter
+tags: 
 ---
 
 ![linux-foundation-social-media-2](http://192.168.1.33/blog2/wp-content/uploads/2009/03/linux-foundation-social-media-2.png)

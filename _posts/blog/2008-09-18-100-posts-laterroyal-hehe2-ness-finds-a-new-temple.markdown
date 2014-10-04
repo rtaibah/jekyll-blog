@@ -1,26 +1,11 @@
 ---
 title: '100 Posts Later....Royal HeHe2-ness Finds A New Temple'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/09/100-posts-laterroyal-hehe2-ness-finds-a-new-temple/
-tweetbackscheck:
-- 1236174842
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/72s9su";s:4:"isgd";s:17:"http://is.gd/fmql";s:5:"bitly";s:18:"http://bit.ly/54hg";s:5:"snipr";s:22:"http://snipr.com/9t26v";s:5:"snurl";s:22:"http://snurl.com/9t26v";s:7:"snipurl";s:24:"http://snipurl.com/9t26v";s:4:"trim";s:17:"http://tr.im/4f3q";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/664849";s:9:"permalink";s:78:"http://hehe2.net/off-topic/100-posts-laterroyal-hehe2-ness-finds-a-new-temple/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Off-Topic
-tags:
-- bluehost
-- digg
-- diggeffect
-- downtime
-- mediatemple
-- serverdown
-- uptime
+tags: 
 ---
 
 Wow! It's been almost a year, and 99 posts

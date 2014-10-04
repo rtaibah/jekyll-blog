@@ -1,10 +1,9 @@
 ---
 title: Big Changes for Royal Linuxing! (and me)
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/04/big-changes-for-royal-linuxing-and-me/
-categories:
-- Off-Topic
+categories: blog
 ---
 Its been quite sometime since I posted on Royal Linuxing, and deep down I feel really guilty.  For a year and a half I have been committed to this blog, it consumed quite a big chunk of my day.
 The thing is, a lot has been going on in my life. For starters, I resigned from my job, decided to continue my graduate studies, and relocating half way across the world. As of next week I'll be in Boston, MA ![:)](http://192.168.1.2/blog2/wp-includes/images/smilies/icon_smile.gif)

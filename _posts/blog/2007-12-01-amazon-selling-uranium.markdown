@@ -1,23 +1,12 @@
 ---
 title: The Things You Find on the Internet
-author: admin
+author: rami_taibah
 excerpt: "Seems like there is nothing you can't buy off the Internet these days. Apparently the good fellas at Amazon.com are selling Uranium ore! Yes you heard it U-R-A-N-I-U-M! You know the stuff that would bust your balls."
 layout: post
 permalink: /2007/12/amazon-selling-uranium/
-tweetbackscheck:
-- 1236145518
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/7gnqww";s:4:"isgd";s:17:"http://is.gd/fkxf";s:5:"bitly";s:18:"http://bit.ly/9IkL";s:5:"snipr";s:22:"http://snipr.com/9sqq5";s:5:"snurl";s:22:"http://snurl.com/9sqq5";s:7:"snipurl";s:24:"http://snipurl.com/9sqq5";s:4:"trim";s:17:"http://tr.im/4c7n";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/9f974a";s:9:"permalink";s:49:"http://hehe2.net/internet/amazon-selling-uranium/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Internet
-tags:
-- Amazon
-- Uraninite
-- Uranium ore
+tags: 
 ---
 Seems like there is nothing you can't buy off the Internet these days. Apparently the good fellas at \[Amazon.com\]\[1\] are selling \[Uranium ore\]\[2\]! Yes you heard it U-R-A-N-I-U-M! You know the stuff that would bust your balls.
 [![Uranium on Amazon.com](/blog/wp-content/imagescaler/356ffb9827efa8eb1cf8644a14e73c7c.png)](http://www.amazon.com/Uranium-Ore/dp/B000796XXM "Uranium on Amazon.com")

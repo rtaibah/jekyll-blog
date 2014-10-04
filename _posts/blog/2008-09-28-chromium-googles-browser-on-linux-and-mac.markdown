@@ -1,26 +1,12 @@
 ---
 title: 'Chromium: Googles Browser on Linux and Mac!'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/09/chromium-googles-browser-on-linux-and-mac/
-tweetbackscheck:
-- 1236172717
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/6j93zu";s:4:"isgd";s:17:"http://is.gd/fiUW";s:5:"bitly";s:20:"http://bit.ly/1Yaco1";s:5:"snipr";s:22:"http://snipr.com/9sfzs";s:5:"snurl";s:22:"http://snurl.com/9sfzs";s:7:"snipurl";s:24:"http://snipurl.com/9sfzs";s:4:"trim";s:17:"http://tr.im/49jt";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/b737ba";s:9:"permalink";s:70:"http://hehe2.net/linuxhowto/chromium-googles-browser-on-linux-and-mac/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Apps
 - Howto
-tags:
-- Apple
-- browser
-- chrome
-- chromium
-- Google
-- mac
+tags: 
 ---
 I am sure a lot of Linux and Mac users were a bit disappointed on September the 2nd, they were shut out in favor of their more popular counterparts; Windows users. Google's browser, Chrome, took the Internet by storm. Everybody was talking about it, [Digg got swamped with Chrome submissions](http://digg.com/search?section=all&s=chrome), \[Tech blogs were buzzing about\]\[1\]\[ it\]\[1\], theories were thrown \[left\]\[2\] and [right](http://blog/.wirelesswanders.com/2008/09/03/google-chrome-and-mobile-to-follow/). Everybody was in for the action, except for Linux and Mac users! ![:(](http://192.168.1.2/blog2/wp-includes/images/smilies/icon_sad.gif)
 However Jeremy White, the CEO of [Codeweavers](http://en.wikipedia.org/wiki/Codeweavers), decided to take [matters into his own hands](http://www.codeweavers.com/about/people/blog/s/jwhite/2008/9/15/fire-drills-and-proving-a-point). So on September 4th he summoned his army to get Chromium (which is the open source project behind Chrome) ported to Linux and Mac ASAP. Long story short, they achieved that in only 11 days! Boy Wine has matured! ![:)](http://192.168.1.2/blog2/wp-includes/images/smilies/icon_smile.gif)

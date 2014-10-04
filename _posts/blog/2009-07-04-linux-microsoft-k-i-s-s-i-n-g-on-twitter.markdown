@@ -1,10 +1,9 @@
 ---
 title: 'Linux & Microsoft K-I-S-S-I-N-G On Twitter'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/07/linux-microsoft-k-i-s-s-i-n-g-on-twitter/
-categories:
-- Humor
+categories: blog
 ---
 MG Siegler of TechCrunch noticed something funny today. [Linux and Microsoft were holding peace tweets](http://www.techcrunch.com/2009/07/03/microsoft-and-linux-hold-peace-tweets/)! Well not exactly, but on the 1st of July [Microsoft decided that it should start tweetin](http://www.techcrunch.com/2009/07/01/microsoft-starts-officially-tweeting/)[g](http://www.techcrunch.com/2009/07/01/microsoft-starts-officially-tweeting/) (finally?). The guy behind the[Linux Twitter account](http://www.twitter.com/linux), apparently a guy from [Bangladesh](http://linux.org.bd/), decided to [welcome Microsoft on Twitter](http://twitter.com/Linux/status/2434030368).
 

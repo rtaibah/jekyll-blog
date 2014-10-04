@@ -1,23 +1,11 @@
 ---
 title: 9 Linux Myths Debunked
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/08/9-linux-myth-debunked/
-tweetbackscheck:
-- 1236173832
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/6bn4wa";s:4:"isgd";s:17:"http://is.gd/fiWf";s:5:"bitly";s:18:"http://bit.ly/vRej";s:5:"snipr";s:22:"http://snipr.com/9sg5x";s:5:"snurl";s:22:"http://snurl.com/9sg5x";s:7:"snipurl";s:24:"http://snipurl.com/9sg5x";s:4:"trim";s:17:"http://tr.im/49kx";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/51ef19";s:9:"permalink";s:48:"http://hehe2.net/advocacy/9-linux-myth-debunked/";}'
-twittercomments:
-- 'a:1:{i:1116158145;s:7:"retweet";}'
-tweetcount:
-- 1
 categories:
 - Advocacy
-tags:
-- FUD
-- Linux
-- myth
-- opensource
+tags: 
 ---
 
 ![Linux Faces FUD](/blog/wp-content/uploads/2008/08/next_pers3_dec140-277x300.jpg)

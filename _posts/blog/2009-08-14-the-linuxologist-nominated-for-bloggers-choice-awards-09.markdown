@@ -1,12 +1,11 @@
 ---
 title: 'The Linuxologist Nominated For Bloggers Choice Awards 09; Vote and WIN!'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/08/the-linuxologist-nominated-for-bloggers-choice-awards-09/
 categories:
 - Announcements
-tags:
-- BloggersChoiceAwards
+tags: 
 ---
 
 ![bloggers-choice-awards.thumbnail.gif](/blog/wp-content/uploads/2009/08/blog/gers-choice-awards.thumbnail.gif.png)

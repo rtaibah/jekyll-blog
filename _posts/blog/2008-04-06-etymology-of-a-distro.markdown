@@ -1,23 +1,12 @@
 ---
 title: Etymology of A Distro
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/04/etymology-of-a-distro/
-tweetbackscheck:
-- 1236174705
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/6kmr8d";s:4:"isgd";s:17:"http://is.gd/fiW8";s:5:"bitly";s:18:"http://bit.ly/uPye";s:5:"snipr";s:22:"http://snipr.com/9sg5q";s:5:"snurl";s:22:"http://snurl.com/9sg5q";s:7:"snipurl";s:24:"http://snipurl.com/9sg5q";s:4:"trim";s:17:"http://tr.im/49kw";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/2ffd8d";s:9:"permalink";s:53:"http://hehe2.net/linux-general/etymology-of-a-distro/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Advocacy
 - General
-tags:
-- distro
-- Distrowatch
-- Etymology
+tags: 
 ---
 Note: I changed the title of the article from "Etymology of A Linux Distro" to the current because a lot of readers pointed out that it's not appropriate to have BSD systems, and rightly so, on a Linux list.
 Computing is fun! Well at least thats until Microsoft drove it out of the equation. I mean with Windows everything is just bland, monotonous, and just ordinary. Even it's name is such a snooze-fest! The whole idea of window computing by no mean exclusive to Microsoft, it has been around for quite some time, one could argue that it isn't that "earth shattering" of an invention. So why name your flagship product after a technology that's not yours and has been around for quite sometime? Beats me! On the other hand, another company that actually puts the fun back into computing, also has a stupid name; Apple. Huh? Isn't that the first word one learns in first grade "A is for Apple." I could say or think "apple" without stirring any emotions or thoughts whatsoever, go ahead try it. Think Apple.

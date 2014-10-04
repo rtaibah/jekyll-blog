@@ -1,18 +1,9 @@
 ---
 title: 'HOWTO: Optimize Your Eee PC Screen Real Estate'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/03/howto-optimize-your-eee-pc-screen-real-estate/
-tweetbackscheck:
-- 1236174188
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/2srscm";s:4:"isgd";s:17:"http://is.gd/fjpG";s:5:"bitly";s:18:"http://bit.ly/oM0T";s:5:"snipr";s:22:"http://snipr.com/9sj4b";s:5:"snurl";s:22:"http://snurl.com/9sj4b";s:7:"snipurl";s:24:"http://snipurl.com/9sj4b";s:4:"trim";s:17:"http://tr.im/4abz";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/4596a4";s:9:"permalink";s:74:"http://hehe2.net/linuxhowto/howto-optimize-your-eee-pc-screen-real-estate/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- Howto
+categories: blog
 ---
 You will probably notice that the default [Ubuntu install](/blog/linuxhowto/howto-install-ubuntu-on-your-eee-pc/ "Ubuntu install") screws up your valuable real estate very badly, everything is just cramped up. We need to do the some tweaks to snug everything into it's place.
 \*\*Smaller Fonts:\*\*

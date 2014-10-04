@@ -1,25 +1,12 @@
 ---
 title: Sourceforge on Your iPhone!
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/07/sourceforge-on-your-iphone/
-tweetbackscheck:
-- 1236163228
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/8pqe7o";s:4:"isgd";s:17:"http://is.gd/fjg5";s:5:"bitly";s:18:"http://bit.ly/bTc4";s:5:"snipr";s:22:"http://snipr.com/9si2n";s:5:"snurl";s:22:"http://snurl.com/9si2n";s:7:"snipurl";s:24:"http://snipurl.com/9si2n";s:4:"trim";s:17:"http://tr.im/4a3j";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/41f6a1";s:9:"permalink";s:52:"http://hehe2.net/gadgets/sourceforge-on-your-iphone/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Gadgets
 - The Dark Side
-tags:
-- Apple
-- iPhone
-- iTunes
-- Linux
-- SourceForge
+tags: 
 ---
 
 ![](/blog/wp-content/uploads/2008/07/iphonejune102008-249x300.jpg)While I am not really big iPhone fan, I must admit it's a sexy piece of hardware, that captured the hearts of millions in a heartbeat. But the fact that Apple decided to lock it down, is a deal breaker for me. I have had the misfortune of buying a 32 GB iPod touch, and managing it from my Ubuntu box is simply a **nightmare**. While tools like _ipod-convenience, _can do the job, they__are buggy and unstable to say the least and remain indivisual efforts of Linux hackers and reverse engineers.

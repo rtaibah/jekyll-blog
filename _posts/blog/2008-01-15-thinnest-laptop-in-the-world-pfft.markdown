@@ -1,18 +1,9 @@
 ---
 title: 'Thinnest Laptop in the World?....Pffft!!'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/01/thinnest-laptop-in-the-world-pfft/
-tweetbackscheck:
-- 1236166714
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/9qvef9";s:4:"isgd";s:17:"http://is.gd/fjgA";s:5:"bitly";s:18:"http://bit.ly/zXQe";s:5:"snipr";s:22:"http://snipr.com/9si4h";s:5:"snurl";s:22:"http://snurl.com/9si4h";s:7:"snipurl";s:24:"http://snipurl.com/9si4h";s:4:"trim";s:17:"http://tr.im/4a44";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/da0148";s:9:"permalink";s:65:"http://hehe2.net/linux-general/thinnest-laptop-in-the-world-pfft/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- General
+categories: blog
 ---
 Well Steve Jobs just finished his keynote speech announcing the much rumored Macbook Air. which measures 0.16-inches at its thinnest point, while its maximum height of 0.76-inches! Impressive huh?? Apple are touting the MBA as the thinnest laptop in the world. Or is it?
 

@@ -1,33 +1,12 @@
 ---
 title: 'OpenOffice.org 3.0: What to Expect?'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/07/openofficeorg-30-what-to-expect/
-tweetbackscheck:
-- 1236168557
-- 1236168557
-- 1236168557
-- 1236168557
-- 1236168557
-- 1236168557
-- 1236168557
-- 1236168557
-- 1236168557
-shorturls:
-- 'a:7:{s:9:"permalink";s:54:"http://hehe2.net/apps/openofficeorg-30-what-to-expect/";s:4:"isgd";s:17:"http://is.gd/fiYe";s:5:"bitly";s:19:"http://bit.ly/116PH";s:7:"tinyurl";s:25:"http://tinyurl.com/8gx87y";s:5:"snipr";s:22:"http://snipr.com/b9ptk";s:5:"snurl";s:22:"http://snurl.com/b9ptk";s:7:"snipurl";s:24:"http://snipurl.com/b9ptk";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Apps
 - Reviews
-tags:
-- Calc
-- Impress
-- open source
-- openoffice3
-- Writer
+tags: 
 ---
 Around 3 month ago OpenOffice.org released its 2.4 [boasting quite an impressive arsenal of advancements](http://www.oooninja.com/2008/03/new-features-openofficeorg-240.html). However if you thought 2.4 was major release, then you have seen nothing! Come September, OpenOffice.org will release it's 3.0 version! That must be quite a big jump! The upcoming 3.0 version is widely regarded as an important milestone in the project's development. Here are some of the advancements I am most excited about:  
 

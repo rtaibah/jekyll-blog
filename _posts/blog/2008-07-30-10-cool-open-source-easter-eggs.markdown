@@ -1,32 +1,12 @@
 ---
 title: 10 Cool Open Source Easter Eggs
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/07/10-cool-open-source-easter-eggs/
-tweetbackscheck:
-- 1236175110
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5rbaod";s:4:"isgd";s:17:"http://is.gd/fiZ1";s:5:"bitly";s:18:"http://bit.ly/JO4H";s:5:"snipr";s:22:"http://snipr.com/9sgew";s:5:"snurl";s:22:"http://snurl.com/9sgew";s:7:"snipurl";s:24:"http://snipurl.com/9sgew";s:4:"trim";s:17:"http://tr.im/49nc";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/1c7440";s:9:"permalink";s:60:"http://hehe2.net/linuxhumor/10-cool-open-source-easter-eggs/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Apps
 - Humor
-tags:
-- amarok
-- apt-get
-- aptitude
-- easter eggs
-- Firefox
-- gnome
-- kde
-- Linux
-- mozilla
-- open source
-- OpenOffice
-- wanda
+tags: 
 ---
 It's easy to forget with all the source compiling, the \[conspiracy theories\]\[1\], and the \[OS flaming\]\[2\] going on in every corner of the Internet, that there is a fun side of our beloved OS and Open Source applications. I have compiled a list of 10 easter eggs found in Open Source project (actually you will find more than 10 here, as I treated each application as one). So here we go:
 \#\# Amarok

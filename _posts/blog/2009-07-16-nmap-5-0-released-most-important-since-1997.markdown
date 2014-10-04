@@ -1,13 +1,11 @@
 ---
 title: 'Nmap 5.0 Released: Most Important Since 1997!'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/07/nmap-5-0-released-most-important-since-1997/
 categories:
 - Apps
-tags:
-- nmap
-- security
+tags: 
 ---
 \[![trinity-nmapscreen-hd-crop-1200x728](/blog/wp-content/uploads/2009/07/trinity-nmapscreen-hd-crop-1200x728-1024x621.jpg)\]\[1\]
 If you don't know what Nmap is then this probably doesn't interest you and/or not "1337" enough. What's wrong with you?

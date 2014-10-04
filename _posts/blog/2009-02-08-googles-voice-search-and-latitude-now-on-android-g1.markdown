@@ -1,29 +1,13 @@
 ---
 title: 'Googles Voice Search and Latitude Now on Android G1!'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/02/googles-voice-search-and-latitude-now-on-android-g1/
-tweetbackscheck:
-- 1236174912
-shorturls:
-- 'a:7:{s:9:"permalink";s:77:"http://hehe2.net/gadgets/googles-voice-search-and-latitude-now-on-android-g1/";s:7:"tinyurl";s:25:"http://tinyurl.com/b33ocv";s:4:"isgd";s:17:"http://is.gd/iMPj";s:5:"bitly";s:18:"http://bit.ly/DTgB";s:5:"snipr";s:22:"http://snipr.com/bhw2s";s:5:"snurl";s:22:"http://snurl.com/bhw2s";s:7:"snipurl";s:24:"http://snipurl.com/bhw2s";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Gadgets
 - Howto
 - Internet
-tags:
-- Android
-- G1
-- Google
-- JesusFreke
-- Latitude
-- RC30
-- RC33
-- VoiceSearch
+tags: 
 ---
 A lot of G1 users were disappointed when Google's voice search was first introduced for the iPhone but not the G1\. It seemed almost scandalous. While Google's most recent innovations, Latitude, was promised for the G1, but on my modded RC30 phone all it said was "coming soon".
 Luckily [JesusFreke](/blog/tag/jesusfreke) released the new RC33 image including both Google voice search and Google Latitude along with other fixes:

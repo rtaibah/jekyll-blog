@@ -1,24 +1,13 @@
 ---
 title: How Linux Helped Chickens, Environmentalists, and a Pirate!
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/11/how-linux-can-save-chickens-helps-the-environment-and-navigate-the-high-seas/
-tweetbackscheck:
-- 1236164556
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5hrpfz";s:4:"isgd";s:17:"http://is.gd/fiXm";s:5:"bitly";s:20:"http://bit.ly/4qFfaN";s:5:"snipr";s:22:"http://snipr.com/9sg9l";s:5:"snurl";s:22:"http://snurl.com/9sg9l";s:7:"snipurl";s:24:"http://snipurl.com/9sg9l";s:4:"trim";s:17:"http://tr.im/49m5";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/9316ca";s:9:"permalink";s:108:"http://hehe2.net/linux-general/how-linux-can-save-chickens-helps-the-environment-and-navigate-the-high-seas/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Advocacy
 - Gadgets
 - General
-tags:
-- Gadgets
-- Linux
-- "plat'home"
+tags: 
 ---
 
 ![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/linux-ideas.jpg)

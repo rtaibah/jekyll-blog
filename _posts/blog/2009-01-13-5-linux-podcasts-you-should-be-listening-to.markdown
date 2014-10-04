@@ -1,21 +1,12 @@
 ---
 title: 5 Linux Podcasts You Should Be Listening To
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/01/5-linux-podcasts-you-should-be-listening-to/
-tweetbackscheck:
-- 1236170149
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/7mjqwu";s:4:"isgd";s:17:"http://is.gd/fCOL";s:5:"bitly";s:19:"http://bit.ly/12kFX";s:5:"snipr";s:22:"http://snipr.com/9wm7b";s:5:"snurl";s:22:"http://snurl.com/9wm7b";s:7:"snipurl";s:24:"http://snipurl.com/9wm7b";s:4:"trim";s:17:"http://tr.im/5b4n";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/d971bf";s:9:"permalink";s:75:"http://hehe2.net/linux-general/5-linux-podcasts-you-should-be-listening-to/";}'
-twittercomments:
-- 'a:2:{i:1118358222;s:5:"18557";i:1127892198;s:5:"18628";}'
-tweetcount:
-- 2
 categories:
 - General
 - Reviews
-tags:
-- Podcast
+tags: 
 ---
 Contributing to Linux and the Open Source movement can come in many guises. Programming, filing bugs, translating, blogging, and of course podcasting! In this day and age, jumping behind a mic and speaking isn't really hard, whats hard is actually sticking out of the clutter. Here are 5 podcasts that made an unknown blogger from Saudi Arabia jump out of bed at 4  in the morning to write about them! now thats sticking out of the clutter! So without further ado, I give you 5 podcast that you should be listening to:
 \#\# 1-The Linux Action Show

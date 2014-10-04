@@ -1,19 +1,9 @@
 ---
 title: 'An Interview with an Extremadura Developer: Bringing Linux to the Masses'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/02/an-interview-with-an-extremadura-developer-bringing-linux-to-the-masses/
-tweetbackscheck:
-- 1236173121
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/2ve9mt";s:4:"isgd";s:17:"http://is.gd/fjL5";s:5:"bitly";s:18:"http://bit.ly/MuNH";s:5:"snipr";s:22:"http://snipr.com/9sle1";s:5:"snurl";s:22:"http://snurl.com/9sle1";s:7:"snipurl";s:24:"http://snipurl.com/9sle1";s:4:"trim";s:17:"http://tr.im/4ats";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/685276";s:9:"permalink";s:103:"http://hehe2.net/linux-general/an-interview-with-an-extremadura-developer-bringing-linux-to-the-masses/";}'
-twittercomments:
-- 'a:1:{i:1116251089;s:7:"retweet";}'
-tweetcount:
-- 1
-categories:
-- Advocacy
-- General
+categories: blog
 ---
 
 I previously [posted](/blog/linux-general/10-governments-running-linux-you-probably-didnt-know-about/) about governments around the world using Linux, doing research on such topic was really insightful. But one example stood out more than any other, and that's no other than the Spanish region of [Extremadura](http://en.wikipedia.org/wiki/Extremadura). Extremadura's migration to Linux is quite remarkable, especially that it is fully backed up by the local government. The whole case really intrigued me, so I decided to explore more about this region's Linux escapades. I sat down with a lead developer of the project Daniel Campos, and had the following discussion:

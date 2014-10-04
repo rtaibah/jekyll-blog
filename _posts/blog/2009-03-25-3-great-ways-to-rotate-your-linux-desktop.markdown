@@ -1,15 +1,12 @@
 ---
 title: 3 Great Ways To Rotate Your Linux Desktop
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/03/3-great-ways-to-rotate-your-linux-desktop/
 categories:
 - Apps
 - Eye Candy
-tags:
-- Eye Candy
-- Wallpapoz
-- Webilder
+tags: 
 ---
 
 ![](http://farm4.static.flickr.com/3238/2315969972_f24a8d869e.jpg?v=0)

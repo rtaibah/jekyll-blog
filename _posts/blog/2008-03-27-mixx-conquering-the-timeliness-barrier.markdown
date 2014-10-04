@@ -1,18 +1,9 @@
 ---
 title: 'Mixx Conquering the "Timeliness" Barrier!'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/03/mixx-conquering-the-timeliness-barrier/
-tweetbackscheck:
-- 1236109289
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/767otv";s:4:"isgd";s:17:"http://is.gd/fiX3";s:5:"bitly";s:18:"http://bit.ly/mbxk";s:5:"snipr";s:22:"http://snipr.com/9sg8k";s:5:"snurl";s:22:"http://snurl.com/9sg8k";s:7:"snipurl";s:24:"http://snipurl.com/9sg8k";s:4:"trim";s:17:"http://tr.im/49lr";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/51c1aa";s:9:"permalink";s:69:"http://hehe2.net/social-media/mixx-conquering-the-timeliness-barrier/";}'
-twittercomments:
-- 'a:1:{i:1124556922;s:7:"retweet";}'
-tweetcount:
-- 1
-categories:
-- Social Media
+categories: blog
 ---
 Social news websites are all the rave these days on web land, the basic idea is that users submit their news stories and then the community votes up or down. While such sites provide you with new and fresh content daily, but when it comes to breaking news it royally fails. For example, [this year's Pi day](http://digg.com/general_sciences/Happy_Pi_Day_10), which is celebrated on the 14th of March, reached to Digg's first page on the 15th where I live and the evening of the 14th in America. So in reality, Digg missed half the world by a day, and the other half had a late celebration.
 Mixx, has found a way around this problem. It recently announced the introduction of the \[breaking news function\]\[1\]. So how does it work? Well [SuperMixxers](http://blog/.mixx.com/2008/02/19/adding-more-ingredients-to-the-mixx-related-content/) can flag a certain story as "breaking", and if two SuperMixxers flag a story, then it's moved to the Breaking section. Breaking News stories only remain present as "breaking" for a limited number of time... and only a limited amount of stories can be present in the breaking section at any given time. A very simple solution to a seemingly unconquerable problem!

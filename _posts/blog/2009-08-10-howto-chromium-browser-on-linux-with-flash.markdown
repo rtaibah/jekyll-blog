@@ -1,10 +1,9 @@
 ---
 title: 'Howto: Chromium Browser On Linux With Flash'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/08/howto-chromium-browser-on-linux-with-flash/
-categories:
-- Apps
+categories: blog
 ---
 Chromium is the Open Source project behind Google's browser Chrome. It aims to build a safer, faster, and more stable way for all  users to experience the web. Indeed as I type this on Chromium on an Ubuntu laptop, I can truly feel the speed. While Chromium on Linux is still in the pre-release stage, it does seem very stable, and could very well be a backup browser to Firefox if not completely replace it.
 Around last year, we jumped through hoops by means of [Wine and Codeweavers to get Chromium up and running on Linux](/blog/linuxhowto/chromium-googles-browser-on-linux-and-mac/) (and Mac.) Luckily things have evolved since last year; today we have a daily build of Chromium on Linux, and Ubuntu even has its own [PPA](https://launchpad.net/~chromium-daily/+archive/ppa)!

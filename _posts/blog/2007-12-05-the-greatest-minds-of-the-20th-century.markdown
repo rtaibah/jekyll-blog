@@ -1,28 +1,11 @@
 ---
 title: The Greatest Minds of the 20th Century
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2007/12/the-greatest-minds-of-the-20th-century/
-tweetbackscheck:
-- 1236169703
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/6ubazt";s:4:"isgd";s:17:"http://is.gd/fj1x";s:5:"bitly";s:18:"http://bit.ly/7jGF";s:5:"snipr";s:22:"http://snipr.com/9sgnl";s:5:"snurl";s:22:"http://snurl.com/9sgnl";s:7:"snipurl";s:24:"http://snipurl.com/9sgnl";s:4:"trim";s:17:"http://tr.im/49p7";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/cfe26d";s:9:"permalink";s:66:"http://hehe2.net/off-topic/the-greatest-minds-of-the-20th-century/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Off-Topic
-tags:
-- Bohr
-- Chemistry
-- Curie
-- Dirac
-- Einstein
-- Nobel
-- Physics
-- Planck
-- Solvay
+tags: 
 ---
 \[ \]\[1\]
 

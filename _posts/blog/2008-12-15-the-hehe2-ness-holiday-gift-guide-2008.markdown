@@ -1,26 +1,13 @@
 ---
 title: The HeHe2-ness Holiday Gift Guide 2008
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/12/the-hehe2-ness-holiday-gift-guide-2008/
-tweetbackscheck:
-- 1236156406
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5hmg9q";s:4:"isgd";s:17:"http://is.gd/cbyf";s:5:"bitly";s:18:"http://bit.ly/F2bI";s:5:"snipr";s:22:"http://snipr.com/9sg8y";s:5:"snurl";s:22:"http://snurl.com/9sg8y";s:7:"snipurl";s:24:"http://snipurl.com/9sg8y";s:4:"trim";s:17:"http://tr.im/49lv";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/209539";s:9:"permalink";s:70:"http://hehe2.net/linux-general/the-hehe2-ness-holiday-gift-guide-2008/";}'
-twittercomments:
-- 'a:2:{i:1064505192;s:5:"17657";i:1063428671;s:5:"17658";}'
-tweetcount:
-- 2
 categories:
 - Gadgets
 - General
 - Reviews
-tags:
-- christmas
-- gifts
-- holidays
-- Linux
-- Reviews
+tags: 
 ---
 Doing some shopping for your technical friends this year?  Or just following the Golden Rule of Giving?  That is, Give Something That You Yourself Would Like In Case They Don't Get Around To Using It.  Either way, we've shifted through a wide range of gifts to come up with suggestions and ideas in hopes that we can help you expand your range of gift giving.  Yes, a lot of peoples' companies and salaries have been hit this year.  If that's the case, as you know, some of the best Linux products are free or very inexpensive.  So we've split up this guide roughly based on price.
 We think you're smarter than we are.  We want your ideas.  We'd like to know what you're going to give this year.  Or...  just buy for yourself.  (Just keeping it real here folks.)  Vote, and we'll include your ideas with updates on the blog post.  \[Drop me a note on Twitter\]\[1\].  Include the tweettag \#linuxgifts .

@@ -1,27 +1,11 @@
 ---
 title: 'EFF: Let Us Free Your Phone'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/01/eff-let-us-free-your-phone/
-tweetbackscheck:
-- 1236174930
-shorturls:
-- 'a:8:{s:9:"permalink";s:48:"http://hehe2.net/drm/eff-let-us-free-your-phone/";s:7:"tinyurl";s:25:"http://tinyurl.com/c72k87";s:4:"isgd";s:17:"http://is.gd/hpaf";s:5:"bitly";s:18:"http://bit.ly/6Z8Z";s:5:"snipr";s:22:"http://snipr.com/atm0s";s:5:"snurl";s:22:"http://snurl.com/atm0s";s:7:"snipurl";s:24:"http://snipurl.com/atm0s";s:4:"trim";s:17:"http://tr.im/d2gl";}'
-twittercomments:
-- 'a:1:{i:1152556080;s:7:"retweet";}'
-tweetcount:
-- 1
 categories:
 - DRM
-tags:
-- Apple
-- DMCA
-- DRM
-- EFF
-- Freedom
-- iPhone
-- Mobile
-- Phone
+tags: 
 ---
 ![free-your-phone](http://192.168.1.33/blog2/wp-content/uploads/2009/01/free-your-phone.jpeg)
 Time and time again I made it clear how disgruntled am with the [mobile phone industry ](/blog/linuxobservations/its-a-wonderful-internet-but-not-every-pasture/)and [specifically the dreaded iPhone](/blog/thedarkside/iphone-3g-a-beautiful-jail/).  Luckily, over here in Saudi Arabia, carriers haven't yet discovered (or maybe don't have AT&T's clout) locking phones as a "business" model. So the issue doesn't affect me directly -- bar for phones exported from the States.

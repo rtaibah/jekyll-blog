@@ -1,39 +1,14 @@
 ---
 title: Piracy Hurts Open Source Also!
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/10/do-commercial-software-companies-make-money-from-pirates/
-tweetbackscheck:
-- 1236171319
-- 1236171319
-- 1236171319
-- 1236171319
-- 1236171319
-- 1236171319
-- 1236171319
-- 1236171319
-- 1236171319
-- 1236171319
-- 1236171319
-- 1236171319
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5ljlwb";s:4:"isgd";s:17:"http://is.gd/4SgX";s:5:"bitly";s:19:"http://bit.ly/168Sf";s:5:"snipr";s:22:"http://snipr.com/9snh5";s:5:"snurl";s:22:"http://snurl.com/9snh5";s:7:"snipurl";s:24:"http://snipurl.com/9snh5";s:4:"trim";s:17:"http://tr.im/4baq";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/0f0ed8";s:9:"permalink";s:92:"http://hehe2.net/linuxobservations/do-commercial-software-companies-make-money-from-pirates/";}'
-twittercomments:
-- 'a:13:{i:992889466;s:5:"17733";i:978703229;s:5:"17734";i:978186426;s:5:"17735";i:978112516;s:5:"17736";i:978093821;s:5:"17737";i:978068874;s:5:"17738";i:978067140;s:5:"17739";i:978067018;s:5:"17740";i:976963068;s:5:"17741";i:976678999;s:5:"17742";i:976673798;s:5:"17743";i:969205181;s:7:"retweet";i:969202244;s:7:"retweet";}'
-tweetcount:
-- 13
 categories:
 - Advocacy
 - DRM
 - Observations
 - The Dark Side
-tags:
-- Adobe
-- DRM
-- Microsoft
-- open source
-- piracy
-- revenue
+tags: 
 ---
 
 ![](http://192.168.1.33/blog2/wp-content/uploads/2008/10/piracy-johnny-depp3.jpg)

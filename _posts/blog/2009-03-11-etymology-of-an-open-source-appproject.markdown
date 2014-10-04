@@ -1,31 +1,11 @@
 ---
 title: Etymology of an Open Source App/Project
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/03/etymology-of-an-open-source-appproject/
 categories:
 - Apps
-tags:
-- amarok
-- Apache
-- Cgywin
-- Drupal
-- Etymology
-- Gimp
-- gnome
-- Gwenview
-- Joomla
-- K3B
-- Kate
-- kde
-- Konqueror
-- Kopete
-- Krita
-- Liferea
-- open source
-- Pidgin
-- Thunar
-- XBMC
+tags: 
 ---
 
 ![open-source-logos](http://192.168.1.33/blog2/wp-content/uploads/2009/03/open-source-logos.png)

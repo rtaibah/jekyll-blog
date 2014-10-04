@@ -1,25 +1,11 @@
 ---
 title: 'Ubuntu: Try KDE 4.2 Now!'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/12/try-kde-42-now-in-ubuntu/
-tweetbackscheck:
-- 1236175015
-- 1236175015
-- 1236175015
-shorturls:
-- 'a:7:{s:9:"permalink";s:56:"http://hehe2.net/linux-general/try-kde-42-now-in-ubuntu/";s:7:"tinyurl";s:25:"http://tinyurl.com/5mm4fj";s:4:"isgd";s:17:"http://is.gd/akGJ";s:5:"bitly";s:18:"http://bit.ly/3jOk";s:5:"snipr";s:22:"http://snipr.com/b9r7v";s:5:"snurl";s:22:"http://snurl.com/b9r7v";s:7:"snipurl";s:24:"http://snipurl.com/b9r7v";}'
-- 'a:7:{s:9:"permalink";s:56:"http://hehe2.net/linux-general/try-kde-42-now-in-ubuntu/";s:7:"tinyurl";s:25:"http://tinyurl.com/5mm4fj";s:4:"isgd";s:17:"http://is.gd/akGJ";s:5:"bitly";s:18:"http://bit.ly/3jOk";s:5:"snipr";s:22:"http://snipr.com/b9r7v";s:5:"snurl";s:22:"http://snurl.com/b9r7v";s:7:"snipurl";s:24:"http://snipurl.com/b9r7v";}'
-twittercomments:
-- 'a:6:{i:1041761062;s:5:"17643";i:1040678116;s:5:"17644";i:1039976821;s:5:"17645";i:1039894719;s:5:"17646";i:1039894108;s:5:"17647";i:1038979700;s:5:"17648";}'
-tweetcount:
-- 6
 categories:
 - General
-tags:
-- Desktop
-- kde
-- SVN
+tags: 
 ---
 The fourth iteration of the \[K Desktop Environment\]\[1\] saw its first release in January of this year; while it generated a lot of hype in the community, its release disappointed many folks whom were expecting to be able to jump headlong into a brand new, next-generation, fully working desktop environment. The result was something that while buggy and unpolished, still hinted at innovation and greatness that only recently has started to really shine through.
 KDE 4.1 dropped at the end of July to much fanfare, bringing KDE4 into a state that early adopters can use fairly confidently; we've all heard by now of all the things that the DE has been boasting; an entirely new look sporting much in the way of eye candy, the new 'Plasma' system for organizing desktop 'Widgets' (formerly called 'Plasmoids', but now renamed to the more neutral term), and new icons by the \[Oxygen Project \]\[2\]to name but a few things. While implementing a new full-featured desktop environment, let alone one so ambitious as this, is no small feat, the team is slowly pulling together to get their DE polished to the point that reluctant adopters can feel confident in making the leap.

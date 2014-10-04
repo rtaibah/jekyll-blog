@@ -1,29 +1,11 @@
 ---
 title: 30 Cool Linux Login Screens
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/11/30-cool-linux-login-screens/
-tweetbackscheck:
-- 1236175316
-- 1236175316
-- 1236175316
-- 1236175316
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5ob8jw";s:4:"isgd";s:17:"http://is.gd/6dnd";s:5:"bitly";s:18:"http://bit.ly/fAmC";s:5:"snipr";s:22:"http://snipr.com/9sfvn";s:5:"snurl";s:22:"http://snurl.com/9sfvn";s:7:"snipurl";s:24:"http://snipurl.com/9sfvn";s:4:"trim";s:17:"http://tr.im/49j4";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/2e3946";s:9:"permalink";s:55:"http://hehe2.net/eye-candy/30-cool-linux-login-screens/";}'
-twittercomments:
-- 'a:12:{i:1027388685;s:5:"17632";i:1026432178;s:5:"17633";i:1017930063;s:5:"17634";i:1005072279;s:5:"17635";i:1003636349;s:5:"17636";i:1003468464;s:5:"17637";i:1003445593;s:5:"17638";i:998088491;s:5:"17639";i:996863170;s:5:"17640";i:987908473;s:5:"17641";i:1142322143;s:5:"20189";i:1196335296;s:5:"21008";}'
-tweetcount:
-- 12
 categories:
 - Eye Candy
-tags:
-- gdm
-- gnome
-- kde
-- kdm
-- Linux
-- loginscreens
-- themes
+tags: 
 ---
 One of the most powerful attributes that are running for Linux as opposed to other OS'es is it flexibility and customizibility. Its one of the first things mentioned when a Linux geek is asked about Linux. And we love to show it. I trekked [Gnome Look](http://www.gnome-look.org) and[KDE Look](http://www.kde-look.org) and chose for you these 30 great login screen themes. The first 15 are GNOME Specific, while 16-30 are for KDE.
 Personally I settled with \#14 (sunset). Which one did you settle with? What others do you recommend? Oh and ENJOY!\*\*

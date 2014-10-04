@@ -1,29 +1,11 @@
 ---
 title: 'The Linux Alternative Series: Image Editing'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/01/the-linux-alternative-series-image-editing/
-tweetbackscheck:
-- 1236174936
-shorturls:
-- 'a:8:{s:9:"permalink";s:24:"http://hehe2.net/?p=1237";s:7:"tinyurl";s:25:"http://tinyurl.com/d2sd2u";s:4:"isgd";s:17:"http://is.gd/hjNq";s:5:"bitly";s:18:"http://bit.ly/7JNE";s:5:"snipr";s:22:"http://snipr.com/arve2";s:5:"snurl";s:22:"http://snurl.com/arve2";s:7:"snipurl";s:24:"http://snipurl.com/arve2";s:4:"trim";s:17:"http://tr.im/cvsd";}'
-twittercomments:
-- 'a:2:{i:1160848104;s:7:"retweet";i:1159812270;s:7:"retweet";}'
-tweetcount:
-- 3
 categories:
 - Apps
-tags:
-- Alternative
-- Apps
-- Gimp
-- Gimpshop TLAS
-- Kolourpaint
-- Krita
-- Linux
-- Photoshop
-- Pixel
-- Wine
+tags: 
 ---
 Image editing on Linux is one of the most hotly debated categories. Actually it's probably one of the biggest stumbling blocks for people who want to convert to Linux. A lot of people got used to Adobe Photoshop and the way it does things, that an alternative is almost blasphemous!
 Before I proceed, let me just say that I by no means need to use an image editor professionally, in fact my image editing needs are almost limited to cropping, resizing, and some minor enhancing here and there. I wouldn't know a Photoshop killer/alternative if it hit me in the face. **So I believe that the real value of this post is in the comments that will ensue (hopefully)**. Your input will be an integral part of this post, as I also seek to learn a lot from you guys ![:)](http://192.168.1.2/blog2/wp-includes/images/smilies/icon_smile.gif)

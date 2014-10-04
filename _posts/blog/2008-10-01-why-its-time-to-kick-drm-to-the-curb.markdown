@@ -1,27 +1,11 @@
 ---
 title: Why DRM Should Be Kicked to The Curb
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/10/why-its-time-to-kick-drm-to-the-curb/
-tweetbackscheck:
-- 1236172472
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/4lj3jn";s:4:"isgd";s:17:"http://is.gd/fjmG";s:5:"bitly";s:19:"http://bit.ly/12cqO";s:5:"snipr";s:22:"http://snipr.com/9sipq";s:5:"snurl";s:22:"http://snurl.com/9sipq";s:7:"snipurl";s:24:"http://snipurl.com/9sipq";s:4:"trim";s:17:"http://tr.im/4a86";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/80dd6b";s:9:"permalink";s:58:"http://hehe2.net/drm/why-its-time-to-kick-drm-to-the-curb/";}'
-twittercomments:
-- 'a:3:{i:943079201;s:5:"17711";i:943034390;s:5:"17712";i:943033459;s:5:"17713";}'
-tweetcount:
-- 3
 categories:
 - DRM
-tags:
-- Adobe
-- DRM
-- EA
-- open source
-- p2p
-- piracy
-- SecuROM
-- spore
+tags: 
 ---
 
 _This is a guest post by [Ian McLean](http://golbnikufesin.blogspot.com/), an Australian Linux and Open Source aficionado currently based in Romania._

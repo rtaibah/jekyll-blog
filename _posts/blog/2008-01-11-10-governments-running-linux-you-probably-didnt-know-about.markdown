@@ -1,18 +1,9 @@
 ---
 title: '10 Governments Running Linux You Probably Didnt Know About'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/01/10-governments-running-linux-you-probably-didnt-know-about/
-tweetbackscheck:
-- 1236169454
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/7xmlf7";s:4:"isgd";s:17:"http://is.gd/fj4r";s:5:"bitly";s:18:"http://bit.ly/h1mU";s:5:"snipr";s:22:"http://snipr.com/9sgy0";s:5:"snurl";s:22:"http://snurl.com/9sgy0";s:7:"snipurl";s:24:"http://snipurl.com/9sgy0";s:4:"trim";s:17:"http://tr.im/49sx";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/9e74ca";s:9:"permalink";s:90:"http://hehe2.net/linux-general/10-governments-running-linux-you-probably-didnt-know-about/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- General
+categories: blog
 ---
 \#\# 1-Brazil
 \* Ministry of Education has bought [3000 Debian Linux computers](http://times.debian.net/1199-Ministry-from-Brazil-buying-3000-with-four-terminal-Debian-computers. "3000 Debian Linux computers") to be installed in rural schools. This purchase adds up to the previous [90,000 Debian Linux computers](http://times.debian.net/1189-Brazil-Ministry-buying-90,000-Debian-GNU-Linux-machines "90,000 Debian Linux computers") to be installed in 9000 schools, an average of 10 in each school. (2007)

@@ -1,27 +1,12 @@
 ---
 title: 7 Google Tools For A Better Linux Experience
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/10/7-google-tools-for-a-better-linux-experience/
-tweetbackscheck:
-- 1236171024
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5hgvy7";s:4:"isgd";s:17:"http://is.gd/4Ceq";s:5:"bitly";s:18:"http://bit.ly/eKGw";s:5:"snipr";s:22:"http://snipr.com/9sn83";s:5:"snurl";s:22:"http://snurl.com/9sn83";s:7:"snipurl";s:24:"http://snipurl.com/9sn83";s:4:"trim";s:17:"http://tr.im/4b7s";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/18cecc";s:9:"permalink";s:73:"http://hehe2.net/linuxhowto/7-google-tools-for-a-better-linux-experience/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Apps
 - Howto
-tags:
-- Gmail
-- Google
-- GoogleDesktop
-- GoogleEarth
-- GoogleGadgets
-- Picasa
-- Tools
+tags: 
 ---
 
 # ![](http://192.168.1.33/blog2/wp-content/uploads/2008/10/googlelinux.png)

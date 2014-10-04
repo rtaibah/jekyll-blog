@@ -1,23 +1,11 @@
 ---
 title: 'Help Spread Linux... Dont Preach It!'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/11/help-spread-linux-without-preaching-it/
-tweetbackscheck:
-- 1236168266
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/6mwrk8";s:4:"isgd";s:17:"http://is.gd/fiXl";s:5:"bitly";s:18:"http://bit.ly/5PuG";s:5:"snipr";s:22:"http://snipr.com/9sg9h";s:5:"snurl";s:22:"http://snurl.com/9sg9h";s:7:"snipurl";s:24:"http://snipurl.com/9sg9h";s:4:"trim";s:17:"http://tr.im/49m4";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/50bff5";s:9:"permalink";s:65:"http://hehe2.net/advocacy/help-spread-linux-without-preaching-it/";}'
-twittercomments:
-- 'a:3:{i:1005124351;s:5:"17672";i:1004927054;s:5:"17674";i:1004926058;s:5:"17675";}'
-tweetcount:
-- 3
 categories:
 - Advocacy
-tags:
-- Advocacy
-- Linux
-- open source
-- Preaching
+tags: 
 ---
 
 [![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/preaching-linux.jpg)](http://None)

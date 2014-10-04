@@ -1,24 +1,11 @@
 ---
 title: 'A Geeks Guide: How To Pimp Your Car With Linux'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/11/a-geeks-guide-how-to-pimp-your-car-with-linux/
-tweetbackscheck:
-- 1236173780
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5pz52k";s:4:"isgd";s:17:"http://is.gd/fiXj";s:5:"bitly";s:18:"http://bit.ly/Lcjv";s:5:"snipr";s:22:"http://snipr.com/9sg9a";s:5:"snurl";s:22:"http://snurl.com/9sg9a";s:7:"snipurl";s:24:"http://snipurl.com/9sg9a";s:4:"trim";s:17:"http://tr.im/49lz";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/2d364b";s:9:"permalink";s:74:"http://hehe2.net/linuxhowto/a-geeks-guide-how-to-pimp-your-car-with-linux/";}'
-twittercomments:
-- 'a:6:{i:1021888382;s:5:"17661";i:1012710469;s:5:"17662";i:1012453231;s:5:"17663";i:1012351735;s:5:"17664";i:1012350646;s:5:"17665";i:1012213290;s:5:"17666";}'
-tweetcount:
-- 6
 categories:
 - Howto
-tags:
-- Car
-- Empeg
-- Linux
-- Riocar
-- Stereo
+tags: 
 ---
 \*Author's note: I was intending to research and write a piece on how Linux is being used as an mp3 player in cars. I've owned a Linux based mp3 player for six years. I was assuming it was not the only solution. It's not, but as of the fall of 2008, buying a Linux-based mp3 player for your car is not super easy.\*
 

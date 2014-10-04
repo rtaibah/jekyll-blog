@@ -1,24 +1,11 @@
 ---
 title: 'Linux: A Search Engines View'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/05/linux-a-search-engines-view/
-tweetbackscheck:
-- 1236158739
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/8886zo";s:4:"isgd";s:17:"http://is.gd/fj6e";s:5:"bitly";s:18:"http://bit.ly/pp0Q";s:5:"snipr";s:22:"http://snipr.com/9sh3t";s:5:"snurl";s:22:"http://snurl.com/9sh3t";s:7:"snipurl";s:24:"http://snipurl.com/9sh3t";s:4:"trim";s:17:"http://tr.im/49us";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/c63309";s:9:"permalink";s:63:"http://hehe2.net/linuxobservations/linux-a-search-engines-view/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Observations
-tags:
-- Google
-- Linux
-- search
-- trends
-- Ubuntu
+tags: 
 ---
 In May's issue of [Linux Journal](http://www.linuxjournal.com), their segment "\*LJ Index" \*featured some tidbits or trends about which countries are actually Googling "Linux." It is always interesting where Linux is gaining public interest, which countries are falling behind. (Source: \[Google Trends\]\[1\])
 \* \*Russia\* claimed the top spot

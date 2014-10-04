@@ -1,18 +1,9 @@
 ---
 title: 'HOWTO: Convert A Friend To Linux'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2007/12/howto-convert-a-friend-to-linux/
-tweetbackscheck:
-- 1236163684
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/6c4kmj";s:4:"isgd";s:17:"http://is.gd/fj18";s:5:"bitly";s:18:"http://bit.ly/aG9u";s:5:"snipr";s:22:"http://snipr.com/9sgma";s:5:"snurl";s:22:"http://snurl.com/9sgma";s:7:"snipurl";s:24:"http://snipurl.com/9sgma";s:4:"trim";s:17:"http://tr.im/49ol";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/dfed6e";s:9:"permalink";s:60:"http://hehe2.net/linuxhumor/howto-convert-a-friend-to-linux/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- Humor
+categories: blog
 ---
 **_Warning: You should proceed with caution using this Howto, if you do not know what you are doing you could damage your relationship with Friend 2.0 or totally break it. Also, using this Howto extensively with multiple Friend 2.0's may damage Life 4.5, and end up as a sorrow lonely geek._**
 **__**

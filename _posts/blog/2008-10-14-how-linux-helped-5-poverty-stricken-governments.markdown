@@ -1,29 +1,11 @@
 ---
 title: How Linux Helped 5 Poverty-Stricken Governments
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/10/how-linux-helped-5-poverty-stricken-governments/
-tweetbackscheck:
-- 1236167963
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5274vk";s:4:"isgd";s:17:"http://is.gd/42jO";s:5:"bitly";s:18:"http://bit.ly/pwJE";s:5:"snipr";s:22:"http://snipr.com/9stsj";s:5:"snurl";s:22:"http://snurl.com/9stsj";s:7:"snipurl";s:24:"http://snipurl.com/9stsj";s:4:"trim";s:17:"http://tr.im/4cuk";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/9d38a2";s:9:"permalink";s:74:"http://hehe2.net/advocacy/how-linux-helped-5-poverty-stricken-governments/";}'
-twittercomments:
-- 'a:3:{i:960531336;s:5:"17756";i:958986191;s:5:"17757";i:958926068;s:5:"17758";}'
-tweetcount:
-- 3
 categories:
 - Advocacy
-tags:
-- BlogActionDay
-- Brazil
-- Extremadura
-- Government
-- India
-- Linux
-- Philippines
-- Poverty
-- Russia
-- Spain
+tags: 
 ---
 
 _This is a contribution post discussing [2008 Blog Action Day](http://site.blogactionday.org/about/) theme, "____Poverty__"._

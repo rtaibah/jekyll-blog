@@ -1,23 +1,11 @@
 ---
 title: 'Howto: Fresh Ubuntu Install Without Losing Your Current Settings'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/11/howto-fresh-ubuntu-install-without-losing-your-current-settings/
-tweetbackscheck:
-- 1236174529
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/58alep";s:4:"isgd";s:17:"http://is.gd/77h7";s:5:"bitly";s:18:"http://bit.ly/HAGr";s:5:"snipr";s:22:"http://snipr.com/9sg5c";s:5:"snurl";s:22:"http://snurl.com/9sg5c";s:7:"snipurl";s:24:"http://snipurl.com/9sg5c";s:4:"trim";s:17:"http://tr.im/49ks";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/7a1d25";s:9:"permalink";s:92:"http://hehe2.net/linuxhowto/howto-fresh-ubuntu-install-without-losing-your-current-settings/";}'
-twittercomments:
-- 'a:7:{i:1098583646;s:5:"17650";i:1056101533;s:5:"17651";i:1003468450;s:5:"17652";i:1003468397;s:5:"17653";i:1002916609;s:5:"17654";i:1002914701;s:5:"17655";i:1001893383;s:5:"17656";}'
-tweetcount:
-- 7
 categories:
 - Howto
-tags:
-- Install
-- Linux
-- opensource
-- Ubuntu
+tags: 
 ---
 
 ![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/ubuntu-distros.jpg)

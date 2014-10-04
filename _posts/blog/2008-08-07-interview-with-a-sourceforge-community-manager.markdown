@@ -1,27 +1,12 @@
 ---
 title: Interview With The SourceForge Community Manager
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/08/interview-with-a-sourceforge-community-manager/
-tweetbackscheck:
-- 1236147622
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/6auvbe";s:4:"isgd";s:17:"http://is.gd/fllJ";s:5:"bitly";s:18:"http://bit.ly/FDDX";s:5:"snipr";s:22:"http://snipr.com/9svvm";s:5:"snurl";s:22:"http://snurl.com/9svvm";s:7:"snipurl";s:24:"http://snipurl.com/9svvm";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:18:"http://zi.ma/52ab4";s:4:"trim";s:17:"http://tr.im/4e4c";s:9:"permalink";s:73:"http://hehe2.net/advocacy/interview-with-a-sourceforge-community-manager/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Advocacy
 - Interviews
-tags:
-- freshmeat
-- Linux
-- opensource
-- slashdot
-- SourceForge
-- thinkgeek
-- turk
+tags: 
 ---
 SourceForge is one of the most important entities in the Open Source movement. They manage the geek mecca of [slashdot](http://www.slashdot.com), sell geek paraphernalia that makes all our dreams come true at [thinkgeek](http://www.thinkgeek.com), manage [Freshmeat](http://www.freshmeat.net/) the mega app hub, and administer over 170,000 Open Source projects at [SourceForge](http://www.sourceforge.net).
 And if you are a long time Royal HeHe2-ness reader, you should by now realize how I am a big fan of such projects that aim to bring Open Source to the masses; after all it's the tagline of this blog! This week I bring you an interview with the community manager at SourceForge, Ross Turk. (you can follow him over here on [Twitter](http://twitter.com/rossturk))

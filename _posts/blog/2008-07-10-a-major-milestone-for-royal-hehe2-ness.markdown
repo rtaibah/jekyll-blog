@@ -1,18 +1,9 @@
 ---
 title: A Major Milestone for Royal HeHe2-ness!
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/07/a-major-milestone-for-royal-hehe2-ness/
-tweetbackscheck:
-- 1236111556
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/7bsamq";s:4:"isgd";s:17:"http://is.gd/fmvY";s:5:"bitly";s:18:"http://bit.ly/70Fe";s:5:"snipr";s:22:"http://snipr.com/9t2qr";s:5:"snurl";s:22:"http://snurl.com/9t2qr";s:7:"snipurl";s:24:"http://snipurl.com/9t2qr";s:4:"trim";s:17:"http://tr.im/4f8b";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:16:"http://zi.ma/405";s:9:"permalink";s:66:"http://hehe2.net/off-topic/a-major-milestone-for-royal-hehe2-ness/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- Off-Topic
+categories: blog
 ---
 For 8 month now, I have been blogging about Linux and Open Source. It has been a great journey so far, full of highs and lows, diggs, burries, and stumbles. But yesterday, a milestone has been achieved, something that I am really proud of, something that tells me that I must be doing something right! But before I announce it, let me just take you through my most succesful blogs:
 1\. \[Howto Convert a Friend to Linux\]\[1\] (my first break)

@@ -1,18 +1,9 @@
 ---
 title: Windows Vista Code Revealed!!
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/03/windows-vista-code-revealed/
-tweetbackscheck:
-- 1236173257
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/59ce7u";s:4:"isgd";s:17:"http://is.gd/fjbb";s:5:"bitly";s:19:"http://bit.ly/16jYH";s:5:"snipr";s:22:"http://snipr.com/9shkn";s:5:"snurl";s:22:"http://snurl.com/9shkn";s:7:"snipurl";s:24:"http://snipurl.com/9shkn";s:4:"trim";s:17:"http://tr.im/49zo";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/b689a7";s:9:"permalink";s:56:"http://hehe2.net/linuxhumor/windows-vista-code-revealed/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- Humor
+categories: blog
 ---
 Well not really, it's just a funny little ad by [techradar](http://www.techradar.com "techradar") I found in the [Linux Format](http://www.linuxformat.co.uk "Linux Format") Special Edition "CODE IT!"
 \> /\* 

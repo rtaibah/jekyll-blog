@@ -1,13 +1,11 @@
 ---
 title: 'Howto: Install KDE 4.3 on Ubuntu Jaunty'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/08/howto-install-kde-4-3-on-ubuntu-jaunty/
 categories:
 - Howto
-tags:
-- KDE 4.3
-- KDE4
+tags: 
 ---
 
 ![kde430-inspired](http://192.168.1.33/blog2/wp-content/uploads/2009/08/kde430-inspired.png)

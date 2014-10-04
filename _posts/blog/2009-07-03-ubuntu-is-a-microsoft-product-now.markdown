@@ -1,14 +1,11 @@
 ---
 title: Ubuntu is A Microsoft Product Now!
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/07/ubuntu-is-a-microsoft-product-now/
 categories:
 - Humor
-tags:
-- Dell
-- Microsoft
-- Ubuntu
+tags: 
 ---
 Well at least according to Dell's website. A 1.6GHz Atom CPU, 8GB of disk space armed with Microsoft's latest masterpiece: Ubuntu!
 

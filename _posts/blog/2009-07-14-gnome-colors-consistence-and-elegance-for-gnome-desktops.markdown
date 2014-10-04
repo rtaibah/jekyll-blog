@@ -1,12 +1,11 @@
 ---
 title: 'GNOME-Colors: Consistence and Elegance For GNOME Desktops'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/07/gnome-colors-consistence-and-elegance-for-gnome-desktops/
 categories:
 - Eye Candy
-tags:
-- GNOME-Colors
+tags: 
 ---
 
 ![gnomecolors](http://192.168.1.33/blog2/wp-content/uploads/2009/07/gnomecolors.png)

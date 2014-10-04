@@ -1,18 +1,9 @@
 ---
 title: 'Its A Wonderful Internet...But Not On Every Pasture'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2007/12/its-a-wonderful-internet-but-not-every-pasture/
-tweetbackscheck:
-- 1236174753
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/65gkjr";s:4:"isgd";s:17:"http://is.gd/fnXL";s:5:"bitly";s:18:"http://bit.ly/2zYi";s:5:"snipr";s:22:"http://snipr.com/9tce1";s:5:"snurl";s:22:"http://snurl.com/9tce1";s:7:"snipurl";s:24:"http://snipurl.com/9tce1";s:4:"trim";s:17:"http://tr.im/4hdv";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/a5e042";s:9:"permalink";s:82:"http://hehe2.net/linuxobservations/its-a-wonderful-internet-but-not-every-pasture/";}'
-twittercomments:
-- 'a:4:{i:987535381;s:5:"17773";i:1152691059;s:7:"retweet";i:1152159070;s:7:"retweet";i:1117432324;s:7:"retweet";}'
-tweetcount:
-- 7
-categories:
-- Observations
+categories: blog
 ---
 
 The Internet has changed the lives of many people, the possibilities it offers are endless. Today we live in a "[web 2.0](http://en.wikipedia.org/wiki/Web_2.0 "web 2.0")" world, which pushed the limits of creativity, collaboration, and sharing of thought. The main players of "web 2.0″, the wikis, the social bookmarking sites, photo management sites, blogging ...etc are all tools that we have grown accustomed to. I for one could not imagine myself living without Digg, Google docs, Stumbleupon, Picasa, and a plethora of other tools. However the technologies powering most of these "web 2.0″ websites aren't new at all, in fact they have existed for a [long time](http://arstechnica.com/news.ars/post/20060901-7650.html). So why did it take such a long time for "web 2.0″ to emerge? I have a theory, read on.

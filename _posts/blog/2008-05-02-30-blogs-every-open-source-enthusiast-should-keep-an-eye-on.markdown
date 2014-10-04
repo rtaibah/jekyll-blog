@@ -1,22 +1,11 @@
 ---
 title: 30 Blogs Every Open Source Enthusiast Should Keep an Eye On
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/05/30-blogs-every-open-source-enthusiast-should-keep-an-eye-on/
-tweetbackscheck:
-- 1236135227
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/a6axmo";s:4:"isgd";s:17:"http://is.gd/fjlc";s:5:"bitly";s:18:"http://bit.ly/GeGw";s:5:"snipr";s:22:"http://snipr.com/9sikl";s:5:"snurl";s:22:"http://snurl.com/9sikl";s:7:"snipurl";s:24:"http://snipurl.com/9sikl";s:4:"trim";s:17:"http://tr.im/4a6r";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/959966";s:9:"permalink";s:91:"http://hehe2.net/linux-general/30-blogs-every-open-source-enthusiast-should-keep-an-eye-on/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - General
-tags:
-- Blog
-- Linux
-- open source
+tags: 
 ---
 
 Ok I have a confession, actually I really don't need to make one, because it's so transparent, but yes this is a linkbait. But I also promise you that each one of these blogs are great, fun and informative, and that I did my research on them. It's not just a headless list of blogs.

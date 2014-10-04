@@ -1,20 +1,9 @@
 ---
 title: 10 Slick Linux Desktops, and How To Make Them
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/02/10-slick-linux-desktops-and-how-to-make-them/
-tweetbackscheck:
-- 1236172077
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/2v227r";s:4:"isgd";s:17:"http://is.gd/3Sez";s:5:"bitly";s:20:"http://bit.ly/2rYxaE";s:5:"snipr";s:22:"http://snipr.com/9skmc";s:5:"snurl";s:22:"http://snurl.com/9skmc";s:7:"snipurl";s:24:"http://snipurl.com/9skmc";s:4:"trim";s:17:"http://tr.im/4amf";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/1ea7ee";s:9:"permalink";s:76:"http://hehe2.net/linux-general/10-slick-linux-desktops-and-how-to-make-them/";}'
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/2v227r";s:4:"isgd";s:17:"http://is.gd/3Sez";s:5:"bitly";s:20:"http://bit.ly/2rYxaE";s:5:"snipr";s:22:"http://snipr.com/9skmc";s:5:"snurl";s:22:"http://snurl.com/9skmc";s:7:"snipurl";s:24:"http://snipurl.com/9skmc";s:4:"trim";s:17:"http://tr.im/4amf";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/1ea7ee";s:9:"permalink";s:76:"http://hehe2.net/linux-general/10-slick-linux-desktops-and-how-to-make-them/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- General
-- Howto
+categories: blog
 ---
 So you thought Vista's desktop looked slick? Or the latest Leopard desktop is coolest thing after sliced bread? Well you probably haven't been properly exposed to Linux's customizability. Linux is so flexiblity is one of it's strongest selling points. With Linux you can easily even mimic [Vista](http://www.youtube.com/watch?v=WO8MTAfFhGg "Vista") or [Leopard](http://lifehacker.com/software/how-to/make-your-linux-desktop-look-like-a-mac-317110.php "Leopard") totally free! Now I will take you through some of the kewlest, freshest, phatest desktops I have come across.
 \*All Mac OSX taskbars in the following desktops can be created with different apps. [kooldock](http://kde-apps.org/content/show.php?content=50910 "kooldock"), [Avant Window Navigator](https://launchpad.net/awn "Avant Window Navigator"), or [Engage](http://pimpyourlinux.com/linux-feature-review/enlightenment-engage-dock/ "Engage") to name a few.

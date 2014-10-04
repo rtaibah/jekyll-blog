@@ -1,25 +1,12 @@
 ---
 title: The 7 Habits of Highly Effective Linux Users
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/04/the-7-habits-of-highly-effective-linux-users/
-tweetbackscheck:
-- 1236175116
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/6gucj8";s:4:"isgd";s:17:"http://is.gd/fiUM";s:5:"bitly";s:18:"http://bit.ly/cu3y";s:5:"snipr";s:22:"http://snipr.com/9sfyu";s:5:"snurl";s:22:"http://snurl.com/9sfyu";s:7:"snipurl";s:24:"http://snipurl.com/9sfyu";s:4:"trim";s:17:"http://tr.im/49jo";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/53dee6";s:9:"permalink";s:73:"http://hehe2.net/linuxhowto/the-7-habits-of-highly-effective-linux-users/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Advocacy
 - Howto
-tags:
-- Best Practices
-- guidelines
-- habits
-- Linux
-- open source
+tags: 
 ---
 
 [![Passing it on](http://192.168.1.33/blog2/wp-content/uploads/2008/04/04-olympic-flame4.jpeg)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/04-olympic-flame4.jpeg)Switching to Linux can be very daunting, most seasoned Linux users experienced that first hand. After all, at some point they were also "noobs". However, the Linux community has excelled in making the switch for beginners as easy as possible by providing guides, howtos, tweaks, and general advocacy articles. When I first made the switch 3 years ago, I found the community welcoming me with open hands on forums, IRC channels, and E-mail, I was surprised how helpful these penguins were!

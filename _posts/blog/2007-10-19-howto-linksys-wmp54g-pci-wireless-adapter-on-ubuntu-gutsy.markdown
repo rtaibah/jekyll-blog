@@ -1,29 +1,11 @@
 ---
 title: 'HOWTO: Linksys WMP54G PCI Wireless Adapter on Ubuntu (Gutsy)'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2007/10/howto-linksys-wmp54g-pci-wireless-adapter-on-ubuntu-gutsy/
-tweetbackscheck:
-- 1236173593
-- 1236173593
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5x7bec";s:4:"isgd";s:17:"http://is.gd/fiTD";s:5:"bitly";s:18:"http://bit.ly/brTm";s:5:"snipr";s:22:"http://snipr.com/9sftf";s:5:"snurl";s:22:"http://snurl.com/9sftf";s:7:"snipurl";s:24:"http://snipurl.com/9sftf";s:4:"trim";s:17:"http://tr.im/49iw";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/089351";s:9:"permalink";s:86:"http://hehe2.net/linuxhowto/howto-linksys-wmp54g-pci-wireless-adapter-on-ubuntu-gutsy/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Howto
-tags:
-- Gutsy
-- Howto
-- linksys
-- Linux
-- ndiswrapper
-- Ubuntu
-- WiFi
-- wireless
-- wmp54g
+tags: 
 ---
 I have a Dell sitting in my living room with a Linksys WMP54G PCI wireless adapter installed. The adapter worked just fine under Feisty (well TBH I never got the triangular bars icon of wireless connections but the two terminals of wired connections, but do I care??). Anyways I did upgraded to Gutsy on the 17th, just 1 day shy of its official release, by invoking a 'gksu 'update-manager -c', and to my horror the adapter stopped working!! No Internet connection for me! ![:(](http://192.168.1.2/blog2/wp-includes/images/smilies/icon_sad.gif)
 I am not sure if this card is not supported under Gutsy, or just something went awry during the upgrade process (will try a Gutsy live CD later), but i tried using the "Windows Wireless Driver" function but to no avail.

@@ -1,12 +1,11 @@
 ---
 title: Firefox 4.0 Screenshots Released
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/07/firefox-4-0-screenshots-released/
 categories:
 - Apps
-tags:
-- Firefox4
+tags: 
 ---
 Just a month ago Mozilla gave us the final version of Firefox 3.5 giving us a lot of nifty features like HTML5, private browsing, smarter session control among others. But Mozilla aren't the kind of people who sit on their laurels, they already posted [screenshots of Firefox 3.7](https://wiki.mozilla.org/Firefox/3.7_Windows_Theme_Mockups) a week ago, and today we have [Mozilla Firefox 4.0 screenshots](https://wiki.mozilla.org/Firefox/4.0_Windows_Theme_Mockups)!
 Unfortunately the screenshots are for Windows, none for Linux yet. Also, they warned that these are just a draft for exploration and/or brainstorming.

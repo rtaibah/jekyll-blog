@@ -1,18 +1,9 @@
 ---
 title: 'Mixx vs. Digg: Which Brings You News Faster?'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/04/mixx-vs-digg-which-brings-you-news-faster/
-tweetbackscheck:
-- 1236132510
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/8hhfgv";s:4:"isgd";s:17:"http://is.gd/fnyC";s:5:"bitly";s:18:"http://bit.ly/2Y7q";s:5:"snipr";s:22:"http://snipr.com/9t9ke";s:5:"snurl";s:22:"http://snurl.com/9t9ke";s:7:"snipurl";s:24:"http://snipurl.com/9t9ke";s:4:"trim";s:17:"http://tr.im/4gu7";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/7ea78b";s:9:"permalink";s:72:"http://hehe2.net/social-media/mixx-vs-digg-which-brings-you-news-faster/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- Social Media
+categories: blog
 ---
 
 ![Mixx vs. Digg](http://192.168.1.33/blog2/wp-content/uploads/2008/04/mixxvsdigg4.jpg)I recently wrote a [blog post](/blog/social-media/mixx-conquering-the-timeliness-barrier/ "blog post") about Mixx's new [breaking news feature](http://blog/.mixx.com/2008/03/25/mixx-puts-breaking-news-in-to-social-media/ "breaking news feature"), which basically gives Mixx super users (SuperMixxers) the ability to flag a certain submission as "breaking", two flag takes the story to the more prominent Breaking section on the site, giving it more exposure. On paper that sounds just perfect, but since I am a firm believer of the saying "you cannot control what you can't measuere" I decided to measure the effectiveness of this new feature. The idea is pretty simple, just monitor the news that constitutes breaking news and see when it hits popular on both sites. So here we go:  

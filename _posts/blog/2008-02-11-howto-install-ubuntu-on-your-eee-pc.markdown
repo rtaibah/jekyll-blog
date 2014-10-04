@@ -1,19 +1,9 @@
 ---
 title: 'HOWTO: Install Ubuntu on Your Eee PC'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/02/howto-install-ubuntu-on-your-eee-pc/
-tweetbackscheck:
-- 1236174963
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/7oeqs5";s:4:"isgd";s:17:"http://is.gd/fj62";s:5:"bitly";s:20:"http://bit.ly/2aLffh";s:5:"snipr";s:22:"http://snipr.com/9sh38";s:5:"snurl";s:22:"http://snurl.com/9sh38";s:7:"snipurl";s:24:"http://snipurl.com/9sh38";s:4:"trim";s:17:"http://tr.im/49ui";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:18:"http://zi.ma/106a5";s:9:"permalink";s:64:"http://hehe2.net/linuxhowto/howto-install-ubuntu-on-your-eee-pc/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- Gadgets
-- Howto
+categories: blog
 ---
 I have [posted](/blog/linux-general/eee-pcfinally/) earlier that the "easy mode" of the Eee PC is like living on the bottom bunker in a basement cell of the Alcatraz. Liberating it to the default Xandros "advanced mode" is just like going out to yard with sweaty inmates, which isn't saying much.
 I initially installed eeexubuntu on that little critter, but soon was disenchanted. XFCE is just not for me. Solution? Install everybody's favorite! Ubuntu!

@@ -1,23 +1,11 @@
 ---
 title: Create Your Own Linux Distro!
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/07/create-your-own-linux-distro/
-tweetbackscheck:
-- 1236175195
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/6bnd6n";s:4:"isgd";s:17:"http://is.gd/4p9A";s:5:"bitly";s:18:"http://bit.ly/NpTC";s:5:"snipr";s:22:"http://snipr.com/9si0s";s:5:"snurl";s:22:"http://snurl.com/9si0s";s:7:"snipurl";s:24:"http://snipurl.com/9si0s";s:4:"trim";s:17:"http://tr.im/4a3b";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/3ee89c";s:9:"permalink";s:57:"http://hehe2.net/linuxhowto/create-your-own-linux-distro/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Howto
-tags:
-- customization
-- Linux
-- linuxfromscratch
-- nimblex2
+tags: 
 ---
 One thing that I would probably have on my "50 Things I Should Do Before I Die" list (remind me to compile that), is create my own distro. And of course all of us Linux geeks would immediately think [Linux From Scratch](http://www.linuxfromscratch.org)! LFS is definately the way to go, but not all of us have the time or the knowledge (which requires even more time) to go about such project. So for us mere mortals, a project called [NimbleX 2 ](http://custom.nimblex.net/)works as a procrastination pill!
 \#\# What is NimbleX 2?

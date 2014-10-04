@@ -1,18 +1,9 @@
 ---
 title: Downloading Music the 1337 Way!
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/03/downloading-music-the-1337-way/
-tweetbackscheck:
-- 1236147328
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/75yzy8";s:4:"isgd";s:17:"http://is.gd/fiWg";s:5:"bitly";s:18:"http://bit.ly/kdx7";s:5:"snipr";s:22:"http://snipr.com/9sg60";s:5:"snurl";s:22:"http://snurl.com/9sg60";s:7:"snipurl";s:24:"http://snipurl.com/9sg60";s:4:"trim";s:17:"http://tr.im/49kz";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/8d0dbb";s:9:"permalink";s:59:"http://hehe2.net/linuxhowto/downloading-music-the-1337-way/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- Howto
+categories: blog
 ---
 \*\*NOTE: This howto is for Linux users. If you are a Windows user go \[pay someone \]\[1\]$40 and then \[another\]\[2\] $15\. Good luck.\*\*
 So you are at work and really want a song but just can't get it because torrenting at work is blocked or could really get you in trouble? No problem, why not use \[youtube\]\[3\]? Chances are that the song is already there on some video, either the official music video or some random compilation!

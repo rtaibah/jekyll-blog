@@ -1,19 +1,9 @@
 ---
 title: 'Howto: Your Perfect Ubuntu on Your Perfect Eee PC'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/02/howto-your-perfect-ubuntu-on-your-perfect-eee-pc/
-tweetbackscheck:
-- 1236173524
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/2wzo4n";s:4:"isgd";s:17:"http://is.gd/3zOH";s:5:"bitly";s:20:"http://bit.ly/11NYtU";s:5:"snipr";s:22:"http://snipr.com/9sht0";s:5:"snurl";s:22:"http://snurl.com/9sht0";s:7:"snipurl";s:24:"http://snipurl.com/9sht0";s:4:"trim";s:17:"http://tr.im/4a1j";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/7201ed";s:9:"permalink";s:77:"http://hehe2.net/linuxhowto/howto-your-perfect-ubuntu-on-your-perfect-eee-pc/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- Gadgets
-- Howto
+categories: blog
 ---
 Now that you [installed Ubuntu](/blog/linuxhowto/howto-install-ubuntu-on-your-eee-pc/ "installed Ubuntu") on your Eee PC, you will soon realize that something is amiss. Wireless doesn't work, shutdown almost never works, the whole desktop seems to be cramped onto a small screen...etc. Now it's time to perfect our Ubuntu.
 \*Note: This guide is built on the assumption that you have no swap and that you got madwifi working NOT ndiswrapper. 

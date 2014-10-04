@@ -1,25 +1,12 @@
 ---
 title: 'Compositing With Metacity -- An Early Look'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/10/compositing-with-metacity-another-look/
-tweetbackscheck:
-- 1236163590
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5uf2vq";s:4:"isgd";s:17:"http://is.gd/4xor";s:5:"bitly";s:20:"http://bit.ly/4dRkgt";s:5:"snipr";s:22:"http://snipr.com/9suvt";s:5:"snurl";s:22:"http://snurl.com/9suvt";s:7:"snipurl";s:24:"http://snipurl.com/9suvt";s:4:"trim";s:17:"http://tr.im/4d2o";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/3ca6cd";s:9:"permalink";s:67:"http://hehe2.net/linuxhowto/compositing-with-metacity-another-look/";}'
-twittercomments:
-- 'a:1:{i:970214339;s:5:"17761";}'
-tweetcount:
-- 1
 categories:
 - Eye Candy
 - Howto
-tags:
-- compiz
-- compositing
-- gnome
-- metacity
-- window manager
+tags: 
 ---
 When the \[compositing capabilities\]\[1\] of Spiftacity \[merged into the Metacity trunk\]\[2\], it caused a fair bit of stir among GNOME users. Included in version 2.21.5 of GNOME, though hidden from casual users, the compositing showed a lot of promise but remained just something to play around with.
 The recently released \[GNOME 2.24 \]\[3\]includes the latest builds of \[Metacity\]\[4\], so, unless you've been compiling from tarballs yourself to stay at the bleeding edge, GNOME 2.24 will be the first taste mainstream users will be getting of the latest Metacity developments. While Metacity itself has seen its fair share of tweaking, the compositor, written by \[Iain Holmes\]\[5\] and \[Thomas Thurman\]\[6\], has received a great deal of attention, so perhaps it's time to take a second look at it.

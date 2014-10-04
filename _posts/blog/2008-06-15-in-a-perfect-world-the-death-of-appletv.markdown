@@ -1,29 +1,11 @@
 ---
 title: 'In a Perfect World: The Death of AppleTV'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/06/in-a-perfect-world-the-death-of-appletv/
-tweetbackscheck:
-- 1236158094
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/7bf2u7";s:4:"isgd";s:17:"http://is.gd/fiVv";s:5:"bitly";s:18:"http://bit.ly/DE2P";s:5:"snipr";s:22:"http://snipr.com/9sg2y";s:5:"snurl";s:22:"http://snurl.com/9sg2y";s:7:"snipurl";s:24:"http://snipurl.com/9sg2y";s:4:"trim";s:17:"http://tr.im/49kd";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/3712ee";s:9:"permalink";s:65:"http://hehe2.net/gadgets/in-a-perfect-world-the-death-of-appletv/";}'
-twittercomments:
-- 'a:1:{i:1116177036;s:7:"retweet";}'
-tweetcount:
-- 1
 categories:
 - Gadgets
-tags:
-- appletv
-- bittorrent
-- filesharing
-- hdtv
-- Linux
-- myka
-- opensource
-- p2p
-- Torrents
-- TV
+tags: 
 ---
 Ok let's face it, torrenting isn't really the most user friendly technology out there. There are so many ins and outs in torrenting that would lead your average Joe to scurry away. You know the kind of a guy who gets Rickrolled, gets confused, and moves on not knowing what exactly happened, kind of guy. In order to get the minds and hearts of these average Joe's one need to do one thing! Make their torrenting experience as seamless as possible. Sadly, that's exactly what AppleTV did, except they detoured Joe to the iTunes store and put their hands in his deep pockets for something that is/was freely available...what a shame! If only Joe knew...sigh
 [Myka](http://www.myka.tv/index.html) come on down! [Myka](http://www.myka.tv/index.html) is not very different from AppleTV, but it brings to the table the natural evolution of TV tops; BitTorrent! This means Myka can deliver any kind of 

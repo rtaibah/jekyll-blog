@@ -1,16 +1,12 @@
 ---
 title: Will The Fake Linus Torvalds Please Stand Up
-author: Rami Taibah
+author: rami_taibah
 layout: post
 permalink: /2009/09/will-the-fake-linus-torvalds-please-stand-up/
 categories:
 - General
 - Linux News
-tags:
-- FLT
-- Linus
-- LinuxCon09
-- Torvalds
+tags: 
 ---
 
 ![Fake-Linus-Torvalds](../../../i//Fake-Linus-Torvalds.jpg)

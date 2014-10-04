@@ -1,26 +1,13 @@
 ---
 title: 'xVideoServiceThief: One Video Download Manager to Rule Them All!'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/09/xvideoservicethief-one-video-download-manger-to-rule-them-all/
-tweetbackscheck:
-- 1236169824
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5trbfc";s:4:"isgd";s:17:"http://is.gd/fjf5";s:5:"bitly";s:18:"http://bit.ly/Go6C";s:5:"snipr";s:22:"http://snipr.com/9shyl";s:5:"snurl";s:22:"http://snurl.com/9shyl";s:7:"snipurl";s:24:"http://snipurl.com/9shyl";s:4:"trim";s:17:"http://tr.im/4a31";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/f17426";s:9:"permalink";s:90:"http://hehe2.net/linuxhowto/xvideoservicethief-one-video-download-manger-to-rule-them-all/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Apps
 - Howto
 - Internet
-tags:
-- download
-- manager
-- video
-- xvideoservicethief
-- youtube
+tags: 
 ---
 I am not really big on downloading flash videos from sites like youtube or metacafe. But whenever I need to, I just head straight to [keepvid](http://keepvid.com). Usually that does the trick, but sometimes it doesn't, and I would just quickly give up and wouldn't bother finding an alternative solution. Especially if you keep in mind that  keepvid would name the file "get\_video", and then I would have to rename it and add an ".flv", then convert it to a more friendly format...yada yada yada. I am pretty sure that there are a lot of hacks for these little quirks out there, but that's just how important video is to me; its just  not worth the hassle. Until I found [xVideoServiceThief](http://xviservicethief.sourceforge.net/index.php)!
 \# What is it?

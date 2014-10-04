@@ -1,20 +1,11 @@
 ---
 title: Google Seriously Broken
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/01/google-seriously-broken/
-tweetbackscheck:
-- 1236174927
-shorturls:
-- 'a:7:{s:9:"permalink";s:50:"http://hehe2.net/internet/google-seriously-broken/";s:7:"tinyurl";s:25:"http://tinyurl.com/bwmxzh";s:4:"isgd";s:17:"http://is.gd/hUwY";s:5:"bitly";s:18:"http://bit.ly/A48g";s:5:"snipr";s:22:"http://snipr.com/b22ky";s:5:"snurl";s:22:"http://snurl.com/b22ky";s:7:"snipurl";s:24:"http://snipurl.com/b22ky";}'
-twittercomments:
-- 'a:2:{i:1154477777;s:7:"retweet";i:1154471693;s:7:"retweet";}'
-tweetcount:
-- 2
 categories:
 - Internet
-tags:
-- Google
+tags: 
 ---
 Around 3:30 GMT I was googling something, and noticed that ALL search results were labeled with "This site may harm your computer." Initially I brushed it off, and assumed that my company's IT were up to something, didn't really put much thought into it. 30 minutes later I went back home, and found the same problem. I quickly asked a friend of mine in the Netherlands, he seemed to have the same problem. A quick Twitter search confirmed it. Even googling "Google" tells you that Google.com is harmful! And by the looks at the Twitter searches, the problem seems to be across the globe.
 Whats even more frustrating that, even if you decide to ignore the message, Google will not direct you to the page but rather serve you an error page. Google hacked? Or screwed up royally?

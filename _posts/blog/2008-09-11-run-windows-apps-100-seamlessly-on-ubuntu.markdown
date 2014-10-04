@@ -1,26 +1,12 @@
 ---
 title: Run Windows Apps 100% Seamlessly on Ubuntu!
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/09/run-windows-apps-100-seamlessly-on-ubuntu/
-tweetbackscheck:
-- 1236175001
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5qqflo";s:4:"isgd";s:17:"http://is.gd/fjoA";s:5:"bitly";s:19:"http://bit.ly/15iA2";s:5:"snipr";s:22:"http://snipr.com/9sixx";s:5:"snurl";s:22:"http://snurl.com/9sixx";s:7:"snipurl";s:24:"http://snipurl.com/9sixx";s:4:"trim";s:17:"http://tr.im/4aa0";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/7c2d50";s:9:"permalink";s:70:"http://hehe2.net/linuxhowto/run-windows-apps-100-seamlessly-on-ubuntu/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Apps
 - Howto
-tags:
-- Howto
-- rdesktop
-- Virtualization
-- vmware
-- Windows XP
-- Wine
+tags: 
 ---
 
 I know that most of us Linux user usually cringe whenever we need to \*god forbid\* use a Microsoft WIndows machine. So we created applications like Wine in an effort minimize the contact with that horrid machine. With Wine a big percentage of Windows only apps could run on Linux, which more or less takes Windows out of the equation and lets us interact directly with our favorite App. Another solution of course would be installing Windows on a virtual machine.

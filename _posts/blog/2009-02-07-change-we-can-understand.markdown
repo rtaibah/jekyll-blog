@@ -1,18 +1,9 @@
 ---
 title: Change We Can Understand
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/02/change-we-can-understand/
-tweetbackscheck:
-- 1236174916
-shorturls:
-- 'a:7:{s:9:"permalink";s:52:"http://hehe2.net/off-topic/change-we-can-understand/";s:7:"tinyurl";s:25:"http://tinyurl.com/awb8sr";s:4:"isgd";s:17:"http://is.gd/iJr9";s:5:"bitly";s:20:"http://bit.ly/3cvzHJ";s:5:"snipr";s:22:"http://snipr.com/bgprs";s:5:"snurl";s:22:"http://snurl.com/bgprs";s:7:"snipurl";s:24:"http://snipurl.com/bgprs";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- Off-Topic
+categories: blog
 ---
 
 ![](http://farm2.static.flickr.com/1024/1462769567_08774d2c47.jpg?v=0)

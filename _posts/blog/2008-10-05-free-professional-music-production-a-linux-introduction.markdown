@@ -1,31 +1,12 @@
 ---
 title: 'Free, Professional Music Production: A Linux Introduction'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/10/free-professional-music-production-a-linux-introduction/
-tweetbackscheck:
-- 1236175064
-shorturls:
-- 'a:7:{s:9:"permalink";s:84:"http://hehe2.net/linuxhowto/free-professional-music-production-a-linux-introduction/";s:7:"tinyurl";s:25:"http://tinyurl.com/4qndnw";s:4:"isgd";s:17:"http://is.gd/3y3M";s:5:"bitly";s:18:"http://bit.ly/q5wT";s:5:"snipr";s:22:"http://snipr.com/cpedp";s:5:"snurl";s:22:"http://snurl.com/cpedp";s:7:"snipurl";s:24:"http://snipurl.com/cpedp";}'
-twittercomments:
-- 'a:11:{i:947680488;s:5:"17722";i:947500054;s:5:"17723";i:947462071;s:5:"17724";i:947449358;s:5:"17725";i:947449290;s:5:"17726";i:946899870;s:5:"17727";i:946894601;s:5:"17728";i:946890506;s:5:"17729";i:946858992;s:5:"17730";i:946858434;s:5:"17731";i:946858333;s:5:"17732";}'
-tweetcount:
-- 11
 categories:
 - Apps
 - Howto
-tags:
-- ardour
-- GarageBand
-- Howto
-- hydrogen
-- jacklab
-- music
-- Musix
-- NIN
-- Protools
-- Sonar 8 Studio
-- Ubuntu Studio
+tags: 
 ---
 ![](http://192.168.1.33/blog2/wp-content/uploads/2008/10/music-production.jpg)
 

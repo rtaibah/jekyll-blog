@@ -1,24 +1,11 @@
 ---
 title: 'PlatHomes Will Linux Work? Contest'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/08/plathomes-will-linux-work-contest/
-tweetbackscheck:
-- 1236164766
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/6xys4j";s:4:"isgd";s:17:"http://is.gd/fnIK";s:5:"bitly";s:18:"http://bit.ly/vHny";s:5:"snipr";s:22:"http://snipr.com/9taro";s:5:"snurl";s:22:"http://snurl.com/9taro";s:7:"snipurl";s:24:"http://snipurl.com/9taro";s:4:"trim";s:17:"http://tr.im/4h10";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/56e191";s:9:"permalink";s:59:"http://hehe2.net/gadgets/plathomes-will-linux-work-contest/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Gadgets
-tags:
-- contest
-- harshconditions
-- Linux
-- opensource
-- "plat'home"
+tags: 
 ---
 
 ![plathome Linux OpenMicroServer](http://192.168.1.33/blog2/wp-content/uploads/2008/08/plathome.jpg)I previously did a review of the multi-purpose [Plat'home palm-size Linux  server](/blog/gadgets/plathome-the-palm-size-linux-server/). Plat'home claims that their servers can operate in very harsh and rigid environments. They can guarantee that this little critter can operate in tempratures up to 50°C/122°F!

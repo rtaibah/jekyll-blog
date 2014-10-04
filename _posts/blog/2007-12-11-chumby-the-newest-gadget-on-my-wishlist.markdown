@@ -1,21 +1,11 @@
 ---
 title: 'Chumby: The Newest Gadget On My Wishlist!'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2007/12/chumby-the-newest-gadget-on-my-wishlist/
-tweetbackscheck:
-- 1236161979
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/6wf595";s:4:"isgd";s:17:"http://is.gd/48T9";s:5:"bitly";s:19:"http://bit.ly/11xFk";s:5:"snipr";s:22:"http://snipr.com/9spxk";s:5:"snurl";s:22:"http://snurl.com/9spxk";s:7:"snipurl";s:24:"http://snipurl.com/9spxk";s:4:"trim";s:17:"http://tr.im/4c0f";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/ebfc7e";s:9:"permalink";s:65:"http://hehe2.net/gadgets/chumby-the-newest-gadget-on-my-wishlist/";}'
-twittercomments:
-- 'a:1:{i:961272424;s:5:"17747";}'
-tweetcount:
-- 1
 categories:
 - Gadgets
-tags:
-- chumby
-- Gadgets
+tags: 
 ---
 Chumby? What has gotten into you? God it looks ugly! Would you even buy a product called such a childish and pathetic name? Well yes, let's go beyond aesthetics and nomenclature criticism, and let me tell you what this little bad boy can do.
 \# What is Chumby?

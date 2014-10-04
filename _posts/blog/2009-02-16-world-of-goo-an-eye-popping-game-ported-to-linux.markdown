@@ -1,24 +1,12 @@
 ---
 title: 'World of Goo: An Eye Popping Game Ported to Linux'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/02/world-of-goo-an-eye-popping-game-ported-to-linux/
-tweetbackscheck:
-- 1236174905
-shorturls:
-- 'a:7:{s:9:"permalink";s:24:"http://hehe2.net/?p=1319";s:7:"tinyurl";s:25:"http://tinyurl.com/awh5ko";s:4:"isgd";s:17:"http://is.gd/jGz9";s:5:"bitly";s:19:"http://bit.ly/U0osV";s:5:"snipr";s:22:"http://snipr.com/bzc3o";s:5:"snurl";s:22:"http://snurl.com/bzc3o";s:7:"snipurl";s:24:"http://snipurl.com/bzc3o";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - General
 - Reviews
-tags:
-- DRM
-- Gaming. EA
-- Linux
-- WorldOfGoo
+tags: 
 ---
 
 [![worldofgoo_wogcbeauties](http://192.168.1.33/blog2/wp-content/uploads/2009/02/worldofgoo_wogcbeauties.png)](http://192.168.1.33/blog2/wp-content/uploads/2009/02/worldofgoo_wogcbeauties.png)

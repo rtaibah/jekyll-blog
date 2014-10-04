@@ -1,22 +1,9 @@
 ---
 title: Ext4 Filesystem Explained in Plain English
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/01/ext4-filesystem-explained-in-plain-english/
-tweetbackscheck:
-- 1236175083
-- 1236175083
-- 1236175083
-- 1236175083
-shorturls:
-- 'a:8:{s:9:"permalink";s:24:"http://hehe2.net/?p=1209";s:7:"tinyurl";s:25:"http://tinyurl.com/byrhhf";s:4:"isgd";s:17:"http://is.gd/gY91";s:5:"bitly";s:20:"http://bit.ly/3700DQ";s:5:"snipr";s:22:"http://snipr.com/aln2o";s:5:"snurl";s:22:"http://snurl.com/aln2o";s:7:"snipurl";s:24:"http://snipurl.com/aln2o";s:4:"trim";s:17:"http://tr.im/c2b4";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
-categories:
-- General
-- Reviews
+categories: blog
 ---
 
 ![](http://farm4.static.flickr.com/3277/2556020150_f61f1696fa.jpg?v=0)

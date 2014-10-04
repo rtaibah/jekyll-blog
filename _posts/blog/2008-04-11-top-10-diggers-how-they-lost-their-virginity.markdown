@@ -1,18 +1,9 @@
 ---
 title: 'Top 10 Diggers: How They Lost Their "Virginity"'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/04/top-10-diggers-how-they-lost-their-virginity/
-tweetbackscheck:
-- 1236171101
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5nxe7f";s:4:"isgd";s:17:"http://is.gd/fj5b";s:5:"bitly";s:18:"http://bit.ly/RfVI";s:5:"snipr";s:22:"http://snipr.com/9sh0a";s:5:"snurl";s:22:"http://snurl.com/9sh0a";s:7:"snipurl";s:24:"http://snipurl.com/9sh0a";s:4:"trim";s:17:"http://tr.im/49to";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/aaa67b";s:9:"permalink";s:75:"http://hehe2.net/social-media/top-10-diggers-how-they-lost-their-virginity/";}'
-twittercomments:
-- 'a:3:{i:1116207654;s:7:"retweet";i:1116193741;s:7:"retweet";i:1116192631;s:7:"retweet";}'
-tweetcount:
-- 3
-categories:
-- Social Media
+categories: blog
 ---
 
 Despite all it's faults and slip-ups, I absolutely love Digg. It has provided me great content, some inspiring, some funny, and others downright outrageous! But as any one would tell you, any social network is only as good as it's users, and Digg doesn't seem to be lacking on those. However, any great digger had a beginning, and most probably not a great one either.

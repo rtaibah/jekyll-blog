@@ -1,28 +1,13 @@
 ---
 title: Lessons Linux Should Learn From Windows and Mac
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2008/10/things-we-could-learn-from-windows-and-mac/
-tweetbackscheck:
-- 1236166193
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/5lualu";s:4:"isgd";s:17:"http://is.gd/4oZj";s:5:"bitly";s:18:"http://bit.ly/1r3X";s:5:"snipr";s:22:"http://snipr.com/9siwv";s:5:"snurl";s:22:"http://snurl.com/9siwv";s:7:"snipurl";s:24:"http://snipurl.com/9siwv";s:4:"trim";s:17:"http://tr.im/4a9g";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/d9144f";s:9:"permalink";s:74:"http://hehe2.net/linux-general/things-we-could-learn-from-windows-and-mac/";}'
-twittercomments:
-- 'a:4:{i:973371385;s:5:"17714";i:967955049;s:5:"17715";i:967953826;s:5:"17716";i:967214422;s:5:"17717";}'
-tweetcount:
-- 4
 categories:
 - General
 - Observations
 - The Dark Side
-tags:
-- Apple
-- Innovation
-- Lessons
-- Linux
-- mac
-- Microsoft
-- Windows
+tags: 
 ---
 
 ![](http://192.168.1.33/blog2/wp-content/uploads/2008/10/mac-vs-linux-vs-win-custom.jpg)

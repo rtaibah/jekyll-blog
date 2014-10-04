@@ -1,47 +1,11 @@
 ---
 title: 'Multitouch + Tethering + Task Tanager for Android G1'
-author: admin
+author: rami_taibah
 layout: post
 permalink: /2009/02/howto-multitouch-tethering-task-manager-for-android-g1/
-tweetbackscheck:
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-- 1236174922
-shorturls:
-- 'a:7:{s:9:"permalink";s:80:"http://hehe2.net/gadgets/howto-multitouch-tethering-task-manager-for-android-g1/";s:7:"tinyurl";s:25:"http://tinyurl.com/cexfn4";s:4:"isgd";s:17:"http://is.gd/ihKP";s:5:"bitly";s:18:"http://bit.ly/DdVS";s:5:"snipr";s:22:"http://snipr.com/b9pfb";s:5:"snurl";s:22:"http://snurl.com/b9pfb";s:7:"snipurl";s:24:"http://snipurl.com/b9pfb";}'
-twittercomments:
-- 'a:18:{i:1175183179;s:5:"20811";i:1174711748;s:5:"20812";i:1174621488;s:5:"20813";i:1174467406;s:5:"20814";i:1174304688;s:5:"20815";i:1174303272;s:5:"20816";i:1174276076;s:5:"20817";i:1175017177;s:5:"20818";i:1174528046;s:5:"20819";i:1174528028;s:5:"20820";i:1175550225;s:5:"20849";i:1177402377;s:5:"20865";i:1177423819;s:5:"20866";i:1177502519;s:5:"20867";i:1177479188;s:5:"20868";i:1178654990;s:5:"20869";i:1180969593;s:5:"20882";i:1233329235;s:5:"21300";}'
-tweetcount:
-- 18
 categories:
 - Gadgets
-tags:
-- Android
-- G1
-- Google
-- Howto
-- Jailbreak
-- JesusFreke
-- Multitouch
-- RC29
-- RC30
-- T-Mobile
-- Tethering
+tags: 
 ---
 
 [![g1-android-jailbreak](http://192.168.1.33/blog2/wp-content/uploads/2009/02/g1-android-jailbreak.jpg)](http://192.168.1.33/blog2/wp-content/uploads/2009/02/g1-android-jailbreak.jpg)

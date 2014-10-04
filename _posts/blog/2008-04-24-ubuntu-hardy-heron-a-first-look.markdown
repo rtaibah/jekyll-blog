@@ -1,23 +1,13 @@
 ---
 title: 'Ubuntu Hardy Heron: A First Look'
-author: admin
+author: rami_taibah
 excerpt: "Ubuntu has established itself as one of the most user friendly and easy Linux distro out there. So much expectation revolves around this release, and finally the wait is over! Let's have a quick run down on what Hardy brings on the table, and how it weighs against these expectations."
 layout: post
 permalink: /2008/04/ubuntu-hardy-heron-a-first-look/
-tweetbackscheck:
-- 1236173826
-shorturls:
-- 'a:11:{s:7:"tinyurl";s:25:"http://tinyurl.com/9zansg";s:4:"isgd";s:17:"http://is.gd/fj26";s:5:"bitly";s:20:"http://bit.ly/2SlUal";s:5:"snipr";s:22:"http://snipr.com/9sgpl";s:5:"snurl";s:22:"http://snurl.com/9sgpl";s:7:"snipurl";s:24:"http://snipurl.com/9sgpl";s:4:"trim";s:17:"http://tr.im/49pz";s:5:"adjix";s:207:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.adjix.com/AdjixAPI.html";s:4:"advu";s:203:"(10 Jan 2008 temporary restriction: API requires valid partnerID or partnerEmail key in request. Contact us if this affects you.) Invalid Adjix request. API documentation @ http://web.ad.vu/AdjixAPI.html";s:4:"zima";s:19:"http://zi.ma/5af18f";s:9:"permalink";s:58:"http://hehe2.net/advocacy/ubuntu-hardy-heron-a-first-look/";}'
-twittercomments:
-- 'a:0:{}'
-tweetcount:
-- 0
 categories:
 - Advocacy
 - Reviews
-tags:
-- Hardy Heron
-- Ubuntu
+tags: 
 ---
 
 [![Ubuntu Hardy Heron Splash](/blog/wp-content/uploads/2008/04/hardy_splash-300x136.jpg)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/hardy_splash.jpg)The long awaited release of Ubuntu 8.04 from Canonical has finally arrived, and it's looking great! This version, codenamed Hardy Heron, is only the second LTS (Long Term Support) release, which makes it even more special. The first LTS release from Canonical (Dapper) was when the company was relatively new and unknown. However through the past 2 years, Ubuntu has established itself as one of the most user friendly and easy Linux distro out there. So much expectation revolves around this release, and finally the wait is over! Let's have a quick run down on what Hardy brings on the table, and how it weighs against these expectations.
