@@ -3,9 +3,12 @@ title: 'Howto: Download Tons of GNOME-Specific Wallpapers With One Command'
 author: rami_taibah
 layout: post
 permalink: /2009/10/howto-download-tons-of-gnome-specific-wallpapers-with-one-command/
-categories: blog
+tags: Gnome Eye-Candy Wallpapers Linux
+categories: Blog Linux
+share: true
 ---
-![Gnome_by_JennyJenna](../../../i/Gnome_by_JennyJenna.jpg)
+![Gnome_by_JennyJenna](../../../images/blog/Gnome_by_JennyJenna.jpg)
+
 Gnome-look.org has tons of wallpapers to decorate your favorite desktop. However the website isn't really friendly to download them all. You have to go through a long list of wallpapers, click through each and download the wallpaper from the wallpaper page. Luckily, with the power of the command terminal and ftp you can get tons of wallpapers with a single command!
 
 First you need to create a directory in your home directory, lets call it Wallpapers 
@@ -14,7 +17,7 @@ First you need to create a directory in your home directory, lets call it Wallpa
 
 Now you need to connect to gnome.org ftp servers 
 
-ftp ftp.gnome.org
+    ftp ftp.gnome.org
 
 Next you will be asked to enter a username and password. "anonymous" will be your username and just press enter when prompted for the password. 
 

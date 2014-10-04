@@ -3,12 +3,10 @@ title: 'Installing Software: Tux VS. Bill Gates'
 author: rami_taibah
 layout: post
 permalink: /2009/09/installing-software-tux-vs-bill-gates/
-categories:
-- Humor
-- The Dark Side
-tags: 
+categories: Linux Microsoft Blog
+tags: Bill Gates Linux Microsoft Movieplayer
 ---
-![BILL GATES](../../../i/bill-gates-microsoft-email-leak.jpg)
+![BILL GATES](../../../images/blog/bill-gates-microsoft-email-leak.jpg)
 One of the many tired myths about Linux is that it's very difficult to install software. Many argue why should they type in a command instead of just clicking next, next, check a box, next, and one more next? However Windows isn't really as clear cut as they try to make it sound to be. Last year, an E-mail sent by Bill Gates to some Microsofties was leaked. Bill detailed [his frustrating experience in downloading and installing Windows Movie Maker](http://gizmodo.com/5019516/classic-clips-bill-gates-chews-out-microsoft-over-xp). While Bill's experience is extreme, it illustrates that typing a command isn't so bad after all. Most modern Linux distros have graphical interfaces to install software anyways.
 
 > From: Bill Gates 
