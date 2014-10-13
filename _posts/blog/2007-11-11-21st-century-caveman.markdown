@@ -6,6 +6,7 @@ permalink: /2007/11/11/21st-century-caveman/
 categories: blog
 tags: humour musings 
 ---
+
 A couple of days ago while at work my boss made a funny remark on an E-mail from a vendor because of an obvious faux pas from the vendor's part. Later that day, I got two replies to that E-mail, one saying "LOL" and the other said "LMAO", I was a bit amused albeit the unprofessionalism of the whole situation, but I shrugged it off and continued working.
 
 After lunch, a colleague of mine who sits straight in front of me says to me "What are these guys saying?" I looked up and shook my head pleading him to further explain. He continued, "What does L-O-L and L blah blah blah mean?" I looked at him incredulous not believing my ears, I thought he was joking. But his facial expressions were sincere, he obviously did feel that he had every right to ask such a question, and that these monkey's were bashing their heads on the keyboard and sending out E-mails!
