@@ -3,7 +3,7 @@ title: IBM and Ubuntu Going Head To Head Against Windows 7?
 author: rami_taibah 
 layout: post
 permalink: /2009/10/ibm-and-ubuntu-going-head-to-head-against-windows-7/
-categories: Blog Linux
+categories: Blog Linux Linuxologist
 tags: Canonical Netbook IBM Ubuntu Linux
 ---
 

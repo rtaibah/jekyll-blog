@@ -33,6 +33,6 @@ Now lets download all 1280×1024 (assuming thats your resolution)
 
     mget \*1280x1024.jpg
 
-Great huh? Now why don't you rotate your wallpapers? Here check our [3 Great Ways To Rotate Your Linux Desktop](../../03/3-great-ways-to-rotate-your-linux-desktop/) article.
+Great huh? Now why don't you rotate your wallpapers? Here check our [3 Great Ways To Rotate Your Linux Desktop](/2009/03/3-great-ways-to-rotate-your-linux-desktop/)  article.
 
 *Image by [JennyJenna](http://jennyjenna.deviantart.com/art/Gnome-55354979)*

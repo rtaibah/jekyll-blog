@@ -3,7 +3,7 @@ title: 'Linux Artwork That You Will Love: The Ubuntu Rider'
 author: rami_taibah
 layout: post
 permalink: /2009/08/linux-artwork-that-you-will-love-the-ubuntu-rider/
-categories: blog Linux 
+categories: blog Linux Linuxologist
 tag: Linux Ubuntu Deviant-Art Art 
 ---
 
@@ -11,4 +11,4 @@ Ahhh, the wonderful stuff you can find on [DeviantArt](http://www.deviantart.com
 
 [![Ubuntu_Linux_by_Gegege_no](../../../images/blog/Ubuntu_Linux_by_Gegege_no.jpg)](http://gegege-no.deviantart.com/art/Ubuntu-Linux-132093842)
 
-_Via [DoctorMO's Blog](http://doctormo.wordpress.com/2009/08/04/artwork-the-ubuntu-rider/)_
+_Via [DoctorMO's Blog](http://doctormo.org/2009/08/04/artwork-the-ubuntu-rider/)_

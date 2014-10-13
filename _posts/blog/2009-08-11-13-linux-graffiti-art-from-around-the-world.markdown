@@ -2,18 +2,18 @@
 title: 13 Linux Graffiti Art From Around The World
 author: rami_taibah
 layout: post
-permalink: /2009/08/13-linux-graffiti-art-from-around-the-world/
+permalink: /2009/08/11/13-linux-graffiti-art-from-around-the-world/
 categories: Linux Blog
 tags: Graffiti Art Linux Tux IBM Microsoft 
 ---
 
-Us Linux users are very passionate about our operating system. We get into flame wars with others, push it down other's throats ([which we don't condone](/blog/advocacy/help-spread-linux-without-preaching-it/),) [blog about](/blog/general/30-blogs-every-open-source-enthusiast-should-keep-an-eye-on/), [work feverishly in converting](/blog/linuxhumor/howto-convert-a-friend-to-linux/), and finally "vandalize" our cities.
+Us Linux users are very passionate about our operating system. We get into flame wars with others, push it down other's throats ([which we don't condone]( /2008/11/help-spread-linux-without-preaching-it/), [blog about](/2008/05/02/30-blogs-every-open-source-enthusiast-should-keep-an-eye-on/), [work feverishly in converting](/2007/12/27/howto-convert-a-friend-to-linux/), and finally "vandalize" our cities.
 
 Here are 13 Linux and Open Source graffiti art I found on the Interwebs. I tried to figure out where each was, but for some I just couldn't find any info. So if you happen to know where one is located or know of any other cool graffiti, please leave a comment.
 
 ## 1-IBM's Peace, Love, Linux
 
-![Peace-Love-Linux-IBM](../../../images/blog/Peace-Love-Linux-IBM.jpg)
+![Peace-Love-Linux-IBM](../../../../images/blog/Peace-Love-Linux-IBM.jpg)
 
 [IBM's Peace, Love, and Linux](http://archives.cnn.com/2001/TECH/industry/04/19/ibm.guerilla.idg/index.html) advertising campaign, sidewalk graffiti, observed on April 20, 2001 in Cambridge, Massachusetts.
 

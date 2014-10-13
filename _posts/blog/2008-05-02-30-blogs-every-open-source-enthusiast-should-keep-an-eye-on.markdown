@@ -2,7 +2,7 @@
 title: 30 Blogs Every Open Source Enthusiast Should Keep an Eye On
 author: rami_taibah
 layout: post
-permalink: /2008/05/30-blogs-every-open-source-enthusiast-should-keep-an-eye-on/
+permalink: /2008/05/02/30-blogs-every-open-source-enthusiast-should-keep-an-eye-on/
 categories:
 - General
 tags: 
