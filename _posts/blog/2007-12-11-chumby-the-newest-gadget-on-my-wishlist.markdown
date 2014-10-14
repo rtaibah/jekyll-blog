@@ -2,7 +2,7 @@
 title: 'Chumby: The Newest Gadget On My Wishlist!'
 author: rami_taibah
 layout: post
-permalink: /2007/12/chumby-the-newest-gadget-on-my-wishlist/
+permalink: /2007/12/11/chumby-the-newest-gadget-on-my-wishlist/
 categories: blog Gadgets
 tags: Chumby Gadgets
 share: true
