@@ -1,20 +1,23 @@
 ---
-title: 'Its A Wonderful Internet...But Not On Every Pasture'
+title: "It's A Wonderful Internet...But Not On Every Pasture"
 author: rami_taibah
 layout: post
-permalink: /2007/12/its-a-wonderful-internet-but-not-every-pasture/
-categories: blog
+permalink: /2007/12/15/its-a-wonderful-internet-but-not-every-pasture/
+categories: blog Internet
+tags: Beautiful-Internet Mobile Android iPhone OpenMoko
+share: true
+
 ---
 
 The Internet has changed the lives of many people, the possibilities it offers are endless. Today we live in a "[web 2.0](http://en.wikipedia.org/wiki/Web_2.0 "web 2.0")" world, which pushed the limits of creativity, collaboration, and sharing of thought. The main players of "web 2.0″, the wikis, the social bookmarking sites, photo management sites, blogging ...etc are all tools that we have grown accustomed to. I for one could not imagine myself living without Digg, Google docs, Stumbleupon, Picasa, and a plethora of other tools. However the technologies powering most of these "web 2.0″ websites aren't new at all, in fact they have existed for a [long time](http://arstechnica.com/news.ars/post/20060901-7650.html). So why did it take such a long time for "web 2.0″ to emerge? I have a theory, read on.
 
-![Web 2.0](http://192.168.1.33/blog2/wp-content/uploads/2007/12/web2-big-745097.jpg)
+![Web 2.0]({{site.baseurl}}/images/blog/web2.jpg)
 
-_Let's have a quick trip back to memory lane_: Most observers consider the real birth of the Internet was in 1994\. When the Internet got lots of attention from the public and the media, and started to grow exponentially. Sites started popping up from no where, companies scrambled to have a "web presence", people were talking about it, in short the Internet started to catch on. Things were looking up.
+_Let's have a quick trip back to memory lane_: Most observers consider the real birth of the Internet was in 1994\. When the Internet got lots of attention from the public and the media, and started to grow exponentially. Sites started popping up from no where, companies scrambled to have a "web presence," people were talking about it, in short the Internet started to catch on. Things were looking up.
 
-However the honeymoon came to a screeching stop, things started to go amiss in net-ville. By 1995, the browser industry seemed too lucrative for Microsoft to resist, it couldn't keep its greedy mitts off of it, and decided to enter the browser market. This ignited the [first browser war](http://en.wikipedia.org/wiki/Browser_wars "first browser war"). Microsoft and Netscape locked horns in a vicious display of power. This very much crippled the development of web browsers, and consequently the whole "web". Both companies were too busy adding features, as none of them wanted to be perceived as falling behind, but neglected fixing bugs. Browsers crashed with every sneeze.
+However the honeymoon came to a screeching stop, things started to go amiss in net-ville. By 1995, the browser industry seemed too lucrative for Microsoft to resist, it couldn't keep its greedy mitts off of it, and decided to enter the browser market. This ignited the [first browser war](http://en.wikipedia.org/wiki/Browser_wars "first browser war"). Microsoft and Netscape locked horns in a vicious display of power. This very much crippled the development of web browsers, and consequently the whole "web." Both companies were too busy adding features, as none of them wanted to be perceived as falling behind, but neglected fixing bugs. Browsers crashed with every sneeze.
 
-In an effort from both companies to gain a competitive edge over the other, they started to introduce proprietary features. Now this was a problem because the Internet (including web browsers) was built on standards set down by a standards committee. However, both companies started adding new proprietary features before they get the approval from the standards committee. The divergence from web standards just made life for developers harder, valuable time that was better spent on _real_ development, was spent on ensuring that webpages rendered properly on both browsers[](http://en.wikipedia.org/wiki/Internet_Explorer "IE"). Needless to say this fragmented the Internet even more. Result? The development of the web was hindered even more. ![:(](http://192.168.1.2/blog2/wp-includes/images/smilies/icon_sad.gif)
+In an effort from both companies to gain a competitive edge over the other, they started to introduce proprietary features. Now this was a problem because the Internet (including web browsers) was built on standards set down by a standards committee. However, both companies started adding new proprietary features before they get the approval from the standards committee. The divergence from web standards just made life for developers harder, valuable time that was better spent on _real_ development, was spent on ensuring that webpages rendered properly on both browsers. Needless to say this fragmented the Internet even more. Result? The development of the web was hindered even more. :( 
 
 In any case, by 1998, the Darth Vader of the IT industry emerged victorious on the browser front winning itself a virtual monopoly. Now we all know that monopolies are no good, it's the consumer that pays the hefty price. But in this case web technology is what suffered. Microsoft with this complete monopoly had little or no incentive to develop the web or it's applications. Things just stayed stagnant with no or minimal development for quite some time.
 
@@ -40,6 +43,10 @@ But not all is lost, there is a glimmer of hope. Yes two projects that are gaini
 
 Android is an open mobile platform based on Linux and backed by 34 companies in an effort to advance the open standards of mobile phones. And as they always say, a picture is better than a thousand words:
 
+<iframe width="640" height="480" src="//www.youtube.com/embed/1FJHYqE0RDg" frameborder="0" allowfullscreen></iframe>
+
 On the other hand, OpenMoko is dubbed as the worlds "first open phone", here is FEC's Sean Moss-Pultz:
+
+<iframe width="640" height="480" src="//www.youtube.com/embed/jRvtAAXTIlg" frameborder="0" allowfullscreen></iframe>
 
 Android and OpenMoko will hopefully break the dead lock and help consumers realize what their phones could really do. Developers will flock to these two open systems, reminiscent of Firefox's third party developer community 3 years back. Ingenious ideas and innovative applications will make our current phones prehistoric! _Our phones will finally be free!_
