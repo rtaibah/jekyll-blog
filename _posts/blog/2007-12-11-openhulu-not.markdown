@@ -2,7 +2,7 @@
 title: 'OpenHulu...Not!'
 author: rami_taibah
 layout: post
-permalink: /2007/12/openhulu-not/
+permalink: /2007/12/11/openhulu-not/
 categories: blog Media
 tags: Hulu Media Piracy
 share: true
