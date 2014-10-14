@@ -4,7 +4,7 @@ author: rami_taibah
 layout: post
 permalink: /2008/01/15/thinnest-laptop-in-the-world-pfft/
 categories: blog Apple
-tags: Macbook-Air
+tags: Macbook-Air Apple Steve-Jobs
 share: true
 
 ---
