@@ -4,7 +4,7 @@ author: rami_taibah
 layout: post
 permalink: /2008/01/02/i-just-installed-fedora-8/
 categories: blog Linux
-tags: Fedora Linux
+tags: Fedora Linux Eye-Candy
 share: true
 
 ---
