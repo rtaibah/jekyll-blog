@@ -5,6 +5,8 @@ layout: post
 permalink: /2008/01/13/a-disturbingly-new-breed-of-fanbois/
 categories: blog Pictures Humour
 tags: Humour Apple Windows Vista
+share: true
+
 ---
 
 ![Mac and Windows Fanboys]({{site.baseurl}}/images/blog/mac-fanboi.jpg)
