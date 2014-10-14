@@ -5,6 +5,8 @@ layout: post
 permalink: /2007/11/hmmmm-thanks-for-the-help-ms/
 categories: blog Microsoft
 tags: Humour Microsoft UX Windows
+share: true
+
 ---
 Now I am no MS fan, but I understand their strategy of simplifying how things are done on their OS'es. But isn't this just idiotic?
 

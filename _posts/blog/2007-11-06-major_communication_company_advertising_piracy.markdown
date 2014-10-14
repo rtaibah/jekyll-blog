@@ -5,6 +5,8 @@ layout: post
 permalink: /2007/11/06/major_communication_company_advertising_piracy/
 categories: blog Tech
 tags: Mobily Pics WTF
+share: true
+
 ---
 
 A couple of weeks ago Mobily, a major mobile carrier in Saudi Arabia (one of two), published this ad in a couple of newspapers. The ad was about their new wireless high-speed Internet service. A huge ass stack of CD's, DVD's and books visual and a copy above the stack said "Download it all, don't worry about the size." 

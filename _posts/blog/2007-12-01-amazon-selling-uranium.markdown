@@ -6,6 +6,8 @@ layout: post
 permalink: /2007/12/01/amazon-selling-uranium/
 categories: blog Internet
 tags: WTF Uranium Beautiful-Internet Amazon
+share: true
+
 ---
 
 Seems like there is nothing you can't buy off the Internet these days. Apparently the good fellas at Amazon are selling [Uranium ore](http://www.amazon.com/Uranium-Ore/dp/B000796XXM)! Yes you heard it U-R-A-N-I-U-M! You know the stuff that would bust your balls.
