@@ -27,15 +27,10 @@ Some Mobile Stats
 -----------------
 
 - The number of mobile phones exceeded the number of people today: 7 billion!
-
 - The number of smartphone users will exceed 1.75 billion in 2014.
-
 - In 2013 people spent $25 billion on apps - a 62% increase on 2012.
-
 - Smartphones are 15 times faster than the Cray-I (1979)
-
 - Smartphones users are spending 2 hours and 38 minutes a day on their phones (17%)
-
 - The most popular revenue stream for mobile apps are paid-for apps, followed by in-app purchases (projected to equal paid for in 2017,) then advertising which is miniscule (10%-15%)
 
 Apps Make Us Feel Good
@@ -64,35 +59,21 @@ If your idea resonates with a human universal will maximize the appeal of the ap
 
 *Tomi Ahonen* publishes the Mobile Almanac, and according to his research, people check their smartphones 150 times a day. Here how it's broken down:
 
-**1- Messaging, 23 Times Per Day:** Facebook, Google, Tango, Whatsapp, Viber, Snapchat.
-
-**2- Voice-Call-Related, 22 Times Per Day:** Skype, Viber, Google Hangouts.
-
-**3- Clock, 18 Times Per Day:** Huge market opportunity. No killer clock app yet.
-
-**4- Music Player, 13 Times Per Day:** Discovery, purchacing, playback. Tricky market because of record labels. iTunes, Pandora, Spotify.
-
-**5- Gaming, 12 Times Per Day:** Huge potential. Tricky because very competitive and gamers higher standards. Candy Crush, Angry Birds, Clash of Clans, Hay Day.
-
-**6- Social Media, 9 Times Per Day:** Twitter, Facebook, Instagram. Very hard to break into now, with all the different integerations these apps have on mobile and desktop.
-
-**7- Alarm, 8 Times Per Day:** Big opportunity. No killer app. iOS alarm clock is good enough?
-
-**8- Camera, 8 Times Per Day:** Oversaturated market. Over 5000 apps in the Apple's App Store. But fast-changing, might have a billion dollar app in the near future.
-
-**9- News and Alerts, 6 Times Per Day:** Massively fragmented. But Flipboard.
-
-**10- Calendar, 5 Times Per Day:** This space is crying for attention. Nothing really stands out here (from a mobile perspective.)
-
-**11- Search, 3 Times Per Day:** This refers to actualy searching content on the phone. Difficult to compete with native OS search.
-
-**12- Other Random Web Browsing, 3 Times Per Day:** How will this evolve? How will future browsers challenge current?
-
-**13- Charging Phone, 3 Times Per Day:**: Nothing in terms of software/apps. For now.
-
-**14- Voicemail, 1 Time Per Day:** Meh. Spinvox ended in tears after burning through $100 Million.
-
-**15- Misc. 10 Times Per Day:** What new markets/ideas are here?
+- **1 Messaging, 23 Times Per Day:** Facebook, Google, Tango, Whatsapp, Viber, Snapchat.
+- **2 Voice-Call-Related, 22 Times Per Day:** Skype, Viber, Google Hangouts.
+- **3 Clock, 18 Times Per Day:** Huge market opportunity. No killer clock app yet.
+- **4 Music Player, 13 Times Per Day:** Discovery, purchacing, playback. Tricky market because of record labels. iTunes, Pandora, Spotify.
+- **5 Gaming, 12 Times Per Day:** Huge potential. Tricky because very competitive and gamers higher standards. Candy Crush, Angry Birds, Clash of Clans, Hay Day.
+- **6 Social Media, 9 Times Per Day:** Twitter, Facebook, Instagram. Very hard to break into now, with all the different integerations these apps have on mobile and desktop.
+- **7 Alarm, 8 Times Per Day:** Big opportunity. No killer app. iOS alarm clock is good enough?
+- **8 Camera, 8 Times Per Day:** Oversaturated market. Over 5000 apps in the Apple's App Store. But fast-changing, might have a billion dollar app in the near future.
+- **9 News and Alerts, 6 Times Per Day:** Massively fragmented. But Flipboard.
+- **10 Calendar, 5 Times Per Day:** This space is crying for attention. Nothing really stands out here (from a mobile perspective.)
+- **11 Search, 3 Times Per Day:** This refers to actualy searching content on the phone. Difficult to compete with native OS search.
+- **12 Other Random Web Browsing, 3 Times Per Day:** How will this evolve? How will future browsers challenge current?
+- **13 Charging Phone, 3 Times Per Day:**: Nothing in terms of software/apps. For now.
+- **14 Voicemail, 1 Time Per Day:** Meh. Spinvox ended in tears after burning through $100 Million.
+- **15 Misc. 10 Times Per Day:** What new markets/ideas are here?
 
 Sharing Big
 -----------
@@ -116,13 +97,41 @@ Chapter 4: It's Bloody Hard
 What about the other 99.3%? Here you go:
 
 - **11% Exited Startups:** Average successful startups raised $41 million at a valuation of $242 million. There is a coorelation between amount of money raised and value at exit. Suggesting that raising more money indeed creates more value. *(Me: coorelation does not mean causation)* Here is how they exited:
-
      - *By getting acquired*: Raised $29.4 million and sold for $155.5 million. It takes an average of 7 years to build a company to this level.
-
      - *By IPO*: Raised $162 million and generated $467.9 million in IPO. It takes an average of over 8 years to build a company to this level
-
 - **25%-30% Complete Failure:** i.e liquidation
-
 - **40%-50% Just Barely:** Profitable enough to keep going, but not enough to be aquisition targets.
 
 *Of all startups, 60% make it to 3 years old, and only 35% make it to 10 years old.*
+
+Billion-Dollar Secret Sauce
+---------------------------
+
+What are the common factors in the 43 (or .07%) billion-dollar companies?
+
+- **It Takes 7 Years:** Minimum was 2 years (Youtube and Instagram.) Maximum was Pandora (11 years.)
+- **5 Business Models That Work:**
+    - Gaming, virtual goods and services
+    - e-commerce/marketplace
+    - Advertising (or consumer audience building to advertise to later)
+    - SaaS
+    - Enterprise
+- **Experience Matters:**
+    - Average founders age is 34 years old. Despite all youngsters media hype; it's not true.
+    - Founders known and/or worked with each other for many years. 90%
+    - Only 4 companies had one founder
+    - All but two companies had a technology experienced founder
+    - 80% had a co-founder that at least started a company before
+- **Most CEO's Stay For The Long Haul**
+- **Education Gives You An Unfair Advantage:**
+    - Only 8 were college dropouts
+    - 33% went to Stanford
+    - 8 went to Harvard, 5 to Berkeley, and 4 to MIT
+- **Location:** 27 companies based in San Francisco, 3 in New York (distant second.)
+
+What Does This All Mean?
+------------------------
+
+>Start with a big problem, a novel solution and a huge market ready to adopt it. Then build a great product that users love, and then prove they love it with data showing they are willing to pay for it. Combine that with a robust strategy that attracts users systematically and at a cost that is less than what users will potentially generate in revenue for your app
+>
+>Combine all of this with a diehard team sprinkled with people who have built companies before, and you're going to maximise the chance of building an app business that is going to last. The formula is not magic, it is simple, and it's about how religiously you adhere to the tactics and the calibre of people you attract to join your journey.
