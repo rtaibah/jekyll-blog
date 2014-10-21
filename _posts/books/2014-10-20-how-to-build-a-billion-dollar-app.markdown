@@ -2,7 +2,7 @@
 title: How To Build A Billion Dollar App | By George Berkowski 
 author: rami_taibah 
 layout: post
-permalink: /2014/10/how-to-build-a-billion-dollar-app
+permalink: /books/2014/10/how-to-build-a-billion-dollar-app
 categories: Books 
 tags: Books Apps Mobile Startups
 ---
@@ -42,7 +42,7 @@ Leading apps capitilised on this by focussing on design, usability, performance 
 
 A 2013 study by Harris Interactive found that 75% of people are always within 5 feet from their phones, and 10% have used one during sex.
 
-Chapter3: A Billion Dollar App
+Chapter 3: A Billion Dollar App
 ==============================
 
 Human Universals
@@ -135,3 +135,181 @@ What Does This All Mean?
 >Start with a big problem, a novel solution and a huge market ready to adopt it. Then build a great product that users love, and then prove they love it with data showing they are willing to pay for it. Combine that with a robust strategy that attracts users systematically and at a cost that is less than what users will potentially generate in revenue for your app
 >
 >Combine all of this with a diehard team sprinkled with people who have built companies before, and you're going to maximise the chance of building an app business that is going to last. The formula is not magic, it is simple, and it's about how religiously you adhere to the tactics and the calibre of people you attract to join your journey.
+
+Chapter 5: Let's Get Started
+============================
+
+5 Business Models
+-----------------
+
+Discussed earlier. See above.
+
+Attracting The Best
+-------------------
+
+**What to look for in a cofounder:** Chemistry between you, complimenting skills, and passion.
+
+**Where to find cofounders?**
+
+  - Developer meetups
+  - Tech conferences
+  - Startup Weekend
+  - [Meetup](http://meetup.com)
+  - Techcrunch Disrupt Hackathons. Hackathons in general.
+  - [Anglelist](http://angel.co)
+
+*Once you found a potential cofounder, go out for dinner, hang out, create a proof of concept together. Ensure that there is chemistry, complimenting skills, and passion.*
+
+**Cofounder Redflags**
+
+There are two types of snake-oil cofounders that you should be weary of:
+
+- **The 'expert' that wants to charge you upfront:** They seem to be knowledgable, claim to have connections and having a sense of what's hot. They get very excited about your idea and start throwing ideas at you. They talk about deals they helped facilitate for others. Basically a sales pitch. Then they proceed to recommend to book a session to formalise the deal. *Hint: The real movers and shakers of the Internet offer help for free if they think you have the motivation and motivation.* **BEWARE: snake oil!**
+- **The professional business advisor or coach:** They often have a website, a big network of other 'business coaches' and have a couple of deals in their name. They start by offering their business coaching skills, and throw in legal and investment advice. However they don't ask for money upfront, but ask for equity. Don't fall for that. Invite them to your board. The running rate for top advisors in Silicon Valley board seat is 1%. These guys will be asking for 10, 20, or maybe even 30 percent. Don't fall for that. **BEWARE: snake oil.**
+
+Chapter 6: Solving the Identity Crisis
+======================================
+
+Creating a robust name and brand is very critical but damn hard. 1000's of apps are vying for attention. You need to stand out!
+
+First Impressions
+-----------------
+
+First impressions matter. Your brand should be:
+
+- **Short, catchy, and memorable:** Waze is about finding ways. Snapchat is about chatting *rapidly*.
+- **Distinctive:** Uber. Make something up, like Etsy.
+- **Clever, and makes people smile:** Square, allows people to 'square up.'
+- **Can it be a verb?** Google a word. Hailo a taxi. You can't force this, but should be conducive.
+
+Finding A Great Name
+--------------------
+
+Get together with friends, make a drinking game out of it. Shots for good ideas. But if that is not your thing, here are some other options:
+
+- **[Namestation](http://namestation.com):** A powerful combination of word generation tools.
+- **[Sedo](http://sedo.com):** Largest premium domain seller on the Internet.
+- **[Domain Name Soup](http://domainnamesoup.com):** A fun name generator.
+- **[Instant Domain Search](http://instantdomainsearch.com):** Simple and quick domain check, no refresh.
+- **[Domize](http://domize.com):** Similar to Instant domain search *(Added by me)*
+
+Chapter 7: Getting Lean and Mean
+================================
+
+> In 2012 there were about 4,000 unique devices running Android; in 2013 it was around 12,000. About 600 companies manufactured these devices.
+
+Key takeaways from this chapter:
+
+- Read Eric Ries book [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1413916110&sr=8-1&keywords=the+lean+startup).
+- 73% of purchases in app stores came from Apple users.
+- 1.9 billion Android phones vs. 700 million iOS in 2013.
+- It might be viable to have your app paid-for on Apple, and free on Android.
+- Only one platform at a time. Perfect it and move on to the next. iOS or Android. Not both together. (me: how viable is this especially with the interdependent nature of the apps I am developing now? i.e Haweee and Currrva.)
+- Do not copy the design of one platform to other. Build from the ground up.
+- Android is severely fragmented. Try to have the top 10 Android phones to test.
+
+Chapter 8: App Version 0.1
+===========================
+
+At this point you want to focus on the MVP (Minimal Viable Product,) the most basic features that will make your app unique. For Hailo it was focusing on how a user would could see nearby taxis on a map, then hit the 'Pick Me Up Here' button and have a driver accept the hail. Hailo also added the ability to see the driver come towards you.
+
+Faking It
+---------
+
+Hailo knew that they had to build two apps, one for passengers and one for cabbies. They started with cabbies app because if passengers because if there wasn't a large enough supply of cabs, passengers would lose interest.
+
+After a long debate, Hailo team agreed on three features:
+
+1- The ability for cabbies to report bursts. For example at the end of a concert where there is clearly a shortage of taxis.
+2- Statistics. How much taxis have driven, and how much time they were occupied.
+3- The ability to process business cards.
+
+Every week they hosted 15 drivers for breakfast at a restaurant and shared with them paper prototypes, iterated the designs, recieved more feedback, until they got to the actual developed app.
+
+They cut many corners. They faked the credit card processing. The card reader wasn't working. Just recorded how much the passenger paid using the fake credit card reader. Eventually they delivered credit card processing. Instant revenue. Profit!
+
+Same thing happened with the passenger's app. They faked it, they cut corners, but got their wow!
+
+The point is to get to the wow as cheaply and effeciently as possible. Using paper designs to to get real data, real validation. The opposite would be spending three month and a lot of money on something that will not attract your target market.
+
+The data generated, and seeing it in action will help prompt existing and potential investor to invest more for version 1.0.
+
+Wireframes and User Journeys
+----------------------------
+
+Wireframes are blueprints of your app. It has the following goals:
+
+1- To illustrate what each screen of your app looks like
+2- To explain how your app behaves
+
+They will be used to communicate with potential users, your designers, your developers. All stakeholders.
+
+Some wireframe tools:
+
+- Balsamiq
+- Omnigraffle
+- Moqups
+- Photoshop
+
+Great Design
+------------
+
+> Good design is as little design as possible - less, but better - because it concentrates on the essential aspects, and the products are not burdened with non-essentials. Back to purity, back to simplicity
+
+*-Dieter Rams*
+
+Dieter Rams 10 principles of good design:
+
+- Is innovative
+- Makes a product useful
+- Is aesthetic
+- Makes a product understandable
+- Is unobtrusive
+- Is honest
+- Is long-lasting
+- Is thorough down to the last detail
+- Is environmentally friendly
+- Has as little design as possible
+
+Design is important because compeition in the app world is high. 26% of users will open your app and never open it again. You need to make the first impression count.
+
+#### Learn from the best
+
+Download the top apps: Snapchat, Flipboard, Angry Birds, Puzzle and Dragon, Uber, Candy Crush, Instagram, Square, Waze, Whatsapp, Viber, Tango, Pandora. And of course Facebook, Dropbox, Evernote, Amazon, and eBay.
+
+#### Discover and collect screenshots
+
+Keep a folder in your Dropbox where you collect great designs. Frequent [pttrns](http://pttrns.com).
+
+#### Functional versus beautiful
+
+Try to get both. But functional is always the priority. Always!
+
+Hunting Designers
+-----------------
+
+[Behance](http://behance.net) and [Dribbble](http://dribbble.com) are the way to go. Also check out the the Dribbble section of designers looking for full-time and part-time jobs. Try to think how you can recruit this amazing designer to work full-time with you.
+
+Rapid Prototyping
+-----------------
+
+Use tools like [proto.io](http://proto.io) to link screens together and have a prototype on your phone. This is important because real estate on phones is valuable, these prototypes will help you get a 'feel' of your app. Also you can communicate easily with your team and users this way.
+
+Get Coding
+-----------
+
+You are either developing it yourself, or outsourcing it. If you are doing the latter, you should be thinking on how you can recruit a developer to your team.
+
+Your app shouldn't be super polished. Remeber you just want to put it in the hands of your users. Shoot for a few hundered, ideally a thousand.
+
+Measuring  Good
+----------------
+
+You MUST measure. Here are some tools:
+
+- [Google Analytics](http://google.com/analytics)
+- [Mixpanel](http://mixpanel.com)
+- [Flurry](http://flurry.com) it's free, has a bigger footprint, lacks powerful segmentation and geograpaphical segmentation is weak.
+- [Localytics](http://localytics.com) very good. Though lacks the wide and robust feature set of Mixpanel
+- [Kontagent](http://kontagent.com) a bit behind, more focused on sales rather than product and engineering
+
