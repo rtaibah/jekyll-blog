@@ -240,6 +240,7 @@ Wireframes and User Journeys
 Wireframes are blueprints of your app. It has the following goals:
 
 1- To illustrate what each screen of your app looks like
+
 2- To explain how your app behaves
 
 They will be used to communicate with potential users, your designers, your developers. All stakeholders.
@@ -313,3 +314,74 @@ You MUST measure. Here are some tools:
 - [Localytics](http://localytics.com) very good. Though lacks the wide and robust feature set of Mixpanel
 - [Kontagent](http://kontagent.com) a bit behind, more focused on sales rather than product and engineering
 
+Chapter 9: Metrics to Live and Die By
+=====================================
+
+A simple framework developed by Dave McClure of 500 Startups. The AARRR. Each app is different, you will need to define the metrics. Set the bar high, avoid non-actionable metrics or vanity metrics. Try to bake this even in your MVP. A useful way is to framework your AARRR around the user lifecycle.
+
+- **Aquisitions:** Users downloading your app from multiple channels. Set the bar high, not just a download, but perhaps launched the app and tapped a button or spent at least 10 seconds.
+- **Activation:** Users enjoying their first 'happy' interaction. Minimum threshold of engagement. Created an account, clicked X amount of clicks, or spent 60 seconds in your app.
+- **Retention:** Users coming back to use your app. This is critical. How many times a user launched your app, and how many times they launched the app and used it for its main function. Maybe even look at emails, how many times does the user click on the emails you send them.
+- **Referral:** Users recommending your app. Tricky, but promo codes can be helpful if your app allows it, or how many invites they sent out, or how many shares.
+- **Revenue:** Users completing an action so your able to monetise. Aim to make this work from the beginning. Also measure discounts, gross margin, and refunds.
+
+Chapter 10: Let's Get Some Users
+================================
+
+How will Users Find Your App?
+-----------------------------
+
+####Percentage of App users Who Find Apps Via Each Channel
+
+According to Ankit Jain, Google Play's head of search and discovery:
+
+> For the average app, search makes up the majority of installs, and 12 per cent of daily active users on Google Play search for new apps daily, with a further 50 per cent search for apps weekly.
+
+- App store search 63%
+- Friends/family 50%
+- App store top charts 34%
+- Pre-installed apps 20%
+- Social 19%
+- Websites-general 16%
+- Web search 14%
+- Websites-blog 7%
+
+How to be Found in the App Store
+--------------------------------
+
+- **Your app title:** Similar to the title tag in HTML. Include both what your app does and branding. 'Whatsapp Messenger' and 'Square Wallet.'
+- **Description:** This is Android specific. Break down to two sections. Above-the-fold and below-the-fold. Above-the-fold includes 1-2 sentences describing the app and its primary-use case. While below should have a clear and engaging feature set and social proof. An example: 
+    
+>Open Square Wallet to find great local businesses anywhere you are. Square Wallet puts your credit card, loyalty cards and receipts into one app
+
+- **Keywords:** This is Apple specific. You have 100 characters to tell iTunes which keywords your app should show up for searches. Focus on relevant, high-volume, and unique words. Don't use spaces, commas are enough.
+- **Icon:** Have a clear memorable icons. You have about 11 characters within the icon. Don't ever go over 11. Take this into consideration when choosing a name for your app!
+- **Screenshots:** Tune them to communicate the details of you want about your app. Clear communication of functionality and features.
+
+Your App's Website
+--------------------
+
+Ideally you want to focus on helping people download your app. Crispy, snappy description, clear download button on the top. Responsive website, check the device type and show relevant app store icon, use Bootstrap (me: Foundation!)
+
+Website SEO
+-----------
+
+- **Domain Names:** Grab your domain as quickly as possible. Grab obvious misspellings. Grab co.uk, .fr, and .cn. And any other country you think is pertinent. You don't want people grabbing these when you become popular and charge you $1000's!
+
+- **Alexa:** Guage your ranking
+
+- **Keywords**
+- **Backlinking to yourself**
+- **Create a sitemap:** So web crawlers can find you
+- **Image Descriptions:** Fill up your alt tags with relevant keywords
+- **Fresh Content:** Blog. Ideally once a week
+- **Make it social**
+- **Link, Link, Link**
+- **Have a great press kit:** Make sure you have at lease a mini section for press. Include all info about your app and company: photos, logos, screenshots, 'about us' pages. Make it easier for journalists and bloggers to write about you. They are lazy.
+
+How Mobile Advertising Works
+----------------------------
+
+Three synonymous acronyms: Customer Acquisition Cost (CAC), Cost Per Acquisition (CPA), Cost Per Download (CPD). Optimize this. CAC is $1 and making $2 per customer, you got yourself a business! Otherwise you have a big challenge ahead of you.
+
+Mobile ad platforms: Most popular for Google is AdMob. Others are Millenial Media, iAd (from Apple,) Flurry, in Mobie, Chartboost, MoPub, Amobee, HasOffers, and Euclid Analytics.
