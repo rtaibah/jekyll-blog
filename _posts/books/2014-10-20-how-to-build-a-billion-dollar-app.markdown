@@ -385,3 +385,33 @@ How Mobile Advertising Works
 Three synonymous acronyms: Customer Acquisition Cost (CAC), Cost Per Acquisition (CPA), Cost Per Download (CPD). Optimize this. CAC is $1 and making $2 per customer, you got yourself a business! Otherwise you have a big challenge ahead of you.
 
 Mobile ad platforms: Most popular for Google is AdMob. Others are Millenial Media, iAd (from Apple,) Flurry, in Mobie, Chartboost, MoPub, Amobee, HasOffers, and Euclid Analytics.
+
+Chapter 11: Is Your App Ready For Investment
+============================================
+
+Angel Investors
+---------------
+
+People who provide that initial injection of cash to get the first version of your app off the ground (quite often friends and family.)
+
+You can find angels at [Angel List](http://angel.co). Generally Angel groups are very localised. So do some research.
+
+Venture Capitalists
+--------------------
+
+They are like normal bankers. They will lend you money. Unlike bankers, they won't charge you interest! For every 10 companies that a VC invests in, their goal is to have one company make a tenfold return, three companies to return five times the investment, three or four to break even, and two to three no return. At this stage, it's probably too early to talk to VC's.
+
+Shark as Friends
+-----------------
+
+Try to befriend VC's even if you are not looking for their money, as they see the inside of many successful and failed companies. If you know anybody at the very best investors (Accel, KPCB, Sequoia, USV) they can give you a very good steer and brilliant advice.
+
+Accelerate or Incubate
+----------------------
+
+These are popping all over the world, yet only a handful yield any kind of meaningful results. Here are some worth looking into:
+
+- YC
+- TechStars
+- SeedCamp
+- 500 Startups
