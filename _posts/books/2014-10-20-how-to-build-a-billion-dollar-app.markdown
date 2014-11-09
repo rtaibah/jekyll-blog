@@ -408,10 +408,34 @@ Try to befriend VC's even if you are not looking for their money, as they see th
 
 Accelerate or Incubate
 ----------------------
-
 These are popping all over the world, yet only a handful yield any kind of meaningful results. Here are some worth looking into:
 
 - YC
 - TechStars
 - SeedCamp
 - 500 Startups
+
+
+Chapter 12: How Much is Your App Worth and How Much Money Should You Raise?
+============================================================================
+
+> Cash flow is more important than your mother
+
+If ou are a small team with little experience and need 13 months of runway, $200k might get you there, with a lower-end spectrum valuation of $700k
+
+However if you team is more experienced/has a track record, and you need a bit more runway. You might need to raise $1M with a $4M-$5M valuation.
+
+According to Angel Capital Association, median pre money valuation of companies that are not yet generating revenue:
+
+- 2012: $2.75M
+- 2011: $2.1M
+- 2010: $1.7M
+
+This means the valuation of a typical Silicon Valley startup is $2.75M. On average, they raise about $750K, meaning they are worth $3.5M and investors own 21.42%.
+
+Convertible Loans
+------------------
+
+A convertible loan is a loan that has to be paid back with interest. The difference is the conversion feature gives the investor the option to convert into equity into your company.
+
+Convertible loans avoids the valuation discussion and the potential of 'getting it wrong.' In exchange for the the flexibility offered, investors will end up getting a discount when they convert the loan amount into equity in the next funding round (typically 20%.)
