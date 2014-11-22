@@ -1,22 +1,22 @@
 # Site navigation links
 
 - title: About
-  url: /about/
+  url: about/
 
 - title: Blog
-  url: /blog/
+  url: blog/
 
 - title: Portfolio 
-  url: /portfolio/
+  url: portfolio/
 
 - title: Photostream 
-  url: /photostream/
+  url: photostream/
 
 - title: Checkins
-  url: /checkins/
+  url: checkins/
 
 - title: Notes 
-  url: /notes/
+  url: notes/
 
 - title: Books 
-  url: /books/
+  url: books/
