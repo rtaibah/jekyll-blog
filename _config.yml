@@ -6,7 +6,7 @@ description: My Life; Online
 logo: site-logo.png
 search: true
 url: "http://rtaibah.github.io/"
-baseurl: /jekyll-blog
+baseurl: /
 
 
 
