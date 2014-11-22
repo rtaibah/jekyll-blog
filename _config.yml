@@ -5,7 +5,9 @@ locale: en_US
 description: My Life; Online 
 logo: site-logo.png
 search: true
-url: 
+url: "http://rtaibah.github.io/"
+baseurl: /jekyll-blog
+
 
 
 # Jekyll configuration
