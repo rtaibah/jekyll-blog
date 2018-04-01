@@ -1,13 +1,10 @@
----
 title: 21st Century Caveman?
-author: rami_taibah
-layout: post
-permalink: /2007/11/11/21st-century-caveman/
+author: Rami Taibah
+permalink: blog/21st-century-caveman
 categories: blog
-tags: humour musings 
-share: true
+tags: humour, musings 
+summary:  A couple of days ago while at work my boss made a funny remark on an E-mail from a vendor because of an obvious faux pas from the vendor's part. Later that day, I got two replies to that E-mail, one saying "LOL" and the other said "LMAO", I was a bit amused albeit the unprofessionalism of the whole situation, but I shrugged it off and continued working.
 
----
 
 A couple of days ago while at work my boss made a funny remark on an E-mail from a vendor because of an obvious faux pas from the vendor's part. Later that day, I got two replies to that E-mail, one saying "LOL" and the other said "LMAO", I was a bit amused albeit the unprofessionalism of the whole situation, but I shrugged it off and continued working.
 
@@ -19,4 +16,5 @@ Alas! I appeal to my readers (do they exist?), is it so hard to imagine a colleg
 
 Or is it just me who is an Internet freak (and admittingly an addict) who finds this mind boggling?
 I think I found a 21st century caveman!
+
 LOL!

@@ -1,15 +1,10 @@
----
-title: 'OpenHulu...Not!'
-author: rami_taibah
-layout: post
-permalink: /2007/12/11/openhulu-not/
-categories: blog Media
-tags: Hulu Media Piracy
-share: true
+title: OpenHulu...Not!
+author: Rami Taibah
+permalink: openhulu-not
+tags: Hulu, Media, Piracy
 
----
 
-![Open Hulu Blocked]({{site.baseurl}}/images/blog/open-hulu-blocked.jpg)
+![Open Hulu Blocked]({filename}/images/open-hulu-blocked.jpg)
 
 With the beta launch of the free TV streaming service [Hulu](http://www.hulu.com "Hulu"), lots of people are scrambling to get their hands on an invite. I for one have submitted to Hulu for an invite since October, and I got nothing. [Mohammed Saleem](http://www.muhammadsaleem.com/ "Mohammed Saleem") did an [interview](http://www.last100.com/2007/12/10/openhulu-setting-hulus-videos-free/ "interview") with [Matt](http://www.minds1anda.com/ "Matt") who found a way to get around the "closed beta" nature of the service without breaking any rules in [OpenHulu.](http://www.openhulu.com "OpenHulu.")
 

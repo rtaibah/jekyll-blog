@@ -1,18 +1,12 @@
----
 title: The Things You Find on the Internet
-author: rami_taibah
-excerpt: "Seems like there is nothing you can't buy off the Internet these days. Apparently the good fellas at Amazon.com are selling Uranium ore! Yes you heard it U-R-A-N-I-U-M! You know the stuff that would bust your balls."
-layout: post
-permalink: /2007/12/01/amazon-selling-uranium/
-categories: blog Internet
-tags: WTF Uranium Beautiful-Internet Amazon
-share: true
-
----
+author: Rami Taibah
+Summary: "Seems like there is nothing you can't buy off the Internet these days. Apparently the good fellas at Amazon.com are selling Uranium ore! Yes you heard it U-R-A-N-I-U-M! You know the stuff that would bust your balls."
+permalink: amazon-selling-uranium
+tags: WTF, Uranium, Amazon
 
 Seems like there is nothing you can't buy off the Internet these days. Apparently the good fellas at Amazon are selling [Uranium ore](http://www.amazon.com/Uranium-Ore/dp/B000796XXM)! Yes you heard it U-R-A-N-I-U-M! You know the stuff that would bust your balls.
 
-[![Uranium on Amazon.com]({{site.baseurl}}/images/blog/amazon-uranium-ore.jpg)](http://www.amazon.com/Uranium-Ore/dp/B000796XXM "Uranium on Amazon.com")
+![Uranium on Amazon.com]({filename}/images/amazon-uranium-ore.jpg)
 
 Maybe Bush should bomb Amazon. 
 
