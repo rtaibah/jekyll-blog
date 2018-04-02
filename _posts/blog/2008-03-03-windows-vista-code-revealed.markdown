@@ -1,5 +1,5 @@
 title: Windows Vista Code Revealed!!
-author: Rami Taibah 
+author: rami
 permalink: windows-vista-code-revealed
 tags: Humour, Microsoft, Windows Vista
 

@@ -1,5 +1,5 @@
 title: Why Dont You Throw Your Cube into an Aquarium?
-author: Rami Taibah 
+author: rami
 permalink: /2008/09/why-dont-you-throw-your-cube-in-an-aquarium/
 tags: Eye Candy, Apps, Compiz, Linux
 

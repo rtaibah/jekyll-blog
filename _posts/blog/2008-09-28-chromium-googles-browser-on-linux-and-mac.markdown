@@ -1,5 +1,5 @@
 title: Chromium: Googles Browser on Linux and Mac!
-author: Rami Taibah 
+author: rami
 permalink: /2008/09/chromium-googles-browser-on-linux-and-mac/
 tags: Howto, Linuxologist, Apps, Chrome, Google
 

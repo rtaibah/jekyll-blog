@@ -1,5 +1,5 @@
 title: Oh Noes! Ubuntu Got Pwned by an XP Virus!
-author: Rami Taibah 
+author: rami
 permalink: oh-noes-ubuntu-got-pwned-by-an-xp-virus
 tags: Humour, Linux, Ubuntu
 

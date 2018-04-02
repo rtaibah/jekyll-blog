@@ -1,5 +1,5 @@
 title: Caption This! And Win!!
-author: Rami Taibah
+author: rami
 permalink: caption-this-and-win
 tags: contest, caption
 

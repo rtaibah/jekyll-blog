@@ -1,5 +1,5 @@
 title: eee pc...Finally!
-author: Rami Taibah
+author: rami
 permalink: eee-pc-finally
 tags: eee-pc, Asus, Gadgets, Xandros, eeexubuntu
 

@@ -1,5 +1,5 @@
 title: Scootch Over Tux, Its Gentoo The Cats Time Now!
-author: Rami Taibah 
+author: rami
 Summary: In a recent very popular blog post of mine, Etymology of A Distro, I mentioned that I convinced a friend to name her cat "Gentoo". And since we all know that the Internet is basically made out of tubes and cat pictures, I decided to treat it as a dump truck and load all the Gentoo The Cat pictures! Watch out, your "internets" will get delayed by a few more seconds.
 permalink: scootch-over-tux-its-gentoo-the-cats-time-now
 tags: Humour, Linux, Gentoo, Cats

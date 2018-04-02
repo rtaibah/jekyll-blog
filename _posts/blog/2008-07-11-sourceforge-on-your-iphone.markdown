@@ -1,5 +1,5 @@
 title: Sourceforge on Your iPhone!
-author:  Rami Taibah
+author: rami
 permalink: sourceforge-on-your-iphone
 tags: Sourceforge, iPhone
 

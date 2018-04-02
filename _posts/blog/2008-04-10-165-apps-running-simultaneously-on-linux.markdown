@@ -1,5 +1,5 @@
 title: 165 Apps Running Simultaneously On Linux
-author: Rami Taibah 
+author: rami
 permalink: 165-apps-running-simultaneously-on-linux
 tags: Linux
 

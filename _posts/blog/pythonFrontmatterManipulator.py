@@ -108,9 +108,9 @@ def changeTags(filename):
 #  fo.close()
 
 
-for filename in glob.iglob(os.path.join('*.md')):
+for filename in glob.iglob(os.path.join('*.markdown')):
     changeAuthor(filename)
-    #changeLayout(filename)
+    changeLayout(filename)
     #changeCategory(filename)
     #changeTags(filename)
     #deleteShorturls(filename)

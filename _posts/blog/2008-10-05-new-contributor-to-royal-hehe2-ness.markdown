@@ -1,5 +1,5 @@
 title: New Contributor To Royal HeHe2-ness!
-author: Rami Taibah 
+author: rami
 permalink: /2008/10/new-contributor-to-royal-hehe2-ness/
 tags: Offtopic, Announcements
 

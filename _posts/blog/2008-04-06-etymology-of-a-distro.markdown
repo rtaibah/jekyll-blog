@@ -1,5 +1,5 @@
 title: Etymology of A Distro
-author: Rami Taibah
+author: rami
 permalink: etymology-of-a-distro
 tags: Linux, BSD, Distro
 

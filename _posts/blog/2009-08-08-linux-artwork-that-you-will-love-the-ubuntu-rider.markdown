@@ -1,5 +1,5 @@
 title: Linux Artwork That You Will Love: The Ubuntu Rider
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: linux-artwork-that-you-will-love-the-ubuntu-rider/
 categories: blog Linux Linuxologist

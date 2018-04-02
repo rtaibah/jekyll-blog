@@ -1,5 +1,5 @@
 title: 10 Cool Open Source Easter Eggs
-author: Rami Taibah
+author: rami
 layout: post
 permalink: 10-cool-open-source-easter-eggs
 tags: Linux, Open Source, Writer, OpenOffice, Calc, Kexi, Sudoku, Amarok, KDE, GNOME, Easter Eggs, Apt, Super Cow, Book o Mozilla

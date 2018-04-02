@@ -1,5 +1,5 @@
 title: Give Yourself A Pat on the Back! We Did It!
-author: Rami Taibah 
+author: rami
 permalink: give-yourself-a-pat-on-the-back-we-did-it
 tags: Firefox, Mozilla, Guiness World Record
 

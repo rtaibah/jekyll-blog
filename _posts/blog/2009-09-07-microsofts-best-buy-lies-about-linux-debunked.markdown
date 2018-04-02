@@ -1,6 +1,6 @@
 ---
 title: Microsofts Best Buy Lies About Linux Debunked
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/09/microsofts-best-buy-lies-about-linux-debunked/
 tags: microsoft, linux, FUD, netbooks, hardware 

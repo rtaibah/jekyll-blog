@@ -1,5 +1,5 @@
 title: Run Windows Apps 100% Seamlessly on Ubuntu!
-author: Rami Taibah 
+author: rami
 permalink: /2008/09/run-windows-apps-100-seamlessly-on-ubuntu/
 tags: Linux, Linuxologist, Windows, Ubuntu
 

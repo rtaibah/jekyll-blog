@@ -1,6 +1,6 @@
 ---
 title: The Linuxologist Nominated For Bloggers Choice Awards 09; Vote and WIN!
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/08/the-linuxologist-nominated-for-bloggers-choice-awards-09/
 tags: linuxologist, off-topic

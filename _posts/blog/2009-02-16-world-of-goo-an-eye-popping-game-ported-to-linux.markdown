@@ -1,5 +1,5 @@
 title: World of Goo: An Eye Popping Game Ported to Linux
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/02/world-of-goo-an-eye-popping-game-ported-to-linux/
 tags: Games, Linux, World of Goo

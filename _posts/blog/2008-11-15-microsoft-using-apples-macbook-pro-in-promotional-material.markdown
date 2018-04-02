@@ -1,5 +1,5 @@
 title: Microsoft Using Apples Macbook Pro In Promotional Material?
-author: Rami Taibah 
+author: rami
 permalink: /2008/11/microsoft-using-apples-macbook-pro-in-promotional-material/
 tags: Microsoft, Vista, Playstation, Macbook, Apple
 

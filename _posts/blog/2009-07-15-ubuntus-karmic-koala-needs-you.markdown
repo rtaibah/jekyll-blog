@@ -1,6 +1,6 @@
 ---
 title: Ubuntus Karmic Koala Needs You!
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/07/ubuntus-karmic-koala-needs-you/
 tags: ubuntu, linux, eye-candy

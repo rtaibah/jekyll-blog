@@ -1,5 +1,5 @@
 title: Demonoid is Back! Rejoice!...Well Everybody Except for Saudis!
-author: Rami Taibah 
+author: rami
 permalink: demonoid-is-back-rejoicewell-everybody-except-for-saudis
 tags: Torrents, Internet, Demonoid
 

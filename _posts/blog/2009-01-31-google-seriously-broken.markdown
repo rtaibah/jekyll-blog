@@ -1,5 +1,5 @@
 title: Google Seriously Broken
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/01/google-seriously-broken/
 tags: Google

@@ -1,5 +1,5 @@
 title: PlatHomes Will Linux Work? Contest
-author: Rami Taibah 
+author: rami
 permalink: /2008/08/plathomes-will-linux-work-contest/
 tags: Plathome, Linux, Hardware
 

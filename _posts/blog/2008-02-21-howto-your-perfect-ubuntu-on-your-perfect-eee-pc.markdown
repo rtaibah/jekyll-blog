@@ -1,5 +1,5 @@
 title: Howto: Your Perfect Ubuntu on Your Perfect Eee PC
-author: Rami Taibah 
+author: rami
 permalink: howto-your-perfect-ubuntu-on-your-perfect-eee-pc
 tags: eee-pc, Ubuntu, howto
 

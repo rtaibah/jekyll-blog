@@ -1,5 +1,5 @@
 title: 100 Posts Later....Royal HeHe2-ness Finds A New Temple
-author: Rami Taibah 
+author: rami
 permalink: /2008/09/100-posts-laterroyal-hehe2-ness-finds-a-new-temple/
 tags: Linuxologist, Offtopic
 

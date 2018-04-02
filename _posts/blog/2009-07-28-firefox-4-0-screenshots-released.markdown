@@ -1,6 +1,6 @@
 ---
 title: Firefox 4.0 Screenshots Released
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/07/firefox-4-0-screenshots-released/
 tags: firefox, apps, ux

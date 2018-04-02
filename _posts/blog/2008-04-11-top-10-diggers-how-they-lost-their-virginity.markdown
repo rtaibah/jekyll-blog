@@ -1,5 +1,5 @@
 title: Top 10 Diggers: How They Lost Their "Virginity"
-author: Rami Taibah 
+author: rami
 permalink: top-10-diggers-how-they-lost-their-virginity
 tags: Digg, Social Media
 

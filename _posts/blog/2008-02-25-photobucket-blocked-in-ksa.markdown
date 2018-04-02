@@ -1,5 +1,5 @@
 title: After the Pakistan/Youtube Debacle...Saudi Arabia Decides to Block Photobucket!
-author: Rami Taibah 
+author: rami
 permalink: photobucket-blocked-in-ksa
 tags: censorship,photobucket,Saudi Arabia
 

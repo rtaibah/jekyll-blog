@@ -1,5 +1,5 @@
 title: Ubuntu Hardy Heron: A First Look
-author: Rami Taibah 
+author: rami
 Summary: "Ubuntu has established itself as one of the most user friendly and easy Linux distro out there. So much expectation revolves around this release, and finally the wait is over! Let's have a quick run down on what Hardy brings on the table, and how it weighs against these expectations."
 permalink: 2008/04/ubuntu-hardy-heron-a-first-look
 tags: Ubuntu, Linux

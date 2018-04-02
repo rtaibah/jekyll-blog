@@ -1,5 +1,5 @@
 title: Multitouch + Tethering + Task Tanager for Android G1
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/02/howto-multitouch-tethering-task-manager-for-android-g1/
 tags: Android, Gadgets, Mobile Phone

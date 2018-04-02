@@ -1,5 +1,5 @@
 title: Lessons Linux Should Learn From Windows and Mac
-author: Rami Taibah 
+author: rami
 permalink: /2008/10/things-we-could-learn-from-windows-and-mac/
 tags: Linux, Linuxologist, Windows, Mac OSX, Observations
 

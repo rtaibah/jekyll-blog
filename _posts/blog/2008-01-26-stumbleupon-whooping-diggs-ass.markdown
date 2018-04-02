@@ -1,5 +1,5 @@
 title: StumbleUpon Whooping Diggs Ass!
-author: Rami Taibah
+author: rami
 permalink: stumbleupon-whooping-diggs-ass
 tags: StumbleUpon, Digg, Social Media, Problogger
 

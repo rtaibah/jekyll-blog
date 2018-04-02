@@ -1,5 +1,5 @@
 title: A Linux Family Tragedy
-author: Rami Taibah 
+author: rami
 permalink: a-linux-family-tragedy/
 tags: Humour, Linux
 

@@ -1,5 +1,5 @@
 title: Crysis Running on Wine?
-author: Rami Taibah 
+author: rami
 permalink: crysis-running-on-wine
 tags: Linux, Wine, Crysis
 

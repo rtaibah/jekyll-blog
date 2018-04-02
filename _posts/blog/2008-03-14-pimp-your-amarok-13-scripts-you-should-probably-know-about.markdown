@@ -1,5 +1,5 @@
 title: Pimp your Amarok: 13 Scripts You Should Know About
-author: Rami Taibah 
+author: rami
 permalink: pimp-your-amarok-13-scripts-you-should-probably-know-about
 tags: Amarok, Linux
 

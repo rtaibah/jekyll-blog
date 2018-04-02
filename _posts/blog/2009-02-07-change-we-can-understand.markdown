@@ -1,5 +1,5 @@
 title: Change We Can Understand
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/02/change-we-can-understand/
 tags: PSA

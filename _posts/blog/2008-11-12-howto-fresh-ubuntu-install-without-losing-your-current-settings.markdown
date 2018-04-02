@@ -1,5 +1,5 @@
 title: Howto: Fresh Ubuntu Install Without Losing Your Current Settings
-author: Rami Taibah 
+author: rami
 permalink: /2008/11/howto-fresh-ubuntu-install-without-losing-your-current-settings/
 tags: Ubuntu, Howto, Linux, Linuxologist
 

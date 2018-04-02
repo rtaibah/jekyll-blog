@@ -1,5 +1,5 @@
 title: Chumby: The Newest Gadget On My Wishlist!
-author: Rami Taibah
+author: rami
 layout: post
 permalink: chumby-the-newest-gadget-on-my-wishlist
 tags: Chumby, Gadgets

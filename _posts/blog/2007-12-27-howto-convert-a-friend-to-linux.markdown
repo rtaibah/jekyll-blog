@@ -1,5 +1,5 @@
 title: HOWTO: Convert A Friend To Linux
-author: Rami Taibah
+author: rami
 permalink: howto-convert-a-friend-to-linux
 tags: Linux, Humor, Howto
 

@@ -1,5 +1,5 @@
 title: 7 Cool (and Functional) Android Applications [Video Tour]
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2008/12/7-cool-and-functional-android-applications-video-tour/
 tags: Apps, Android, Mobile 

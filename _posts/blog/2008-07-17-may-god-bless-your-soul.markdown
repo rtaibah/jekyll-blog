@@ -1,5 +1,5 @@
 title: May God Bless Your Soul...
-author: Rami Taibah 
+author: rami
 permalink: may-god-bless-your-soul
 tags: personal 
 

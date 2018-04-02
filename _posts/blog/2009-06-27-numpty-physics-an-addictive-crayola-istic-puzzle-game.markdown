@@ -1,6 +1,6 @@
 ---
 title: "Numpty Physics: An Addictive Crayola-istic Puzzle Game!"
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/06/numpty-physics-an-addictive-crayola-istic-puzzle-game/
 tags: linux, geek, gaming

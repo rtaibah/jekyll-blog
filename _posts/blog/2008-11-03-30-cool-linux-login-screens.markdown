@@ -1,5 +1,5 @@
 title: 30 Cool Linux Login Screens
-author:  Rami Taibah
+author: rami
 permalink: /2008/11/30-cool-linux-login-screens/
 tags: Eye Candy, Linux, Linguxologist, Gnome, KDE, Login Screens
 

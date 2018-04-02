@@ -1,5 +1,5 @@
 title: 30 Blogs Every Open Source Enthusiast Should Keep an Eye On
-author: Rami Taibah 
+author: rami
 permalink: 02/30-blogs-every-open-source-enthusiast-should-keep-an-eye-on
 tags: Linux, Blogs
 

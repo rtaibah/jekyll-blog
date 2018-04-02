@@ -1,5 +1,5 @@
 title: Plat Home : The Palm Size Linux Server
-author: Rami Taibah 
+author: rami
 permalink: plathome-the-palm-size-linux-server
 tags: Hardware, Linux 
 

@@ -1,6 +1,6 @@
 ---
 title: 3 Great Ways To Rotate Your Linux Desktop
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/03/3-great-ways-to-rotate-your-linux-desktop/
 Category:

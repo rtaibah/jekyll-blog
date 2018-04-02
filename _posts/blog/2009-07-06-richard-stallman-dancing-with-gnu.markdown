@@ -1,6 +1,6 @@
 ---
 title: Richard Stallman Dancing With GNU!
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/07/richard-stallman-dancing-with-gnu/
 tags: humor, linux, gnu, off-topic

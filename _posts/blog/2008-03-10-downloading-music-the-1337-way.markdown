@@ -1,5 +1,5 @@
 title: Downloading Music the 1337 Way!
-author: Rami Taibah 
+author: rami
 permalink: downloading-music-the-1337-way
 tags: Bash Scripting, Linux, Music, Howto
 

@@ -1,5 +1,5 @@
 title: xkcd Comics Inspired by Royal HeHe2-ness?
-author: Rami Taibah 
+author: rami
 permalink: xkcd-comics-inspired-by-royal-hehe2-ness
 tags: xkcd, linux, amarok, web comics
 

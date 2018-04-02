@@ -1,5 +1,5 @@
 title: Show Me The Money! Blog and Get Paid with Snapbomb
-author: Rami Taibah 
+author: rami
 permalink: show-me-the-money-blog-and-get-paid-with-snapbomb
 tags: Snapbomb, blogging
 

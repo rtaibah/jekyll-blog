@@ -1,5 +1,5 @@
 title: Linux + Compiz + Touchscreen = Lethal Combo
-author: Rami Taibah 
+author: rami
 permalink: /2008/09/linux-compiz-touchscreen-lethal-combo/
 tags: Eye Candy, Linux, Linuxologist
 

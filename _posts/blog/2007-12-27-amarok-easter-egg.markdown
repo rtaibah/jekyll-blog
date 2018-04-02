@@ -1,5 +1,5 @@
 title: Amarok Easter Egg
-author: Rami Taibah
+author: rami
 permalink: amarok-easter-egg
 tags: Amarok, Easter Egg, Linux
 

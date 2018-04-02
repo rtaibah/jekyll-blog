@@ -1,5 +1,5 @@
 title: Linux: A Search Engines View
-author: Rami Taibah 
+author: rami
 permalink: linux-a-search-engines-view
 tags: Linux, Google, Ubuntu, Microsoft
 

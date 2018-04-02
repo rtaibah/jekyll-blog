@@ -1,5 +1,5 @@
 title: Linux on the iPhone! Why Should You Care?
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2008/11/linux-on-the-iphone-why-should-you-care/
 tags: Linux, Linuxologist, iPhone, Mobile

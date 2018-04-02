@@ -1,5 +1,5 @@
 title: Create Your Own Linux Distro!
-author: Rami Taibah 
+author: rami
 permalink: create-your-own-linux-distro
 tags: NimbleX, Linux
 

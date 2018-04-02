@@ -1,5 +1,5 @@
 title: Wicd: The Solution For All Your Linux Wireless Woes!
-author: Rami Taibah
+author: rami
 permalink: wicd-the-solution-for-all-your-linux-wireless-woes
 tags: Linux, Wicd, Wireless
 summary: Last week I got a phone call from my cousin asking for help with his laptop, and apparently my Linux evangelism paid off and I heard from the other end "Rami, I want you to install Linux on my laptop." Like any Linux geek, I happily obliged. I burned an Ubuntu Gutsy CD and installed it for him. Besides some auto mounting glitches that were fixed fairly quickly, everything went fine.

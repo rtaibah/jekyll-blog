@@ -1,5 +1,5 @@
 title: Get The Most Out of Social Media on Ubuntu
-author: Rami Taibah 
+author: rami
 permalink: get-the-most-out-of-social-media-on-ubuntu
 tags: Linux, Ubuntu, Social Media
 

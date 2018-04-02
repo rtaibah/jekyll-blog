@@ -1,5 +1,5 @@
 title: 5 Linux Commercials I Like
-author: Rami Taibah 
+author: rami
 permalink: /2008/08/5-linux-commercials-i-like/
 tags: Linux, Commercials, Advocacy
 

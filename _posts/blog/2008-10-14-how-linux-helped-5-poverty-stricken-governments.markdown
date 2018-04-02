@@ -1,5 +1,5 @@
 title: How Linux Helped 5 Poverty-Stricken Governments
-author: Rami Taibah 
+author: rami
 permalink: /2008/10/how-linux-helped-5-poverty-stricken-governments/
 tags: Blog Action Day, Poverty, Linux, Linuxologist, Spain, Brazil, India, Russia, Phillipines
 

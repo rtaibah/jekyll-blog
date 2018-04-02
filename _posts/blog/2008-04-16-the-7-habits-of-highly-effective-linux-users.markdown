@@ -1,5 +1,5 @@
 title: The 7 Habits of Highly Effective Linux Users
-author: Rami Taibah 
+author: rami
 permalink: the-7-habits-of-highly-effective-linux-users
 tags: Linux
 

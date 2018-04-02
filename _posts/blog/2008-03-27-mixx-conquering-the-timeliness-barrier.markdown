@@ -1,5 +1,5 @@
 title: Mixx Conquering the "Timeliness" Barrier!
-author: Rami Taibah 
+author: rami
 permalink: mixx-conquering-the-timeliness-barrier
 tags: Mixx, Social Media, Digg
 

@@ -1,6 +1,6 @@
 ---
 title: "Howto: Add Your Facebook Friends to Pidgin"
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/07/howto-add-your-facebook-friends-to-pidgin/
 tags: social media, pidgin, apps, linux

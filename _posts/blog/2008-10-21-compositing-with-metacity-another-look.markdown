@@ -1,5 +1,5 @@
 title: Compositing With Metacity -- An Early Look
-author: Rami Taibah 
+author: rami
 permalink: /2008/10/compositing-with-metacity-another-look/
 tags: Metacity, Linux, Compositing, Linuxologist
 

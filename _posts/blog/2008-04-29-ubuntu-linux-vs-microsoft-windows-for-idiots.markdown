@@ -1,5 +1,5 @@
 title: Ubuntu Linux vs. Microsoft Windows For Dummies
-author: Rami Taibah 
+author: rami
 permalink: ubuntu-linux-vs-microsoft-windows-for-idiots
 tags: Humour, Linux, Windows 
 

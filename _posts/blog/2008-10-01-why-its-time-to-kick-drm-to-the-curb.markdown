@@ -1,5 +1,5 @@
 title: Why DRM Should Be Kicked to The Curb
-author: Ian McLean 
+author: rami
 permalink: /2008/10/why-its-time-to-kick-drm-to-the-curb/
 tags: DRM, Advocacy, Technology, Microsoft, Adobe, Spore, SecuROM, Linuxologist, Guest Post
 

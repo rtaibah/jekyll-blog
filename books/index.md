@@ -1,7 +1,9 @@
 ---
+
 layout: page
 title: Books 
 excerpt: "Summarizing books I've read. For my own personal use; shared with the world."
+
 ---
 
 <ul class="post-list">

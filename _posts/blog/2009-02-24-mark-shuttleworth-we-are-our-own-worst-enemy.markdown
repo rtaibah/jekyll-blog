@@ -1,5 +1,5 @@
 title: Mark Shuttleworth: We are our own worst enemy
-author: Rami Taibah 
+author: rami
 permalink: /2009/02/mark-shuttleworth-we-are-our-own-worst-enemy/
 tags: Linux, Ubuntu, Mark Shuttleworth 
 

@@ -1,5 +1,5 @@
 title: Interview With The SourceForge Community Manager
-author: Rami Taibah 
+author: rami
 permalink: /2008/08/interview-with-a-sourceforge-community-manager/
 tags: Sourceforge, Interview, Linux, Advocacy
 

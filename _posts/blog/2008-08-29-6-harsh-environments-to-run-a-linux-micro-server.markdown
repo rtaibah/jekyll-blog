@@ -1,5 +1,5 @@
 title: 6 Harsh Environments to Run A Linux Micro-Server
-author: Rami Taibah 
+author: rami
 permalink: /2008/08/6-harsh-environments-to-run-a-linux-micro-server/
 tags: Plathome, Hardware, Linux, Linuxologist
 

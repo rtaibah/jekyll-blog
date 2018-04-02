@@ -1,5 +1,5 @@
 title: Intrepid Ibex Release Schedule
-author: Rami Taibah 
+author: rami
 permalink: intrepid-ibex-release-schedule
 tags: Ubuntu, Linux
 

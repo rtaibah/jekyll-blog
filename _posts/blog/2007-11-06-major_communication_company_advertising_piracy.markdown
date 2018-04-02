@@ -1,7 +1,7 @@
 ---
 
 title: Major Communications Company Advertising Piracy?
-author: rami 
+author: rami
 layout: post
 permalink: /2007/11/06/major_communication_company_advertising_piracy/
 category: blog

@@ -1,5 +1,5 @@
 title: UKs Linux User Group Scene
-author: Rami Taibah 
+author: rami
 permalink: uk-lug-scene
 tags: Linux, Advocacy
 

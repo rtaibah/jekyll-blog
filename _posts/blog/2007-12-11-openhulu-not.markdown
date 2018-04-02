@@ -1,5 +1,5 @@
 title: OpenHulu...Not!
-author: Rami Taibah
+author: rami
 permalink: openhulu-not
 tags: Hulu, Media, Piracy
 

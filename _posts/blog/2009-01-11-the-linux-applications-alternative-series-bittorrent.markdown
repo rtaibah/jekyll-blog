@@ -1,5 +1,5 @@
 title: The Linux Applications Alternative Series: Bittorrent
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/01/the-linux-applications-alternative-series-bittorrent/
 tags: Apps, Bittorrent, Linux

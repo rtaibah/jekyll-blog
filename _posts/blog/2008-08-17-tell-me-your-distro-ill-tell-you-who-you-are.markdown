@@ -1,5 +1,5 @@
 title: Tell Me Your Distro, Ill Tell You Who You Are
-author:  Rami Taibah
+author: rami
 permalink: /2008/08/tell-me-your-distro-ill-tell-you-who-you-are/
 tags: Linux, Distros, Anime
 

@@ -1,5 +1,5 @@
 title: Envelopes 15 Minutes of Fame!
-author: Rami Taibah
+author: rami
 permalink: envelopes-15-minutes-of-fame
 tags: Macbook Air, humour, parody, Apple
 

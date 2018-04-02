@@ -1,5 +1,5 @@
 title: Toshiba Qosmio vs. Sony Vaio TZ vs. eee PC
-author: Rami Taibah 
+author: rami
 permalink: toshiba-qosmio-vs-sony-vaio-tz-vs-eee-pc
 tags: eee-pc, Toshiba, Qosmio, Sony, Vaio
 

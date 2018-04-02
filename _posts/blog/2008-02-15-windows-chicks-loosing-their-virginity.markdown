@@ -1,5 +1,5 @@
 title: Windows Chicks Losing Their Virginity!!
-author: Rami Taibah 
+author: rami
 permalink: windows-chicks-loosing-their-virginity
 tags: Windows, Microsoft, Linux, Humour
 

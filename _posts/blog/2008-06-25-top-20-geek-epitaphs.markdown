@@ -1,5 +1,5 @@
 title: 20 Great Geek Epitaphs
-author: Rami Taibah 
+author: rami
 excerpt: 'What would the best geek epitaph be?. This immediately caught my attention as the question posed is fertile for for outrageous humor, witty comments, and downright geeky cheekiness. Here are some beaming examples:'
 permalink: top-20-geek-epitaphs
 tags: Humour, Geek

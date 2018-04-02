@@ -1,5 +1,5 @@
 title: Ext4 Filesystem Explained in Plain English
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/01/ext4-filesystem-explained-in-plain-english/
 categories: Linux, EXT, Filesystems 

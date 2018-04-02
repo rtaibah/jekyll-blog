@@ -1,6 +1,6 @@
 ---
 title: Never Reboot Again With Ksplice!
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/07/never-reboot-again-with-ksplice/
 tags: apps, linux

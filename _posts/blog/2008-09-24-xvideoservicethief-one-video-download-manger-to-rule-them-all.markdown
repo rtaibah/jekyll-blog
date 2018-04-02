@@ -1,5 +1,5 @@
 title: xVideoServiceThief: One Video Download Manager to Rule Them All!
-author: Rami Taibah 
+author: rami
 permalink: /2008/09/xvideoservicethief-one-video-download-manger-to-rule-them-all/
 tags: Apps, Howto, Internet, Linuxologist
 

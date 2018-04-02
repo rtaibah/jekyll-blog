@@ -1,5 +1,5 @@
 title: Thinnest Laptop in the World?....Pffft!!
-author: Rami Taibah
+author: rami
 permalink: thinnest-laptop-in-the-world-pfft
 tags: Macbook Air, Apple, Steve Jobs
 summary: Well Steve Jobs just finished his keynote speech announcing the much rumored Macbook Air. Which measures 0.16-inches at its thinnest point, while its maximum height of 0.76-inches! Impressive huh?? Apple are touting the MBA as the thinnest laptop in the world. Or is it?

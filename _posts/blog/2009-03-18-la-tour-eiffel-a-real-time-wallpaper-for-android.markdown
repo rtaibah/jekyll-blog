@@ -1,6 +1,6 @@
 ---
 title: "La Tour Eiffel: A Real-time Wallpaper For Android"
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/03/la-tour-eiffel-a-real-time-wallpaper-for-android/
 category: 

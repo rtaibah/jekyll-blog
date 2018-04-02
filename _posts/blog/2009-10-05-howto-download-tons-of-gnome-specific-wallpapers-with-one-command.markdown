@@ -1,6 +1,6 @@
 ---
 title: 'Howto: Download Tons of GNOME-Specific Wallpapers With One Command'
-author: rami_taibah
+author: rami
 layout: post
 permalink: /2009/10/howto-download-tons-of-gnome-specific-wallpapers-with-one-command/
 tags: gnome, eye candy, wallpapers, linux

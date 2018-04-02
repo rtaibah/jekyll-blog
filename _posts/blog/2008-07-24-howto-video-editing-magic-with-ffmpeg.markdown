@@ -1,5 +1,5 @@
 title: HOWTO: Video Editing Magic with ffmpeg
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: howto-video-editing-magic-with-ffmpeg/
 tags: Linux, ffmpeg

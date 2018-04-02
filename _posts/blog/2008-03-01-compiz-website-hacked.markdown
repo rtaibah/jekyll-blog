@@ -1,5 +1,5 @@
 title: Compiz Website Hacked?
-author: Rami Taibah
+author: rami
 permalink: compiz-website-hacked
 tags: Compiz
 

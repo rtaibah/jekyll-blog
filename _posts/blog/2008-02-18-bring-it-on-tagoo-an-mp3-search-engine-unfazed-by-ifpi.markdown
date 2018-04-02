@@ -1,5 +1,5 @@
 title: Bring It On! Tagoo, an MP3 search engine unfazed by IFPI!
-author: Rami Taibah 
+author: rami
 permalink: /2008/02/bring-it-on-tagoo-an-mp3-search-engine-unfazed-by-ifpi/
 tags: Oink, Tagoo, AllOfMp3, Piracy
 

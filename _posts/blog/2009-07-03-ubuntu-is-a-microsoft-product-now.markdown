@@ -1,6 +1,6 @@
 ---
 title: Ubuntu is A Microsoft Product Now!
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/07/ubuntu-is-a-microsoft-product-now/
 tags: ubuntu, linux, microsoft, humor

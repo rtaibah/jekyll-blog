@@ -1,5 +1,5 @@
 title: I Hate April Fools Day!
-author: Rami Taibah 
+author: rami
 permalink: i-hate-april-fools-day
 tags: Digg, April Fools, Social Media 
 

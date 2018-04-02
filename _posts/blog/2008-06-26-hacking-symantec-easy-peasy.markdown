@@ -1,5 +1,5 @@
 title: Hacking Symantec: Easy Peasy
-author: Rami Taibah
+author: rami
 permalink: hacking-symantec-easy-peasy
 tags: Security
 

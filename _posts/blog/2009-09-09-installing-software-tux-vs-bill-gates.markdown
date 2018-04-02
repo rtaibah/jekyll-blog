@@ -1,6 +1,6 @@
 ---
 title: "Installing Software: Tux VS. Bill Gates"
-author: Rami Taibah 
+author: rami
 layout: post
 categories: Linux Microsoft Blog
 tags: linux, microsoft 

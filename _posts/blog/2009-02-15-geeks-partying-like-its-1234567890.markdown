@@ -1,6 +1,6 @@
 ---
 title: Geeks Partying Like Its 1234567890
-author: rami_taibah
+author: rami
 layout: post
 permalink: /2009/02/geeks-partying-like-its-1234567890/
 tags: Unix, Video, Linux, Geek 

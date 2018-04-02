@@ -1,5 +1,5 @@
 title: HOWTO: Optimize Your Eee PC Screen Real Estate
-author: Rami Taibah 
+author: rami
 permalink: howto-optimize-your-eee-pc-screen-real-estate
 tags: eee-pc, Howto
 

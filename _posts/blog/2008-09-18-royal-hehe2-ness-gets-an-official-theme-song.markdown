@@ -1,5 +1,5 @@
 title: Royal HeHe2-ness Gets an Official Theme Song!
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2008/09/royal-hehe2-ness-gets-an-official-theme-song/
 tags: Linuxologist, offtopic

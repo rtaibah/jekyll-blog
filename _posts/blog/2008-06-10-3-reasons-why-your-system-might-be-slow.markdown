@@ -1,5 +1,5 @@
 title: 3 Reasons Why Your System Might Be Slow
-author: Rami Taibah 
+author: rami
 permalink: 3-reasons-why-your-system-might-be-slow
 tags: Howto, Linux
 

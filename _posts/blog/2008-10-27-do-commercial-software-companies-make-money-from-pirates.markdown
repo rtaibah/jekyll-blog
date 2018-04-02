@@ -1,5 +1,5 @@
 title: Piracy Hurts Open Source Also!
-author: Ian McLean 
+author: rami
 permalink: /2008/10/do-commercial-software-companies-make-money-from-pirates/
 tags: Piracy, DRM, Linux, Linuxologist
 

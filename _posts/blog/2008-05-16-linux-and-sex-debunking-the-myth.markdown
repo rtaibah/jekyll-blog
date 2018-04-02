@@ -1,5 +1,5 @@
 title: Linux and Sex: Debunking the Myth
-author: Rami Taibah 
+author: rami
 permalink: linux-and-sex-debunking-the-myth
 tags: Humour
 

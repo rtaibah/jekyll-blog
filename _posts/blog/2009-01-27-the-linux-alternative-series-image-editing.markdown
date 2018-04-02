@@ -1,5 +1,5 @@
 title: The Linux Alternative Series: Image Editing
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/01/the-linux-alternative-series-image-editing/
 tags: 

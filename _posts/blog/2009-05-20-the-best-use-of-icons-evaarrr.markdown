@@ -1,6 +1,6 @@
 ---
 title: The Best Use of Icons EVAARRR!
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/05/the-best-use-of-icons-evaarrr/
 tags: humor, geek

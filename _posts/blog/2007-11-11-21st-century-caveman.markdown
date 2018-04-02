@@ -1,5 +1,5 @@
 title: 21st Century Caveman?
-author: Rami Taibah
+author: rami
 permalink: blog/21st-century-caveman
 categories: blog
 tags: humour, musings 

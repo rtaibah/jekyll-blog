@@ -1,5 +1,5 @@
 title: Even More Incriminating Evidence in The Foxconn Debacle!
-author: Rami Taibah 
+author: rami
 permalink: even-more-incriminating-evidence-in-the-foxconn-debacle
 tags: Microsoft, Linux, Foxconn
 

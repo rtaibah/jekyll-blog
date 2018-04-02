@@ -1,5 +1,5 @@
 title: 10 Slick Linux Desktops, and How To Make Them
-author: Rami Taibah 
+author: rami
 permalink: 10-slick-linux-desktops-and-how-to-make-them
 tags: Eye Candy, Desktops, Linux
 

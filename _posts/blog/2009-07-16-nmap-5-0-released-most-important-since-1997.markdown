@@ -1,6 +1,6 @@
 ---
 title: "Nmap 5.0 Released: Most Important Since 1997!"
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/07/nmap-5-0-released-most-important-since-1997/
 tags: security, nmap, news

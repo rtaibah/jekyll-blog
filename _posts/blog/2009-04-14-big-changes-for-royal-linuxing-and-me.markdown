@@ -1,7 +1,7 @@
 ---
 
 title: Big Changes for Royal Linuxing! (and me)
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/04/big-changes-for-royal-linuxing-and-me/
 category: blog, Linuxologist

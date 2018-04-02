@@ -1,6 +1,6 @@
 ---
 title: 13 Linux Graffiti Art From Around The World
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/08/11/13-linux-graffiti-art-from-around-the-world/
 categories: Linux Blog

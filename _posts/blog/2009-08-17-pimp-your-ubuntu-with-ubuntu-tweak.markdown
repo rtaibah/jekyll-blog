@@ -1,6 +1,6 @@
 ---
 title: Pimp Your Ubuntu With Ubuntu Tweak!
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/08/pimp-your-ubuntu-with-ubuntu-tweak/
 tags: ubuntu,  linux, eye candy 

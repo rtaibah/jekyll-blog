@@ -1,6 +1,6 @@
 ---
 title: "Back To Basics: Identify Your Computer Ports"
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/07/back-to-basics-identify-your-computer-ports/
 tags: geek, hardware

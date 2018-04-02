@@ -1,5 +1,5 @@
 title: Debunking the Microsoft Windows User Friendliness Myth!
-author: Rami Taibah 
+author: rami
 permalink: debunking-the-microsoft-windows-user-friendliness-myth
 tags: Microsoft, Windows, Advocacy, Linux, eee-pc, Printing 
 

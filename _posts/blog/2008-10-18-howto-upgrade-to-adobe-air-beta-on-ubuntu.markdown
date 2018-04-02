@@ -1,5 +1,5 @@
 title: Howto: Upgrade to Adobe Air Beta on Ubuntu
-author: Rami Taibah 
+author: rami
 permalink: /2008/10/howto-upgrade-to-adobe-air-beta-on-ubuntu/
 tags: Howto, Linux, Linuxologist, Adobe, Apps
 

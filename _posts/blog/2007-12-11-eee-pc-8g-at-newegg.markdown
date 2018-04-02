@@ -1,5 +1,5 @@
 title: Asus eee pc 8G Available At Newegg!
-author: Rami Taibah
+author: rami
 permalink: eee-pc-8g-at-newegg
 tags: eee-pc, Gadgets, Asus
 

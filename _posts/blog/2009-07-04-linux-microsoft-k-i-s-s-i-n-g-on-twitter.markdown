@@ -1,6 +1,6 @@
 ---
 title: Linux & Microsoft K-I-S-S-I-N-G On Twitter
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/07/linux-microsoft-k-i-s-s-i-n-g-on-twitter/
 tags: linux, microsoft, twitter, humor

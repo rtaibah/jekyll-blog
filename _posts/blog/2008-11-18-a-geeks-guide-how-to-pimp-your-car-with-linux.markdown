@@ -1,5 +1,5 @@
 title: A Geeks Guide: How To Pimp Your Car With Linux
-author: Ian Mclean 
+author: rami
 permalink: /2008/11/a-geeks-guide-how-to-pimp-your-car-with-linux/
 tags: Car, Linux, Stereo, Linuxologist
 

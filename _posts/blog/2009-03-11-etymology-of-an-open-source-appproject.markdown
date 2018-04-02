@@ -1,5 +1,5 @@
 title: Etymology of an Open Source App/Project
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/03/etymology-of-an-open-source-appproject/
 tags: Linux, Open Source

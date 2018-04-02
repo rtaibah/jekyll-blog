@@ -1,6 +1,6 @@
 ---
 title: 'GNOME-Colors: Consistence and Elegance For GNOME Desktops'
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/07/gnome-colors-consistence-and-elegance-for-gnome-desktops/
 tags: gnome, linux, eye-candy

@@ -1,5 +1,5 @@
 title: OpenMoko Freerunner Unboxing
-author: Rami Taibah 
+author: rami
 permalink: /2008/09/openmoko-freerunner-unboxing/
 tags: OpenMoko, Mobile, Unboxing, vlog, Linuxologist
 

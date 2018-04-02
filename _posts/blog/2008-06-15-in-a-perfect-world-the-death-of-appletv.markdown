@@ -1,5 +1,5 @@
 title: In a Perfect World: The Death of AppleTV
-author: Rami Taibah 
+author: rami
 permalink: in-a-perfect-world-the-death-of-appletv
 tags: Apple, Gadgets
 

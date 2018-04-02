@@ -1,5 +1,5 @@
 title: Goosh: Bringing The Command Line To Your Google
-author: Rami Taibah 
+author: rami
 permalink: goosh-bringing-the-command-line-to-your-google
 tags: Google, Internet 
 

@@ -1,8 +1,8 @@
 ---
 
 title: HOWTO Linksys WMP54G PCI Wireless Adapter on Ubuntu (Gutsy)
-author: rami 
-layout: post 
+author: rami
+layout: post
 permalink: /2007/10/howto-linksys-wmp54g-pci-wireless-adapter-on-ubuntu-gutsy/
 category: blog
 tags: Dell Linux ndiswrapper Wireless Ubuntu Linuxologist

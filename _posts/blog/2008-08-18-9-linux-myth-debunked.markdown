@@ -1,5 +1,5 @@
 title: 9 Linux Myths Debunked
-author: Rami Taibah 
+author: rami
 permalink: /2008/08/9-linux-myth-debunked/
 tags: Linux, FUD, Microsoft, Linuxologist
 

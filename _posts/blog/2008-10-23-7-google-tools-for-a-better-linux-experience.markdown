@@ -1,5 +1,5 @@
 title: 7 Google Tools For A Better Linux Experience
-author: Rami Taibah 
+author: rami
 permalink: /2008/10/7-google-tools-for-a-better-linux-experience/
 tags: Howto, Google, Apps, Linux, Linuxologist
 

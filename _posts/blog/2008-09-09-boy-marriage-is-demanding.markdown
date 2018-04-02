@@ -1,5 +1,5 @@
 title: Boy! Marriage is Demanding!
-author: Rami Taibah 
+author: rami
 permalink: /2008/09/boy-marriage-is-demanding/
 tags: Humour, Linux, Linuxologist
 

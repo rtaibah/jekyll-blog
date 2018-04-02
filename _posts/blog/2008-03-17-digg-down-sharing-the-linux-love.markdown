@@ -1,5 +1,5 @@
 title: Digg Refuses to go Down Without Sharing the Linux Love!
-author: Rami Taibah 
+author: rami
 permalink: digg-down-sharing-the-linux-love
 tags: Linux, Digg, Social Media 
 

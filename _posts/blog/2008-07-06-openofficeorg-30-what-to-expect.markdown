@@ -1,5 +1,5 @@
 title: OpenOffice.org 3.0: What to Expect?
-author: Rami Taibah 
+author: rami
 permalink: openofficeorg-30-what-to-expect
 tags: OpenOffice, Software, FOSS
 

@@ -1,5 +1,5 @@
 title: Photobucket Back Online in Saudi Arabia
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: photobucket-back-online-in-saudi-arabia
 tags: Photobucket, Censorship, Saudi Arabia

@@ -1,5 +1,5 @@
 title: 5 Linux Podcasts You Should Be Listening To
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/01/5-linux-podcasts-you-should-be-listening-to/
 tags: Linux, Podcasts

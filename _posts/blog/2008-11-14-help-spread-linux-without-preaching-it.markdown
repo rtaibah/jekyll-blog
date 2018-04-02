@@ -1,5 +1,5 @@
 title: Help Spread Linux... Dont Preach It!
-author: Jesse Caseman 
+author: rami
 layout: post
 permalink: /2008/11/help-spread-linux-without-preaching-it/
 tags: Linux, Guest Blog, Linuxologist, Advocacy

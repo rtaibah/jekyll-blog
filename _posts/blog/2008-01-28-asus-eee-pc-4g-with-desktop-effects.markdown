@@ -1,5 +1,5 @@
 title: Asus eee pc 4G With Desktop Effects
-author: Rami Taibah
+author: rami
 permalink: asus-eee-pc-4g-with-desktop-effects
 tags: eee-pc, Gadgets, Eye Candy
 

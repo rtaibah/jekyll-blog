@@ -1,5 +1,5 @@
 title: Mixx vs. Digg: Which Brings You News Faster?
-author: Rami Taibah 
+author: rami
 permalink: mixx-vs-digg-which-brings-you-news-faster
 tags: Mixx, Digg, Social Media
 

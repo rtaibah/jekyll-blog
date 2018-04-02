@@ -1,6 +1,6 @@
 ---
 title: "Howto: Chromium Browser On Linux With Flash"
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/08/howto-chromium-browser-on-linux-with-flash/
 tags: chromium, linux, ubuntu, flash

@@ -1,5 +1,5 @@
 title: Google Search Straight From the Command Line!
-author: Rami Taibah 
+author: rami
 permalink: google-search-straight-from-the-command-line/
 tags: Google, Apps, Bash Scripting
 

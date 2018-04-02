@@ -1,5 +1,5 @@
 title: Free, Professional Music Production: A Linux Introduction
-author: Ian McLean 
+author: rami
 layout: post
 permalink: /2008/10/free-professional-music-production-a-linux-introduction/
 tags: Guest Blog, Linux, Linuxologist, Music Production, Apps

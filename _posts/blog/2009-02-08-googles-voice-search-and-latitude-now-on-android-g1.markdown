@@ -1,5 +1,5 @@
 title: Googles Voice Search and Latitude Now on Android G1!
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/02/googles-voice-search-and-latitude-now-on-android-g1/
 tags: Android, G1, Google

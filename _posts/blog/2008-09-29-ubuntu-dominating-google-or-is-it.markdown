@@ -1,5 +1,5 @@
 title: Ubuntu Dominating Google! Or is it?
-author: Rami Taibah 
+author: rami
 permalink: /2008/09/ubuntu-dominating-google-or-is-it/
 tags: Microsoft, Windows, Ubuntu, Linux, Mac OSX, Google Trends, Linuxologist
 

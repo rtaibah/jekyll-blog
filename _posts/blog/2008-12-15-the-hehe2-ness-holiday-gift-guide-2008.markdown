@@ -1,5 +1,5 @@
 title: The HeHe2-ness Holiday Gift Guide 2008
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2008/12/the-hehe2-ness-holiday-gift-guide-2008/
 tags: linux, gifts

@@ -1,5 +1,5 @@
 title: Top 10 Reasons You Should Use Windows 
-author: Rami Taibah 
+author: rami
 permalink: top-10-reasons-you-should-use-windows
 tags: Windows, Microsoft, Lists, Humour
 

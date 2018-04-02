@@ -1,5 +1,5 @@
 title: How Linux Helped Chickens, Environmentalists, and a Pirate!
-author: Rami Taibah 
+author: rami
 permalink: /2008/11/how-linux-can-save-chickens-helps-the-environment-and-navigate-the-high-seas/
 tags: Plathome, Linuxologist, Linux, Hardware
 

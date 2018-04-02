@@ -1,5 +1,5 @@
 title: Linux.com to Bring "Social Web" To Linux Geeks?
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/03/linuxcom-to-bring-social-web-to-linux-geeks/
 tags: Linux, Linux Foundation, Social

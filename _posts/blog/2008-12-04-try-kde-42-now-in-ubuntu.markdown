@@ -1,5 +1,5 @@
 title: Ubuntu: Try KDE 4.2 Now!
-author: Rami Taibah 
+author: rami
 permalink: /2008/12/try-kde-42-now-in-ubuntu/
 tags: Linux, Linuxologist, KDE, Kwin, Amarok
 

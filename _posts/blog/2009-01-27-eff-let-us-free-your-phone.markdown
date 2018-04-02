@@ -1,5 +1,5 @@
 title: EFF: Let Us Free Your Phone
-author: Rami Taibah 
+author: rami
 layout: post
 permalink: /2009/01/eff-let-us-free-your-phone/
 tags: EFF, DRM, iPhone, Mobile Phones
