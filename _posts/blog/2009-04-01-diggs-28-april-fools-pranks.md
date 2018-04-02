@@ -1,7 +1,7 @@
 ---
 
 title: "Digg's 28 April Fools Pranks!"
-author: rami  
+author: rami
 layout: post
 category: blog
 permalink: /2009/04/01/diggs-28-april-fools-pranks/

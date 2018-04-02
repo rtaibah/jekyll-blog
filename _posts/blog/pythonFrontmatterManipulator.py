@@ -3,9 +3,9 @@ import sys
 import os
 import glob
 
-new_author = "rami_taibah" # Changethe new author here
+new_author = "rami" # Changethe new author here
 new_layout = "post"        # Change the new layout here
-new_categories = "Blog Linux Linuxologist"    # Change categories here; space seperated
+new_categories = "Blog"    # Change categories here; space seperated
 new_tags = ""              # Change tags here; space seperated
 
 
@@ -45,14 +45,14 @@ def changeLayout(filename):
 
 
 # Change categories of a post in a YAML front matter
-def changeCategory(filename):
-  fo = open(filename, "r+")
-  mdFile= fo.read()
-  change_categories= re.sub( r'(categories:\n)(-.*\n)+(?=---)' | r'(categories:.+','categories: ' + new_categories +'\n', mdFile, re.M|re.I)
-  fo.seek(0)
-  fo.write(change_categories)
-  fo.truncate()
-  fo.close
+#def changeCategory(filename):
+#  fo = open(filename, "r+")
+#  mdFile= fo.read()
+#  change_categories= re.sub( r'(categories:\n)(-.*\n)+(?=---)' | r'(categories:.+','categories: ' + new_categories +'\n', mdFile, re.M|re.I)
+#  fo.seek(0)
+#  fo.write(change_categories)
+#  fo.truncate()
+#  fo.close
 
 
 # Change tags of a post in a YAML front matter
@@ -68,53 +68,52 @@ def changeTags(filename):
 
 # When converting an old Wordpress blog into markdown, the tool used (npm html-markdown) grabbed some front matter that is no longer valid or I otherwise do not need: tweetbackscheck, shorturls, twittercomments, and tweetcount. We remove these here.
 
-def deleteShorturls(filename):
-  fo = open(filename, "r+")
-  mdFile= fo.read()
-  delete_shorturls= re.sub( r'(shorturls:\n)(-.*\n)+','', mdFile, re.M|re.I)
-  fo.seek(0)
-  fo.write(delete_shorturls)
-  fo.truncate()
-  fo.close
-  
-
-def deleteTweetbackscheck(filename):
-  fo = open(filename, "r+")
-  mdFile= fo.read()
-  delete_tweetbackscheck= re.sub( r'(tweetbackscheck:\n)(-.*\n)+','', mdFile, re.M|re.I)
-  fo.seek(0)
-  fo.write(delete_tweetbackscheck)
-  fo.truncate()
-  fo.close
-
-
-def deleteTwittercomments(filename):
-  fo = open(filename, "r+")
-  mdFile= fo.read()
-  delete_twittercomments= re.sub( r'(twittercomments:\n)(-.*\n)+','', mdFile, re.M|re.I)
-  fo.seek(0)
-  fo.write(delete_twittercomments)
-  fo.truncate()
-  fo.close
-
-
-def deleteTweetcount(filename):
-  fo = open(filename, "r+")
-  mdFile= fo.read()
-  delete_tweetcount= re.sub( r'(tweetcount:\n)(-.*\n)+','', mdFile, re.M|re.I)
-  fo.seek(0)
-  fo.write(delete_tweetcount)
-  fo.truncate()
-  fo.close()
+#def deleteShorturls(filename):
+#  fo = open(filename, "r+")
+#  mdFile= fo.read()
+#  delete_shorturls= re.sub( r'(shorturls:\n)(-.*\n)+','', mdFile, re.M|re.I)
+#  fo.seek(0)
+#  fo.write(delete_shorturls)
+#  fo.truncate()
+#  fo.close
+#  
+#
+#def deleteTweetbackscheck(filename):
+#  fo = open(filename, "r+")
+#  mdFile= fo.read()
+#  delete_tweetbackscheck= re.sub( r'(tweetbackscheck:\n)(-.*\n)+','', mdFile, re.M|re.I)
+#  fo.seek(0)
+#  fo.write(delete_tweetbackscheck)
+#  fo.truncate()
+#  fo.close
+#
+#
+#def deleteTwittercomments(filename):
+#  fo = open(filename, "r+")
+#  mdFile= fo.read()
+#  delete_twittercomments= re.sub( r'(twittercomments:\n)(-.*\n)+','', mdFile, re.M|re.I)
+#  fo.seek(0)
+#  fo.write(delete_twittercomments)
+#  fo.truncate()
+#  fo.close
+#
+#
+#def deleteTweetcount(filename):
+#  fo = open(filename, "r+")
+#  mdFile= fo.read()
+#  delete_tweetcount= re.sub( r'(tweetcount:\n)(-.*\n)+','', mdFile, re.M|re.I)
+#  fo.seek(0)
+#  fo.write(delete_tweetcount)
+#  fo.truncate()
+#  fo.close()
 
 
 for filename in glob.iglob(os.path.join('*.md')):
-    #changeAuthor(filename)
+    changeAuthor(filename)
     #changeLayout(filename)
-    changeCategory(filename)
+    #changeCategory(filename)
     #changeTags(filename)
     #deleteShorturls(filename)
     #deleteTweetbackscheck(filename)
     #deleteTwittercomments(filename)
     #deleteTweetcount(filename)
-
