@@ -12,31 +12,30 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-#
+
+
 # Build settings
+
 markdown:    kramdown
 highlighter: pygments
 theme: minima
-
 plugins:
   - jekyll-feed
-
 sass:
   sass_dir: _sass
   style: compressed
-
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..2
   enable_coderay: false
-
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 
 # Site owner
+
 owner:
   name: Rami Taibah 
   avatar: bio-photo.jpg
