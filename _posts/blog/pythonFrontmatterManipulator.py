@@ -45,14 +45,14 @@ def changeLayout(filename):
 
 
 # Change categories of a post in a YAML front matter
-#def changeCategory(filename):
-#  fo = open(filename, "r+")
-#  mdFile= fo.read()
-#  change_categories= re.sub( r'(categories:\n)(-.*\n)+(?=---)' | r'(categories:.+','categories: ' + new_categories +'\n', mdFile, re.M|re.I)
-#  fo.seek(0)
-#  fo.write(change_categories)
-#  fo.truncate()
-#  fo.close
+def changeCategory(filename):
+  fo = open(filename, "r+")
+  mdFile= fo.read()
+  change_categories= re.sub( r'(categories:\n)(-.*\n)+(?=---)' | r'(categories:.+','categories: ' + new_categories +'\n', mdFile, re.M|re.I)
+  fo.seek(0)
+  fo.write(change_categories)
+  fo.truncate()
+  fo.close
 
 
 # Change tags of a post in a YAML front matter
@@ -109,9 +109,9 @@ def changeTags(filename):
 
 
 for filename in glob.iglob(os.path.join('*.markdown')):
-    changeAuthor(filename)
-    changeLayout(filename)
-    #changeCategory(filename)
+    #changeAuthor(filename)
+    #changeLayout(filename)
+    changeCategory(filename)
     #changeTags(filename)
     #deleteShorturls(filename)
     #deleteTweetbackscheck(filename)
