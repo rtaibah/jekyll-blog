@@ -1,8 +1,14 @@
-title: Amarok Easter Egg
-author: rami
-permalink: amarok-easter-egg
-tags: Amarok, Easter Egg, Linux
+---
 
+title: "Amarok Easter Egg"
+author: rami
+layout: historical-blog
+permalink: /2017/12/27/amarok-easter-egg
+categories: Blog
+tags: amarok easter-egg linux
+summary: One of [Mike Oldfield](http://en.wikipedia.org/wiki/Mike_Oldfield "Mike Oldfield")'s best pieces of work, [Amarok](http://en.wikipedia.org/wiki/Amarok_%28software%29 "Amarok"), inspired the name behind the audio-player you are currently using. Thanks for choosing Amarok!
+
+---
 
 On [Answer.com](http://www.answers.com/topic/amarok-audio "Answer.com") Amarok page, it states that:
 
@@ -10,14 +16,14 @@ On [Answer.com](http://www.answers.com/topic/amarok-audio "Answer.com") Amarok p
 >
 > "One of [Mike Oldfield](http://en.wikipedia.org/wiki/Mike_Oldfield "Mike Oldfield")'s best pieces of work, [Amarok](http://en.wikipedia.org/wiki/Amarok_%28software%29 "Amarok"), inspired the name behind the audio-player you are currently using. Thanks for choosing **Amarok**!
 > 
-> Mark Kretschmann  
-> Max Howell  
-> Chris Muehlhaeuser  
+> Mark Kretschmann
+> Max Howell
+> Chris Muehlhaeuser
 > The many other people who have helped make Amarok what it is"
 
 So I decided to test it out, here is a screen shot:
 
-![Amarok Easter Egg - Mike Oldfield]({filename}/images/amarok-easter-egg-mike-oldfield.jpg)
+![Amarok Easter Egg - Mike Oldfield]({{"assets/images/content/blog/amarok-easter-egg-mike-oldfield.jpg" | absolute_url }})
 
 Oddly enough, Answer.com states that their source is [Wikipedia](http://www.wikipedia.com "Wikipedia"), but this easter egg does not appear in the [Amarok](http://en.wikipedia.org/wiki/Amarok_%28software%29 "Amarok") article of wiki.
 

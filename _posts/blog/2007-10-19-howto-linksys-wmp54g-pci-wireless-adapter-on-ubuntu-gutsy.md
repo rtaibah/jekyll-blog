@@ -1,11 +1,11 @@
 ---
 
-title: HOWTO Linksys WMP54G PCI Wireless Adapter on Ubuntu (Gutsy)
+title: "HOWTO Linksys WMP54G PCI Wireless Adapter on Ubuntu (Gutsy)"
 author: rami
-layout: post
+layout: linuxologist 
 permalink: /2007/10/howto-linksys-wmp54g-pci-wireless-adapter-on-ubuntu-gutsy/
 category: Blog
-tags: Dell Linux ndiswrapper Wireless Ubuntu Linuxologist
+tags: dell linux ndiswrapper wireless ubuntu linuxologist
 summary: I have a Dell sitting in my living room with a Linksys WMP54G PCI wireless adapter installed. The adapter worked just fine under Feisty (well TBH I never got the triangular bars icon of wireless connections but the two terminals of wired connections, but do I care?) Anyways I did upgraded to Gutsy on the 17th, just 1 day shy of its official release, by invoking a 'gksu 'update-manager -c', and to my horror the adapter stopped working!
 
 ---

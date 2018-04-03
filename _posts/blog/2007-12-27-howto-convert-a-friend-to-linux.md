@@ -1,8 +1,14 @@
-title: HOWTO: Convert A Friend To Linux
-author: rami
-permalink: howto-convert-a-friend-to-linux
-tags: Linux, Humor, Howto
+---
 
+title: "HOWTO: Convert A Friend To Linux"
+author: rami
+layout: historical-blog
+permalink: howto-convert-a-friend-to-linux
+categories: Blog
+tags: Linux, Humor, Howto
+summary:
+
+---
 
 **Warning: You should proceed with caution using this Howto, if you do not know what you are doing you could damage your relationship with Friend 2.0 or totally break it. Also, using this Howto extensively with multiple Friend 2.0's may damage Life 4.5, and end up as a sorrow lonely geek.**
 

@@ -1,15 +1,20 @@
-title: Hiding Dirty Stuff: Windows vs. Linux
-author: rami
-permalink: hiding-dirty-stuff-windows-vs-linux
-tags: Humour, Linux, Windows
+---
 
+title: "Hiding Dirty Stuff: Windows vs. Linux"
+author: rami
+layout: historical-blog
+permalink: /2007/12/30/hiding-dirty-stuff-windows-vs-linux/
+categories: Blog
+tags: humour linux windows
+
+---
 **In Windows:**
 
-![Hiding Dirty Stuff In Windows]({filename}/images/hiding-dirty-stuff-windows.jpg)
+![Hiding Dirty Stuff In Windows]({{"assets/images/content/blog/hiding-dirty-stuff-windows.jpg" | absolute_url }})
 
 **In Linux:**
 
-![Hiding Dirty Stuff In Linux]({filename}/images/hiding-dirty-stuff-linux.jpg)
+![Hiding Dirty Stuff In Linux]({{"assets/images/content/blog/hiding-dirty-stuff-linux.jpg" | absolute_url }})
 
 Paints you a pretty picture eh? :D
 

@@ -1,15 +1,20 @@
-title: The Greatest Minds of the 20th Century
+---
+
+title: "The Greatest Minds of the 20th Century"
 author: rami
-permalink: the-greatest-minds-of-the-20th-century
-tags: Chemistry, Nobel, Physics, Science, Solvay 
+layout: historical-blog
+permalink: /2007/12/05the-greatest-minds-of-the-20th-century
+categories: Blog
+tags: chemistry, nobel, physics, science, solvay 
 summary: Apparently this picture is already popular all over the Internet, but I saw it for the first time a couple of weeks ago in my brother's college physics text book. Anyways I decided to share it, the more the merrier! 
 
+---
 
 Apparently this picture is already popular all over the Internet, but I saw it for the first time a couple of weeks ago in my brother's college physics text book. Anyways I decided to share it, the more the merrier! 
 
-[![Solvay conference 1927: The Greatest Minds of The Twentieth Century]({filename}/images/solvay-conference-1927-greatest-minds-of-the-twentieth-century.jpg)]({filename}/images/solvay-conference-1927-greatest-minds-of-the-twentieth-century-large.jpg)
+![Solvay conference 1927: The Greatest Minds of The Twentieth Century]({{"assets/images/content/blog/solvay-conference-1927-greatest-minds-of-the-twentieth-century.jpg" | absolute_url }})
 
-*Update [October 14 2014]: Found a [colorized version](/images/solvay-conference-1927-greatest-minds-of-the-twentieth-century-colorized.jpg) of this image too!*
+*Update [October 14 2014]: Found a [colorized version]({{"assets/images/content/blog/solvay-conference-1927-greatest-minds-of-the-twentieth-century-colorized.jpg" | absolute_url}}) of this image too!*
 
 
 The caption under the picture says the following:

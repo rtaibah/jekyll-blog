@@ -1,12 +1,16 @@
-title: Chumby: The Newest Gadget On My Wishlist!
+---
+
+title: "Chumby: The Newest Gadget On My Wishlist!"
 author: rami
-layout: post
-permalink: chumby-the-newest-gadget-on-my-wishlist
-tags: Chumby, Gadgets
-Summary: Chumby? What has gotten into you? God it looks ugly! Would you even buy a product called such a childish and pathetic name? Well yes, let's go beyond aesthetics and nomenclature criticism, and let me tell you what this little bad boy can do.
+layout: historical-blog 
+permalink: /2007/11/06/chumby-the-newest-gadget-on-my-wishlist
+categories: Blog
+tags: chumby, gadgets
+summary: Chumby? What has gotten into you? God it looks ugly! Would you even buy a product called such a childish and pathetic name? Well yes, let's go beyond aesthetics and nomenclature criticism, and let me tell you what this little bad boy can do.
 
+---
 
-![Chumby]({filename}/images/chumby.jpg)
+![Chumby]({{"assets/images/content/blog/chumby.jpg" | absolute_url }})
 
 Chumby? What has gotten into you? God it looks ugly! Would you even buy a product called such a childish and pathetic name? Well yes, let's go beyond aesthetics and nomenclature criticism, and let me tell you what this little bad boy can do.
 

@@ -1,8 +1,14 @@
-title: 10 Governments Running Linux You Probably Didnt Know About
-author: rami
-permalink: 10-governments-running-linux-you-probably-didnt-know-about
-tags: Linux, Brazil, Germany, Austria, Spain, China, France, India, South Korea, Peru, Russia
+---
 
+title: "10 Governments Running Linux You Probably Didnt Know About"
+author: rami
+layout: historical-blog
+permalink: /2008/01/11/10-governments-running-linux-you-probably-didnt-know-about/
+categories: Blog
+tags: linux brazil germany austria spain china france india south-korea peru russia
+summary: There are many governments around the world using Linux, here are a few.
+
+---
 
 1- Brazil
 --------

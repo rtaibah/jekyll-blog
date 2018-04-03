@@ -1,11 +1,17 @@
-title: Digg: Too Much Info = Garbage!!
+---
+
+title: "Digg: Too Much Info = Garbage!!"
 author: rami
-permalink: digg-too-much-info-equals-garbage
-tags: Digg, Social Media, UX
-summary:  The *Friend's activity* function in Digg, do we really need it? I mean every time I log in I find 1000's activities. Thats just too much for anybody to chew. Now I have around 500 friends, and I really don't need Digg to monitor all of their activities for me, because you see the end result is garbage. In what way does telling me that there was 241 comments help me? Nothing! 361 profile changes? nothing! How the hell could I monitor all these changes,while keeping my sanity intact?
+layout: historical-blog
+permalink: /2007/12/18/digg-too-much-info-equals-garbage
+categories: Blog
+tags: digg social-media ux
+summary: The *Friend's activity* function in Digg, do we really need it? I mean every time I log in I find 1000's activities. Thats just too much for anybody to chew. Now I have around 500 friends, and I really don't need Digg to monitor all of their activities for me, because you see the end result is garbage. In what way does telling me that there was 241 comments help me? Nothing! 361 profile changes? nothing! How the hell could I monitor all these changes,while keeping my sanity intact?
+
+---
 
 
-![Digg: Too Much Notifications]({filename}/images/digg-too-much-notifications.jpg)
+![Digg: Too Much Notifications]({{"assets/images/content/blog/digg-too-much-notifications.jpg" | absolute_url }})
 
 The *Friend's activity* function in Digg, do we really need it? I mean every time I log in I find 1000's activities. Thats just too much for anybody to chew. Now I have around 500 friends, and I really don't need Digg to monitor all of their activities for me, because you see the end result is garbage. In what way does telling me that there was 241 comments help me? Nothing! 361 profile changes? nothing! How the hell could I monitor all these changes,while keeping my sanity intact?
 
