@@ -2,10 +2,10 @@
 
 title: "It's A Wonderful Internet...But Not On Every Pasture"
 author: rami
-layout: historical-blog
+layout: linuxologist
 permalink: /2007/12/15/its-a-wonderful-internet-but-not-every-pasture/
-categories: Blog
-tags: mobile, android, iphone, openmoko
+categories: [Blog]
+tags: [mobile, android, iphone, openmoko]
 summary: The Internet has changed the lives of many people, the possibilities it offers are endless. Today we live in a "[web 2.0](http://en.wikipedia.org/wiki/Web_2.0 "web 2.0")" world, which pushed the limits of creativity, collaboration, and sharing of thought.
 
 ---

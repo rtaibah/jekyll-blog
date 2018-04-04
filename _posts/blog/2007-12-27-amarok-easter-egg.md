@@ -2,10 +2,10 @@
 
 title: "Amarok Easter Egg"
 author: rami
-layout: historical-blog
+layout: linuxologist 
 permalink: /2017/12/27/amarok-easter-egg
-categories: Blog
-tags: amarok easter-egg linux
+categories: [Blog]
+tags: [amarok, easter-egg, linux]
 summary: One of [Mike Oldfield](http://en.wikipedia.org/wiki/Mike_Oldfield "Mike Oldfield")'s best pieces of work, [Amarok](http://en.wikipedia.org/wiki/Amarok_%28software%29 "Amarok"), inspired the name behind the audio-player you are currently using. Thanks for choosing Amarok!
 
 ---

@@ -1,7 +1,14 @@
-title: Digg Cartels: Is There Such A Thing?
+---
+
+title: "Digg Cartels: Is There Such A Thing?"
 author: rami
-permalink: digg-cartels-is-there-such-a-thing
-tags: Digg, Kevin Rose, Social Media
+layout: historical-blog
+permalink: /2008/01/24/digg-cartels-is-there-such-a-thing
+categories: [Blog]
+tags: [digg, kevin-rose, social-media]
+summary: Ever since the new "shout" function was introduced, things started to go downhill. Users would submit their stories and shout it left and right, getting 40 or 50 diggs in a couple of hours. Now that would be acceptable if these friends actually liked these stories and voted for them. But the reality couldn't be further! Blind shout digging is rampant! All of us know that, but nobody is really talking about it. It's Digg's big elephant in the room.
+
+---
 
 Ahh Digg!! The epitome of social news! the embodiment of a community working together for a common and shared goal; wrestling content from the grips of big media and putting it in the people's hands! Power to the people! Revolution is in the air! If Karl Marx was alive today he would've been proud, especially of [Kevin Rose](http://digg.com/users/kevinrose)!
 
@@ -44,9 +51,9 @@ Well first and foremost, Digg is not a social network, if I want to message my f
 
 Digg please give the shout function a second thought! Remove it OR at least limit the number of friends to say a 100 or so. Lets be honest, who really knows 100 Digg users on a first name basis?
 
-In reality, Digg has got a lot to lose if they don't shape up, with users getting frustrated with the lack of transparency, complaints about [secret editors](http://valleywag.com/346263/diggs-secret-editors "secret editors"), [changes in the algorithm](http://babblin5.com/2008/01/23/two-diggs-one-cup/ "changes in the algorithm"), and even [super users](http://www.techcrunch.com/2008/01/17/digg-has-super-users-or-hates-ron-paul/ "super users")! And that's just the tip of the iceberg, [techipdia.com](http://www.techipedia.com/ "techipdia.com") compiled a list of [23 complaints](http://www.techipedia.com/2007/new-digg-community-reaction/ "23 complaints") from the community and even went as far as "[Why Nobody Should Buy Digg](http://www.techipedia.com/2007/dont-buy-digg/ "Why Nobody Should Buy Digg")".
+In reality, Digg has got a lot to lose if they don't shape up, with users getting frustrated with the lack of transparency, complaints about [secret editors](http://gawker.com/346263/diggs-secret-editors), [changes in the algorithm](http://babblin5.com/2008/01/23/two-diggs-one-cup/ "changes in the algorithm"), and even [super users](http://www.techcrunch.com/2008/01/17/digg-has-super-users-or-hates-ron-paul/ "super users")! And that's just the tip of the iceberg, [techipdia.com](http://www.techipedia.com/ "techipdia.com") compiled a list of [23 complaints](http://www.techipedia.com/2007/new-digg-community-reaction/ "23 complaints") from the community and even went as far as "[Why Nobody Should Buy Digg](http://www.techipedia.com/2007/dont-buy-digg/ "Why Nobody Should Buy Digg")".
 
 Whilst the findings of this experiment is not as scandalous, it isn't any less damaging. The shout function is being used to game Digg, and robbing it of it's true essence! A true democratic social news site, from the people to the people!
 
-Edit: Ironically, while I was analyzing the numbers and writing this up, a "mini" revolution against Digg was staged, only to be extinguished quickly by Kevin Rose. Click [here]({filename}/blog/2008-01-24-digg-the-lulled-revolution.markdown)
+Edit: Ironically, while I was analyzing the numbers and writing this up, a "mini" revolution against Digg was staged, only to be extinguished quickly by Kevin Rose. Click [here](/2008/01/24/digg-the-lulled-revolution)
 

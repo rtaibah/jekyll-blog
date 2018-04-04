@@ -1,14 +1,20 @@
-title: An Interview with an Extremadura Developer: Bringing Linux to the Masses
+---
+
+title: "An Interview with an Extremadura Developer: Bringing Linux to the Masses"
 author: rami
-permalink: an-interview-with-spanish-region-extremadura-linux-developer
-tags: Extremadura, Spain, Linux
+layout: linuxologist
+permalink: /2008/02/07/an-interview-with-spanish-region-extremadura-linux-developer
+categories: [Blog]
+tags: [extremadura, spain, linux]
+summary: "I previously [posted](/2008/01/11/10-governments-running-linux-you-probably-didnt-know-about) about governments around the world using Linux, doing research on such topic was really insightful. But one example stood out more than any other, and that's no other than the Spanish region of [Extremadura](http://en.wikipedia.org/wiki/Extremadura). Extremadura's migration to Linux is quite remarkable, especially that it is fully backed up by the local government. The whole case really intrigued me, so I decided to explore more about this region's Linux escapades. I sat down with a lead developer of the project Daniel Campos, and had the following discussion:"
 
+---
 
-I previously [posted]({filename}/blog/2008-01-11-10-governments-running-linux-you-probably-didnt-know-about.markdown) about governments around the world using Linux, doing research on such topic was really insightful. But one example stood out more than any other, and that's no other than the Spanish region of [Extremadura](http://en.wikipedia.org/wiki/Extremadura). Extremadura's migration to Linux is quite remarkable, especially that it is fully backed up by the local government. The whole case really intrigued me, so I decided to explore more about this region's Linux escapades. I sat down with a lead developer of the project Daniel Campos, and had the following discussion:
+I previously [posted](/2008/01/11/10-governments-running-linux-you-probably-didnt-know-about) about governments around the world using Linux, doing research on such topic was really insightful. But one example stood out more than any other, and that's no other than the Spanish region of [Extremadura](http://en.wikipedia.org/wiki/Extremadura). Extremadura's migration to Linux is quite remarkable, especially that it is fully backed up by the local government. The whole case really intrigued me, so I decided to explore more about this region's Linux escapades. I sat down with a lead developer of the project Daniel Campos, and had the following discussion:
 
 **Linuxologist: Daniel, thank you for taking the time from your busy schedule to sit with me. Let's start talking about you, what is it exactly that you do?**
 
-![Daniel Campos Portrait]({filename}/images/daniel-campos-extremadura-spain-linex-portrait.jpeg)
+![Daniel Campos Portrait]({{"assets/images/content/blog/daniel-campos-extremadura-spain-linex-portrait.jpeg" | absolute_url }})
 
 **DC**: Well, of course I have my [Extremadura](http://en.wikipedia.org/wiki/Extremadura "Extremadura")/[LinEx](http://en.wikipedia.org/wiki/GnuLinEx "LinEx") responsibilities. I'm part of the [LinEx](http://en.wikipedia.org/wiki/GnuLinEx "LinEx") technical team, we are 6 people creating and maintaining a Debian based distribution. This distribution is used in the education system in [Extremadura](http://en.wikipedia.org/wiki/Extremadura "Extremadura"), and it is also used to spread free software concepts to people here. I'm both programmer and package maintainer for this distribution. I am also a project manager for LinEx SP (a special version of LinEx used internally in [Extremadura](http://en.wikipedia.org/wiki/Extremadura "Extremadura")'s Public Administration) and LinEx GUIA (a special distribution for [Extremadura](http://en.wikipedia.org/wiki/Extremadura "Extramadura")'s councils).
 
@@ -43,7 +49,7 @@ With this, the idea of technological independence seemed feasible. With such an 
 
 Of course, there will always be things you wish you have done differently. But [Extremadura](http://en.wikipedia.org/wiki/Extremadura "Extremadura") itself was a huge experiment with no prior experience whatsoever; sometimes trial and error is the only way to go. Back then, having a good office suite or a decent web browser was only a distant dream. Things have developed a lot in the free software world, not only in [Extremadura](http://en.wikipedia.org/wiki/Extremadura "Extremadura").
 
-![Ibarra and Stallman]({filename}/images/stallman-and-former-extremadura-president-ibarra-2007.jpg)
+![Ibarra and Stallman]({{"assets/images/content/blog/stallman-and-former-extremadura-president-ibarra-2007.jpg" | absolute_url }})
 
 _Former Extremadura president and Richard Stallman_
 
@@ -73,7 +79,7 @@ Apart from that we created tools to manage classrooms, such as an LDAP based sys
 
 The next step is the [LinEx](http://en.wikipedia.org/wiki/GnuLinEx "LinEx") integration with [SkoleLinux](http://en.wikipedia.org/wiki/Skolelinux "SkoleLinux"), the [Debian-EDU](http://wiki.debian.org/DebianEdu "Debian-EDU") project, collaborating with Norway, France, Germany and other countries to provide a common free software base for all the educational systems.
 
-![GDM For Little Kiddies! :)]({filename}/images/gdm-for-little-children.jpg)
+![GDM For Little Kiddies! :)]({{"assets/images/content/blog/gdm-for-little-children.jpg" | absolute_url }})
 _GDM for kiddies!!_
 
 **Linuxologist: It has often been argued that Microsoft Windows is "easy to use" just because most people first learned computing on a Microsoft OS. Therefore, if Linux came first, Windows would've seemed hard. Could you say that about the kids who are getting exposed to Linux as their first environment?****
@@ -82,7 +88,7 @@ _GDM for kiddies!!_
 
 There's a project that aims to provide public access computers in all public libraries, obviously these computers run [LinEx](http://en.wikipedia.org/wiki/GnuLinEx "LinEx"), OpenOffice.org and Firefox. People use the public terminals with no problems, they can easily look up information, they surf the net, they write documents without a hitch. They are as productive as with any other [OS](http://en.wikipedia.org/wiki/Operating_system "OS"). There is no traumatic transition, they just click the icons and run! Any [Microsoft](http://www.microsuck.com/ "Microsoft") manager speaking about the difficulties of using GNU/Linux for the "desktop/average user" is just lying or doesn't really know what he is talking about. Please, tell them to use better arguments.
 
-![Extremadura’s NCC program in action]({filename}/images/ncc-project-people-learning-computing-with-linex.jpg)]
+![Extremadura’s NCC program in action]({{"assets/images/content/blog/ncc-project-people-learning-computing-with-linex.jpg" | absolute_url }})]
 
 _The NCC program in action!_
 
@@ -106,7 +112,7 @@ The general population using [LinEx](http://en.wikipedia.org/wiki/GnuLinEx "LinE
 
 We also participated in some international projects, like in Colombia and Brazil. Other countries like Vietnam, Italy, Greece, and Portugal also contacted us to collaborate on different projects. We also have a governmental office dedicated to answering inquiries about free software.
 
-![Linux Conference in Spain]({filename}/images/people-using-linex-2005.jpg)
+![Linux Conference in Spain]({{"assets/images/content/blog/people-using-linex-2005.jpg" | absolute_url }})
 
 _A Linux conference in Spain_
 

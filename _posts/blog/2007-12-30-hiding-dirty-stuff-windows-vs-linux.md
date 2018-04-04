@@ -2,10 +2,10 @@
 
 title: "Hiding Dirty Stuff: Windows vs. Linux"
 author: rami
-layout: historical-blog
+layout: linuxologist 
 permalink: /2007/12/30/hiding-dirty-stuff-windows-vs-linux/
-categories: Blog
-tags: humour linux windows
+categories: [Blog]
+tags: [humour, linux, windows]
 
 ---
 **In Windows:**

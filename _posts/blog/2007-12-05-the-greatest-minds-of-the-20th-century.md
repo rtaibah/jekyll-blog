@@ -4,8 +4,8 @@ title: "The Greatest Minds of the 20th Century"
 author: rami
 layout: historical-blog
 permalink: /2007/12/05the-greatest-minds-of-the-20th-century
-categories: Blog
-tags: chemistry, nobel, physics, science, solvay 
+categories: [Blog]
+tags: [chemistry, nobel, physics, science, solvay]
 summary: Apparently this picture is already popular all over the Internet, but I saw it for the first time a couple of weeks ago in my brother's college physics text book. Anyways I decided to share it, the more the merrier! 
 
 ---

@@ -1,7 +1,14 @@
-title: Get The Most Out of Social Media on Ubuntu
+---
+
+title: "Get The Most Out of Social Media on Ubuntu"
 author: rami
-permalink: get-the-most-out-of-social-media-on-ubuntu
-tags: Linux, Ubuntu, Social Media
+layout: linuxologist
+permalink: /2008/03/25/get-the-most-out-of-social-media-on-ubuntu
+categories: [Blog]
+tags: [linux, ubuntu, social-media]
+
+summary: I have written a guest post over at [Polishlinux](http://www.polishlinux.org) on howto get the most out of social media on your Ubuntu box. That's my first guest blog! W00T!
+---
 
 I have written a guest post over at [Polishlinux](http://www.polishlinux.org) on howto get the most out of social media on your Ubuntu box. That's my first guest blog! W00T!
 

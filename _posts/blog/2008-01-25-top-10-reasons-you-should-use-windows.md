@@ -1,8 +1,13 @@
-title: Top 10 Reasons You Should Use Windows 
-author: rami
-permalink: top-10-reasons-you-should-use-windows
-tags: Windows, Microsoft, Lists, Humour
+---
 
+title: "Top 10 Reasons You Should Use Windows "
+author: rami
+layout: linuxologist
+permalink: top-10-reasons-you-should-use-windows
+categories: [Blog]
+tags: [windows, microsoft, lists, humour]
+
+---
 
 1- Because it comes for "free" with your laptop and you might as well use it. Just like that Britney Spears single that was bundled with your CD player.
 
@@ -24,6 +29,6 @@ tags: Windows, Microsoft, Lists, Humour
 
 10- You are fond of the color blue! After any new hardware installation or system tweak, you appreciate being greeted with blue screens.
 
-![Windows BSOD]({filename}/images/bsod.gif)
+![Windows BSOD]({{"assets/images/content/blog/bsod.gif" | absolute_url }})
 
 *Thanks to [numerodix](http://www.matusiak.eu/numerodix/blog/) for helping me compiling this list.*

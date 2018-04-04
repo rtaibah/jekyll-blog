@@ -2,13 +2,13 @@
 
 title: OpenHulu...Not!
 author: rami
-layout: historical-blog 
+layout: linuxologist 
 permalink: /2007/12/11/openhulu-not/
-categories: Blog
-tags: hulu, media, piracy
+categories: [Blog]
+tags: [hulu, media, piracy]
 summary: With the beta launch of the free TV streaming service [Hulu](http://www.hulu.com "Hulu"), lots of people are scrambling to get their hands on an invite. I for one have submitted to Hulu for an invite since October, and I got nothing.
 
---
+---
 
 ![Open Hulu Blocked]({{"assets/images/content/blog/open-hulu-blocked.jpg" | absolute_url }})
 

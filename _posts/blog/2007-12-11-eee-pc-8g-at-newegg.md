@@ -1,14 +1,14 @@
 ---
 
-title: "Asus eee pc 8G Available At Newegg!"
+title: Asus eee pc 8G Available At Newegg!
 author: rami
-layout: historical-blog 
+layout: linuxologist 
 permalink: /2007/12/11/eee-pc-8g-at-newegg/
-categories: Blog 
-tags: eee-pc gadgets asus
-summary: Asus eee pc 8G is now available on [newegg](http://www.newegg.com/Product/Product.aspx?Item=N82E16834220264 "newegg")!! This little devil is all you need for your mobility needs! It's only 7 inch and weighs only .9 kg (2 pounds)! While packing 1 GB RAM and a 8 GB solid state disk! And of course it runs Linux! Wooohooo!
+categories: [Checkins ]
+tags: [eee-pc, gadgets, asus]
+summary: Asus eee pc 8G is now available on [newegg](http://www.newegg.com/Product/Product.aspx?Item=N82E16834220264 "newegg")!! This little devil is all you need for your mobility needs! 
 
---
+---
 
 ![eee PC Chick]({{"assets/images/content/blog/eee-pc-chick.jpg" | absolute_url }})
 

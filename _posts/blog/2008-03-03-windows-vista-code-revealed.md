@@ -1,10 +1,17 @@
-title: Windows Vista Code Revealed!!
+---
+
+title: "Windows Vista Code Revealed!!"
 author: rami
-permalink: windows-vista-code-revealed
-tags: Humour, Microsoft, Windows Vista
+layout: linuxologist
+permalink: /2008/03/03/windows-vista-code-revealed
+categories: [Blog]
+tags: [humour, microsoft, windows vista]
+
+summary: Well not really, it's just a funny little ad by [techradar](http://www.techradar.com "techradar") I found in the [Linux Format](http://www.linuxformat.co.uk "Linux Format") Special Edition "CODE IT!"
+
+---
 
 Well not really, it's just a funny little ad by [techradar](http://www.techradar.com "techradar") I found in the [Linux Format](http://www.linuxformat.co.uk "Linux Format") Special Edition "CODE IT!"
-
   
     TOP SECRET Microsoft(c) Project:Longhorn(TM) SP1 
     Estimated release date:2008 

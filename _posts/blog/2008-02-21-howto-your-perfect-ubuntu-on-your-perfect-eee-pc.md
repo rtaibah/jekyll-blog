@@ -1,12 +1,18 @@
-title: Howto: Your Perfect Ubuntu on Your Perfect Eee PC
-author: rami
-permalink: howto-your-perfect-ubuntu-on-your-perfect-eee-pc
-tags: eee-pc, Ubuntu, howto
+---
 
-Now that you [installed Ubuntu]({filename}/blog/2008-02-11-howto-install-ubuntu-on-your-eee-pc.markdown) on your Eee PC, you will soon realize that something is amiss. Wireless doesn't work, shutdown almost never works, the whole desktop seems to be cramped onto a small screen...etc. Now it's time to perfect our Ubuntu.
+title: "Howto: Your Perfect Ubuntu on Your Perfect Eee PC"
+author: rami
+layout: linuxologist
+permalink: /2008/02/21/howto-your-perfect-ubuntu-on-your-perfect-eee-pc
+categories: Blog
+tags: [eee-pc, ubuntu, howto]
+summary: Now that you [installed Ubuntu](/2008/02/11/howto-install-ubuntu-on-your-eee-pc) on your Eee PC, you will soon realize that something is amiss. Wireless doesn't work, shutdown almost never works, the whole desktop seems to be cramped onto a small screen...etc. Now it's time to perfect our Ubuntu.
+
+---
+
+Now that you [installed Ubuntu](/2008/02/11/howto-install-ubuntu-on-your-eee-pc) on your Eee PC, you will soon realize that something is amiss. Wireless doesn't work, shutdown almost never works, the whole desktop seems to be cramped onto a small screen...etc. Now it's time to perfect our Ubuntu.
 
 **Note: This guide is built on the assumption that you have no swap and that you got madwifi working NOT ndiswrapper.**
-
 
 ## CDROM tweaks
 
@@ -30,7 +36,7 @@ This can also be accomplished by unchecking the CD-ROM from System > Administrat
 
 ## Fitting in the tiny desktop
 
-I bet you wanna fit your desktop snuggly in that screen of yours, check out my [Optimizing Your Eee PC Real Estate]({filename}/blog/2008-03-07-howto-optimize-your-eee-pc-screen-real-estate.markdown) post.
+I bet you wanna fit your desktop snuggly in that screen of yours, check out my [Optimizing Your Eee PC Real Estate](/2008/03/07/howto-optimize-your-eee-pc-screen-real-estate) post.
 
 ## Improve The Eee PC boot time
 
@@ -69,7 +75,7 @@ Then get these these two files from [here](http://snapshots.madwifi.org/madwifi-
 
 After reboot you should have your wireless up and running :) !!
 
-Note: I personally hate the default network manager of Ubuntu, so I usually opt for another [program called wicd]({filename}/blog/2007-12-26-wicd-the-solution-for-all-your-linux-wireless-woes.markdown).
+Note: I personally hate the default network manager of Ubuntu, so I usually opt for another [program called wicd](/2007/12/06/wicd-the-solution-for-all-your-linux-wireless-woes).
 
 ## Eee PC microphone
 

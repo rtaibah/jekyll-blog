@@ -4,8 +4,8 @@ title: "21st Century Caveman?"
 author: rami
 layout: historical-blog 
 permalink: /2007/11/06/21st-century-caveman/
-categories: Blog
-tags: humour, musings 
+categories: [Blog]
+tags: [humour,musings]
 summary:  A couple of days ago while at work my boss made a funny remark on an E-mail from a vendor because of an obvious faux pas from the vendor's part. Later that day, I got two replies to that E-mail, one saying "LOL" and the other said "LMAO", I was a bit amused albeit the unprofessionalism of the whole situation, but I shrugged it off and continued working.
 
 ---

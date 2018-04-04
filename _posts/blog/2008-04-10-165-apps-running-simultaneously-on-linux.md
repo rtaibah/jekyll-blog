@@ -1,7 +1,14 @@
-title: 165 Apps Running Simultaneously On Linux
+---
+
+title: "165 Apps Running Simultaneously On Linux"
 author: rami
-permalink: 165-apps-running-simultaneously-on-linux
-tags: Linux
+layout: linuxologist
+permalink: /2008/04/10/165-apps-running-simultaneously-on-linux
+categories: [Blog]
+tags: [linux]
+summary: Recently a [Gizmodo](http://gizmodo.com) story got a lot of coverage on [Digg](http://digg.com). and other social news site, showing pictures of a [Mac running 150 Apps and a teeny weeny dock](http://gizmodo.com/376497/mac-with-150-apps-running-shows-teeny+weeny-dock-expos-windows). Of course the Windows fanbois couldn't just stay silent and not prove that Mac ain't got shit against them, so Daniel Smith submitted a video showing [Vista running 108 apps,](http://gizmodo.com/377255/vista-running-108-apps-bites-back-mac-os-x-butt) with only 30% processor usage.
+
+---
 
 Recently a [Gizmodo](http://gizmodo.com) story got a lot of coverage on [Digg](http://digg.com). and other social news site, showing pictures of a [Mac running 150 Apps and a teeny weeny dock](http://gizmodo.com/376497/mac-with-150-apps-running-shows-teeny+weeny-dock-expos-windows). Of course the Windows fanbois couldn't just stay silent and not prove that Mac ain't got shit against them, so Daniel Smith submitted a video showing [Vista running 108 apps,](http://gizmodo.com/377255/vista-running-108-apps-bites-back-mac-os-x-butt) with only 30% processor usage.
 

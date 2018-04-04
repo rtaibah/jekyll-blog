@@ -1,9 +1,16 @@
-title: Google Search Straight From the Command Line!
-author: rami
-permalink: google-search-straight-from-the-command-line/
-tags: Google, Apps, Bash Scripting
+---
 
-![Google Linux]({filename}/images/google-linux.gif)
+title: "Google Search Straight From the Command Line!"
+author: rami
+layout: linuxologist
+permalink: /2008/04/18/google-search-straight-from-the-command-line/
+categories: [Blog]
+tags: [google, apps, bash scripting]
+summary: "[Sebastian Bilbeau](http://www.tux-planet.fr/blog/) authored a script that enables you to Google straight from the comfort of your command line interface! How sweet is that? The script will give you the links of the first 11 result in Google, nothing more nothing less. Meaning don't expect it to give you titles and description, very rudimentary stuff I must say, but still it is kinda neat. Cheers Sebi!"
+
+---
+
+![Google Linux]({{"assets/images/content/blog/google-linux.gif" | absolute_url }})
 
 [Sebastian Bilbeau](http://www.tux-planet.fr/blog/) authored a script that enables you to Google straight from the comfort of your command line interface! How sweet is that? The script will give you the links of the first 11 result in Google, nothing more nothing less. Meaning don't expect it to give you titles and description, very rudimentary stuff I must say, but still it is kinda neat. Cheers Sebi!
 

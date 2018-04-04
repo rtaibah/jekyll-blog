@@ -1,9 +1,17 @@
-title: Downloading Music the 1337 Way!
+---
+
+title: "Downloading Music the 1337 Way!"
 author: rami
-permalink: downloading-music-the-1337-way
-tags: Bash Scripting, Linux, Music, Howto
+layout: linuxologist
+permalink: downloa/2008/03/10/ding-music-the-1337-way
+categories: [Blog]
+tags: [bash scripting, linux, music, howto]
+summary:  So you are at work and really want a song but just can't get it because torrenting at work is blocked or could really get you in trouble? No problem, why not use [youtube](http://youtube.com)? Chances are that the song is already there on some video, either the official music video or some random compilation!
+
+---
 
 **NOTE: This howto is for Linux users. If you are a Windows user go [pay someone](http://www.flvsoft.com/flv_to_video/purchase.html) $40 and then [another](http://www.avi2divx.com/extract-audio.htm) $15. Good luck.**
+
 
 So you are at work and really want a song but just can't get it because torrenting at work is blocked or could really get you in trouble? No problem, why not use [youtube](http://youtube.com)? Chances are that the song is already there on some video, either the official music video or some random compilation!
 

@@ -1,9 +1,16 @@
-title: The 7 Habits of Highly Effective Linux Users
-author: rami
-permalink: the-7-habits-of-highly-effective-linux-users
-tags: Linux
+---
 
-![Passing it on]({filename}/images/olympic-flame.jpeg)
+title: "The 7 Habits of Highly Effective Linux Users"
+author: rami
+layout: linuxologist
+permalink: /2008/04/16/the-7-habits-of-highly-effective-linux-users
+categories: [Blog]
+tags: [linux]
+summary: Switching to Linux can be very daunting, most seasoned Linux users experienced that first hand. After all, at some point they were also "noobs". However, the Linux community has excelled in making the switch for beginners as easy as possible by providing guides, howtos, tweaks, and general advocacy articles. When I first made the switch 3 years ago, I found the community welcoming me with open hands on forums, IRC channels, and E-mail, I was surprised how helpful these penguins were!
+
+---
+
+![Passing it on]({{"assets/images/content/blog/olympic-flame.jpeg" | absolute_url }})
 
 Switching to Linux can be very daunting, most seasoned Linux users experienced that first hand. After all, at some point they were also "noobs". However, the Linux community has excelled in making the switch for beginners as easy as possible by providing guides, howtos, tweaks, and general advocacy articles. When I first made the switch 3 years ago, I found the community welcoming me with open hands on forums, IRC channels, and E-mail, I was surprised how helpful these penguins were!
 
@@ -13,7 +20,7 @@ For this, I feel obliged to give back to the community that has always been ther
 
 If there was one habit that one should strictly abide by, it's probably this one. Most of us come from a Windows background, and we have the notion that more power is better, so we login using our administrator accounts. Well let me tell you my friend, that this is a major reason that Windows is plagued with viruses and insecurities, half the world is currently running _'root'_ accounts!
 
-![Suse on Root]({filename}/images/suse_on_root.png)
+![Suse on Root]({{"assets/images/content/blog/suse_on_root.png" | absolute_url }})
 
 With great power comes great responsibility, and with _'root'_ powers you should be aware of the consequences of EVERYTHING you're doing, and even then, [mistakes happen](http://lug.wsu.edu/node/414 "mistakes happen"). I remember my beginnings with SUSE Linux, there were lot of administrative tasks I needed to do but had no idea how to go about them without the GUI, so I so innocently log out and login onto the '_root_' GUI. The default wallpaper of the '_root_' GUI on SUSE were lit fuse bombs tiled beside each other. Back then, the symbolism totally flew over my head, coming from a Windows background, I wasn't really doing anything wrong.
 
@@ -39,7 +46,7 @@ I personally have grown into this habit, I find myself following these guideline
 
 ## 3-Place /home on a Different Partition 
 
-![Place /home in a different partition]({filename}/images/gparted-home-different-partition.png)
+![Place /home in a different partition]({{"assets/images/content/blog/gparted-home-different-partition.png" | absolute_url }})
 
 Doing this gives you extreme flexibility, a kind that you never imagined before. Having /home in a separate partition enables you to reinstall your system or even change your whole distro without losing your data and personal settings. Just keep the _"/home"_ partition intact and reinstall whatever you want on your _"/"_. Now you can try out distros as much as you want, without worrying about your data and personal settings, they go with you on the go ;).
 
@@ -47,7 +54,7 @@ If you weren't lucky enough to know this before installing your system, then do 
 
 ## 4-Proper Crash Management
 
-![Learn how to avoid this!]({filename}/images/pc_crash11.jpg)
+![Learn how to avoid this!]({{"assets/images/content/blog/pc_crash11.jpg" | absolute_url }})
 
 Linux is very robust and stable, however every system can come down to it's knees every once in a while. Before you head to CTRL-ALT-DEL, the restart button, or the plug, you should know how to properly handle any crash. As opposed to another un-named operating system, you should be able to easily recover your system without actually restarting! I personally go through different levels, if one doesn't work I elevate it to next step:
 
@@ -61,7 +68,7 @@ Linux is very robust and stable, however every system can come down to it's knee
 
 # 5-Play The Field
 
-![]({filename}/images/anime-linux-distros.png)
+![]({{"assets/images/content/blog/anime-linux-distros.png" | absolute_url }})
 
 You were probably recruited to your current distro by a friend, it suited you, and stuck with it. That's great, but there is probably something better for you out there. Why not harness the flexibility and richness of Linux and Open Source? Don't be afraid to experiment around with different distros, apps, window managers, and desktops. Experiment until you find the best fit. Think of it this way, if you are currently living in the best place on earth for you, traveling around the world wouldn't really harm right? In fact you might find a better place to live in, but if you didn't, the time you spent traveling would not have gone to waste, you would have learned a lot about other countries, other people and traditions, different ways of thinking, and ultimately had fun!
 
@@ -88,7 +95,7 @@ At the end of the day it's just a pseudo-language! Every command is probably jus
 
 # 7-Always Be Ready to Unleash The Power Within
 
-![]({filename}/images/pendrivelinux.jpg)
+![]({{"assets/images/content/blog/pendrivelinux.jpg" | absolute_url }})
 
 Personally, I had numerous occasions when a friend asked me to do something on his/her computer, but found myself crippled because of his/her choice of OS. At other times I wanted to do something urgently but the only computer had another crippled OS. Spare yourself the agony, have Linux with you all the time, whether it's on a [USB pendrive](http://www.pendrivelinux.com "USB pendrive"), a live CD, or even a [live CD business card](http://www.damnsmalllinux.org/cd.html "live CD business card") ! There are dozens of good Linuces out there that are perfect for on-the-go computing. [Knoppix](http://www.knoppix.net "Knoppix"), [DSL](http://www.damnsmalllinux.org "DSL"), and [Puppy Linux](http://www.puppylinux.com "Puppy Linux") are just a few examples.
 

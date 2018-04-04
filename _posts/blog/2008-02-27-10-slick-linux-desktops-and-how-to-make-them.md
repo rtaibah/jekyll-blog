@@ -1,8 +1,13 @@
-title: 10 Slick Linux Desktops, and How To Make Them
-author: rami
-permalink: 10-slick-linux-desktops-and-how-to-make-them
-tags: Eye Candy, Desktops, Linux
+---
 
+title: "10 Slick Linux Desktops, and How To Make Them"
+author: rami
+layout: linuxologist
+permalink: /2008/02/27/10-slick-linux-desktops-and-how-to-make-them
+categories: [Blog]
+tags: [eye-candy, desktops, linux]
+
+---
 
 So you thought Vista's desktop looked slick? Or the latest Leopard desktop is coolest thing after sliced bread? Well you probably haven't been properly exposed to Linux's customizability. Linux flexiblity is one of it's strongest selling points. With Linux you can easily even mimic [Vista](http://www.youtube.com/watch?v=WO8MTAfFhGg "Vista") or [Leopard](http://lifehacker.com/software/how-to/make-your-linux-desktop-look-like-a-mac-317110.php "Leopard") totally free! Now I will take you through some of the kewlest, freshest, phatest desktops I have come across.
 
@@ -19,7 +24,7 @@ Having one wallpaper usually gets a bit dull, the solution? You get xplanet! xpl
 * Taskbars: top and bottom (no expansion)
 * Transparency: terminal only
 
-![Planetary Eye Candy Linux Desktop]({filename}/images/planetary.jpeg)
+![Planetary Eye Candy Linux Desktop]({{"assets/images/content/blog/planetary.jpeg" | absolute_url }})
 
 ## 2-Marshmallow Hunting
 
@@ -29,7 +34,7 @@ This one is one of my favorites because it's very easy on the eye. The [wallpape
 * Taskbars: top (no expansion) and Mac OSX style
 * Transparency: none
 
-![David Lanham Marshmellow hung destkop on linux]({filename}/images/marchmellowhunt_screenshot.jpeg)
+![David Lanham Marshmellow hung destkop on linux]({{"assets/images/content/blog/marchmellowhunt_screenshot.jpeg" | absolute_url }})
 
 ## 3-Futuristic Gentoo
 
@@ -39,7 +44,7 @@ This one is a StarWarish-Pokemonish-Haloish desktop. The original wallpaper is t
 * Taskbars: top and bottom (no expansion)
 * Transparency: yes
 
-![Futuristic Gentoo Desktop Linux Screenshot]({filename}/images/pokemon_screenshot.jpeg)
+![Futuristic Gentoo Desktop Linux Screenshot]({{"assets/images/content/blog/pokemon_screenshot.jpeg" | absolute_url }})
 
 
 ## 4-Even More Gentooish
@@ -50,18 +55,18 @@ This one is a jaw dropper, it just screams Gentoo! The icon theme is called [Lil
 * Taskbars: top, bottom, and Mac OSX style
 * Transparency: yes 
 
-![Futuristic Gentoo Desktop Linux Screenshot]({filename}/images/evenmoregentooish_screenshot.jpeg)
+![Futuristic Gentoo Desktop Linux Screenshot]({{"assets/images/content/blog/evenmoregentooish_screenshot.jpeg" | absolute_url }})
 
 
 ## 5-Bart Goes Nude
 
-Who doesn't love Bart? A kid that never seems to age or mature over the years. I included this desktop just because of the beauty of the picture. Just a simple [wallpaper]({filename}/images/nudebart_wp.jpeg) and the [Gartoon icon set](http://www.gnome-look.org/content/show.php/Gartoon+Icon+theme+%28v0.4.5%29?content=13527 "Gartoon icon set").
+Who doesn't love Bart? A kid that never seems to age or mature over the years. I included this desktop just because of the beauty of the picture. Just a simple [wallpaper]({{"assets/images/content/blog/nudebart_wp.jpeg" | absolute_url }}) and the [Gartoon icon set](http://www.gnome-look.org/content/show.php/Gartoon+Icon+theme+%28v0.4.5%29?content=13527 "Gartoon icon set").
 
 * Desktop: Gnome
 * Taskbars: bottom (no expansion)
 * Transparency: none
 
-![Nude Bart Linux Desktop Screenshot]({filename}/images/nudebart_wp.jpeg)
+![Nude Bart Linux Desktop Screenshot]({{"assets/images/content/blog/nudebart_wp.jpeg" | absolute_url }})
 
 ## 6-Agent Smith Meet KDE
 
@@ -71,17 +76,17 @@ No Linux desktop list is complete without a Matrix desktop! This cool wallpaper 
 * Taskbars: top and bottom (no expansion)
 * Transparency: none
 
-![Agent Smith Linux Desktop Screenshot]({filename}/images/screensmith.jpeg)
+![Agent Smith Linux Desktop Screenshot]({{"assets/images/content/blog/screensmith.jpeg" | absolute_url }})
 
 ## 7-Hmmm...Portal?
 
-This [wallpaper]({filename}/images/virtual_insanity.jpeg) is taken from [Jamiroquai](http://en.wikipedia.org/wiki/Jamiroquai "Jamiroquai")'s video [Virtual Insanity](http://www.youtube.com/watch?v=gJmX1z1NY2c "Virtual Insanity"). But it just reminds me of the game [Portal](http://en.wikipedia.org/wiki/Portal_%28video_game%29 "Portal") woot!!
+This [wallpaper]({{"assets/images/content/blog/virtual_insanity.jpeg" | absolute_url }}) is taken from [Jamiroquai](http://en.wikipedia.org/wiki/Jamiroquai "Jamiroquai")'s video [Virtual Insanity](http://www.youtube.com/watch?v=gJmX1z1NY2c "Virtual Insanity"). But it just reminds me of the game [Portal](http://en.wikipedia.org/wiki/Portal_%28video_game%29 "Portal") woot!!
 
 * Desktop: Gnome
 * Taskbars: top and bottom (no expansion)
 * Transparency: yes
 
-![Portal Desktop Linux Screenshot]({filename}/images/hmmportal.jpeg)
+![Portal Desktop Linux Screenshot]({{"assets/images/content/blog/hmmportal.jpeg" | absolute_url }})
 
 ## 8-CamelSnowMan
 
@@ -91,24 +96,24 @@ This one was done by [CamelSnowMan](http://camelsnowman.deviantart.com/ "CamelSn
 * Taskbars: bottom (no expansion)
 * Transparency: none
 
-![CamelSnowMan Desktop Linux Screenshot]({filename}/images/gentoo_by_camelsnowman.jpeg)
+![CamelSnowMan Desktop Linux Screenshot]({{"assets/images/content/blog/gentoo_by_camelsnowman.jpeg" | absolute_url }})
 
 ## 9-Fedora Sky
 
-Ok ok ya this one is mine, but it sure is slick, right? I already have [featured]({filename}/blog/2008-01-02-i-just-installed-fedora-8.markdown) it before when I first installed Fedora 8. I used the default Fedora Core 8 wallpaper and a modified Fayal [Emerald](http://en.wikipedia.org/wiki/Emerald_%28window_decorator%29 "Emerald") theme.
+Ok ok ya this one is mine, but it sure is slick, right? I already have [featured](/2008/01/02/i-just-installed-fedora-8) it before when I first installed Fedora 8. I used the default Fedora Core 8 wallpaper and a modified Fayal [Emerald](http://en.wikipedia.org/wiki/Emerald_%28window_decorator%29 "Emerald") theme.
 
 * Desktop: KDE
 * Taskbars: Bottom (no expansion)
 * Transparency: Yes
 
-![Fedora Sky Desktop Linux Screenshot]({filename}/images/fedora_sky.jpeg)
+![Fedora Sky Desktop Linux Screenshot]({{"assets/images/content/blog/fedora_sky.jpeg" | absolute_url }})
 
 ## 10-Shrooms
 
-This one is one of my favorite, dark and manageable! The [wallpaper]({filename}/images/fluorescence6.jpg) is originally from [digitalblasphemy](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwww.digitalblasphemy.com%2F&ei=pbrER7vDA6Ow0QSyw4jcDQ&usg=AFQjCNF6iUqs3Z9rOVdqD4z2s4Q8MizO4g&sig2=X0IU37eTzW7Ux\_Nj2scWRA). The sidebar on the right also seems to SuperKaramba. While the gauges are [gkrellm](http://members.dslextreme.com/users/billw/gkrellm/gkrellm.html) (thanks to "me" for pointing this out)
+This one is one of my favorite, dark and manageable! The [wallpaper]({{"assets/images/content/blog/fluorescence6.jpg" | absolute_url }}) is originally from [digitalblasphemy](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwww.digitalblasphemy.com%2F&ei=pbrER7vDA6Ow0QSyw4jcDQ&usg=AFQjCNF6iUqs3Z9rOVdqD4z2s4Q8MizO4g&sig2=X0IU37eTzW7Ux\_Nj2scWRA). The sidebar on the right also seems to SuperKaramba. While the gauges are [gkrellm](http://members.dslextreme.com/users/billw/gkrellm/gkrellm.html) (thanks to "me" for pointing this out)
 
 * Desktop: KDE
 * Tasbars: top (expansion) and bottom (no expansion)
 * Transparency: yes
 
-![Gentoo Linux Shrooms Desktop]({filename}/images/gentoo-linux.shrooms.png)
+![Gentoo Linux Shrooms Desktop]({{"assets/images/content/blog/gentoo-linux.shrooms.png" | absolute_url }})

@@ -1,7 +1,15 @@
-title: Show Me The Money! Blog and Get Paid with Snapbomb
+---
+
+title: "Show Me The Money! Blog and Get Paid with Snapbomb"
 author: rami
-permalink: show-me-the-money-blog-and-get-paid-with-snapbomb
-tags: Snapbomb, blogging
+layout: historical-blog 
+permalink: /2008/02/27/show-me-the-money-blog-and-get-paid-with-snapbomb
+categories: [Blog]
+tags: [snapbomb, blogging]
+
+summary: "While stumbling today, I stumbled upon a [blog touting a new](http://www.infektia.net/snapbomb-get-paid-to-blog) website called [Snapbomb](http://snapbomb.com) which apparently has been creating some buzz. While the idea is definitely not novel, there are a lot of blog marketing websites out there. But hey it's my first crack at something like this! And so far so good. Here is why:"
+
+---
 
 While stumbling today, I stumbled upon a [blog touting a new "blog and get paid"](http://www.infektia.net/snapbomb-get-paid-to-blog) website called [Snapbomb](http://snapbomb.com) which apparently has been creating some buzz. While the idea is definitely not novel, there are a lot of blog marketing websites out there. But hey it's my first crack at something like this! And so far so good. Here is why:
 

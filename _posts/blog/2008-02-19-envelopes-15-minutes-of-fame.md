@@ -1,12 +1,19 @@
-title: Envelopes 15 Minutes of Fame!
-author: rami
-permalink: envelopes-15-minutes-of-fame
-tags: Macbook Air, humour, parody, Apple
+---
 
+title: "Envelopes 15 Minutes of Fame!"
+author: rami
+layout: linuxologist
+permalink: /2008/02/19/envelopes-15-minutes-of-fame
+categories: [Blog]
+tags: [macbook air, humour, parody, apple]
+summary: "Thanks to Apple, fitting gadgets into all kinds of envelopes has become some kind of a fad. Only on the Internet where one can shift focus from high-end expensive gadgets to a flat paper container!!"
+
+---
 
 Thanks to Apple, fitting gadgets into all kinds of envelopes has become some kind of a fad. Only on the Internet where one can shift focus from high-end expensive gadgets to a flat paper container!!
 
 In case you have been living under a rock in the past couple of month, here is the video I am talking about:
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jLrW5SKusn0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 And the followers:
