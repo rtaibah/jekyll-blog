@@ -1,14 +1,18 @@
 ---
-title: Ubuntu is A Microsoft Product Now!
+
+title: "Ubuntu is A Microsoft Product Now!"
 author: rami
-layout: post
-permalink: /2009/07/ubuntu-is-a-microsoft-product-now/
-tags: ubuntu, linux, microsoft, humor
+layout: linuxologist 
+permalink: /2009/07/03/ubuntu-is-a-microsoft-product-now/
+categories: [Blog]
+tags: [ubuntu, linux, microsoft, humor]
+summary: "Well at least according to Dell's website. A 1.6GHz Atom CPU, 8GB of disk space armed with Microsoft's latest masterpiece: Ubuntu!"
+
 ---
 
 Well at least according to Dell's website. A 1.6GHz Atom CPU, 8GB of disk space armed with Microsoft's latest masterpiece: Ubuntu!
 
-![dell-typo]({filename}/images/dell-typo.png)
+![dell-typo](/assets/images/content/blog/dell-typo.png)
 
 **Update:** Here is [the original Dell website](http://www1.euro.dell.com/uk/en/home/mini_laptop_deals/fs.aspx?refid=mini_laptop_deals&s=dhs&cs=ukdhs1). The error is still up. Not fixed. Doesn't matter, print screen already did the damage. ;)
 

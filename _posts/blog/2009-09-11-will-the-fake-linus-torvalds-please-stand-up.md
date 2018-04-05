@@ -1,13 +1,16 @@
 ---
-title: Will The Fake Linus Torvalds Please Stand Up
+
+title: "Will The Fake Linus Torvalds Please Stand Up"
 author: rami
-layout: post
-permalink: /2009/09/will-the-fake-linus-torvalds-please-stand-up/
-tags: linus torvalds, linux 
+layout: linuxologist 
+permalink: /2009/09/11/will-the-fake-linus-torvalds-please-stand-up/
+categories: [Blog]
+tags: [linus torvalds, linux ]
+summary: "Inspired by the popular [Fake Steve Jobs blog](http://www.fakesteve.net/), The Linux Foundation invited 4 prominent Linux industry leaders to guest tweet as Linus Torvalds. Users are invited to vote for their favorite fake Linus. The winner and all 4 fake Linus Trovalds will be revealed at [LinuxCon 2009](http://events.linuxfoundation.org/events/linuxcon)."
 
 ---
 
-![Fake-Linus-Torvalds]({filename}/images/Fake-Linus-Torvalds.jpg)
+![Fake-Linus-Torvalds](/assets/images/content/blog/Fake-Linus-Torvalds.jpg)
 
 Inspired by the popular [Fake Steve Jobs blog](http://www.fakesteve.net/), The Linux Foundation invited 4 prominent Linux industry leaders to guest tweet as Linus Torvalds. Users are invited to vote for their favorite fake Linus. The winner and all 4 fake Linus Trovalds will be revealed at [LinuxCon 2009](http://events.linuxfoundation.org/events/linuxcon).
 

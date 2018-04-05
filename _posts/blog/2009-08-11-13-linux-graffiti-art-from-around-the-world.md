@@ -5,12 +5,12 @@ author: rami
 layout: linuxologist 
 permalink: /2009/08/11/13-linux-graffiti-art-from-around-the-world/
 categories: Blog
-tags: graffiti, art, linux
+tags: [graffiti, art, linux]
 summary: Here are 13 Linux and Open Source graffiti art I found on the Interwebs. I tried to figure out where each was, but for some I just couldn't find any info. So if you happen to know where one is located or know of any other cool graffiti, please leave a comment.
 
 ---
 
-Us Linux users are very passionate about our operating system. We get into flame wars with others, push it down other's throats ([which we don't condone]({filename}/blog/2008-11-14-help-spread-linux-without-preaching-it.markdown), [blog about]({filename}/blog/2008-05-02-30-blogs-every-open-source-enthusiast-should-keep-an-eye-on.markdown), [work feverishly in converting]({filename}/blog/2007-12-27-howto-convert-a-friend-to-linux.markdown), and finally "vandalize" our cities.
+Us Linux users are very passionate about our operating system. We get into flame wars with others, push it down other's throats ([which we don't condone](/2008/11/14/help-spread-linux-without-preaching-it), [blog about](/2008/05/02/30-blogs-every-open-source-enthusiast-should-keep-an-eye-on), [work feverishly in converting](/2007/12/27/howto-convert-a-friend-to-linux), and finally "vandalize" our cities.
 
 Here are 13 Linux and Open Source graffiti art I found on the Interwebs. I tried to figure out where each was, but for some I just couldn't find any info. So if you happen to know where one is located or know of any other cool graffiti, please leave a comment.
 

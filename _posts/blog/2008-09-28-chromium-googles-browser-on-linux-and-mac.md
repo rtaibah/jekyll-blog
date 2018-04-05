@@ -1,7 +1,14 @@
-title: Chromium: Googles Browser on Linux and Mac!
+---
+
+title: "Chromium: Googles Browser on Linux and Mac!"
 author: rami
+layout: linuxologist
 permalink: /2008/09/chromium-googles-browser-on-linux-and-mac/
-tags: Howto, Linuxologist, Apps, Chrome, Google
+categories: [Blog]
+tags: [howto, linuxologist, apps, chrome, google]
+summary: "I am sure a lot of Linux and Mac users were a bit disappointed on September the 2nd, they were shut out in favor of their more popular counterparts; Windows users. Google's browser, Chrome, took the Internet by storm. Everybody was talking about it, [Digg got swamped with Chrome submissions](http://digg.com/search?section=all&s=chrome), [Tech blogs were buzzing about it](http://technorati.com/chart/chrome?language=en&authority=a4), theories were thrown [left](http://www.linuxjournal.com/content/gacl) and [right](http://blog/.wirelesswanders.com/2008/09/03/google-chrome-and-mobile-to-follow/). Everybody was in for the action, except for Linux and Mac users! :("
+
+---
 
 I am sure a lot of Linux and Mac users were a bit disappointed on September the 2nd, they were shut out in favor of their more popular counterparts; Windows users. Google's browser, Chrome, took the Internet by storm. Everybody was talking about it, [Digg got swamped with Chrome submissions](http://digg.com/search?section=all&s=chrome), [Tech blogs were buzzing about it](http://technorati.com/chart/chrome?language=en&authority=a4), theories were thrown [left](http://www.linuxjournal.com/content/gacl) and [right](http://blog/.wirelesswanders.com/2008/09/03/google-chrome-and-mobile-to-follow/). Everybody was in for the action, except for Linux and Mac users! :(
 
@@ -20,12 +27,11 @@ Anyways enough talk, if you want a piece of the action you just simply need to d
 3. [CrossOver Chromium for Red Hat, Mandriva, and Suse](http://media.codeweavers.com/pub/crossover/chromium/cxchromium-0.9.0-1.i386.rpm)
 4. [CrossOver Chromium for all other Linux distros.](http://media.codeweavers.com/pub/crossover/chromium/install-cxchromium-0.9.0.sh)
 
-![Chrome on Ubuntu through Wine]({filename}/images/chrome-ubuntu.png)
+![Chrome on Ubuntu through Wine](/assets/images/content/blog/chrome-ubuntu.png)
 
 **Warning:** Chromium should not be used as a main browser, it is not stable enough. From Codeweaver's Faqs:
  
 
-> **Q. ** Should I run CrossOver Chromium as my main browser?
+> **Q.** Should I run CrossOver Chromium as my main browser?
 
 > **A.** Absolutely not! This is just a proof of concept, for fun, and to showcase what Wine can do. Chromium itself is just beginning. As the Chromium project progresses, they will be providing more compelling support for Mac OS and Linux, particularly with process security and memory management. Those future versions from Chromium will be better suited for daily use than this version.
-

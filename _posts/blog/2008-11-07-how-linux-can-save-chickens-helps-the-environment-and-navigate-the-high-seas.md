@@ -1,11 +1,18 @@
-title: How Linux Helped Chickens, Environmentalists, and a Pirate!
+---
+
+title: "How Linux Helped Chickens, Environmentalists, and a Pirate!"
 author: rami
-permalink: /2008/11/how-linux-can-save-chickens-helps-the-environment-and-navigate-the-high-seas/
-tags: Plathome, Linuxologist, Linux, Hardware
+layout: linuxologist
+permalink: /2008/11/07/how-linux-can-save-chickens-helps-the-environment-and-navigate-the-high-seas/
+categories: [Blog]
+tags: [plathome, linux, hardware]
+summary: "Since then, I've used Linux at work and at home in a wide variety array of devices. Even today, now that I'm older and never have enough time for fiddling around with software constantly, I have Linux in my car, as an mp3 player. Any Empeg Rio Car users out there? With [no DRM](/2008/10/01/why-its-time-to-kick-drm-to-the-curb), Linux in your car is a far better solution that connecting your iPod through your car stereo."
 
-![Linux Ideas]({filename}/images/linux-ideas.jpg)
+---
 
-Since then, I've used Linux at work and at home in a wide variety array of devices. Even today, now that I'm older and never have enough time for fiddling around with software constantly, I have Linux in my car, as an mp3 player. Any Empeg Rio Car users out there? With [no DRM]({filename}/blog/2008-10-01-why-its-time-to-kick-drm-to-the-curb.markdown), Linux in your car is a far better solution that connecting your iPod through your car stereo.
+![Linux Ideas](/assets/images/content/blog/linux-ideas.jpg)
+
+Since then, I've used Linux at work and at home in a wide variety array of devices. Even today, now that I'm older and never have enough time for fiddling around with software constantly, I have Linux in my car, as an mp3 player. Any Empeg Rio Car users out there? With [no DRM](/2008/10/01/why-its-time-to-kick-drm-to-the-curb), Linux in your car is a far better solution that connecting your iPod through your car stereo.
 
 But like always, the Linux community is a vast store of fascinating information and ideas. I've worked with a Japanese company called Plat'Home, maker of small, tough, eco-friendly servers, for the past nine months or so. They ran a contest this summer about ideas. They called it the ["Will Linux Work? Contest."](http://www.plathomeus.blogspot.com/) They collected ideas from Linux lovers on how they would use Linux in interesting and sometimes challenging ways.
 
@@ -17,7 +24,7 @@ Back to the Plat'Home contest. It's worth sifting back through their blog. 20-25
 
 ## Save The Chickens
 
-![Chicken Hen]({filename}/images/chicken-hen.jpg)
+![Chicken Hen](/assets/images/content/blog/chicken-hen.jpg)
 
 The most outrageously great was [the "chicken sitter."](http://plathomeus.blogspot.com/2008/10/final-results-chicken-sitter.html) Gordon Smith of Lakewood, CO, wanted to do a "useful project." Save the chickens! In his own words:
 
@@ -32,7 +39,7 @@ The most outrageously great was [the "chicken sitter."](http://plathomeus.blogsp
 
 ## Environmental Hackers
 
-![]({filename}/images/environmental-hackers.jpg)
+![](/assets/images/content/blog/environmental-hackers.jpg)
 
 Martin Ewing Branford, CT, had an extremely timely idea, looking for a way to increase the efficiency of various home heating systems. He calls it the [Home Utility Support System](http://plathomeus.blogspot.com/2008/10/final-results-home-utility-support.html) and defined the Scope of Project as:
 
@@ -44,7 +51,7 @@ Colin Duplantis of [Rough and Ready, CA](http://maps.google.com/maps?f=q&hl=en&g
 
 ## Of Linux and Pirates Awwwr!
 
-![Pirate Day Over Linux]({filename}/images/pirate-day-over-linux.jpg)
+![Pirate Day Over Linux](/assets/images/content/blog/pirate-day-over-linux.jpg)
 
 And, finally, any sailors out there? Need a brain for your boat? Steve Castellotti of El Cerrito, CA, wanted [an on-board computer for his trimaran](http://plathomeus.blogspot.com/2008/10/final-results-gps-monitoring-system.html) making trips back and forth between California and New Zealand. On top of Linux he uses OpenVPN to link up to his private network, Apache for serving up custom software and content on his LAN, PostgreSQL for storing the data collected from the Trimaran's engine and solar panel array, and Icecast for streaming mp3s via HTTP. He uses a 1 TB external hard drive and an iPod as additional storage.
 

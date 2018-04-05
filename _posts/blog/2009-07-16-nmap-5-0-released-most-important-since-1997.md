@@ -1,12 +1,16 @@
 ---
+
 title: "Nmap 5.0 Released: Most Important Since 1997!"
 author: rami
-layout: post
-permalink: /2009/07/nmap-5-0-released-most-important-since-1997/
-tags: security, nmap, news
+layout: linuxologist 
+permalink: /2009/07/16/nmap-5-0-released-most-important-since-1997/
+categories: [Blog]
+tags: [security, nmap, news]
+summary: "Today, insecure.org announced the release of Nmap 5.0, which they consider the most important release since 1997. Their [release notes](http://nmap.org/5/) detail the most important changes:"
+
 ---
 
-![trinity-nmapscreen-hd-crop-1200x728]({filename}/images/trinity-nmapscreen.jpeg)
+![trinity-nmapscreen-hd-crop-1200x728](/assets/images/content/blog/trinity-nmapscreen.jpeg)
 
 If you don't know what Nmap is then this probably doesn't interest you and/or not "1337" enough. What's wrong with you?
 

@@ -1,22 +1,15 @@
 ---
-id: 682
-title: The Hypocritical Digg Revolt
-date: 2009-01-02T09:28:00+00:00
+
+title: "The Hypocritical Digg Revolt"
 author: rami
-layout: post
-guid: http://rtaibah1.wordpress.com/2009/01/02/the-hypocritical-digg-revolt
+layout: historical-blog
 permalink: /2009/01/02/the-hypocritical-digg-revolt/
-posterous_39894d3ad3d9f6a441052a50351e8a54_post_id:
-  - "7446209"
-  - "7446209"
-  - "7446209"
-posterous_39894d3ad3d9f6a441052a50351e8a54_permalink:
-  - http://blog.ramitaibah.com/the-hypocritical-digg-revolt
-  - http://blog.ramitaibah.com/the-hypocritical-digg-revolt
-  - http://blog.ramitaibah.com/the-hypocritical-digg-revolt
-categories:
-  - Uncategorized
+categories: [Blog]
+tags: [digg, social-media]
+summary:
+
 ---
+
 <p style="text-align:center;">
   <div class='p_embed p_image_embed'>
     <img alt="Media_httpfarm4staticflickrcom31542313372308f7560e69a4jpgv0_xccifreqkfzxaeb" height="375" src="http://139.59.20.41/wp-content/uploads/2011/12/media_httpfarm4staticflickrcom31542313372308f7560e69a4jpgv0_xccifreqkfzxaeb-scaled500.jpg?w=300" width="500" />

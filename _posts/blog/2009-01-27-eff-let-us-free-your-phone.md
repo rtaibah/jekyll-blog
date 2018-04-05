@@ -1,10 +1,16 @@
-title: EFF: Let Us Free Your Phone
-author: rami
-layout: post
-permalink: /2009/01/eff-let-us-free-your-phone/
-tags: EFF, DRM, iPhone, Mobile Phones
+---
 
-![free-your-phone]({filename}/images/free-your-phone.jpeg)
+title: "EFF: Let Us Free Your Phone"
+author: rami
+layout: linuxologist 
+permalink: /2009/01/27/eff-let-us-free-your-phone/
+categories: [Blog]
+tags: [eff, drm, iphone, mobile phones]
+summary: "Time and time again I made it clear how disgruntled am with the [mobile phone industry ](/blog/linuxobservations/its-a-wonderful-internet-but-not-every-pasture/)and [specifically the dreaded iPhone](/blog/thedarkside/iphone-3g-a-beautiful-jail/).  Luckily, over here in Saudi Arabia, carriers haven't yet discovered (or maybe don't have AT&T's clout) locking phones as a 'business' model. So the issue doesn't affect me directly -- bar for phones exported from the States."
+
+---
+
+![free-your-phone](/assets/images/content/blog/free-your-phone.jpeg)
 
 Time and time again I made it clear how disgruntled am with the [mobile phone industry ](/blog/linuxobservations/its-a-wonderful-internet-but-not-every-pasture/)and [specifically the dreaded iPhone](/blog/thedarkside/iphone-3g-a-beautiful-jail/).  Luckily, over here in Saudi Arabia, carriers haven't yet discovered (or maybe don't have AT&T's clout) locking phones as a "business" model. So the issue doesn't affect me directly -- bar for phones exported from the States.
 

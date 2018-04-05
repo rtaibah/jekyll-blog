@@ -1,11 +1,18 @@
-title: Why DRM Should Be Kicked to The Curb
+---
+
+title: "Why DRM Should Be Kicked to The Curb"
 author: rami
-permalink: /2008/10/why-its-time-to-kick-drm-to-the-curb/
-tags: DRM, Advocacy, Technology, Microsoft, Adobe, Spore, SecuROM, Linuxologist, Guest Post
+layout: linuxologist
+permalink: /2008/10/01/why-its-time-to-kick-drm-to-the-curb/
+categories: [Blog]
+tags: [drm, advocacy, technology, microsoft, adobe, spore, secure-rom, guest-post]
+summary: "_This is a guest post by [Ian McLean](http://golbnikufesin.blogspot.com/), an Australian Linux and Open Source aficionado currently based in Romania._"
+
+---
 
 _This is a guest post by [Ian McLean](http://golbnikufesin.blogspot.com/), an Australian Linux and Open Source aficionado currently based in Romania._
 
-![Eliminate DRM]({filename}/images/eliminate-drm.jpg)
+![Eliminate DRM](/assets/images/content/blog/eliminate-drm.jpg)
 
 # The Information Age: Where Everything Is Free
 
@@ -21,7 +28,7 @@ Ever since practically the dawn of recorded media, piracy has been an issue that
 
 Now, with software piracy running totally rampant, the worth of software available on retail shelves begins to sink, and software companies begin losing money. Clearly, this isn't a minor trend to deal with; it's a potential catastrophe and of course, there's plenty of reasons, which are perfectly legitimate, for companies that make their bread from software sales to find a way to curb piracy and keep their user base honest.
 
-![Handcuffs]({filename}/images/handcuffs.jpg)
+![Handcuffs](/assets/images/content/blog/handcuffs.jpg)
 
 Software consumers have a binary choice:
 
@@ -43,7 +50,7 @@ A classic example of this has happened just recently, in the form of a computer 
 
 [SecuROM](http://en.wikipedia.org/wiki/Securom) comes bundled with the game. It's not advertised on the box and for all intents and purposes, the customer is entirely unaware of its inclusion until they've bought it, taken it home and installed it. The software cannot be uninstalled, even if the game is. Upon installation the game must be activated online, and it can only be activated on five different systems. At first this seems to make sense, until it's made clear that the software's methods of determining whether it's a different computer or not aren't bulletproof; changing the computer's hardware may register to the game that it's an entirely different system and thus, another activation is used. After all activations are used, the game will not play and to a completely legitimate consumer, the game is rendered useless. Pouring salt in the wound, the SecuROM software is still bundled even if the game is purchased and downloaded through Steam, itself a powerful anti-piracy measure by its very nature.
 
-![]({filename}/images/20080509.jpg)
+![](/assets/images/content/blog/20080509.jpg)
 
 The fallout from this calamity is pretty obvious now; the game's [ratings on Amazon average one of five stars](http://www.amazon.com/review/product/B000FKBCX4?_encoding=UTF8&showViewpoints=1) due entirely to the game's DRM measures, and thanks to the friendly pirate community, copies downloaded illegally through file sharing and torrents have had the DRM measures deactivated or removed -- effectively making the pirate copies of the game superior to the real thing. In short, if you buy Spore from a shop, you get a worse version than the one that pirates are getting for free. And what was your crime?
 

@@ -1,12 +1,18 @@
-title: Etymology of an Open Source App/Project
+---
+
+title: "Etymology of an Open Source App/Project"
 author: rami
-layout: post
-permalink: /2009/03/etymology-of-an-open-source-appproject/
-tags: Linux, Open Source
+layout: linuxologist 
+permalink: /2009/03/11/etymology-of-an-open-source-appproject/
+categories: [Blog]
+tags: [linux, open-source, etymology]
+summary: "Last year, I blogged about [35 Distros and how they got their names](/2008/04/06/etymology-of-a-distro). Some of the distros out there have fascinating stories, while others are just too mundane. However make sure you[read that blog](/2008/04/06/etymology-of-a-distro), its a very interesting one (trust me)."
 
-![open-source-logos]({filename}/images/open-source-logos.png)
+---
 
-Last year, I blogged about [35 Distros and how they got their names]({filename}/blog/2008-04-06-etymology-of-a-distro.markdown). Some of the distros out there have fascinating stories, while others are just too mundane. However make sure you[read that blog]({filename}/blog/2008-04-06-etymology-of-a-distro.markdown), its a very interesting one (trust me).
+![open-source-logos](/assets/images/content/blog/open-source-logos.png)
+
+Last year, I blogged about [35 Distros and how they got their names](/2008/04/06/etymology-of-a-distro). Some of the distros out there have fascinating stories, while others are just too mundane. However make sure you[read that blog](/2008/04/06/etymology-of-a-distro), its a very interesting one (trust me).
 
 
 The natural extension of the "Etymology of a Distro" blog would be delving deeper into Open Source project's etymologies. Indeed many readers already suggested that. Sadly I got sidetracked and put the whole idea on the back burner. Now I have put it off for way too long, here are 20 Open Source applications and the interesting (and not so interesting) stories behind their names:
@@ -25,7 +31,7 @@ Pidgin used to be called Gaim, but after a prolonged naming dispute with AOL's A
 
 ## 4-Amarok
 
-My favorite music player, and perhaps one of the few pieces of software that I can truly say "I love". Amarok was originally named after [Mike Oldfield](http://en.wikipedia.org/wiki/Mike\_Oldfield)'s album [Amarok](http://en.wikipedia.org/wiki/Amarok\_%28album%29). This fact has been included as an [easter egg]({filename}/blog/2007-12-27-amarok-easter-egg.markdown)I blogged about some time ago.
+My favorite music player, and perhaps one of the few pieces of software that I can truly say "I love". Amarok was originally named after [Mike Oldfield](http://en.wikipedia.org/wiki/Mike\_Oldfield)'s album [Amarok](http://en.wikipedia.org/wiki/Amarok\_%28album%29). This fact has been included as an [easter egg](/2007/12/27/amarok-easter-egg)I blogged about some time ago.
 
 ## 5-XBMC
 

@@ -1,10 +1,16 @@
-title: Ext4 Filesystem Explained in Plain English
-author: rami
-layout: post
-permalink: /2009/01/ext4-filesystem-explained-in-plain-english/
-categories: Linux, EXT, Filesystems 
+---
 
-![Harddrive]({filename}/images/harddrive.jpg)
+title: "Ext4 Filesystem Explained in Plain English"
+author: rami
+layout: linuxologist 
+permalink: /2009/01/23/ext4-filesystem-explained-in-plain-english/
+categories: [Blog]
+tags: [linux, ext, filesystems]
+summary: "Linux Kernel 2.6.28 was released while you were partying on New Years and declared the much anticipated Ext4 filesystem as stable. The web buzzed on [how fast and reliable Ext4](http://arstechnica.com/journals/linux.ars/2009/01/12/super-fast-ext4-filesystem-arrives-in-ubuntu-9-04) and the Ubutnu community celebrated to the news that the [upcoming 9.04 version will include Ext4](http://www.linux-magazine.com/online/news/ubuntu_9_04_supports_ext4). Ext4 brings a lot of enhancements, but to a non-technical person like me it does sound confusing, with a lot of technical terms that don't make much sense. So I thought I should read up and do my best to understand Ext4 and how it will enhance our day-to-day computing experience."
+
+---
+
+![Harddrive](/assets/images/content/blog/harddrive.jpg)
 
 Linux Kernel 2.6.28 was released while you were partying on New Years and declared the much anticipated Ext4 filesystem as stable. The web buzzed on [how fast and reliable Ext4](http://arstechnica.com/journals/linux.ars/2009/01/12/super-fast-ext4-filesystem-arrives-in-ubuntu-9-04) and the Ubutnu community celebrated to the news that the [upcoming 9.04 version will include Ext4](http://www.linux-magazine.com/online/news/ubuntu_9_04_supports_ext4). Ext4 brings a lot of enhancements, but to a non-technical person like me it does sound confusing, with a lot of technical terms that don't make much sense. So I thought I should read up and do my best to understand Ext4 and how it will enhance our day-to-day computing experience.
 
@@ -15,7 +21,7 @@ For a system to write a file on a hard disk, it needs a methodology and specific
 Today, with the explosion of multimedia and high-speed Internet, this method seems ineffecient. So, Ext4 introduces the concept of Extents. **An extent is basically a bunch of blocks**. So for our example 100 Mb file, it will basically say "write the data is in the next n blocks" instead of mapping each individual block separately. Ext4 will support up to 128 Mb extents, so for a 1000 Mb file (or 1 Gb), it will map 10 extents instead of 256,000 blocks. This will ultimately improve performance and also help in reducing fragmentation.
 
 
-![extents]({filename}/images/extents.png)
+![extents](/assets/images/content/blog/extents.png)
 
 ## Multiblock Allocation
 

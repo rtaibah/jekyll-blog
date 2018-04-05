@@ -1,22 +1,26 @@
 ---
+
 title: "Howto: Install KDE 4.3 on Ubuntu Jaunty"
 author: rami
-layout: post
-permalink: /2009/08/howto-install-kde-4-3-on-ubuntu-jaunty/
-tags: 
+layout: linuxologist 
+permalink: /2009/08/07/howto-install-kde-4-3-on-ubuntu-jaunty/
+categories: [Blog]
+tags: [kde, linux, ubuntu, desktop]
+summary: "KDE 4.3 was released 3 days ago, bringing integration with other technologies, such as PolicyKit, NetworkManager & Geolocation services, was another focus of this release. KRunner's interface has been overhauled. A much more flexible system tray has been developed. Many new Plasmoids have been added, including the openDesktop.org Plasmoid -- an initial take on the Social Desktop. Plasma also receives more keyboard shortcuts."
+
 ---
 
-![kde430-inspired]({filename}/images/kde430-inspired.png)
+![kde430-inspired](/assets/images/content/blog/kde430-inspired.png)
 
 KDE 4.3 was released 3 days ago, bringing integration with other technologies, such as PolicyKit, NetworkManager & Geolocation services, was another focus of this release. KRunner's interface has been overhauled. A much more flexible system tray has been developed. Many new Plasmoids have been added, including the openDesktop.org Plasmoid -- an initial take on the Social Desktop. Plasma also receives more keyboard shortcuts.
 
 Unfortunately if you are on Ubuntu Jaunty (or Kubuntu), you will not officially get KDE 4.3\. It will be featured in the upcoming Koala version scheduled in October. However you can get your hands on the latest KDE offering now on your 9.04 desktop. But let us take a quick look at some screenshots.
 
-![kde43-full-thumb-640xauto-7515]({filename}/images/kde43-full-thumb-640xauto-7515.png)
+![kde43-full-thumb-640xauto-7515](/assets/images/content/blog/kde43-full-thumb-640xauto-7515.png)
 
-![kde430_thumb]({filename}/images/kde430_thumb.png)
+![kde430_thumb](/assets/images/content/blog/kde430_thumb.png)
 
-![kde43-social]({filename}/images/kde43-social.png)
+![kde43-social](/assets/images/content/blog/kde43-social.png)
 
 ## Upgrading to KDE 4.3
 

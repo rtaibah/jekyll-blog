@@ -1,12 +1,16 @@
 ---
-title: IBM and Ubuntu Going Head To Head Against Windows 7?
+
+title: "IBM and Ubuntu Going Head To Head Against Windows 7?"
 author: rami
-layout: post
-permalink: /2009/10/ibm-and-ubuntu-going-head-to-head-against-windows-7/
-tags: canonical, netbook, ibm, ubuntu, linux
+layout: linuxologist 
+permalink: /2009/10/20/ibm-and-ubuntu-going-head-to-head-against-windows-7/
+categories: [Blog]
+tags: [canonical, netbook, ibm, ubuntu, linux]
+summary: "This last September, IBM and Canonical -- the company behind Ubuntu- [teamed up to bring Linux-powered netbooks to African markets](http://triangle.bizjournals.com/triangle/stories/2009/09/21/daily32.html). Commentators [wondered](http://blog/.internetnews.com/skerner/2009/09/ibm-markets-linux-netbook-for.html), [and rightly so](http://blog/s.zdnet.com/open-source/?p=4879), why Africa?"
+
 ---
 
-![Ubuntu-IBM-Netbook]({filename}/images/Ubuntu-IBM-Netbook.jpg)
+![Ubuntu-IBM-Netbook](/assets/images/content/blog/Ubuntu-IBM-Netbook.jpg)
 
 This last September, IBM and Canonical -- the company behind Ubuntu- [teamed up to bring Linux-powered netbooks to African markets](http://triangle.bizjournals.com/triangle/stories/2009/09/21/daily32.html). Commentators [wondered](http://blog/.internetnews.com/skerner/2009/09/ibm-markets-linux-netbook-for.html), [and rightly so](http://blog/s.zdnet.com/open-source/?p=4879), why Africa?
 

@@ -1,9 +1,16 @@
-title: How Linux Helped 5 Poverty-Stricken Governments
-author: rami
-permalink: /2008/10/how-linux-helped-5-poverty-stricken-governments/
-tags: Blog Action Day, Poverty, Linux, Linuxologist, Spain, Brazil, India, Russia, Phillipines
+---
 
-[![Blog Action Day 2009]({filename}/images/blog-action-day-2008.jpg)](http://blogactionday.org/)
+title: "How Linux Helped 5 Poverty-Stricken Governments"
+author: rami
+layout: linuxologist
+permalink: /2008/10/14/how-linux-helped-5-poverty-stricken-governments/
+categories: [Blog]
+tags: [blog action day, poverty, linux, linuxologist, spain, brazil, india, russia, phillipines]
+summary: "Imagine you are the minister of education of an impoverished country, with a limited budget to improve your schooling system. You realize the importance of computers in education, and also realize that failing to provide a proper IT infrastructure to your country's youth would have a grave effect on your country for generations. You are not aware of such thing called 'Open Source' what would happen? You would probably end up spending thousands on software to equip your school's computers, and with the budget constraint, you will roll out only a fraction of the computers actually needed. This would put you in front of two options; either **some** schools get computers, or cramp 10 children in front of one computer."
+
+---
+
+[![Blog Action Day 2009](/assets/images/content/blog/blog-action-day-2008.jpg)](http://blogactionday.org/)
 
 _This is a contribution post discussing [2008 Blog Action Day](http://site.blogactionday.org/about/) theme, "Poverty"._
 

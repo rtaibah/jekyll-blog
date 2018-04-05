@@ -1,12 +1,16 @@
 ---
-title: 'GNOME-Colors: Consistence and Elegance For GNOME Desktops'
+
+title: "'GNOME-Colors: Consistence and Elegance For GNOME Desktops'"
 author: rami
-layout: post
-permalink: /2009/07/gnome-colors-consistence-and-elegance-for-gnome-desktops/
-tags: gnome, linux, eye-candy
+layout: linuxologist 
+permalink: /2009/07/14/gnome-colors-consistence-and-elegance-for-gnome-desktops/
+categories: [Blog]
+tags: [gnome, linux, eye-candy]
+summary: "Lets face it, the default GNOME desktop isn't the easiest desktop on the eye. While Ubuntu's desert brown is actually an eye sore, other distros like Mint and Fedora have done better jobs in theming their desktops. But still most users aren't content with default desktops and usually tweak around their themes via [gnome-look.org](http://gnome-look.org) among others."
+
 ---
 
-![gnomecolors]({filename}/images/gnomecolors.png)
+![gnomecolors](/assets/images/content/blog/gnomecolors.png)
 
 Lets face it, the default GNOME desktop isn't the easiest desktop on the eye. While Ubuntu's desert brown is actually an eye sore, other distros like Mint and Fedora have done better jobs in theming their desktops. But still most users aren't content with default desktops and usually tweak around their themes via [gnome-look.org](http://gnome-look.org) among others.
 
@@ -28,11 +32,11 @@ Installing GNOME-Colors will provide you three things:
 
 Here are two screenshots on my own laptop and GDM login screens (not mine, still have to figure out how to capture a login screen :D). Of course the bar in the bottom has nothing to do with GNOME-Colors. Its just AWN, which we will probably cover more about later:
 
-![Gnome-Colors-Wise]({filename}/images/Gnome-Colors-Wise.png)
+![Gnome-Colors-Wise](/assets/images/content/blog/Gnome-Colors-Wise.png)
 
-![GNOME-Colors-Noble](GNOME-Colors-Noble.png)
+![GNOME-Colors-Noble](/assets/images/content/blog/GNOME-Colors-Noble.png)
 
-![gdmboth]({filename}/images/gdmboth.png)
+![gdmboth](/assets/images/content/blog/gdmboth.png)
 
 ## Installing GNOME-Colors
 

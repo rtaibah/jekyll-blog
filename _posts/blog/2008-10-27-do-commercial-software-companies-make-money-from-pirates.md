@@ -1,12 +1,19 @@
-title: Piracy Hurts Open Source Also!
-author: rami
-permalink: /2008/10/do-commercial-software-companies-make-money-from-pirates/
-tags: Piracy, DRM, Linux, Linuxologist
+---
 
-![Johnny Depp]({filename}/images/piracy-johnny-depp3.jpg)
+title: "Piracy Hurts Open Source Also!"
+author: rami
+layout: linuxologist
+permalink: /2008/10/27/do-commercial-software-companies-make-money-from-pirates/
+categories: [Blog]
+tags: [piracy, drm, linux]
+summary: "In an [earlier article](/2008/10/01/why-its-time-to-kick-drm-to-the-curb) we established that piracy of software is basically a given in today's world where information is so easily shared and duplicated. We also established that no matter what DRM measures are implemented by commercial software developers, no matter how advanced or how draconian they are, someone's always going to find a way around it. With that in mind, perhaps, if we're able to figure that out, surely so are they...?"
+
+---
+
+![Johnny Depp](/assets/images/content/blog/piracy-johnny-depp3.jpg)
   
 
-In an [earlier article]({filename}/blog/2008-10-01-why-its-time-to-kick-drm-to-the-curb.markdown) we established that piracy of software is basically a given in today's world where information is so easily shared and duplicated. We also established that no matter what DRM measures are implemented by commercial software developers, no matter how advanced or how draconian they are, someone's always going to find a way around it. With that in mind, perhaps, if we're able to figure that out, surely so are they...?
+In an [earlier article](/2008/10/01/why-its-time-to-kick-drm-to-the-curb) we established that piracy of software is basically a given in today's world where information is so easily shared and duplicated. We also established that no matter what DRM measures are implemented by commercial software developers, no matter how advanced or how draconian they are, someone's always going to find a way around it. With that in mind, perhaps, if we're able to figure that out, surely so are they...?
 
 [Epic Edits Weblog](http://blog.epicedits.com/2008/03/28/60-of-photoshop-users-are-pirates/), through their own original research, discovered that very nearly 60% of their poll participants were using a pirated version of [Adobe Photoshop](http://www.adobe.com/products/photoshop/photoshop/). That's a good deal more than half of them, which means more than half the copies of the program among that sample are illegitimate ones that didn't come from Adobe themselves.
 
@@ -18,7 +25,7 @@ I'm willing to bet a good few of those reading this blog are using pirated softw
 
 It seems a somewhat common attitude I've seen among people; they've got an axe to grind with the bigwigs like Adobe or Microsoft, and then thus choose to pirate their software as their quiet little way of 'sticking it to the man'. It's easy to understand that mindset; if you download the program illegally instead of paying the company for the right to use it, they've lost your purchase there -- these rich corporations are charging hundreds for a program that's hardly worth a fraction of that price, so if you pirate, they're just getting what they deserve! (Gleeful cackle)
 
-![Stick it to the man]({filename}/images/stick-it-to-the-man.jpg)
+![Stick it to the man](/assets/images/content/blog/stick-it-to-the-man.jpg)
 
 ###### Caption: Stick it to the man!  
 
@@ -38,7 +45,7 @@ Microsoft Windows hold 90% of the desktop market, and for much the same reason. 
 
 We've all heard plenty of spiel from software companies lamenting the disadvantages of using pirated software, but often while they come up with valid points, they're often only points that are in their interests. [Adobe moans](http://www.adobe.com/uk/aboutadobe/antipiracy/hurt.html) that covering for pirated software hurts the global economy, leading to losses of jobs, legitimate users where money that could've gone into R&D instead goes into simply keeping the company afloat, and finally users of pirated software due to often (sic) defective or virus-laden copies circulating on the net.
 
-![Photoshop Office Pirated]({filename}/images/photoshop-office-pirated2.jpg)
+![Photoshop Office Pirated](/assets/images/content/blog/photoshop-office-pirated2.jpg)
 
 While the validity of that last point there is certainly up for grabs, there's other, less documented implications that are especially relevant for proponents of Free and Open Source Software.
 
@@ -48,7 +55,7 @@ Firstly, legitimate users are certainly losing out; prices raised up due to pira
 
 But there's also going to be an often unseen impact on FOSS developers; FOSS isn't about generating revenue, but public interest and user support is the FOSS community's lifeblood; if you choose to download a copy of MS Office 2007 instead of [OpenOffice.org](http://www.openoffice.org/), OOo's developers have lost a user, lost a supporter and possibly, lost a contributor. Louis Suarez-Potts, community manager for OpenOffice.org, has[](http://blog/s.zdnet.com/open-source/?p=2689)[said as much himself](http://www.zdnet.com/article/is-open-source-hurt-by-piracy/).
 
-![May The Source Be With You]({filename}/images/may-the-source-be-with-you.jpg)
+![May The Source Be With You](/assets/images/content/blog/may-the-source-be-with-you.jpg)
 
 Customer support is a goal that both free and corporate developers have in common. A customer that chooses to use Kompozer over Dreamweaver, is a score for the open source community that now has a supporter, and a loss for Adobe, who've lost a potential profit.
 

@@ -1,9 +1,16 @@
-title: Howto: Upgrade to Adobe Air Beta on Ubuntu
-author: rami
-permalink: /2008/10/howto-upgrade-to-adobe-air-beta-on-ubuntu/
-tags: Howto, Linux, Linuxologist, Adobe, Apps
+---
 
-![Adobe Air]({filename}/images/adobe-air.jpg)
+title: "Howto: Upgrade to Adobe Air Beta on Ubuntu"
+author: rami
+layout: linuxologist
+permalink: /2008/10/18/howto-upgrade-to-adobe-air-beta-on-ubuntu/
+categories: [Blog]
+tags: [howto, linux, linuxologist, adobe, apps]
+summary: "I love Adobe Air! Applications like Twhirl and Woopra have become an important part of my daily computing arsenal. Over the past 6 month I have been running Adobe Air alpha which wasn't exactly quirk-less. Twhirl never saved my passwords, never minimized to the panel, and the window always had a black shadow around it. A couple of days ago I decided to upgrade to beta, I thought it was going to be a walk in the park, well I was wrong."
+
+---
+
+![Adobe Air](/assets/images/content/blog/adobe-air.jpg)
 
 I love Adobe Air! Applications like Twhirl and Woopra have become an important part of my daily computing arsenal. Over the past 6 month I have been running Adobe Air alpha which wasn't exactly quirk-less. Twhirl never saved my passwords, never minimized to the panel, and the window always had a black shadow around it. A couple of days ago I decided to upgrade to beta, I thought it was going to be a walk in the park, well I was wrong.
 

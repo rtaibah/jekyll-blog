@@ -1,10 +1,16 @@
-title: Multitouch + Tethering + Task Tanager for Android G1
-author: rami
-layout: post
-permalink: /2009/02/howto-multitouch-tethering-task-manager-for-android-g1/
-tags: Android, Gadgets, Mobile Phone
+---
 
-![g1-android-jailbreak]({filename}/images/g1-android-jailbreak.jpg)
+title: "Multitouch + Tethering + Task Tanager for Android G1"
+author: rami
+permalink: /2009/02/03/howto-multitouch-tethering-task-manager-for-android-g1/
+layout: linuxologist 
+categories: [Blog]
+tags: [android, gadgets, mobile]
+summary: "Recently the web was [buzzing](http://i.gizmodo.com/5139087/multitouch-implemented-on-g1-android-unofficially) [about](http://www.engadget.com/2009/01/25/get-your-hack-on-unofficial-multi-touch-support-released-for-an/) how [multitouch](http://www.talkandroid.com/556-android-g1-multitouch/) [technology](http://androidcommunity.com/multitouch-hack-for-t-mobile-g1-video-demo-20090126/) was implemented unofficially on the *G1 Android*. While admittedly it's still not as smooth as I like it to be, its just a proof of concept and will probably be optimized over time. There are a lot of guides on how to implement it out there, am not bringing you anything new. But I haven't seen one that actually explains the reasoning behind each step, and most guides are fragmented over multiple pages and links."
+
+---
+
+![g1-android-jailbreak](/assets/images/content/blog/g1-android-jailbreak.jpg)
 
 Recently the web was [buzzing](http://i.gizmodo.com/5139087/multitouch-implemented-on-g1-android-unofficially) [about](http://www.engadget.com/2009/01/25/get-your-hack-on-unofficial-multi-touch-support-released-for-an/) how [multitouch](http://www.talkandroid.com/556-android-g1-multitouch/) [technology](http://androidcommunity.com/multitouch-hack-for-t-mobile-g1-video-demo-20090126/) was implemented unofficially on the *G1 Android*. While admittedly it's still not as smooth as I like it to be, its just a proof of concept and will probably be optimized over time. There are a lot of guides on how to implement it out there, am not bringing you anything new. But I haven't seen one that actually explains the reasoning behind each step, and most guides are fragmented over multiple pages and links.
 
@@ -12,7 +18,7 @@ Before I start this *howto*, I must tell you that this hack doesn't just give yo
 
 ## Rolling Back From Version RC30 to RC29
 
-![g1-android-jailbreak-1]({filename}/images/g1-android-jailbreak-2.jpg)
+![g1-android-jailbreak-1](/assets/images/content/blog/g1-android-jailbreak-2.jpg)
 
 In order to get all these goodies, you need to have 'root' access, or in other words FULL control over your phone as an administrator. Understandably, T-Mobile has taken away root from us; because one can inadvertently ruin the whole system.
 

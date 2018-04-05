@@ -1,10 +1,16 @@
-title: Help Spread Linux... Dont Preach It!
-author: rami
-layout: post
-permalink: /2008/11/help-spread-linux-without-preaching-it/
-tags: Linux, Guest Blog, Linuxologist, Advocacy
+---
 
-![Preaching Linux]({filename}/images/preaching-linux.jpg)
+title: "Help Spread Linux... Dont Preach It!"
+author: rami
+layout: linuxologist 
+permalink: /2008/11/14/help-spread-linux-without-preaching-it/
+categories: [Blog]
+tags: [linux, guest blog, advocacy]
+summary: "What does using Linux mean to you? Do you simply use it because it works best for you? While at its heart Linux itself, is nothing more than a software kernel, to many people it is much more. It is a mission, a mission to show the big industry players just what the common user can do without their help. On Ubuntu's Launchpad Bugs page, bug #1 to them has long been that 'Microsoft has majority market share'."
+
+---
+
+![Preaching Linux](/assets/images/content/blog/preaching-linux.jpg)
 
 Courtesy of [Yvette The Monkey](http://www.flickr.com/photos/mustardseedz/2001893348/)
 
@@ -42,5 +48,5 @@ There's also the classic methods of promotion; If you're serious about it, print
 
 When Linux has the chance to show off what it's capable of, that's when heads start turning.
 
-##### PS: Almost a year ago, Rami shared with us his experience on this subject in a tongue-in-cheek article titled [_Howto Convert A Friend To Linux_]({filename}/blog/2007-12-27-howto-convert-a-friend-to-linux.markdown).
+##### PS: Almost a year ago, Rami shared with us his experience on this subject in a tongue-in-cheek article titled [_Howto Convert A Friend To Linux_](/2007/12/27/howto-convert-a-friend-to-linux).
 

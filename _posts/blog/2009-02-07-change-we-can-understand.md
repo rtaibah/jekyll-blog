@@ -1,10 +1,16 @@
-title: Change We Can Understand
-author: rami
-layout: post
-permalink: /2009/02/change-we-can-understand/
-tags: PSA
+---
 
-![Change we Can Understand]({filename}/images/change-we-can-understand.jpg)
+title: "Change We Can Understand"
+author: rami
+layout: linuxologist 
+permalink: /2009/02/07/change-we-can-understand/
+categories: [Blog]
+tags: [psa]
+summary: "More than a year ago I started this blog, it was a boring night, didn't really have my mind set into blogging. Just wanted to experiment and try something new, setting up a new blog was my idea of fun. Ya thats how geeky I am."
+
+---
+
+![Change we Can Understand](/assets/images/content/blog/change-we-can-understand.jpg)
 
 More than a year ago I started this blog, it was a boring night, didn't really have my mind set into blogging. Just wanted to experiment and try something new, setting up a new blog was my idea of fun. Ya thats how geeky I am.
 
@@ -12,7 +18,7 @@ I ended up choosing an inside joke for my domain name, and the blog's whole name
 
 A stupid decision was to stubbornly insist on the name of this blog "Royal HeHe2-ness". What kind of a name is that? I mean it readable in Arabic, understood by a few of my closest friends. But my main audience aren't Arabs, so why am I insisting on the name?
 
-**Its time for a change, albeit a small one, this blog's name is herewith changed to ****"Royal Linuxing" **
+**Its time for a change, albeit a small one, this blog's name is herewith changed to "Royal Linuxing" **
 
 With Royal Linuxing, the blog can be verbally recommended to a friend, easily memorized, and most importantly understood. This step is long overdue!
 

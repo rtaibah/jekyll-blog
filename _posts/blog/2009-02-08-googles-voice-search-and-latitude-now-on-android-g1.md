@@ -1,8 +1,14 @@
-title: Googles Voice Search and Latitude Now on Android G1!
+---
+
+title: "Googles Voice Search and Latitude Now on Android G1!"
 author: rami
-layout: post
-permalink: /2009/02/googles-voice-search-and-latitude-now-on-android-g1/
-tags: Android, G1, Google
+layout: linuxologist 
+permalink: /2009/02/08/googles-voice-search-and-latitude-now-on-android-g1/
+categories: [Blog]
+tags: [android, g1, google]
+summary: "A lot of G1 users were disappointed when Google's voice search was first introduced for the iPhone but not the G1. It seemed almost scandalous. While Google's most recent innovations, Latitude, was promised for the G1, but on my modded RC30 phone all it said was 'coming soon'."
+
+---
 
 A lot of G1 users were disappointed when Google's voice search was first introduced for the iPhone but not the G1\. It seemed almost scandalous. While Google's most recent innovations, Latitude, was promised for the G1, but on my modded RC30 phone all it said was "coming soon".
 
@@ -30,9 +36,9 @@ Luckily [JesusFreke](/blog/tag/jesusfreke) released the new RC33 image including
 
     Symptom(s): A small number of G1 devices hanging at the G1 screen during the initial power up
 
-If you already followed my previous [guide on how to get multitouch and tethering your phone]({filename}/blog/2009-02-03-howto-multitouch-tethering-task-manager-for-android-g1.markdown), then all you need to do is download the [RC33 image](http://jf.odiness.com/v1.41/JFv1.41_RC33.zip), rename it to update.zip, place it in your /sdcard directory, and turn your phone off. Then you will need to press home+power and keep pressing home until the image boots. Once prompted press alt+s, this will take time, maybe around 2 minutes. Once its down press back + home. Thats it your done!
+If you already followed my previous [guide on how to get multitouch and tethering your phone](/2009/02/03/howto-multitouch-tethering-task-manager-for-android-g1), then all you need to do is download the [RC33 image](http://jf.odiness.com/v1.41/JFv1.41_RC33.zip), rename it to update.zip, place it in your /sdcard directory, and turn your phone off. Then you will need to press home+power and keep pressing home until the image boots. Once prompted press alt+s, this will take time, maybe around 2 minutes. Once its down press back + home. Thats it your done!
 
-If you haven't used my [guide on how to get multitouch and tethering your phone]({filename}/blog/2009-02-03-howto-multitouch-tethering-task-manager-for-android-g1.markdown), then please do so, and then update to the RC33 image in this guide.
+If you haven't used my [guide on how to get multitouch and tethering your phone](/2009/02/03/howto-multitouch-tethering-task-manager-for-android-g1), then please do so, and then update to the RC33 image in this guide.
 
 And if you don't want to do either, and prefer to wait for the T-Mobile update, then this is what you are missing out on:
 

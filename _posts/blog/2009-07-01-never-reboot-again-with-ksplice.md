@@ -1,9 +1,13 @@
 ---
-title: Never Reboot Again With Ksplice!
+
+title: "Never Reboot Again With Ksplice!"
 author: rami
-layout: post
-permalink: /2009/07/never-reboot-again-with-ksplice/
-tags: apps, linux
+layout: linuxologist 
+permalink: /2009/07/01/never-reboot-again-with-ksplice/
+categories: [Blog]
+tags: [apps, linux]
+summary: "Linux is pretty stable, it doesn't really need to be rebooted twice a day like another operating system that shall remain unnamed. Thats one of the reasons [Linux is installed on 19 of the 20 top supercomputers in the world](http://royal.pingdom.com/2009/06/24/the-triumph-of-linux-as-a-supercomputer-os/). However, with Kernel updates you will always need to reboot. Who needs that? Enter Ksplice!"
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a22T27rU4b0" frameborder="0" allowfullscreen></iframe>

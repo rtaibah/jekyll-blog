@@ -1,13 +1,16 @@
 ---
-title: 3 Great Ways To Rotate Your Linux Desktop
+
+title: "3 Great Ways To Rotate Your Linux Desktop"
 author: rami
 layout: post
-permalink: /2009/03/3-great-ways-to-rotate-your-linux-desktop/
-Category:
-tags: Linux, Desktop, Eye Candy
+permalink: /2009/03/25/3-great-ways-to-rotate-your-linux-desktop/
+categories: [Blog]
+tags: [linux, desktop, eye-candy]
+summary: "If you are like me, then you probably get bored of your desktop wallpaper quickly. Then why don't you rotate them? I know its nothing new really, and there are many ways to do that on your Linux desktop, but like all thing Linux, there is no one clear cut way to do it. There are several roads leading to Rome!"
+
 ---
 
-![Rotating Desktop]({filename}/images/rotating-desktop.jpg)
+![Rotating Desktop](/assets/images/content/blog/rotating-desktop.jpg)
 
 If you are like me, then you probably get bored of your desktop wallpaper quickly. Then why don't you rotate them? I know its nothing new really, and there are many ways to do that on your Linux desktop, but like all thing Linux, there is no one clear cut way to do it. There are several roads leading to Rome!
 
@@ -78,7 +81,7 @@ Install
 	cd wallpapoz-0.4  
 	sudo python setup.py install
 
-![wallpapoz_1]({filename}/images/wallpapoz-1.png)
+![wallpapoz_1](/assets/images/content/blog/wallpapoz-1.png)
 
 [Via Softpedia](http://linux.softpedia.com/progScreenshots/Wallpapoz-Screenshot-8113.html)  
 

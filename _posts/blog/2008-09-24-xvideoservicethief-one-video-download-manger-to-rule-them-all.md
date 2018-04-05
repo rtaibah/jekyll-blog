@@ -1,9 +1,16 @@
-title: xVideoServiceThief: One Video Download Manager to Rule Them All!
-author: rami
-permalink: /2008/09/xvideoservicethief-one-video-download-manger-to-rule-them-all/
-tags: Apps, Howto, Internet, Linuxologist
+---
 
-I am not really big on downloading flash videos from sites like youtube or metacafe. But whenever I need to, I just head straight to [keepvid](http://keepvid.com). Usually that does the trick, but sometimes it doesn't, and I would just quickly give up and wouldn't bother finding an alternative solution. Especially if you keep in mind that  keepvid would name the file "get\_video", and then I would have to rename it and add an ".flv", then convert it to a more friendly format...yada yada yada. I am pretty sure that there are a lot of hacks for these little quirks out there, but that's just how important video is to me; its just  not worth the hassle. Until I found [xVideoServiceThief](http://xviservicethief.sourceforge.net/index.php)!
+title: "xVideoServiceThief: One Video Download Manager to Rule Them All!"
+author: rami
+layout: linuxologist
+permalink: /2008/09/24/xvideoservicethief-one-video-download-manger-to-rule-them-all/
+categories: [Blog]
+tags: [apps, howto, internet]
+summary: "I am not really big on downloading flash videos from sites like youtube or metacafe. But whenever I need to, I just head straight to [keepvid](http://keepvid.com). Usually that does the trick, but sometimes it doesn't, and I would just quickly give up and wouldn't bother finding an alternative solution. Especially if you keep in mind that  keepvid would name the file 'get\_video', and then I would have to rename it and add an '.flv', then convert it to a more friendly format...yada yada yada. I am pretty sure that there are a lot of hacks for these little quirks out there, but that's just how important video is to me; its just  not worth the hassle. Until I found [xVideoServiceThief](http://xviservicethief.sourceforge.net/index.php)!"
+
+---
+
+I am not really big on downloading flash videos from sites like youtube or metacafe. But whenever I need to, I just head straight to [keepvid](http://keepvid.com). Usually that does the trick, but sometimes it doesn't, and I would just quickly give up and wouldn't bother finding an alternative solution. Especially if you keep in mind that  keepvid would name the file get\_video, and then I would have to rename it and add an ".flv", then convert it to a more friendly format...yada yada yada. I am pretty sure that there are a lot of hacks for these little quirks out there, but that's just how important video is to me; its just  not worth the hassle. Until I found [xVideoServiceThief](http://xviservicethief.sourceforge.net/index.php)!
 
 ## What is it?
 xVideoServiceThief is an \*Open Source\* download manager designed for downloading videos from youtube and other video sites (over 50!). It is laden with really cool features and a good deal of video sites. It also supports pretty much ANY operating system, whether your cup of tea is Redmond, Cupertino, or Helsinki (Windows, Mac, or Linux).
@@ -17,8 +24,8 @@ xVideoServiceThief is an \*Open Source\* download manager designed for downloadi
 * Advanced functions such as audio sampling rate and video frame rate
 * Block specific websites
 
-![xvideoservicetheif screenshot 1]({filename}/images/xvideoservicethief1.png)
-![xvideoservicetheif screenshot 2]({filename}/images/xvideoservicethief2.png)
+![xvideoservicetheif screenshot 1](/assets/images/content/blog/xvideoservicethief1.png)
+![xvideoservicetheif screenshot 2](/assets/images/content/blog/xvideoservicethief2.png)
 
 ## Supported Websites
 xVideoServiceThief is currently in the Alpha stage and already supports the following websites: \*123video, 5min, aBum, Aniboom, Bebo, Blip, Boingboing TV, Break, Broadcaster, Caught On Video, Ceknito, CinemaVIP, Clip4e, ClipFish, Dailymotion, Dumpalink, GameSpot, GameTrailers, Glumbert, Google Video, GodTube, LiveVideo, Lulu TV, Metacafe, MySpaceTv, MySpass, MyVideo, Sclipo, Spike, Stage6, Tu.tv, Tudou, Video.ca, VideoLeak, Yahoo Video, Yikers, YourFileHost, YouTube, YouTubeIslam, Zaable, ZanyVideos, ZappInternet, Zedge, ZippyVideos, and Zuuble.\*

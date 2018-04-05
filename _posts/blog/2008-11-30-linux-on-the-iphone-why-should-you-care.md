@@ -1,10 +1,16 @@
-title: Linux on the iPhone! Why Should You Care?
-author: rami
-layout: post
-permalink: /2008/11/linux-on-the-iphone-why-should-you-care/
-tags: Linux, Linuxologist, iPhone, Mobile
+---
 
-[Time]({filename}/blog/2008-07-11-sourceforge-on-your-iphone.markdown) and [time]({filename}/blog/2008-07-25-iphone-3g-a-beautiful-jail.markdown) again I expressed my disdain for Apple and their anti-competitive tactics by locking down the iPhone and iPod. So its no wonder that the news the[Linux kernel has been successfully ported to the iPhone ](http://linuxoniphone.blogspot.com/2008/11/linux-on-iphone.html)came as a breath of fresh air. The guys over at [Linux on the iPhone ](http://www.iphonelinux.org/index.php/Main_Page) have managed to get the following to work:
+title: "Linux on the iPhone! Why Should You Care?"
+author: rami
+layout: linuxologist 
+permalink: /2008/11/30/linux-on-the-iphone-why-should-you-care/
+categories: [Blog]
+tags: [linux,iphone, mobile]
+summary: "[Time](/2008/07/11/sourceforge-on-your-iphone) and [time](/2008/07/25/iphone-3g-a-beautiful-jail) again I expressed my disdain for Apple and their anti-competitive tactics by locking down the iPhone and iPod. So its no wonder that the news the [Linux kernel has been successfully ported to the iPhone ](http://linuxoniphone.blogspot.com/2008/11/linux-on-iphone.html)came as a breath of fresh air. The guys over at [Linux on the iPhone ](http://www.iphonelinux.org/index.php/Main_Page) have managed to get the following to work:"
+
+---
+
+[Time](/2008/07/11/sourceforge-on-your-iphone) and [time](/2008/07/25/iphone-3g-a-beautiful-jail) again I expressed my disdain for Apple and their anti-competitive tactics by locking down the iPhone and iPod. So its no wonder that the news the[Linux kernel has been successfully ported to the iPhone ](http://linuxoniphone.blogspot.com/2008/11/linux-on-iphone.html)came as a breath of fresh air. The guys over at [Linux on the iPhone ](http://www.iphonelinux.org/index.php/Main_Page) have managed to get the following to work:
 
 * Framebuffer driver
 * Serial driver
@@ -15,7 +21,7 @@ However, they still have not figured out to get the touchscreen, wireless, sound
 
 <iframe src="https://player.vimeo.com/video/2373142" width="500" height="667" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/2373142">iPhone Linux Demonstration Video</a> from <a href="https://vimeo.com/user983560">planetbeing</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Now I am not going on an anti-Apple rant, I already [have done that]({filename}/blog/2008-07-25-iphone-3g-a-beautiful-jail.markdown), but why is this significant?
+Now I am not going on an anti-Apple rant, I already [have done that](/2008/07/25/iphone-3g-a-beautiful-jail), but why is this significant?
 
 * Opens up the possibility of porting other operating systems like the [Android](http://code.google.com/android/), [OpenMoko](http://www.openmoko.org), and [Ubuntu Mobile](http://www.ubuntu.com/products/mobile)
 

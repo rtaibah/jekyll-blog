@@ -1,7 +1,14 @@
-title: Compositing With Metacity -- An Early Look
+---
+
+title: "Compositing With Metacity -- An Early Look"
 author: rami
-permalink: /2008/10/compositing-with-metacity-another-look/
-tags: Metacity, Linux, Compositing, Linuxologist
+layout: linuxologist
+permalink: /2008/10/21/compositing-with-metacity-another-look/
+categories: [Blog]
+tags: [metacity, linux, compositing]
+summary: "When the [compositing capabilities](http://en.wikipedia.org/wiki/Compositing_window_manager) of Spiftacity [merged into the Metacity trunk](http://blog/s.gnome.org/metacity/2007/12/19/compositor-on-trunk/), it caused a fair bit of stir among GNOME users. Included in version 2.21.5 of GNOME, though hidden from casual users, the compositing showed a lot of promise but remained just something to play around with."
+
+---
 
 When the [compositing capabilities](http://en.wikipedia.org/wiki/Compositing_window_manager) of Spiftacity [merged into the Metacity trunk](http://blog/s.gnome.org/metacity/2007/12/19/compositor-on-trunk/), it caused a fair bit of stir among GNOME users. Included in version 2.21.5 of GNOME, though hidden from casual users, the compositing showed a lot of promise but remained just something to play around with.
 
@@ -26,4 +33,3 @@ My only real complaint is that, much like Metacity itself, the compositor is ext
 ## The Bottom Line
 
 In its current incarnation, the compositing in Metacity is similar in feel and function to the compositing used in Xfce; it's not particularly attractive looking, but it is extremely stable and performs well on lower-end systems. If you're after features that only compositing can provide but aren't after Compiz' ultra-pretty but ultra-heavy management, you may have tried Metacity's compositing already and been disappointed. However, the new version has dramatically stepped up on stability and performance, so once you've got your hands on GNOME 2.24 you may want to consider giving it another chance.
-

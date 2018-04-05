@@ -1,10 +1,16 @@
-title: Linux.com to Bring "Social Web" To Linux Geeks?
-author: rami
-layout: post
-permalink: /2009/03/linuxcom-to-bring-social-web-to-linux-geeks/
-tags: Linux, Linux Foundation, Social
+---
 
-![linux-foundation-social-media-2]({filename}/images/linux-foundation-social-media-2.png)
+title: "Linux.com to Bring 'Social Web' To Linux Geeks?"
+author: rami
+layout: linuxologist 
+permalink: /2009/03/15/linuxcom-to-bring-social-web-to-linux-geeks/
+categories: [Blog]
+tags: [linux, linux-foundation, social]
+summary: "If you care about Linux in anyway, you probably heard that [The Linux Foundation has bought Linux.com from Sourceforge](http://linux-foundation.org/weblogs/press/2009/03/03/linux-foundation-to-build-new-linuxcom-community/). The domain is in the forefront in representing Linux and it's community, and The Linux Foundation has promised us to bring newer and fresher ideas to a domain that is used to give us Linux related articles only."
+
+---
+
+![linux-foundation-social-media-2](/assets/images/content/blog/linux-foundation-social-media-2.png)
 
 If you care about Linux in anyway, you probably heard that [The Linux Foundation has bought Linux.com from Sourceforge](http://linux-foundation.org/weblogs/press/2009/03/03/linux-foundation-to-build-new-linuxcom-community/). The domain is in the forefront in representing Linux and it's community, and The Linux Foundation has promised us to bring newer and fresher ideas to a domain that is used to give us Linux related articles only.
 

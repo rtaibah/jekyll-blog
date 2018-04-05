@@ -1,15 +1,22 @@
-title: A Geeks Guide: How To Pimp Your Car With Linux
+---
+
+title: "A Geeks Guide: How To Pimp Your Car With Linux"
 author: rami
-permalink: /2008/11/a-geeks-guide-how-to-pimp-your-car-with-linux/
-tags: Car, Linux, Stereo, Linuxologist
+layout: linuxologist
+permalink: /2008/11/18/a-geeks-guide-how-to-pimp-your-car-with-linux/
+categories: [Blog]
+tags: [car, linux, stereo]
+summary: "If you've just started using Linux, you've probably noticed an interesting phenomenon. You've entered a group of rugged individualists, non-conformists, people who know how to pull things apart and put them back together, people who don't like being spoon fed. There's plenty about Linux and the various desktops and applications in open source that's easy and fun to use. But real Linux nerds prefer rolling up their sleeves and getting their hands dirty."
+
+---
 
 *Author's note: I was intending to research and write a piece on how Linux is being used as an mp3 player in cars. I've owned a Linux based mp3 player for six years. I was assuming it was not the only solution. It's not, but as of the fall of 2008, buying a Linux-based mp3 player for your car is not super easy.*
 
-![State my card destination Linux]({filename}/images/state-my-car-destination-linux.jpg)
+![State my card destination Linux](/assets/images/content/blog/state-my-car-destination-linux.jpg)
 
 If you've just started using Linux, you've probably noticed an interesting phenomenon. You've entered a group of rugged individualists, non-conformists, people who know how to pull things apart and put them back together, people who don't like being spoon fed. There's plenty about Linux and the various desktops and applications in open source that's easy and fun to use. But real Linux nerds prefer rolling up their sleeves and getting their hands dirty.
 
-One branch of this rugged individualism, so to speak, is [running Linux in different environments]({filename}/blog/2008-11-07-how-linux-can-save-chickens-helps-the-environment-and-navigate-the-high-seas.markdown). Just using Linux in your PC? Ok, that's pretty good. But how about building a Linux system from scratch? Or [on your phone]({filename}/blog/2008-09-03-openmoko-freerunner-unboxing.markdown)? Even better, how about in your car?
+One branch of this rugged individualism, so to speak, is [running Linux in different environments](/2008/11/07/how-linux-can-save-chickens-helps-the-environment-and-navigate-the-high-seas). Just using Linux in your PC? Ok, that's pretty good. But how about building a Linux system from scratch? Or [on your phone](/2008/09/03/openmoko-freerunner-unboxing)? Even better, how about in your car?
 
 ##Linux as Car Stereo
 
@@ -29,7 +36,7 @@ In reality, the quick answer to "Can I put Linux in my car easily?" would be pro
 
 The Empeg was, I believe, the very first mass produced in-dash mp3 car stereo. It was called the Empeg Car, and it was first shipped to customers in 1999\. It was a fully functional Linux computer that had a "sled" that was mounted in the single DIN slot in your car, just like a pull-out car stereo. The computer's main display was set to handle playlists and all sorts of information about your music. The faceplate lens was, by default, the blue color, as pictured here.
 
-![Start Up Screen]({filename}/images/start-up-screen.png)
+![Start Up Screen](/assets/images/content/blog/start-up-screen.png)
 
 Lens kits, which included green, amber, and red lenses, were sold separately. In Silicon Valley, car stereo installation places generally knew of the Riocar and would do the installation. Whether they knew it or not, installing a sled and connecting good speakers and a sub woofer was not advanced work for them.
 
@@ -40,7 +47,7 @@ It was right about this time that a friend told me he had an extra one, and I co
 You can still [buy an Empeg Riocar at Amazon](http://www.amazon.com/Empeg-Rio-20GB-player-Mark/dp/B000BUMEE4) and other places. But it is often not available, so you'll probably need to set an alert and keep checking.
 
 
-![Playlist]({filename}/images/playlists.png)
+![Playlist](/assets/images/content/blog/playlists.png)
 
 ## Some Technical Details  
 
@@ -50,7 +57,7 @@ Disk drive size varied depending on the model. All models below 60GB were single
 
 The player did not come with a radio tuner. An add-on AM/FM/RDS radio tuner module, that installed inside the dashboard behind the docking sled, was sold separately. One DIN-sized car docking sled with four 4v line-level outputs (stereo front/rear) and two line-level aux inputs (stereo). One AC adapter for using the player indoors. One USB cable for loading songs into the player. Here's a great summary of [the different model specs](http://coderage.org/empeg/). And extreme details [here.](http://www.anandtech.com/printarticle.aspx?i=1321)
 
-![pull out]({filename}/images/pull-out.png)
+![pull out](/assets/images/content/blog/pull-out.png)
 
 ## Finally...
 

@@ -1,10 +1,16 @@
-title: Free, Professional Music Production: A Linux Introduction
-author: rami
-layout: post
-permalink: /2008/10/free-professional-music-production-a-linux-introduction/
-tags: Guest Blog, Linux, Linuxologist, Music Production, Apps
+---
 
-![Music Production]({filename}/images/music-production.jpg)
+title: "Free, Professional Music Production: A Linux Introduction"
+author: rami
+permalink: /2008/10/05/free-professional-music-production-a-linux-introduction/
+layout: linuxologist 
+categories: [Blog]
+tags: [guest-blog, linux, music production, apps]
+summary: "People who either dabble or work in computing enough are probably used to the idea that some operating systems are better than others as creative platforms; Mac OSX generally seems to be the preferred place for video editing, thanks to the likes of Final Cut Pro. They've also got the fantastic GarageBand program for audio production as part of their iLife suite, and with Windows, ProTools is often considered industry standard when it comes to audio production. But these popular, household names of programs come with a price; often a pretty hefty one, actually. If you're thinking of getting SONAR 8 Studio for your audio needs, be prepared to shell out $369 for it. Today, we're going to explore how with Linux we can make music, and from a software standpoint, it's going to cost us nothing."
+
+---
+
+![Music Production](/assets/images/content/blog/music-production.jpg)
 
 People who either dabble or work in computing enough are probably used to the idea that some operating systems are better than others as creative platforms; Mac OSX generally seems to be the preferred place for video editing, thanks to the likes of Final Cut Pro. They've also got the fantastic GarageBand program for audio production as part of their iLife suite, and with Windows, ProTools is often considered industry standard when it comes to audio production. But these popular, household names of programs come with a price; often a pretty hefty one, actually. If you're thinking of getting SONAR 8 Studio for your audio needs, be prepared to shell out $369 for it. Today, we're going to explore how with Linux we can make music, and from a software standpoint, it's going to cost us nothing.
 
@@ -20,7 +26,7 @@ With most music it's preferable to record real live instruments with skilled mus
 
 Enter [Hydrogen](http://www.hydrogen-music.org), the free, open source advanced drum machine built for Linux. It comes bundled with a good variety of pre-installed drumkit sample sets, all modifiable and expandable. After you've chosen a drum set to use, you've got a pattern editor. Drum patterns can be as fast or long as you desire; from there, the program's song editor can be used to string multiple patterns together to create a complete drum track for use in a song, which can then be exported to WAV for any other program to use.
 
-![Hydrogen Music]({filename}/images/hydrogen.png)
+![Hydrogen Music](/assets/images/content/blog/hydrogen.png)
 
 Each individual drum can be configured with volume and balance, and have four different effects applied as well. The program comes with a decent set of effects from compression to reverb, all very much required to get your drums sounding just the way you want it. Finally, I can add that Hydrogen has abilities to 'humanize' the drum tracks so they sound a little more random and less machine-like.
 
@@ -31,7 +37,8 @@ With this setup, I was able to produce recorded drums that were blistering fast 
 ProTools is the most commonly heard-of program for controlling recording and mixing, and the Macintosh's GarageBand has received it's fair share of attention too; but they're not the only ones. We've already got [Ardour](http://www.ardour.org), a complete audio workstation, capable of recording, mixing and editing.
 
 The drums are the backbone of my song, and provide the framework that everything else builds on. So, it's a simple matter to import my drum track that I produced in Hydrogen. Then, I can get to producing the rest of the song.
-![Ardour Screenshot]({filename}/images/ardour-25-small.png)
+
+![Ardour Screenshot](/assets/images/content/blog/ardour-25-small.png)
 
 Sealing off one of the rooms in my house and then padding the walls to reduce echo, (the last time I recorded a demo, we actually used old mattresses -- talk about quick and dirty) I hook a microphone up and set it down just in front of my Peavey guitar amp, plug in my BC Rich and from there I can record my guitar tracks through Ardour. Once that's done, I mic up my bass amp and record my bass tracks with my ESP bass. Finally, all that's left is my vocal track to record and then my fully recorded song is sitting there in Ardour.
 

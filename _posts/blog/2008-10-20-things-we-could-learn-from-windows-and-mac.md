@@ -1,9 +1,16 @@
-title: Lessons Linux Should Learn From Windows and Mac
-author: rami
-permalink: /2008/10/things-we-could-learn-from-windows-and-mac/
-tags: Linux, Linuxologist, Windows, Mac OSX, Observations
+---
 
-![Mac vs Linux vs Windows]({filename}/images/mac-vs-linux-vs-win-custom.jpg)
+title: "Lessons Linux Should Learn From Windows and Mac"
+author: rami
+layout: linuxologist
+permalink: /2008/10/things-we-could-learn-from-windows-and-mac/
+categories: [Blog]
+tags: [linux, linuxologist, windows, mac osx, observations]
+summary: "It shouldn't be too much of a stretch to assume that a good portion of those whom read this blog are Linux users, and so are involved to varying degrees in what is commonly called the 'Linux Community'. Anyone who's been into the whole Linux thang for a while has probably noticed this; I haven't even been into it for very long (just a year and a bit, perhaps), but I've seen the following attitude on display here and there throughout the community."
+
+---
+
+![Mac vs Linux vs Windows](/assets/images/content/blog/mac-vs-linux-vs-win-custom.jpg)
 
 It shouldn't be too much of a stretch to assume that a good portion of those whom read this blog are Linux users, and so are involved to varying degrees in what is commonly called the 'Linux Community'. Anyone who's been into the whole Linux thang for a while has probably noticed this; I haven't even been into it for very long (just a year and a bit, perhaps), but I've seen the following attitude on display here and there throughout the community.
 
@@ -17,7 +24,7 @@ Microsoft's baby may be holding 90% of the market due in part to their brute-for
 
 Firstly, there's the little matter of hardware support. Windows' position in the industry ensures that support from hardware vendors and OEMs is second-to none. It should be noted though, that an out-of-the-box installation of Windows XP or Vista don't have this advantage. But nevertheless, since a large portion of Windows setups are OEM installations, it's a boon that Windows enjoys and one that we're still struggling with, so it's always going to be an area that's worthy of putting effort into improving.
 
-![Windows XP Simple Desktop]({filename}/images/windows-xp-simple-desktop-1.png)
+![Windows XP Simple Desktop](/assets/images/content/blog/windows-xp-simple-desktop-1.png)
 
 One point we can't argue with much is that Windows really makes an effort to be welcoming for the average computer newbie. You don't need any knowledge of using the command prompt, you just click Start and you're on your way to doing whatever you feel necessary. Plugging in hardware, it searches for drivers and installs them totally transparently (when it works). It makes a decent effort at configuring networks automatically and only tells you what the layman computer user needs to know, and nothing more unless you ask. Controls and options are in plain English more often that not, instead of tech-jargon that only an experienced user will understand.
 
@@ -27,7 +34,7 @@ Windows is the workhorse, the jack of all trades, and it does its job pretty wel
 
 Love him or hate him, I'm under the impression that Steve Jobs has some kind of crystal ball telling him what should be the next big thing to try out with his operating system. Compositing windows? The dock? Expose? Where did we see all of these things first? I'm not lumping credit on Apple for the invention of these concepts, but it was way back in [2001](http://en.wikipedia.org/wiki/Mac_OS_X_v10.0) that they were really jumping on them and pushing them forward into the mainstream eye.
 
-![Steve Jobs Time Magazine]({filename}/images/steve_jobs_time_magazine.jpg)
+![Steve Jobs Time Magazine](/assets/images/content/blog/steve_jobs_time_magazine.jpg)
 
 Innovation is the name of the game here and it seems to me like a lot of ideas or programs that get praised among the Linux and even Windows public appear to be things that the Mac already did ages ago.
 
@@ -51,7 +58,7 @@ Everyone's got their own ideas about how we could improve and progress, and I ab
 
 This is an inherent problem with open source software; if you've got the talent for it, you can split off on your own and produce something that's entirely under your control and you can take all the credit for it. In that sense, that's often the reason why we've got hundreds of Linux distributions.
 
-![Linux Distros Anime]({filename}/images/linux-distros.png)
+![Linux Distros Anime](/assets/images/content/blog/linux-distros.png)
 
 Hundreds of distributions may present a good amount of choice for the discerning Linux user, but for the average newbie it's daunting, and not only that, when you've got hundreds of distros, you're spreading resources thinner on the ground.
 
@@ -63,7 +70,7 @@ Microsoft and Apple may be huge, but even so, the entire Linux developer communi
 
 ### Doing Something New
 
-It's easy to derive your ideas from that which already exists. If [I'm playing music]({filename}/blog/2008-10-05-free-professional-music-production-a-linux-introduction.markdown), it's easier for me to cover a song than to come up with my own. But you never see cover bands selling out shows in arenas, and you'll never see Linux dominating the mainstream market if it's just seen to casual folk as a 'me too' OS.
+It's easy to derive your ideas from that which already exists. If [I'm playing music](/2008/10/05/free-professional-music-production-a-linux-introduction), it's easier for me to cover a song than to come up with my own. But you never see cover bands selling out shows in arenas, and you'll never see Linux dominating the mainstream market if it's just seen to casual folk as a 'me too' OS.
 
 Take again, the example of a dock program. I think a dock is a really cool feature, but it's already been done by the Mac, and because of that, it was only the Mac doing it that ever made me raise an eyebrow and think, "That's so cool, I've never seen anything like that before."
 
