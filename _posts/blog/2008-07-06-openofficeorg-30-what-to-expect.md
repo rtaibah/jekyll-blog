@@ -1,23 +1,31 @@
-title: OpenOffice.org 3.0: What to Expect?
+---
+
+title: "OpenOffice.org 3.0: What to Expect?"
 author: rami
-permalink: openofficeorg-30-what-to-expect
-tags: OpenOffice, Software, FOSS
+layout: linuxologist
+permalink: /2008/07/06/openofficeorg-30-what-to-expect
+categories: [Blog]
+tags: [openoffice, software, foss]
+summary: "Around 3 month ago OpenOffice.org released its 2.4 [boasting quite an impressive arsenal of advancements](http://www.oooninja.com/2008/03/new-features-openofficeorg-240.html). However if you thought 2.4 was major release, then you have seen nothing! Come September, OpenOffice.org will release it's 3.0 version! That must be quite a big jump! The upcoming 3.0 version is widely regarded as an important milestone in the project's development. Here are some of the advancements I am most excited about:"
+
+---
 
 Around 3 month ago OpenOffice.org released its 2.4 [boasting quite an impressive arsenal of advancements](http://www.oooninja.com/2008/03/new-features-openofficeorg-240.html). However if you thought 2.4 was major release, then you have seen nothing! Come September, OpenOffice.org will release it's 3.0 version! That must be quite a big jump! The upcoming 3.0 version is widely regarded as an important milestone in the project's development. Here are some of the advancements I am most excited about:
 
-![OpenOffice Beta About]({filename}/images/openoffice-beta-about.png)
+
+![OpenOffice Beta About]({{"assets/images/content/blog/openoffice-beta-about.png" | absolute_url }})
 
 # Writer 
 
 With version 3.0 Writer comes with a plethora of interesting advancements. You will have the option of different views, either single page, multiple pages side by side, and book view. A zoom slider has been added on the bottom right corner of the screen, which is admitingly something we saw in Office 2007 first, but definitely a welcomed feature.
 
-![OpenOffice Multiple Page]({filename}/images/openoffice-multiple-page.png)
+![OpenOffice Multiple Page]({{"assets/images/content/blog/openoffice-multiple-page.png" | absolute_url }})
 
-![OpenOffice Zoom Feature]({filename}/images/openoffice-zoom.png)
+![OpenOffice Zoom Feature]({{"assets/images/content/blog/openoffice-zoom.png" | absolute_url }})
 
 Slick new notes feature that lets you add colored notes and comments on the margins instead of the old inefficient notes method, which I never used!
 
-![OpenOffice Pretty Notes]({filename}/images/openoffice-pretty-notes.png)
+![OpenOffice Pretty Notes]({{"assets/images/content/blog/openoffice-pretty-notes.png" | absolute_url }})
 
 Changing language spell check is now easily available in the menu, very handy for multi-language documents. Someone like me needs such flexibility with English/Arabic documents I alway have.
 
@@ -26,7 +34,7 @@ Changing language spell check is now easily available in the menu, very handy fo
 Remember once a friend was complaining about Arabic integration in MS Office on his Mac (or lack of it), so I suggested OpenOffice.org. Little did I know that there were other packages that we needed to install (X11 and whatnot). We had to jump through a lot of hoops to get it working. With OpenOffice.org 3.0 this is not an issue anymore, OpenOffice will natively support Mac OSX!
 
 
-![OpenOffice Mac OSX Support]({filename}/images/macosx-openoffice-3.png)
+![OpenOffice Mac OSX Support]({{"assets/images/content/blog/macosx-openoffice-3.png" | absolute_url }})
 
 # Microsoft Office 2007 Import Filters
 
@@ -36,25 +44,25 @@ I used so simply loath recieving a document ending with _x _(docx, pptx, xlsx)! 
 
 Now we get a much more polished glass theme and translucency! Here is a comparison between the old and new:
 
-![OpenOffice Calc Visual]({filename}/images/ooo-linux-calc-visual-1.png)
+![OpenOffice Calc Visual]({{"assets/images/content/blog/ooo-linux-calc-visual-1.png" | absolute_url }})
 
-![OpenOffice Calc Visual]({filename}/images/ooo-linux-calc-visual-2.png)
+![OpenOffice Calc Visual]({{"assets/images/content/blog/ooo-linux-calc-visual-2.png" | absolute_url }})
 
 # Presenter Different Screens
 
 This always seemed logical to me, am not sure if is available in Office or not, but it's great to see in OpenOffice 3.0\. Basically in presenter you get to see a different screen than what's on the projector. You get preview of the next slide, elapsed time, notes and comments.
 
-![OpenOffice Impress Presnter 1 ]({filename}/images/impress-presenter-screen1.jpg)
+![OpenOffice Impress Presnter 1 ]({{"assets/images/content/blog/impress-presenter-screen1.jpg" | absolute_url }})
 
-![OpenOffice Impress Presnter 2 ]({filename}/images/impress-presenter-screen2.jpg) 
+![OpenOffice Impress Presnter 2 ]({{"assets/images/content/blog/impress-presenter-screen2.jpg" | absolute_url }}) 
 
-![OpenOffice Impress Presnter 3 ]({filename}/images/impress-presenter-screen3.jpg)
+![OpenOffice Impress Presnter 3 ]({{"assets/images/content/blog/impress-presenter-screen3.jpg" | absolute_url }})
 
 # Native Tables in Impress
 
 Tables has been OpenOffices's Achilles heal when compared to Microsoft Powerpoint. One had to resort to clumsy drawing of the tables! Not anymore!
 
-![OpenOffice Native Tables in Impress]({filename}/images/native-tables-in-impress.png)
+![OpenOffice Native Tables in Impress]({{"assets/images/content/blog/native-tables-in-impress.png" | absolute_url }})
 
 # Import PDF
 

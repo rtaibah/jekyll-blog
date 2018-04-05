@@ -1,13 +1,21 @@
-title: Run Windows Apps 100% Seamlessly on Ubuntu!
+---
+
+title: "Run Windows Apps 100% Seamlessly on Ubuntu!"
 author: rami
-permalink: /2008/09/run-windows-apps-100-seamlessly-on-ubuntu/
-tags: Linux, Linuxologist, Windows, Ubuntu
+layout: linuxologist
+permalink: /2008/09/11/run-windows-apps-100-seamlessly-on-ubuntu
+categories: [Blog]
+tags: [linux, linuxologist, windows, ubuntu]
+summary: "I know that most of us Linux user usually cringe whenever we need to *god forbid* use a Microsoft WIndows machine. So we created applications like Wine in an effort minimize the contact with that horrid machine. With Wine a big percentage of Windows only apps could run on Linux, which more or less takes Windows out of the equation and lets us interact directly with our favorite App. Another solution of course would be installing Windows on a virtual machine."
+
+---
 
 I know that most of us Linux user usually cringe whenever we need to \*god forbid\* use a Microsoft WIndows machine. So we created applications like Wine in an effort minimize the contact with that horrid machine. With Wine a big percentage of Windows only apps could run on Linux, which more or less takes Windows out of the equation and lets us interact directly with our favorite App. Another solution of course would be installing Windows on a virtual machine.
 
+
 But running an app on a virtual machine doesn't eliminate Windows from the equation. Right? So I will show you now how to run Windows apps 100% seamlessly on Ubuntu. You know something like this:
 
-![Linux Web 2.0]({filename}/images/linux-web20.png)
+![Linux Web 2.0]({{"assets/images/content/blog/linux-web20.png" | absolute_url }})
 
 ## Tools
 

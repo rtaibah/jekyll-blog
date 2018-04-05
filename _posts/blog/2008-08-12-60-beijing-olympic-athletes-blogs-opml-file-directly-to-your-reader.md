@@ -1,9 +1,17 @@
-title: 60 Personal Blogs of Athletes Competing in Beijing: OPML File Directly To Your RSS Reader!
-author: rami
-permalink: /2008/08/60-beijing-olympic-athletes-blogs-opml-file-directly-to-your-reader/
-tags: Sports, Olympics 
+---
 
-![Linux Olympics]({filename}/images/linux-olympics.jpg)
+title: "60 Personal Blogs of Athletes Competing in Beijing: OPML File Directly To Your RSS Reader!"
+author: rami
+layout: historical-blog
+permalink: /2008/08/12/60-beijing-olympic-athletes-blogs-opml-file-directly-to-your-reader
+categories: [Blog]
+tags: [sports, olympics ]
+summary: "I have given this post a lot of thought, as I have been keeping this blog strictly a Linux and Open Source blog. But I must confess, I have been bitten by the Olympics bug, which is kind of distracting me from this blog. Beijing has literally flipped my life upside down. Events start around 5 AM in my local time, so I have been sleeping around 9 PM in order to wake up at 5! If I don't do this I will miss the whole thing, as I have a 9-6 workday. "
+
+---
+
+
+![Linux Olympics]({{"assets/images/content/blog/linux-olympics.jpg" | absolute_url }})
 
 I have given this post a lot of thought, as I have been keeping this blog strictly a Linux and Open Source blog. But I must confess, I have been bitten by the Olympics bug, which is kind of distracting me from this blog. Beijing has literally flipped my life upside down. Events start around 5 AM in my local time, so I have been sleeping around 9 PM in order to wake up at 5! If I don't do this I will miss the whole thing, as I have a 9-6 workday. 
 
@@ -13,7 +21,7 @@ Athletes like David Oliver, Jackie Edwards, The Lopez Family, Dave Durante, Lind
 
 Anyways enough about me rambling, here I compiled an OPML file so you can export it into your reader and instantly read these blogs! I also have tagged each blog by the sport the owner is competing in and "Beijing 2008″.
 
-* Download the [60 Beijing Olympic Athlete's Blogs OPML File]({filename}/images/Olympic_athletes_Blogs.xml).This is a regular .xml file, you can go ahead and click it just in case you are a security freak. Oh and interest in openness this file  includes one feed that doesn't belong to an athlete, it includes this blog's feed. 
+* Download the [60 Beijing Olympic Athlete's Blogs OPML File]({{"assets/images/content/blog/Olympic_athletes_Blogs.xml" | absolute_url }}).This is a regular .xml file, you can go ahead and click it just in case you are a security freak. Oh and interest in openness this file  includes one feed that doesn't belong to an athlete, it includes this blog's feed. 
 
 * All you need to is right click on the above link and "Save As". It's only an 18kb file save it on your desktop, and then import it from your reader. If you are using Google reader, click on "Manage Subscription" On the bottom left, and then go to "Import/Export".
 

@@ -1,15 +1,23 @@
-title: Interview With The SourceForge Community Manager
+---
+
+title: "Interview With The SourceForge Community Manager"
 author: rami
-permalink: /2008/08/interview-with-a-sourceforge-community-manager/
-tags: Sourceforge, Interview, Linux, Advocacy
+layout: linuxologist
+permalink: /2008/08/07/interview-with-a-sourceforge-community-manager
+categories: [Blog]
+tags: [sourceforge, interview, linux, advocacy]
+summary: "SourceForge is one of the most important entities in the Open Source movement. They manage the geek mecca of [slashdot](http://www.slashdot.com), sell geek paraphernalia that makes all our dreams come true at [thinkgeek](http://www.thinkgeek.com), manage [Freshmeat](http://www.freshmeat.net/) the mega app hub, and administer over 170,000 Open Source projects at [SourceForge](http://www.sourceforge.net)."
+
+---
 
 SourceForge is one of the most important entities in the Open Source movement. They manage the geek mecca of [slashdot](http://www.slashdot.com), sell geek paraphernalia that makes all our dreams come true at [thinkgeek](http://www.thinkgeek.com), manage [Freshmeat](http://www.freshmeat.net/) the mega app hub, and administer over 170,000 Open Source projects at [SourceForge](http://www.sourceforge.net).
+
 
 And if you are a long time Royal HeHe2-ness reader, you should by now realize how I am a big fan of such projects that aim to bring Open Source to the masses; after all it's the tagline of this blog! This week I bring you an interview with the community manager at SourceForge, Ross Turk. (you can follow him over here on [Twitter](http://twitter.com/rossturk))
 
 **Q-Can you tell us a little more about yourself? You know general stuff?**
 
-![ross-turk_portrait]({filename}/images/ross-turk_portrait.jpeg)
+![ross-turk_portrait]({{"assets/images/content/blog/ross-turk_portrait.jpeg" | absolute_url }})
 
 Sure! I live in West Hollywood, CA, but I spend most of my time traveling around the country (and sometimes the world.) I've always been a giant fan of Linux -- when I was in high school, I ran the Linux network for a local ISP long before most people thought it was a viable option.
 
@@ -25,7 +33,7 @@ SourceForge, Inc., the parent company, also operates Slashdot, ThinkGeek, Linux.
 
 **Q-What are your responsibilities at Sourceforge? What projects did you work on?**
 
-![Ross Turk Sourceforge Conference]({filename}/images/ross-turk-sourceforge-conference.jpg)
+![Ross Turk Sourceforge Conference]({{"assets/images/content/blog/ross-turk-sourceforge-conference.jpg" | absolute_url }})
 
 I'm the Community Manager for SourceForge.net, and I've been doing this for almost two years. I've been with SourceForge for almost eight and a half years now, and I've had a lot of various roles, including consulting, architecture, and engineering management. My job now is to make myself available to the SourceForge community of users and developers, make sure they're happy, and figure out what would make them happier. I spend a lot of time a trade shows, but I also put together programs like the Community Choice Awards so that the entire community can get involved.
 
@@ -57,7 +65,7 @@ SourceForge, over the years, has become almost as much of a collection of ideas 
 
 **Q-What does the future hold for SourceForge and the gang?**
 
-![Open Source Project Logos]({filename}/images/opensourceprojectlogos.png)
+![Open Source Project Logos]({{"assets/images/content/blog/opensourceprojectlogos.png" | absolute_url }})
 
 Nobody can argue that open source has seen a great deal of success at the operating system level with Linux, [FreeBSD](http://www.freebsd.org), and, more recently, [OpenSolaris](http://www.opensolaris.org). Similarly, the programming space is seeing a lot of successful open source languages like [Perl](http://www.perl.org), [PHP](http://www.php.net), [Python](http://www.python.org), [Java](http://www.java.com), and [Ruby](http://www.ruby-lang.org/en/). Open source databases like [PostgreSQL](http://www.postgresql.org) and [MySQL](http://www.mysql.com) are mainstream now too, as are web servers like Apache and middleware like JBoss.
 
@@ -65,5 +73,5 @@ Clearly, open source is beginning to move up the stack into the application spac
 
 I think this represents a challenge for SourceForge, because this movement will possibly be accompanied by an increase in the complexity of the tools required to build these new projects and an increase in the type of people who might consume what they produce. I also think that as many projects commercialize, they require a completely different set of tools than those we were designed to provide. In short, the open source industry is changing continually and user requirements are changing along with it. We have to listen capably and ceaselessly, maintain a nimble organization, and change what we offer to match what people need (hopefully before they know they need it.)
 
-**If you liked this Interview you might want to check my [interview with Daniel Campos]({filename}/blog/2008-02-07-an-interview-with-an-extremadura-developer-bringing-linux-to-the-masses.markdown), a lead developer of the the Extremadura, Spain Linux project. A project that aims to bring Linux to all schools and government offices in the region.**
+**If you liked this Interview you might want to check my [interview with Daniel Campos](/2008/02/07/an-interview-with-an-extremadura-developer-bringing-linux-to-the-masses), a lead developer of the the Extremadura, Spain Linux project. A project that aims to bring Linux to all schools and government offices in the region.**
 

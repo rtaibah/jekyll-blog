@@ -1,23 +1,30 @@
-title: A Major Milestone for Royal HeHe2-ness!
+---
+
+title: "A Major Milestone for Royal HeHe2-ness!"
 author: rami
-permalink: a-major-milestone-for-royal-hehe2-ness
-tags: Announcements
+layout: linuxologist 
+permalink: /2008/07/10/a-major-milestone-for-royal-hehe2-ness
+categories: [Blog]
+tags: [announcement]
+summary: "For 8 month now, I have been blogging about Linux and Open Source. It has been a great journey so far, full of highs and lows, diggs, burries, and stumbles. But yesterday, a milestone has been achieved, something that I am really proud of, something that tells me that I must be doing something right! But before I announce it, let me just take you through my most succesful blogs:"
+
+---
 
 For 8 month now, I have been blogging about Linux and Open Source. It has been a great journey so far, full of highs and lows, diggs, burries, and stumbles. But yesterday, a milestone has been achieved, something that I am really proud of, something that tells me that I must be doing something right! But before I announce it, let me just take you through my most succesful blogs:
 
-1- [Howto Convert a Friend to Linux]({filename}/blog/2007-12-27-howto-convert-a-friend-to-linux.markdown) (my first break)
+1- [Howto Convert a Friend to Linux](/2007/12/27/howto-convert-a-friend-to-linux) (my first break)
 
-2- [10 Slick Linux Desktops, and How to Make Them]({filename}/blog/2008-02-27-10-slick-linux-desktops-and-how-to-make-them.markdown)
+2- [10 Slick Linux Desktops, and How to Make Them](/2008/02/27/10-slick-linux-desktops-and-how-to-make-them)
 
-3- [Etymology of a Distro]({filename}/blog/2008-04-06-etymology-of-a-distro.markdown)
+3- [Etymology of a Distro](/2008/04/06/etymology-of-a-distro)
 
-4- [The 7 Habbits of Highly Effective Linux Users]({filename}/blog/2008-04-16-the-7-habits-of-highly-effective-linux-users.markdown)
+4- [The 7 Habbits of Highly Effective Linux Users](/2008/04/16/the-7-habits-of-highly-effective-linux-users)
 
-5- [Ubuntu Hardy Heron: A First Look]({filename}/blog/2008-04-24-ubuntu-hardy-heron-a-first-look.markdown)
+5- [Ubuntu Hardy Heron: A First Look](/2008/04/24/ubuntu-hardy-heron-a-first-look)
 
-6- [3 Reasons Why Your System Might Be Slow]({filename}/blog/2008-06-10-3-reasons-why-your-system-might-be-slow.markdown) (courtesy of [Numerodix](http://www.matusiak.eu/numerodix/blog//))
+6- [3 Reasons Why Your System Might Be Slow](/2008/06/10/3-reasons-why-your-system-might-be-slow) (courtesy of [Numerodix](http://www.matusiak.eu/numerodix/blog/)
 
-7- [OpenOffice 3.0: What to Expect]({filename}/blog/2008-07-06-openofficeorg-30-what-to-expect.markdown)
+7- [OpenOffice 3.0: What to Expect](/2008/07/06/openofficeorg-30-what-to-expect)
 
 These are really good reads, and trust me it's not just because I wrote them.
 

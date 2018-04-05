@@ -1,9 +1,16 @@
-title: May God Bless Your Soul...
-author: rami
-permalink: may-god-bless-your-soul
-tags: personal 
+---
 
-![Mahmoud Taibah with King Abdullah]({filename}/images/mahmoud-taibah-king-abdullah.jpg)
+title: "May God Bless Your Soul..."
+author: rami
+layout: historical-blog
+permalink: /2008/07/17/may-god-bless-your-soul
+categories: [Blog]
+tags: [personal]
+summary: As the clock ticks and tocks, and the sleepless minutes and hours go by, a torrent of flashbacks run through my head. Memories of a great man I always looked up to, seem to be burnt onto my eyelids. A man that I have rarely seen in his kindness and tenderness. A man that never seemed lost in today's moving ethical goalposts, steadfast he was. He used to be with us yesterday, not so today.
+
+---
+
+![Mahmoud Taibah with King Abdullah]({{"assets/images/content/blog/mahmoud-taibah-king-abdullah.jpg" | absolute_url }})
 
 As the clock ticks and tocks, and the sleepless minutes and hours go by, a torrent of flashbacks run through my head. Memories of a great man I always looked up to, seem to be burnt onto my eyelids. A man that I have rarely seen in his kindness and tenderness. A man that never seemed lost in today's moving ethical goalposts, steadfast he was. He used to be with us yesterday, not so today.
 

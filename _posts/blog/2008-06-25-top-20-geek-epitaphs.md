@@ -1,12 +1,18 @@
-title: 20 Great Geek Epitaphs
+---
+
+title: "20 Great Geek Epitaphs"
 author: rami
-excerpt: 'What would the best geek epitaph be?. This immediately caught my attention as the question posed is fertile for for outrageous humor, witty comments, and downright geeky cheekiness. Here are some beaming examples:'
-permalink: top-20-geek-epitaphs
-tags: Humour, Geek
+layout: linuxologist
+permalink: /2008/06/25/top-20-geek-epitaphs
+categories: [Blog]
+tags: [humour, geek]
+summary: 'What would the best geek epitaph be?. This immediately caught my attention as the question posed is fertile for for outrageous humor, witty comments, and downright geeky cheekiness. Here are some beaming examples:'
+
+---
 
 Recently [Martin](http://www.matusiak.eu/numerodix/blog//) shared with me a Reddit comment thread titled [What would the best geek epitaph be?](http://www.reddit.com/info/6ofbu/comments/). This immediately caught my attention, as the question posed is fertile for outrageous humor, witty comments, and downright geeky cheekiness. Here are some beaming examples:
 
-**"Goodbye World"** ; coders start out their programming careers with the "[Hello world](http://en.wikipedia.org/wiki/Hello_world_program)" program, it's only appropriate for them to end it with this one!
+**"Goodbye World";** coders start out their programming careers with the "[Hello world](http://en.wikipedia.org/wiki/Hello_world_program)" program, it's only appropriate for them to end it with this one!
 
 **"Respawn in 10... 9... 8..."**; for the geek gamers out there
 
@@ -18,7 +24,7 @@ Recently [Martin](http://www.matusiak.eu/numerodix/blog//) shared with me a Redd
 
 **"rm -rf /dev/body mv /dev/soul ../**"; rm is the Unix command for "remove", mv is for "move", -f for "force", -r for "recursive"
 
-** A screen shot of a** "[BSOD](http://en.wikipedia.org/wiki/Blue_Screen_of_Death)" 
+**A screen shot of a** "[BSOD](http://en.wikipedia.org/wiki/Blue_Screen_of_Death)"
 
 **$\>[/dev/null](http://en.wikipedia.org/wiki/NUL_%28Computer%29)**
 
@@ -46,8 +52,8 @@ I also took the liberty of googling some more, here are some other great example
 
 Pictures are worth a 1000 words:
 
-![Merv Griffin Epitaph]({filename}/images/geek-epitaph-not-be-right-back.jpg)
+![Merv Griffin Epitaph]({{"assets/images/content/blog/geek-epitaph-not-be-right-back.jpg" | absolute_url }})
 
-![R Andersen Epitaph; Connection Reset by Peer]({filename}/images/geektombstone-epitaph-connection-reset-by-peer.jpg)
+![R Andersen Epitaph; Connection Reset by Peer]({{"assets/images/content/blog/geektombstone-epitaph-connection-reset-by-peer.jpg" | absolute_url }})
 
 What would YOU have on your epitaph?

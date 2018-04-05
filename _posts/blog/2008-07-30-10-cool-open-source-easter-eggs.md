@@ -1,10 +1,16 @@
-title: 10 Cool Open Source Easter Eggs
-author: rami
-layout: post
-permalink: 10-cool-open-source-easter-eggs
-tags: Linux, Open Source, Writer, OpenOffice, Calc, Kexi, Sudoku, Amarok, KDE, GNOME, Easter Eggs, Apt, Super Cow, Book o Mozilla
+---
 
-It's easy to forget with all the source compiling, the [conspiracy theories]({filename}/blog/2008-07-25-even-more-incriminating-evidence-in-the-foxconn-debacle.markdown), and the [OS flaming]({filename}/blog/2007-12-30-hiding-dirty-stuff-windows-vs-linux.markdown) (see comment: 102) going on in every corner of the Internet, that there is a fun side of our beloved OS and Open Source applications. I have compiled a list of 10 easter eggs found in Open Source project (actually you will find more than 10 here, as I treated each application as one). So here we go:
+title: "10 Cool Open Source Easter Eggs"
+author: rami
+layout: linuxologist
+permalink: /2008/07/30/10-cool-open-source-easter-eggs
+categories: [Blog]
+tags: [linux, openr-source, writer, openoffice, calc, kexi, sudoku, amarok, kde, gnome, easter eggs, apt, super-cow]
+summary: "It's easy to forget with all the source compiling, the [conspiracy theories](/2008/07/25/even-more-incriminating-evidence-in-the-foxconn-debacle), and the [OS flaming](/2007/12/30/hiding-dirty-stuff-windows-vs-linux) (see comment: 102) going on in every corner of the Internet, that there is a fun side of our beloved OS and Open Source applications. I have compiled a list of 10 easter eggs found in Open Source project (actually you will find more than 10 here, as I treated each application as one). So here we go:"
+
+---
+
+It's easy to forget with all the source compiling, the [conspiracy theories](/2008/07/25/even-more-incriminating-evidence-in-the-foxconn-debacle), and the [OS flaming](/2007/12/30/hiding-dirty-stuff-windows-vs-linux) (see comment: 102) going on in every corner of the Internet, that there is a fun side of our beloved OS and Open Source applications. I have compiled a list of 10 easter eggs found in Open Source project (actually you will find more than 10 here, as I treated each application as one). So here we go:
 
 ## Amarok
 I have previously [blogged](/blog/linux-general/amarok-easter-egg/) about this, basically if you change the tag title of a song to "Amarok" and the artist's tag to "Mike Oldfield", a pop-up OSD will appear saying:
@@ -14,7 +20,7 @@ I have previously [blogged](/blog/linux-general/amarok-easter-egg/) about this, 
 > Chris Muehlhaeuser 
 > The many other people who have helped make Amarok what it is \*
 
-![Amarok Easter Egg - Mike Oldfield]({filename}/images/amarok.jpeg)
+![Amarok Easter Egg - Mike Oldfield]({{"assets/images/content/blog/amarok.jpeg" | absolute_url }})
 
 ## Super Cow to the Rescue!
 
@@ -24,13 +30,13 @@ This easter egg is very well known, but it absolutely needs a mention, after all
 
 You should get the following ASCII drawing:
 
-![Apt-get easter egg: Super Cow!]({filename}/images/apt-get-easter-egg.png)
+![Apt-get easter egg: Super Cow!]({{"assets/images/content/blog/apt-get-easter-egg.png" | absolute_url }})
 
 ## If I Give You an Easter Egg, Will You Go Away?
 
 The successor of Apt-get, Aptitude, claims that it doesn't have this easter egg. But did you give up so easily?! Linux users don't give up damn it! Try the verbose flag, multiple times!
 
-![Aptitude Easter Egg! A Snake Eating an Elephant!]({filename}/images/aptitude-easter-egg.png)
+![Aptitude Easter Egg! A Snake Eating an Elephant!]({{"assets/images/content/blog/aptitude-easter-egg.png" | absolute_url }})
 
 Lulz! A snake eating an elephant! Thats one big ass snake over there!
 
@@ -42,23 +48,23 @@ This command is different from system to system, basically when you get to "linu
 
 Here is the output of "fuck" on a one kernel of mine:
 
-![Curse Words in the LInux Source Code!]({filename}/images/swear-words-in-linux-source-code.png)
+![Curse Words in the LInux Source Code!]({{"assets/images/content/blog/swear-words-in-linux-source-code.png" | absolute_url }})
 
 ## Wanda!
 
 In GNOME press alt-f2 and then type "free the fish". Wanda the fish will start swimming around on your desktop! Unfortunately Wanda has been swimming around my desktop for two days now, haven't gotten around figuring out how drown it (I know I can be sometimes cruel.)
 
-![Wanda The Fish!]({filename}/images/wanda-the-fish.png)
+![Wanda The Fish!]({{"assets/images/content/blog/wanda-the-fish.png" | absolute_url }})
 
 ## A Jolly Bunch Of Geeks!
 
 Open OpenOffice Writer, then type "'StarWriterTeam" (without the quotes obviously) and then hit F3\. I tried this on Ubuntu, not sure if it works on the Windows or Mac versions, they probably do though.
 
-![OpenOffice Team Easter Egg in Writer]({filename}/images/openoffice-team-easter-egg-in-writer.png)
+![OpenOffice Team Easter Egg in Writer]({{"assets/images/content/blog/openoffice-team-easter-egg-in-writer.png" | absolute_url }})
 
 Also, you could open up Calc and type in any cell "=STARCALCTEAM()". You'll get the team behind Calc kicking back and having some beers in (Hawaii?)
 
-![OpenOffice Team Easter Egg in Calc]({filename}/images/openoffice-team-easter-egg-in-calc.png)
+![OpenOffice Team Easter Egg in Calc]({{"assets/images/content/blog/openoffice-team-easter-egg-in-calc.png" | absolute_url }})
 
 ## That Ain't A Pretty Place! Trust Me
 
@@ -66,13 +72,13 @@ You will need to install first a silly program called cowsay. Which lets you use
 
     sudo apt-get install cowsay
 
-![Cowsay: Gentoo is Cooler Than Me :(!!]({filename}/images/cowsay-gentoo-is-cooler.png)
+![Cowsay: Gentoo is Cooler Than Me :(!!]({{"assets/images/content/blog/cowsay-gentoo-is-cooler.png" | absolute_url }})
 
 Now type:
 
     cowsay -f head-in.cow ouch
 
-![Cowsay: Head in Cow! Yikes!]({filename}/images/cowsay-head-in-cow-2.png)
+![Cowsay: Head in Cow! Yikes!]({{"assets/images/content/blog/cowsay-head-in-cow-2.png" | absolute_url }})
 
 ## Book Of Mozilla
 
@@ -80,7 +86,7 @@ This is one of the funniest and greatest easter eggs EVER! In almost all version
 
 ### _The Book of Mozilla_, 12:10
 
-![The Book of Mozilla]({filename}/images/the-book-of-mozilla-12-10.png)
+![The Book of Mozilla]({{"assets/images/content/blog/the-book-of-mozilla-12-10.png" | absolute_url }})
 
 
 This verse can be found in the first version of Netscape 1.0. According to Wikipedia, this relevation means:
@@ -89,7 +95,7 @@ This verse can be found in the first version of Netscape 1.0. According to Wikip
 
 ### Book of Mozilla, 3:31
 
-![The Book of Mozilla 3:31]({filename}/images/the-book-of-mozilla-3-31.png)
+![The Book of Mozilla 3:31]({{"assets/images/content/blog/the-book-of-mozilla-3-31.png" | absolute_url }})
 
 This verse first appeared in May 1998 until October 1998\. Then the verse was lost because Netscape was rewritten when it was released as open source. The verse emerged again in 2000\. According to Wikipedia this verse means:
 
@@ -98,7 +104,7 @@ This verse first appeared in May 1998 until October 1998\. Then the verse was lo
 
 ### Book of Mozilla 7:15
 
-![Book of Mozilla 7:15 Found in Firefox 2]({filename}/images/the-book-of-mozilla-7-15.png)
+![Book of Mozilla 7:15 Found in Firefox 2]({{"assets/images/content/blog/the-book-of-mozilla-7-15.png" | absolute_url }})
 
 This first appeared in Firefox 1.5 and above, in addition to other browsers such as Camino and Epiphany. This is what Wikipedia had to say about the verse:
 
@@ -143,10 +149,10 @@ This one is the final verse (so far) in the Book of Mozilla, it appeared first i
 
 In GNOME press alt+f2 and type "gegls from outer space" This will launch a Space Invader-esque game where GEGLs (stands for Genetically Engineered Goat Large) are trying to kill our beloved fish Wanda! Oh Noes!!!
 
-![GEGLs From Outer Space]({filename}/images/gegls-from-outer-space.png)
+![GEGLs From Outer Space]({{"assets/images/content/blog/gegls-from-outer-space.png" | absolute_url }})
 
 ## Sudoku in KDE!
 
 I have given so much to the GNOME desktop, I think I should give some love to it's compeitor KDE. While I can't vouch for this, as I don't use KDE, but it is interesting. According to the [KDE developer Jarslow Staniek's blo](http://www.kdedevelopers.org/node/1896)g, Open up Kexi and create a new table called Sudoku. You will get a little nice game of Sudoku!
 
-![Kexi KDE Easter Egg Sudoku!]({filename}/images/kexi-sudoku.png)
+![Kexi KDE Easter Egg Sudoku!]({{"assets/images/content/blog/kexi-sudoku.png" | absolute_url }})

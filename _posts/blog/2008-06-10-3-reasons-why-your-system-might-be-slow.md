@@ -1,13 +1,20 @@
-title: 3 Reasons Why Your System Might Be Slow
+---
+
+title: "3 Reasons Why Your System Might Be Slow"
 author: rami
-permalink: 3-reasons-why-your-system-might-be-slow
-tags: Howto, Linux
+layout: linuxologist
+permalink: /2008/06/10/3-reasons-why-your-system-might-be-slow
+categories: [Blog]
+tags: [howto, linux]
+summary: Computer users expect their systems to work well at all times, but unfortunately this isn't always the case. If your system becomes slow, there certainly is something you can do about it. This article will help you understand what's happening on the system, whether it's the computer in front of you or a system you're accessing remotely. Naturally, I presume you're running Linux, and the tools described here are Linux tools. If you're on some other weird system ;) , your mileage may vary.
+
+---
 
 _Editor's note: This is a guest blog by Martin Matusiak. Martin is a software engineer and a Linux enthusiast. He [blogs](http://www.matusiak.eu/numerodix/blog//) mostly about technology with emphasis on Open Source and Linux._
 
 Computer users expect their systems to work well at all times, but unfortunately this isn't always the case. If your system becomes slow, there certainly is something you can do about it. This article will help you understand what's happening on the system, whether it's the computer in front of you or a system you're accessing remotely. Naturally, I presume you're running Linux, and the tools described here are Linux tools. If you're on some other weird system ;) , your mileage may vary.
 
-![Slow Computer?]({filename}/images/slow-computer.jpg)
+![Slow Computer?]({{"assets/images/content/blog/slow-computer.jpg" | absolute_url }})
 
 When we say _the system is slow_ we mean that it isn't responding to our input in a reasonable time, or taking too long to complete a task. This can happen when there is \*another\* program using too many system resources, starving \*your\* program of resources, causing it to run slowly
 
@@ -31,7 +38,7 @@ The impact of both cpu heavy and I/O heavy programs can be mitigated by tuning t
 
 ### How it happens
 
-![Infinite Loop Avenue?]({filename}/images/infiniteloop.jpeg)
+![Infinite Loop Avenue?]({{"assets/images/content/blog/infiniteloop.jpeg" | absolute_url }})
 
 The most common cycle for a program is to 1) accept some input, 2) do some work, 3) give some output. And this sequence is repeated for as long as the program is running. Typically, the work that has to be done takes a very short time compared to the time spent waiting for input, which gives all the other running programs a chance to use the cpu in the meantime.
 
@@ -79,7 +86,7 @@ On multi-cpu systems this is less of a problem, because most programs can only u
 
 ### How it happens
 
-![100's of Apps running at the same time on Linux]({filename}/images/165-apps-on-linux.jpg)
+![100's of Apps running at the same time on Linux]({{"assets/images/content/blog/165-apps-on-linux.jpg" | absolute_url }})
 
 There are two types of memory on your system: physical (RAM) and virtual (swap). Physical memory is relatively small and very quick to access, while virtual memory is just part of your harddisk being used as extra memory (very slow to access). As long as all the running programs can store their work in physical memory, everything is fine. (This is why it's good to have a lot of it.)
 

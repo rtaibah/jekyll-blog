@@ -1,9 +1,18 @@
-title: Demonoid is Back! Rejoice!...Well Everybody Except for Saudis!
+---
+
+title: "Demonoid is Back! Rejoice!...Well Everybody Except for Saudis!"
 author: rami
-permalink: demonoid-is-back-rejoicewell-everybody-except-for-saudis
-tags: Torrents, Internet, Demonoid
+layout: linuxologist
+permalink: /2008/04/21/demonoid-is-back-rejoicewell-everybody-except-for-saudis
+categories: [Blog]
+tags: [torrents, internet, demonoid]
+
+summary: The ever so popular website and torrent tracker [Demonoid](http://www.demonoid.com) has been going through rough times in the past year. These freedom fighters fought nail and tooth to keep their servers up, they [relocated to several countries](http://torrentfreak.com/demonoid-tracker-moves-to-ukraine-080316/), they were [harassed by lawyers](http://torrentfreak.com/backdoor-to-banning-all-canadian-bittorrent-sites-071125/), and their administrator, Demios, [stepped down](http://torrentfreak.com/demonoid-to-be-resurrected-under-new-admin-080410/). It's no wonder the Internet rejoiced to [the news that it's back](http://torrentfreak.com/demonoid-is-back-080411/)! Life is beautiful again :)
+
+---
 
 The ever so popular website and torrent tracker [Demonoid](http://www.demonoid.com) has been going through rough times in the past year. These freedom fighters fought nail and tooth to keep their servers up, they [relocated to several countries](http://torrentfreak.com/demonoid-tracker-moves-to-ukraine-080316/), they were [harassed by lawyers](http://torrentfreak.com/backdoor-to-banning-all-canadian-bittorrent-sites-071125/), and their administrator, Demios, [stepped down](http://torrentfreak.com/demonoid-to-be-resurrected-under-new-admin-080410/). It's no wonder the Internet rejoiced to [the news that it's back](http://torrentfreak.com/demonoid-is-back-080411/)! Life is beautiful again :)
+
 
 Well maybe it's beautiful again for everybody except the Saudi pirates! [King Abdulaziz City for Science and Technology](http://en.wikipedia.org/wiki/King_Abdulaziz_City_for_Science_&_Technology), the governing body that censors the Internet in the country, have so foolishly decided that [Demonoid](http://www.demonoid.com)'s content is not suitable for +20 million of it's citizens.
 
@@ -11,6 +20,6 @@ One has to wonder about the city's policy regarding torrents. [The Pirate Bay](h
 
 Thank god that we have some headless chickens regulating our tubes!
 
-![Saudi Arabia Internet Censored Page]({filename}/images/saudi-arabia-blocked.gif)
+![Saudi Arabia Internet Censored Page]({{"assets/images/content/blog/saudi-arabia-blocked.gif" | absolute_url }})
 
 _Update: Demonoid is back, the censorship seems to be so arbitrary :S_

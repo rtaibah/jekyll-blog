@@ -1,11 +1,18 @@
-title: 5 Linux Commercials I Like
+---
+
+title: "5 Linux Commercials I Like"
 author: rami
-permalink: /2008/08/5-linux-commercials-i-like/
-tags: Linux, Commercials, Advocacy
+layout: linuxologist
+permalink: /2008/08/05/5-linux-commercials-i-like
+categories: [Blog]
+tags: [linux, commercials, advocacy]
+summary: "Since this is a *Linux advocacy* blog, it's only normal for me to share with you guys my favorite list of *Linux* commercials. I love these because of the deep messages and meanings behind each of them:"
+
+---
 
 Since this is a \*Linux advocacy\* blog, it's only normal for me to share with you guys my favorite list of \*Linux\* commercials. I love these because of the deep messages and meanings behind each of them:
-
 ## 1-Float Like A Butterfly
+
 Muhammed Ali and *Linux* have many things in common, his quick fists and swift feet are akin to *Linux*'s flexibility and speed. Ali is the greatest boxer in history, and to me, *Linux* is the greatest OS! Indeed Ali claimed he is the greatest boxer, and he is probably right about *Linux* also. Watch the great legend promote openness:
 
 <iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/BesI6NEPWlM?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

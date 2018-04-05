@@ -1,12 +1,18 @@
-title: Apple iPhone 3G: A Beautiful Jail
+---
+
+title: "Apple iPhone 3G: A Beautiful Jail"
 author: rami
-excerpt: "I have already ranted about my displeasure with the iPhone because it's locked down like a brick and cannot be really used effectively on a Linux box. But if you thought that was bad then you have seen nothing! The Free Software Foundation published an alarming article titled 5 Reasons to Avoid iPhone 3G."
-permalink: iphone-3g-a-beautiful-jail
-tags: Apple, iPhone, FSF, Steve Jobs
+layout: linuxologist
+permalink: /2008/07/25/iphone-3g-a-beautiful-jail
+categories: [Blog]
+tags: [apple, iphone, fsf, steve jobs]
+summary: "I have already ranted about my displeasure with the iPhone because it's locked down like a brick and cannot be really used effectively on a Linux box. But if you thought that was bad then you have seen nothing! The Free Software Foundation published an alarming article titled 5 Reasons to Avoid iPhone 3G."
 
-I have already ranted about my [displeasure with the iPhone]({filename}/blog/2008-07-11-sourceforge-on-your-iphone.markdown) because it's locked down like a brick and cannot be really used effectively on a Linux box. But if you thought that was bad then you have seen nothing! The [Free Software Foundation](http://www.fsf.org) published an alarming article titled [5 Reasons to Avoid iPhone 3G](http://www.fsf.org/blogs/community/5-reasons-to-avoid-iphone-3g).
+---
 
- ![Say No to the Apple iPhone 3G]({filename}/images/noiphone.jpg)
+I have already ranted about my [displeasure with the iPhone](/2008/07/11/sourceforge-on-your-iphone) because it's locked down like a brick and cannot be really used effectively on a Linux box. But if you thought that was bad then you have seen nothing! The [Free Software Foundation](http://www.fsf.org) published an alarming article titled [5 Reasons to Avoid iPhone 3G](http://www.fsf.org/blogs/community/5-reasons-to-avoid-iphone-3g).
+
+ ![Say No to the Apple iPhone 3G]({{"assets/images/content/blog/noiphone.jpg" | absolute_url }})
  
   * iPhone completely blocks free software. Developers must pay a tax to Apple, who becomes the sole authority over what can and can't be on everyone's phones.
   * iPhone endorses and supports Digital Restrictions Management (DRM) technology.
@@ -17,7 +23,7 @@ I have already ranted about my [displeasure with the iPhone]({filename}/blog/200
 
 It's a really interesting read, Johns goes on into more details on each of these points. If you are thinking of getting an iPhone 3G then i highly recommend reading FSF's [5 Reasons to Avoid iPhone 3G](http://www.fsf.org/blogs/community/5-reasons-to-avoid-iphone-3g) to it's entirety first before going out and splurging $400 to handcuff yourself.
 
-![Apple Genius Bar? Doubt it!]({filename}/images/apple_towson_genius_bar.jpg)
+![Apple Genius Bar? Doubt it!]({{"assets/images/content/blog/apple_towson_genius_bar.jpg" | absolute_url }})
 
 The Free Software Foundation has done it's part in preaching the dangers of the iPhone, but [defective by design](http://www.defectivebydesign.org/) took it a step further and took action! Yesterday they issued an iPhone challenge called [Ask Apple About the iPhone](http://www.defectivebydesign.org/apple-challenge). The challenge urges everybody to reserve an appointment at the so called Apple Genius Bar using an [online booking system](http://www.apple.com/retail/geniusbar/). And ask these so called geniuses a series of 5 questions. Then rate them on a scale from 1-32 on each question, bringing the total to 160 IQ points (Einstien's IQ):
 

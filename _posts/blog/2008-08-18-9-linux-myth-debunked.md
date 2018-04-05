@@ -1,14 +1,20 @@
-title: 9 Linux Myths Debunked
+---
+
+title: "9 Linux Myths Debunked"
 author: rami
-permalink: /2008/08/9-linux-myth-debunked/
-tags: Linux, FUD, Microsoft, Linuxologist
+layout: linuxologist
+permalink: /2008/08/18/9-linux-myth-debunked
+categories: [Blog]
+tags: [linux, fud, microsoft, linuxologist]
+summary: "When it comes to Linux there are 4 kinds of people, those who never heard of it, those who love it, those who are afraid of it, and those who hate it and spread falsities about it. I don't really care about the first, they probably aren't really technologically literate anyways, as long as they have E-mail they are content. While the third  group is the result of the actions of the fourth. Let's hit two birds with one stone shall we?"
 
-![Linux Faces FUD]({filename}/images/linux-fud.jpg)
-** If you enjoyed this article, then I would recommend to also read [The 7 Habits of Highly Effective Linux Users]({filename}/blog/2008-04-16-the-7-habits-of-highly-effective-linux-users.markdown) and [Etymology of A Distro]({filename}/blog/2008-04-06-etymology-of-a-distro.markdown). Enjoy!**
+---
 
-  2008-04-06-etymology-of-a-distro.markdown
+![Linux Faces FUD]({{"assets/images/content/blog/linux-fud.jpg" | absolute_url }})
+
+**If you enjoyed this article, then I would recommend to also read [The 7 Habits of Highly Effective Linux Users](/2008/04/16/the-7-habits-of-highly-effective-linux-users) and [Etymology of A Distro](/2008/04/06/etymology-of-a-distro). Enjoy!**
+
 When it comes to Linux there are 4 kinds of people, those who never heard of it, those who love it, those who are afraid of it, and those who hate it and spread falsities about it. I don't really care about the first, they probably aren't really technologically literate anyways, as long as they have E-mail they are content. While the third  group is the result of the actions of the fourth. Let's hit two birds with one stone shall we?
-
 
 ## 1-Linux is More Secure Because it Has A Smaller User Base
 
@@ -46,13 +52,13 @@ Well Linux provides you both and everything in between! And in a million and one
 
 You can install Compiz, which gives you rotating cubes for different desktops, wobbly windows, animated window behavior just to name a few. You can install [Enlightenment](http://www.enlightenment.org/), which provides you a sleek looking desktop that you have never seen before. KDE4 is a scene to behold! Anyways I think a picture is worth a thousand words,  here judge by yourself:
 
-![Linux and the Compiz Cube]({filename}/images/xgl-compiz.jpg)
+![Linux and the Compiz Cube]({{"assets/images/content/blog/xgl-compiz.jpg" | absolute_url }})
 
-![Linux and Compiz Cube]({filename}/images/compiz-6.jpeg)
+![Linux and Compiz Cube]({{"assets/images/content/blog/compiz-6.jpeg" | absolute_url }})
 
-![It's Snowing in Linux Land]({filename}/images/ubuntu-gusty-compiz-xgl-snow.png)
+![It's Snowing in Linux Land]({{"assets/images/content/blog/ubuntu-gusty-compiz-xgl-snow.png" | absolute_url }})
 
-![enlightenment-e17]({filename}/images/enlightenment-e17.jpg) 
+![enlightenment-e17]({{"assets/images/content/blog/enlightenment-e17.jpg" | absolute_url }}) 
 
 
 In fact you can actually make Linux like whatever you want, you can make it even look like Apple or Windows! The sky is the limit !;)
@@ -65,7 +71,7 @@ Seriously, just yesterday I walked into my brother's room, and  found a collecti
 
 Today, there are literally 100's of games that work under Linux, true they haven't been ported, but [Wine](http://en.wikipedia.org/wiki/Wine_%28software%29) (a program that allows Windows programs to run under Linux) has taken care of that. Just looking at the top [10 list of apps working under Wine](http://appdb.winehq.org/), one finds quite a lot of them are games. And a lot of them are VERY popular! Wine could also help in a lot of [other games](http://appdb.winehq.org/appbrowse.php?iCatId=2) too! You can also purchase [Cedega](http://www.transgaming.com/products/cedega/) which depends on Wine but makes the experience much more user-friendly. There is a [lot of help out there](http://frankscorner.org/), you just need to open your eyes a bit! And if all fails, virtualization could be a last resort!
 
-![World of Worldcraft Running on Linux using Wine]({filename}/images/wow-on-linux-using-wine.jpeg)
+![World of Worldcraft Running on Linux using Wine]({{"assets/images/content/blog/wow-on-linux-using-wine.jpeg" | absolute_url }})
 
 One could still argue that there are no Linux games, as all that this means that there are no native Linux games. Right? Not really, there are loads of native Open Source Linux games, I can't really vouch for them, but from the screen shots they do seem cool. Here have a [glimpse](http://rangit.com/software/top-8-linux-games-of-2007/).
 
@@ -83,9 +89,8 @@ However in reality, a lot of Linux users are mavericks, they get their support f
 
 ## 8-Linux Doesn't Have Good Hardware Support
 
-Sometime ago, I blogged about how [I suffered to get an HP printer to work on Windows.]({filename}/blog/2008-07-06-debunking-the-microsoft-windows-user-friendliness-myth.markdown) Long story short, after around 2 hours of trying to get an HP printer to work on XP, I gave up and plugged into an Ubuntu Linux Eee PC, it got recognized in 30 seconds! There are thousands of stories similar to this, just a quick Google would confirm that. [Here is an example](http://changelog.complete.org/posts/644-Linux-Hardware-Support-Better-Than-Windows.html).
+Sometime ago, I blogged about how [I suffered to get an HP printer to work on Windows.](/2008/07/06/debunking-the-microsoft-windows-user-friendliness-myth) Long story short, after around 2 hours of trying to get an HP printer to work on XP, I gave up and plugged into an Ubuntu Linux Eee PC, it got recognized in 30 seconds! There are thousands of stories similar to this, just a quick Google would confirm that. [Here is an example](http://changelog.complete.org/posts/644-Linux-Hardware-Support-Better-Than-Windows.html).
 
-  2008-07-06-debunking-the-microsoft-windows-user-friendliness-myth.markdown
 What people fail to realize that in the case of their Windows preinstalled PC's, they "just works" because the vendors have already done all the work for them. It would be a totally different ball game if these PC's had no OS on them. Windows wouldn't come out all that superior, I would even wager that Linux would probably do a better job.
 
 Actually I think that we are at a point where I can say that Linux would work more than 90% of hardware out there! Could Windows or Apple claim that? I don't know, I stopped being a Windows power user for quite sometime. But what I remember is that a webcam I purchased in 2004 wasn't "digitally verified" (or something like that) by XP, despite the fact that XP has been around for years!
@@ -98,4 +103,4 @@ As for the rest of software, rest assured that there is replacement for everythi
 
 ## Bonus: Linux is For Geeks!
 
-Ahh, nevermind not really gonna try to refute this one, though I tried to convince people that [Linux is sexy]({filename}/images/2008-05-16-linux-and-sex-debunking-the-myth.markdown), didn't really do a good job at it! But hey geek is good ;)
+Ahh, nevermind not really gonna try to refute this one, though I tried to convince people that [Linux is sexy](/2008/05/16/linux-and-sex-debunking-the-myth), didn't really do a good job at it! But hey geek is good ;)

@@ -1,9 +1,17 @@
-title: Tell Me Your Distro, Ill Tell You Who You Are
-author: rami
-permalink: /2008/08/tell-me-your-distro-ill-tell-you-who-you-are/
-tags: Linux, Distros, Anime
+---
 
-![Linux Distros Anime]({filename}/images/linux-distros-anime.jpeg)
+title: "Tell Me Your Distro, Ill Tell You Who You Are"
+author: rami
+layout: linuxologist
+permalink: /2008/08/17/tell-me-your-distro-ill-tell-you-who-you-are
+categories: [Blog]
+tags: [linux, distros, anime]
+summary: "If the wine you drink, car you drive, food you eat, clothes you wear and even pets you have defines you as a person; does your choice of Linux Distro defines you too?"
+
+---
+
+
+![Linux Distros Anime]({{"assets/images/content/blog/linux-distros-anime.jpeg" | absolute_url }})
 
 If the wine you drink, car you drive, food you eat, clothes you wear and even pets you have defines you as a person; does your choice of Linux Distro defines you too?
 
@@ -15,8 +23,7 @@ If the wine you drink, car you drive, food you eat, clothes you wear and even pe
 
 I personally started off on the Dark Side :(. Became a follower for a while, then a perfectionist for 6 month, and now a follower. Though I want to become a perfectionist again!
 
-Oh and btw if you don't know what the hell is a distro, then maybe you should check out my [Etymology of A Distro ]({filename}/blog/2009-03-11-etymology-of-an-open-source-appproject.markdown) Post :)
-
+Oh and btw if you don't know what the hell is a distro, then maybe you should check out my [Etymology of A Distro ]({{"assets/blog/content/blog/2009-03-11-etymology-of-an-open-source-appproject.markdown" | absolute_url }}) Post :)
 
 Anime image is licensed by [Creative Commons BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/)
 
