@@ -4,7 +4,7 @@ title: Asus eee pc 8G Available At Newegg!
 author: rami
 layout: linuxologist 
 permalink: /2007/12/11/eee-pc-8g-at-newegg/
-categories: [Checkins ]
+categories: [Blog]
 tags: [eee-pc, gadgets, asus]
 summary: Asus eee pc 8G is now available on [newegg](http://www.newegg.com/Product/Product.aspx?Item=N82E16834220264 "newegg")!! This little devil is all you need for your mobility needs! 
 
