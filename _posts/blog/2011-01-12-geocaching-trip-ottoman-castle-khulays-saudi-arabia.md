@@ -1,44 +1,50 @@
 ---
-id: 37
+
 title: 'Geocaching Trip: Ottoman Castle. Khulays, Saudi Arabia.'
-date: 2011-01-12T11:29:00+00:00
 author: rami
-layout: post
-guid: http://rtaibah1.wordpress.com/2011/01/12/geocaching-trip-ottoman-castle-khulays-saudi-arabia
+layout: historical-blog 
 permalink: /2011/01/12/geocaching-trip-ottoman-castle-khulays-saudi-arabia/
-posterous_39894d3ad3d9f6a441052a50351e8a54_post_id:
-  - "39476289"
-  - "39476289"
-  - "39476289"
-posterous_39894d3ad3d9f6a441052a50351e8a54_permalink:
-  - http://blog.ramitaibah.com/geocaching-trip-ottoman-castle-in-khulays-sau
-  - http://blog.ramitaibah.com/geocaching-trip-ottoman-castle-in-khulays-sau
-  - http://blog.ramitaibah.com/geocaching-trip-ottoman-castle-in-khulays-sau
-categories:
-  - Uncategorized
-tags:
-  - Castle
-  - Fortress
-  - Geocaching
-  - Khulais
-  - Khulays
-  - Ottoman
-  - Saudi Arabia
-  - Saudi Commission for Tourism and Antiquities
-  - Toursim
-  - Turkey
-  - Turkish
+category: [Blog]
+tags: castle, fortress, geocaching, khulais, khulays, ottoman, saudi-arabia, toursim, turkey
+summary: Early morning yesterday, my wife, cousin, and I drove up 70 KM north of Jeddah for a [geocaching](http://en.wikipedia.org/wiki/Geocaching) adventure. The cache was hidden in an old [Ottoman fortress](http://www.geocaching.com/seek/cache_details.aspx?guid=2df06b98-781e-4bfc-bf93-2c2dd54a0449) that was used to protect caravans coming from the north and traveling to Makkah.
+
 ---
-Early morning yesterday, my wife, cousin, and I drove up 70 KM north of Jeddah for a [geocaching](http://en.wikipedia.org/wiki/Geocaching) adventure. The cache was hidden in an old [Ottoman fortress](http://www.geocaching.com/seek/cache_details.aspx?guid=2df06b98-781e-4bfc-bf93-2c2dd54a0449) that was used to protect caravans coming from the north and traveling to Makkah. Perched on a &#8220;Harra&#8221; or a lava volcanic field, proved to be somewhat difficult to climb. Skipping on large volcanic rocks might sound easy, but its not. Especially if you take into consideration the possibility of jumping on a loose rock, a fall on such hard and jarred rocks could result in multiple of broken bones. Half way up the Harra, we realized that we forgot to bring along a pen to log our entry in the logbook. May, my wife, created a makeshift pen out of twig and mixing water and dirt for ink.
 
-All in all it was a fun adventure, I wish that the <a href="http://www.scta.gov.sa/sites/English/Pages/default_sct.aspx" target="_blank">Saudi&nbsp;Commission&nbsp;for Tourism and Antiquities&nbsp;</a>&nbsp;would give more attention to such locations all over the Kingdom. Its sad that this location and many many others are completely unknown to most Saudis. seems like expats enjoy and know our country&#8217;s landscape more than us.
+Early morning yesterday, my wife, cousin, and I drove up 70 KM north of Jeddah for a [geocaching](http://en.wikipedia.org/wiki/Geocaching) adventure. The cache was hidden in an old [Ottoman fortress](http://www.geocaching.com/seek/cache_details.aspx?guid=2df06b98-781e-4bfc-bf93-2c2dd54a0449) that was used to protect caravans coming from the north and traveling to Makkah. Perched on a "Harra" or a lava volcanic field, proved to be somewhat difficult to climb. Skipping on large volcanic rocks might sound easy, but its not. Especially if you take into consideration the possibility of jumping on a loose rock, a fall on such hard and jarred rocks could result in multiple of broken bones. Half way up the Harra, we realized that we forgot to bring along a pen to log our entry in the logbook. May, my wife, created a makeshift pen out of twig and mixing water and dirt for ink.
 
-&nbsp;
+All in all it was a fun adventure, I wish that the <a href="http://www.scta.gov.sa/sites/English/Pages/default_sct.aspx" target="_blank">Saudi Commission for Tourism and Antiquities</a> would give more attention to such locations all over the Kingdom. Its sad that this location and many many others are completely unknown to most Saudis. seems like expats enjoy and know our country's landscape more than us.
 
-<div class='p_embed p_image_embed'>
-  <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0711-scaled1000.jpg"><img alt="_dsc0711" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0711-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0714-scaled1000.jpg"><img alt="_dsc0714" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0714-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0722-scaled1000.jpg"><img alt="_dsc0722" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0722-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0724-scaled1000.jpg"><img alt="_dsc0724" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0724-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0725-scaled1000.jpg"><img alt="_dsc0725" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0725-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0727-scaled1000.jpg"><img alt="_dsc0727" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0727-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0728-scaled1000.jpg"><img alt="_dsc0728" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0728-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0731-scaled1000.jpg"><img alt="_dsc0731" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0731-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://rtaibah1.files.wordpress.com/2011/01/dsc0736-scaled1000.jpg"><img alt="_dsc0736" height="753" src="http://rtaibah1.files.wordpress.com/2011/01/dsc0736-scaled1000.jpg?w=199" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0739-scaled1000.jpg"><img alt="_dsc0739" height="753" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0739-scaled1000.jpg?w=199" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0741-scaled1000.jpg"><img alt="_dsc0741" height="753" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0741-scaled1000.jpg?w=199" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0743-scaled1000.jpg"><img alt="_dsc0743" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0743-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0744-scaled1000.jpg"><img alt="_dsc0744" height="753" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0744-scaled1000.jpg?w=199" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0747-scaled1000.jpg"><img alt="_dsc0747" height="753" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0747-scaled1000.jpg?w=199" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0749-scaled1000.jpg"><img alt="_dsc0749" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0749-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0752-scaled1000.jpg"><img alt="_dsc0752" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0752-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0753-scaled1000.jpg"><img alt="_dsc0753" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0753-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://rtaibah1.files.wordpress.com/2011/01/dsc0754-scaled1000.jpg"><img alt="_dsc0754" height="332" src="http://rtaibah1.files.wordpress.com/2011/01/dsc0754-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0756-scaled1000.jpg"><img alt="_dsc0756" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0756-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0757-scaled1000.jpg"><img alt="_dsc0757" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0757-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0759-scaled1000.jpg"><img alt="_dsc0759" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0759-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0762-scaled1000.jpg"><img alt="_dsc0762" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0762-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0760-scaled1000.jpg"><img alt="_dsc0760" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0760-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0766-scaled1000.jpg"><img alt="_dsc0766" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0766-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0770-scaled1000.jpg"><img alt="_dsc0770" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0770-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://rtaibah1.files.wordpress.com/2011/01/dsc0772-scaled1000.jpg"><img alt="_dsc0772" height="332" src="http://rtaibah1.files.wordpress.com/2011/01/dsc0772-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0774-scaled1000.jpg"><img alt="_dsc0774" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0774-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0779-scaled1000.jpg"><img alt="_dsc0779" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0779-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0781-scaled1000.jpg"><img alt="_dsc0781" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0781-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0783-scaled1000.jpg"><img alt="_dsc0783" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0783-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/dsc0784-scaled1000.jpg"><img alt="_dsc0784" height="332" src="http://139.59.20.41/wp-content/uploads/2011/12/dsc0784-scaled1000.jpg?w=300" width="500" /></a></p> 
-  
-  <div class='p_see_full_gallery'>
-    <a href="http://blog.ramitaibah.com/geocaching-trip-ottoman-castle-in-khulays-sau">See the full gallery on Posterous</a>
-  </div>
-</div>
+
+
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-1.jpg) 
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-2.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-3.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-4.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-5.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-6.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-7.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-8.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-9.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-10.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-11.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-12.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-13.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-14.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-15.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-16.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-17.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-18.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-19.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-20.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-20.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-21.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-22.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-23.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-24.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-25.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-26.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-27.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-28.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-29.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-30.jpg)
+  ![Ottoman Castle or Fortress in Khulays, Saudi Arabia](/assets/images/content/blog/geocaching-khulays-saudi-arabia-ottoman-31.jpg)
