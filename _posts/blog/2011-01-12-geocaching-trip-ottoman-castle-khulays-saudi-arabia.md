@@ -5,7 +5,7 @@ author: rami
 layout: historical-blog 
 permalink: /2011/01/12/geocaching-trip-ottoman-castle-khulays-saudi-arabia/
 category: [Blog]
-tags: castle, fortress, geocaching, khulais, khulays, ottoman, saudi-arabia, toursim, turkey
+tags: [castle, fortress, geocaching, khulais, ottoman, saudi-arabia, toursim, turkey]
 summary: Early morning yesterday, my wife, cousin, and I drove up 70 KM north of Jeddah for a [geocaching](http://en.wikipedia.org/wiki/Geocaching) adventure. The cache was hidden in an old [Ottoman fortress](http://www.geocaching.com/seek/cache_details.aspx?guid=2df06b98-781e-4bfc-bf93-2c2dd54a0449) that was used to protect caravans coming from the north and traveling to Makkah.
 
 ---

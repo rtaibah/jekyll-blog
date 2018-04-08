@@ -5,7 +5,7 @@ author: rami
 layout: historical-blog
 permalink: i-hate-april-fools-day
 categories: [Blog]
-tags: [digg, april fools, social media ]
+tags: [digg, april-fools, social-media ]
 summary: I mean it casts doubt in your heart, there is a tiny possibility that anything you read or hear is a total bullocks! The whole intertubes just turns into one big circus! I don't know what this is, either Digg went apeshit or another Fools Day joke :S. Hell even this might be "shopped" ;)
 
 ---
