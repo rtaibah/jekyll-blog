@@ -1,44 +1,19 @@
 ---
-id: 588
+
 title: 'The Trouble With SSL: You MUST Know this'
-date: 2009-11-20T05:39:00+00:00
 author: rami
-layout: post
-guid: http://rtaibah1.wordpress.com/2009/11/20/the-trouble-with-ssl-you-must-know-this
+layout: historical-blog 
 permalink: /2009/11/20/the-trouble-with-ssl-you-must-know-this/
-posterous_39894d3ad3d9f6a441052a50351e8a54_post_id:
-  - "7679631"
-  - "7679631"
-  - "7679631"
-posterous_39894d3ad3d9f6a441052a50351e8a54_permalink:
-  - http://blog.ramitaibah.com/the-trouble-with-ssl-you-must-know-this
-  - http://blog.ramitaibah.com/the-trouble-with-ssl-you-must-know-this
-  - http://blog.ramitaibah.com/the-trouble-with-ssl-you-must-know-this
-enclosure:
-  - |
-    http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/sn/sn0223.mp3
-    43837195
-    audio/mpeg
-    
-  - |
-    http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/sn/sn0223.mp3
-    43837195
-    audio/mpeg
-    
-  - |
-    http://www.podtrac.com/pts/redirect.mp3/aolradio.podcast.aol.com/sn/sn0223.mp3
-    43837195
-    audio/mpeg
-    
-categories:
-  - Uncategorized
+category: [Blog]
+tags: [security, podcast]
+
 ---
-<div class="posterous_bookmarklet_entry">
+
   <blockquote>
     <div>
       <div>
         <div class='p_embed p_image_embed'>
-          <img alt="Media_httptwittvfiles_lvfbf" height="200" src="http://139.59.20.41/wp-content/uploads/2011/12/media_httptwittvfiles_lvfbf-scaled500.jpg?w=200" width="200" />
+          <img alt="The trouble with SSl" height="200" src="/assets/images/content/blog/the-trouble-with-ssl.jpg" width="200" />
         </div>
         
         <div>
@@ -60,7 +35,7 @@ categories:
         </h3>
         
         <h3>
-          <a href="#">Security Now 223: The Trouble With SSL</a>
+          <a href="http://wiki.twit.tv/wiki/Security_Now_223">Security Now 223: The Trouble With SSL</a>
         </h3>
       </div>
       
@@ -81,16 +56,10 @@ categories:
       </p>
       
       <p>
-        &nbsp;
       </p>
     </div>
   </blockquote>
   
-  <div class="posterous_quote_citation">
-    via <a href="http://twit.tv/sn">twit.tv</a>
-  </div>
+via [twit.tv](http://twit.tv/sn)
   
-  <p>
-    I advise everybody concerned with their security online to listen to this Security Now episode, especially the second part of the podcast concerning SSL. This is really important information, you will never realize how insecure you are until you learn how a malicious hacker can easily tap into your communication.
-  </p>
-</div>
+I advise everybody concerned with their security online to listen to this Security Now episode, especially the second part of the podcast concerning SSL. This is really important information, you will never realize how insecure you are until you learn how a malicious hacker can easily tap into your communication.
