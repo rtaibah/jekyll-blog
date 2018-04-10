@@ -1,7 +1,9 @@
 ---
+
 layout: page
 title: Checkins 
 excerpt: "Places in the world I've been to"
+
 ---
 
 <h3>Work in progress</h3>
