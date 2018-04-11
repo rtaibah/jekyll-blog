@@ -1,0 +1,28 @@
+---
+id: 1629
+date: 2012-10-17T05:10:43+00:00
+author: rami
+layout: post
+guid: http://rtaibah.com/emeryville-cantfail-oakland-taken-with/
+permalink: /2012/10/17/emeryville-cantfail-oakland-taken-with/
+tumblr_rtaibah_permalink:
+  - http://rtaibah.tumblr.com/post/33759042398/emeryville-cantfail-oakland-taken-with
+tumblr_rtaibah_id:
+  - "33759042398"
+categories:
+  - Uncategorized
+tags:
+  - cantfail
+  - emeryville
+  - oakland
+format: gallery
+---
+<div id='gallery-135' class='gallery galleryid-1629 gallery-columns-3 gallery-size-thumbnail'>
+  <figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://139.59.20.41/2012/10/17/emeryville-cantfail-oakland-taken-with/attachment/1630/'><img width="150" height="150" src="http://139.59.20.41/wp-content/uploads/2012/10/tumblr_mc0udvGJTI1qb4qlko1_1280-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://139.59.20.41/wp-content/uploads/2012/10/tumblr_mc0udvGJTI1qb4qlko1_1280-150x150.jpg 150w, http://139.59.20.41/wp-content/uploads/2012/10/tumblr_mc0udvGJTI1qb4qlko1_1280-300x300.jpg 300w, http://139.59.20.41/wp-content/uploads/2012/10/tumblr_mc0udvGJTI1qb4qlko1_1280-100x100.jpg 100w, http://139.59.20.41/wp-content/uploads/2012/10/tumblr_mc0udvGJTI1qb4qlko1_1280.jpg 612w" sizes="100vw" /></a>
+  </div></figure>
+</div>
+
+#Emeryville #cantfail #oakland (Taken with [Instagram](http://instagram.com) at Rudy&#8217;s Can&#8217;t Fail Cafe)
