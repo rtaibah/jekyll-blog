@@ -1,4 +1,11 @@
+## Blog fixes
+
 title: "Just Realized I Should Have A Place For My Personal Thoughts"
 title: The Hypocritical Digg Revolt
 title: "Mark Shuttleworth: We are our own worst enemy"
 title: 'Mozilla Seabird Phone Concept [VIDEO]' (link inside quote)
+Microsoft Using Apples Macbook Pro In Promotional Material? ctrlaltredmind & skemz comment link
+
+## Todo
+
+- Create a contacts page

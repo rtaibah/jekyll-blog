@@ -67,7 +67,7 @@ Ok, this completely breaks my rule of actually owning or testing myself or at le
 
 ## [Chumby]() $199.95  
 
-So the idea is to wrap up the main Internet apps that someone would like, put them into a box that sits on your counter, and sit back and enjoy streaming music, news, weather and what have you.  It's an "always-on" Internet device with over 1000 widgets, 3.5 inch color touch-screen LCD monitor, leather and plastic exterior, and comes in three different colors.  If you're a Flash wiz, why not [make a custom Flash app](http://www.chumby.com/developers/flash) as part of the gift?  Pretty slick. (Royal HeHe2-ness has [reviewed Chumby in its early days](/2007/12/11/chumby-the-newest-gadget-on-my-wishlist)
+So the idea is to wrap up the main Internet apps that someone would like, put them into a box that sits on your counter, and sit back and enjoy streaming music, news, weather and what have you.  It's an "always-on" Internet device with over 1000 widgets, 3.5 inch color touch-screen LCD monitor, leather and plastic exterior, and comes in three different colors.  If you're a Flash wiz, why not [make a custom Flash app](http://www.chumby.com/developers/flash) as part of the gift?  Pretty slick. (Royal HeHe2-ness has [reviewed Chumby in its early days](/2007/11/06/chumby-the-newest-gadget-on-my-wishlist)
 
 ![Chumby](/assets/images/content/blog/chlatte_front.jpg)
 

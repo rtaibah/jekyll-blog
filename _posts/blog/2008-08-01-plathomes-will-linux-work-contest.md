@@ -6,15 +6,15 @@ layout: linuxologist
 permalink: /2008/08/01/plathomes-will-linux-work-contest
 categories: [Blog]
 tags: [plathome, linux, hardware]
-summary: "I previously did a review of the multi-purpose [Plat'home palm-size Linux  server](/blog/gadgets/plathome-the-palm-size-linux-server/). Plat'home claims that their servers can operate in very harsh and rigid environments. They can guarantee that this little critter can operate in tempratures up to 50°C/122°F!"
+summary: "I previously did a review of the multi-purpose [Plat'home palm-size Linux  server](/2008/06/01/plathome-the-palm-size-linux-server). Plat'home claims that their servers can operate in very harsh and rigid environments. They can guarantee that this little critter can operate in tempratures up to 50°C/122°F!"
 
 ---
 
 ![plathome Linux OpenMicroServer]({{"assets/images/content/blog/plathome.jpg" | absolute_url }})
 
-I previously did a review of the multi-purpose [Plat'home palm-size Linux  server](/blog/gadgets/plathome-the-palm-size-linux-server/). Plat'home claims that their servers can operate in very harsh and rigid environments. They can guarantee that this little critter can operate in tempratures up to 50°C/122°F!
+I previously did a review of the multi-purpose [Plat'home palm-size Linux  server](/2008/06/01/plathome-the-palm-size-linux-server). Plat'home claims that their servers can operate in very harsh and rigid environments. They can guarantee that this little critter can operate in tempratures up to 50°C/122°F!
 
-But [Plat'home](http://www.plathome.com/) is not just going to talk the talk, they are totally willing to walk the walk. Starting today and up to September 5th, they will be holding an online competition to solicit ideas for the most interesting and challenging conditions to successfully run [Plat'Home's OpenMicroServers](/blog/gadgets/plathome-the-palm-size-linux-server/).
+But [Plat'home](http://www.plathome.com/) is not just going to talk the talk, they are totally willing to walk the walk. Starting today and up to September 5th, they will be holding an online competition to solicit ideas for the most interesting and challenging conditions to successfully run [Plat'Home's OpenMicroServers](/2008/06/01/plathome-the-palm-size-linux-server).
 
 > Does your small business in Arizona have a server room with no air conditioning? Do you live in Alaska and need server(s) that might be subjected to cold conditions? Are you an archaeologist that needs a computer that can be taken on a dig with you and survive dust and bugs? Tell us about it! We want to know if Linux is the solution! "Will Linux Work?"
 

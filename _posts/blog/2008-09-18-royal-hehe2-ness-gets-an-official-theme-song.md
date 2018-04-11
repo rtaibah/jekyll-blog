@@ -5,6 +5,7 @@ author: rami
 permalink: /2008/09/royal-hehe2-ness-gets-an-official-theme-song/
 layout: linuxologist
 categories: [Blog]
+tags: 
 summary: "I woke up today finding a shared Facebook link from my cousins, and boy was I in for a pleasant surprise! A comment was included with the link by Hani:"
 
 ---

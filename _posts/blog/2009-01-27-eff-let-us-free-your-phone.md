@@ -6,13 +6,13 @@ layout: linuxologist
 permalink: /2009/01/27/eff-let-us-free-your-phone/
 categories: [Blog]
 tags: [eff, drm, iphone, mobile phones]
-summary: "Time and time again I made it clear how disgruntled am with the [mobile phone industry ](/blog/linuxobservations/its-a-wonderful-internet-but-not-every-pasture/)and [specifically the dreaded iPhone](/blog/thedarkside/iphone-3g-a-beautiful-jail/).  Luckily, over here in Saudi Arabia, carriers haven't yet discovered (or maybe don't have AT&T's clout) locking phones as a 'business' model. So the issue doesn't affect me directly -- bar for phones exported from the States."
+summary: "Time and time again I made it clear how disgruntled am with the [mobile phone industry ](/2007/12/15/its-a-wonderful-internet-but-not-every-pasture/)and [specifically the dreaded iPhone](/blog/thedarkside/iphone-3g-a-beautiful-jail/).  Luckily, over here in Saudi Arabia, carriers haven't yet discovered (or maybe don't have AT&T's clout) locking phones as a 'business' model. So the issue doesn't affect me directly -- bar for phones exported from the States."
 
 ---
 
 ![free-your-phone](/assets/images/content/blog/free-your-phone.jpeg)
 
-Time and time again I made it clear how disgruntled am with the [mobile phone industry ](/blog/linuxobservations/its-a-wonderful-internet-but-not-every-pasture/)and [specifically the dreaded iPhone](/blog/thedarkside/iphone-3g-a-beautiful-jail/).  Luckily, over here in Saudi Arabia, carriers haven't yet discovered (or maybe don't have AT&T's clout) locking phones as a "business" model. So the issue doesn't affect me directly -- bar for phones exported from the States.
+Time and time again I made it clear how disgruntled am with the [mobile phone industry ](/2007/12/15/its-a-wonderful-internet-but-not-every-pasture/)and [specifically the dreaded iPhone](/2008/07/25/iphone-3g-a-beautiful-jail).  Luckily, over here in Saudi Arabia, carriers haven't yet discovered (or maybe don't have AT&T's clout) locking phones as a "business" model. So the issue doesn't affect me directly -- bar for phones exported from the States.
 
 However, "liberating" the mobile industry in the States will have a domino effect that will be witnessed around the world. First off, mobile carriers will think twice before locking their consumers down. But most importantly, US companies will not longer have the motivation to export their draconian measures internationally.
 

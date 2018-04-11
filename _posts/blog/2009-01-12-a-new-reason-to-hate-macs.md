@@ -12,7 +12,7 @@ summary: "In numerous occasions, I have made it publically clear that I hate App
 
 ![A new reason to hate macs](/assets/images/content/blog/a-new-reason-to-hate-macs.png)
 
-In numerous occasions, I have made it publically clear that I hate Apple and Macs. I made it publically known to my friends, giving them snarky remarks, or just condescending looks when they prance around with their iPhones and iMacs. I also made it publically known to the whole world, on my [Royal HeHe2-ness blog](/2008/08/25/iphone-3g-a-beautiful-jail/).
+In numerous occasions, I have made it publically clear that I hate Apple and Macs. I made it publically known to my friends, giving them snarky remarks, or just condescending looks when they prance around with their iPhones and iMacs. I also made it publically known to the whole world, on my [Royal HeHe2-ness blog](/2008/07/25/iphone-3g-a-beautiful-jail/).
 
 However, my brother Obai (or oobi) owns a Macbook Pro, he came back to Jeddah for his wedding, and I ended up using his Mac since my PC (Ubuntu) stopped working for some hardware failure. No biggie, I think I can handle it.
 

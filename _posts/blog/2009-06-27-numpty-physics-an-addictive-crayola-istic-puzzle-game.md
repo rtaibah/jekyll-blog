@@ -6,13 +6,13 @@ layout: linuxologist
 permalink: /2009/06/27/numpty-physics-an-addictive-crayola-istic-puzzle-game/
 categories: [Blog]
 tags: [linux, geek, gaming]
-summary: "Gaming in Linux has come a long way, last February, we covered [World of Goo](/2009/02/16/world-of-goo-an-eye-popping-game-ported-to-linux). World of Goo captured headlines because it's originally a Nintendo Wii game but the developers have decided to port it to Linux. Anyways, if you liked World of Goo, then you will LOVE  [Numpty Physics](http://numptyphysics.garage.maemo.org/):"
+summary: "Gaming in Linux has come a long way, last February, we covered [World of Goo](/2009/02/world-of-goo-an-eye-popping-game-ported-to-linux/). World of Goo captured headlines because it's originally a Nintendo Wii game but the developers have decided to port it to Linux. Anyways, if you liked World of Goo, then you will LOVE  [Numpty Physics](http://numptyphysics.garage.maemo.org/):"
 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXvr7ukkE80" frameborder="0" allowfullscreen></iframe>
 
-Gaming in Linux has come a long way, last February, we covered [World of Goo](/2009/02/16/world-of-goo-an-eye-popping-game-ported-to-linux). World of Goo captured headlines because it's originally a Nintendo Wii game but the developers have decided to port it to Linux. Anyways, if you liked World of Goo, then you will LOVE  [Numpty Physics](http://numptyphysics.garage.maemo.org/):
+Gaming in Linux has come a long way, last February, we covered [World of Goo](/2009/02/world-of-goo-an-eye-popping-game-ported-to-linux/). World of Goo captured headlines because it's originally a Nintendo Wii game but the developers have decided to port it to Linux. Anyways, if you liked World of Goo, then you will LOVE  [Numpty Physics](http://numptyphysics.garage.maemo.org/):
 
 
 > Harness gravity with your crayon and set about creating blocks, ramps, levers, pulleys and whatever else you fancy to get the little red thing to the little yellow thing.

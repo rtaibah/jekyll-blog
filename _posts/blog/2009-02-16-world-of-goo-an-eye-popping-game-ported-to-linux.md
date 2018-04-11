@@ -1,10 +1,16 @@
-title: World of Goo: An Eye Popping Game Ported to Linux
-author: rami
-layout: post
-permalink: /2009/02/world-of-goo-an-eye-popping-game-ported-to-linux/
-tags: Games, Linux, World of Goo
+---
 
-![worldofgoo_wogcbeauties]({filename}/images/worldofgoo_wogcbeauties.png)
+title: "World of Goo: An Eye Popping Game Ported to Linux"
+author: rami
+layout: linuxologist 
+permalink: /2009/02/world-of-goo-an-eye-popping-game-ported-to-linux/
+categories: [Blog]
+tags: [linux, gaming]
+summary: "I consider myself a gamer. Luckily I am a console one, name the console and I probably have owned it. So I never really had to jump through hoops and Wine to run Windows games. Bar perhaps Championship Manager, but even that I quit since I discovered its such a time sucker."
+
+---
+
+![World of Goo](/assets/images/content/blog/world-of-goo.png)
 
 I consider myself a gamer. Luckily I am a console one, name the console and I probably have owned it. So I never really had to jump through hoops and Wine to run Windows games. Bar perhaps Championship Manager, but even that I quit since I discovered its such a time sucker.
 

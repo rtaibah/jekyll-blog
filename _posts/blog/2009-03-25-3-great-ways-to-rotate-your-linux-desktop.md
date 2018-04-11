@@ -44,7 +44,7 @@ Thats it! I just did that and got me 361 cool Gnome specific wallpapers!
 
 ## 1-Changer Script
 
-This method uses a script written by [DoctorMo](http://ubuntuforums.org/member.php?u=37520) over at [Ubuntuforums](http://www.ubuntuforums.org). All you need to do now is [downlaod the script](/blog/wp-content/uploads/changer) (right click and save as) and place in your home directory. Then make it executable 
+This method uses a script written by [DoctorMo](http://ubuntuforums.org/member.php?u=37520) over at [Ubuntuforums](http://www.ubuntuforums.org). All you need to do now is [downlaod the script](/assets/misc/changer) (right click and save as) and place in your home directory. Then make it executable 
 
 	chmod a+x ~/changer
 

@@ -21,11 +21,11 @@ _Note: This list is just randomly ordered, higher blogs on the list does not mea
 
 [**2- Be The Signal**](http://bethesignal.org/) is brought to you courtesy of Jeff Waugh, the winner of the Google/O'Reilly Open Source award for [Best Evangelist](http://www.osdir.com/Article6677.phtml) in 2005\. So he definitely knows his stuff! You might as well read his blog.
 
-[**3- Numerodix Blog**](http://www.matusiak.eu/numerodix/blog//) gets half the recognition it actually deserves. Maybe because Numerodix is just blogging for his self gratification, and not really interested in marketing it. But he definitely has a lot of insightful open source articles. You must check it!
+[**3- Numerodix Blog**](http://www.matusiak.eu/numerodix/blog/) gets half the recognition it actually deserves. Maybe because Numerodix is just blogging for his self gratification, and not really interested in marketing it. But he definitely has a lot of insightful open source articles. You must check it!
 
-[**4- Mark Shuttleworth**](http://www.markshuttleworth.com/)**Do I really need to explain this one? Oh well what the heck. Mark is the founder and creator of the Ubuntu distro. He is well known and recognized all around the open source kingdom. Nuff said!
+[**4- Mark Shuttleworth**](http://www.markshuttleworth.com/) Do I really need to explain this one? Oh well what the heck. Mark is the founder and creator of the Ubuntu distro. He is well known and recognized all around the open source kingdom. Nuff said!
 
-[**5- Aaron Seigo**](http://aseigo.blogspot.com/)**is the king of KDE, he mostly blogs about Plasma, ie his new shiny new desktop and about KDE policy /marketing issues.
+[**5- Aaron Seigo**](http://aseigo.blogspot.com/) is the king of KDE, he mostly blogs about Plasma, ie his new shiny new desktop and about KDE policy /marketing issues.
 
 [**6- HowtoForge**](http://howtoforge.com/) While this isn't exactly a personal blog, but it's a great reference to 100's of very comprehensive howto's and guides. From setting up the perfect Ubuntu or Fedora box to building a [simple home file server](http://howtoforge.com/ubuntu-home-fileserver). You should always keep on eye on this one, you never know when it inspires you to a "why didn't think of doing that" moment.
 
@@ -35,11 +35,11 @@ _Note: This list is just randomly ordered, higher blogs on the list does not mea
 
 [**9- Groklaw**](http://www.groklaw.net/)Pamela Jones, or PJ, is extremely dedicated to this site. This blog is an****award-winning website that covers legal news of interest to the free and open-source software community. To us mere morals, it's just a big bunch of legal mumbo jumbo, but if you just read the headlines, you will get a good idea on what's going on in our fight.
 
-[**10- PolishLinux**](http://www.polishlinux.org/) is originally a Polish blog that focuses on distro reviews and helping people choose the proper distro. Their main goal is to "help you**polish** your GNU/Linux by using the tips and tricks we provide". Pun probably intended ;)
+[**10- PolishLinux**](http://www.polishlinux.org/) is originally a Polish blog that focuses on distro reviews and helping people choose the proper distro. Their main goal is to "help you **polish** your GNU/Linux by using the tips and tricks we provide". Pun probably intended ;)
 
 [**11- Dana Blankenhorn & Paula Rooney @ ZDNet**](http://blog/s.zdnet.com/open-source/) In old fashioned ZDNetesque professionalism Dana and Paula brings you the latest buzz in the Open Source and Linux community, providing you analysis and opinions.
 
-[**12- Android Developers Blog**](http://android-developers.blogspot.com/)If you are like me, and totally [dissatisfied with what the current mobile ](/blog/linuxobservations/its-a-wonderful-internet-but-not-every-pasture/)[industry](/blog/linuxobservations/its-a-wonderful-internet-but-not-every-pasture/) has to offer, then you are proabably very excited about Google's Android. So keep an eye on their blog, to see what the guys got up their sleeves!
+[**12- Android Developers Blog**](http://android-developers.blogspot.com/)If you are like me, and totally [dissatisfied with what the current mobile industry](/2007/12/15/its-a-wonderful-internet-but-not-every-pasture) has to offer, then you are proabably very excited about Google's Android. So keep an eye on their blog, to see what the guys got up their sleeves!
 
 [**13- Google Open Source Blog**](http://google-opensource.blogspot.com/) Who doesn't love Google for their Open Source backing? Well if you work for Microsoft you probably don't but everybody else does!
 

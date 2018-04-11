@@ -5,7 +5,7 @@ author: rami
 layout: linuxologist
 permalink: /2008/09/chromium-googles-browser-on-linux-and-mac/
 categories: [Blog]
-tags: [howto, linuxologist, apps, chrome, google]
+tags: [howto, linuxologist, apps, chromium, google]
 summary: "I am sure a lot of Linux and Mac users were a bit disappointed on September the 2nd, they were shut out in favor of their more popular counterparts; Windows users. Google's browser, Chrome, took the Internet by storm. Everybody was talking about it, [Digg got swamped with Chrome submissions](http://digg.com/search?section=all&s=chrome), [Tech blogs were buzzing about it](http://technorati.com/chart/chrome?language=en&authority=a4), theories were thrown [left](http://www.linuxjournal.com/content/gacl) and [right](http://blog/.wirelesswanders.com/2008/09/03/google-chrome-and-mobile-to-follow/). Everybody was in for the action, except for Linux and Mac users! :("
 
 ---

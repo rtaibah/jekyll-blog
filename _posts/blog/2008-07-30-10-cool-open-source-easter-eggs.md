@@ -13,7 +13,7 @@ summary: "It's easy to forget with all the source compiling, the [conspiracy the
 It's easy to forget with all the source compiling, the [conspiracy theories](/2008/07/25/even-more-incriminating-evidence-in-the-foxconn-debacle), and the [OS flaming](/2007/12/30/hiding-dirty-stuff-windows-vs-linux) (see comment: 102) going on in every corner of the Internet, that there is a fun side of our beloved OS and Open Source applications. I have compiled a list of 10 easter eggs found in Open Source project (actually you will find more than 10 here, as I treated each application as one). So here we go:
 
 ## Amarok
-I have previously [blogged](/blog/linux-general/amarok-easter-egg/) about this, basically if you change the tag title of a song to "Amarok" and the artist's tag to "Mike Oldfield", a pop-up OSD will appear saying:
+I have previously [blogged](/2017/12/27/amarok-easter-egg) about this, basically if you change the tag title of a song to "Amarok" and the artist's tag to "Mike Oldfield", a pop-up OSD will appear saying:
 > One of Mike Oldfields best pieces of work, Amarok inspired the name behind the audio-player you are currently using. Thanks for choosing \***_Amarok_**\*!\*
 >  Mark Kretschmann 
 > Max Howell 

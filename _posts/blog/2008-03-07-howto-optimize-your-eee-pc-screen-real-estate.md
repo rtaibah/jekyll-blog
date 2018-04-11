@@ -6,12 +6,12 @@ layout: linuxologist
 permalink: /2008/03/07/howto-optimize-your-eee-pc-screen-real-estate
 categories: [Blog]
 tags: [eee-pc, howto]
-summary: You will probably notice that the default [Ubuntu install](/blog/linuxhowto/howto-install-ubuntu-on-your-eee-pc/ "Ubuntu install") screws up your valuable real estate very badly, everything is just cramped up. We need to do the some tweaks to snug everything into it's place.
+summary: You will probably notice that the default [Ubuntu install](/2008/02/11/howto-install-ubuntu-on-your-eee-pc) screws up your valuable real estate very badly, everything is just cramped up. We need to do the some tweaks to snug everything into it's place.
 
 
 ---
 
-You will probably notice that the default [Ubuntu install](/blog/linuxhowto/howto-install-ubuntu-on-your-eee-pc/ "Ubuntu install") screws up your valuable real estate very badly, everything is just cramped up. We need to do the some tweaks to snug everything into it's place.
+You will probably notice that the default [Ubuntu install](/2008/02/11/howto-install-ubuntu-on-your-eee-pc) screws up your valuable real estate very badly, everything is just cramped up. We need to do the some tweaks to snug everything into it's place.
 
 ## Smaller Fonts:
 

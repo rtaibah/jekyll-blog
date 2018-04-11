@@ -6,11 +6,11 @@ layout: linuxologist
 permalink: /2008/09/24/xvideoservicethief-one-video-download-manger-to-rule-them-all/
 categories: [Blog]
 tags: [apps, howto, internet]
-summary: "I am not really big on downloading flash videos from sites like youtube or metacafe. But whenever I need to, I just head straight to [keepvid](http://keepvid.com). Usually that does the trick, but sometimes it doesn't, and I would just quickly give up and wouldn't bother finding an alternative solution. Especially if you keep in mind that  keepvid would name the file 'get\_video', and then I would have to rename it and add an '.flv', then convert it to a more friendly format...yada yada yada. I am pretty sure that there are a lot of hacks for these little quirks out there, but that's just how important video is to me; its just  not worth the hassle. Until I found [xVideoServiceThief](http://xviservicethief.sourceforge.net/index.php)!"
+summary: "I am not really big on downloading flash videos from sites like youtube or metacafe. But whenever I need to, I just head straight to [keepvid](http://keepvid.com). Usually that does the trick, but sometimes it doesn't, and I would just quickly give up and wouldn't bother finding an alternative solution. Especially if you keep in mind that  keepvid would name the file 'get_video', and then I would have to rename it and add an '.flv', then convert it to a more friendly format...yada yada yada. I am pretty sure that there are a lot of hacks for these little quirks out there, but that's just how important video is to me; its just  not worth the hassle. Until I found [xVideoServiceThief](http://xviservicethief.sourceforge.net/index.php)!"
 
 ---
 
-I am not really big on downloading flash videos from sites like youtube or metacafe. But whenever I need to, I just head straight to [keepvid](http://keepvid.com). Usually that does the trick, but sometimes it doesn't, and I would just quickly give up and wouldn't bother finding an alternative solution. Especially if you keep in mind that  keepvid would name the file get\_video, and then I would have to rename it and add an ".flv", then convert it to a more friendly format...yada yada yada. I am pretty sure that there are a lot of hacks for these little quirks out there, but that's just how important video is to me; its just  not worth the hassle. Until I found [xVideoServiceThief](http://xviservicethief.sourceforge.net/index.php)!
+I am not really big on downloading flash videos from sites like youtube or metacafe. But whenever I need to, I just head straight to [keepvid](http://keepvid.com). Usually that does the trick, but sometimes it doesn't, and I would just quickly give up and wouldn't bother finding an alternative solution. Especially if you keep in mind that  keepvid would name the file get_video, and then I would have to rename it and add an ".flv", then convert it to a more friendly format...yada yada yada. I am pretty sure that there are a lot of hacks for these little quirks out there, but that's just how important video is to me; its just  not worth the hassle. Until I found [xVideoServiceThief](http://xviservicethief.sourceforge.net/index.php)!
 
 ## What is it?
 xVideoServiceThief is an \*Open Source\* download manager designed for downloading videos from youtube and other video sites (over 50!). It is laden with really cool features and a good deal of video sites. It also supports pretty much ANY operating system, whether your cup of tea is Redmond, Cupertino, or Helsinki (Windows, Mac, or Linux).
@@ -42,6 +42,6 @@ Since this is a Linux blog, and thats where our allegiance lie, here is how you 
 ## What I'd Like to See
 * A better name!
 * Support for more websites like [funnyordie](http://www.funnyordie.com), [shredordie](http://www.shredordie.com), [traileraddict](http://traileraddict.com) and traditional media websites like CNN and BBC
-* Stripping audio from video, [instead of this method]({filename}/blog/2008-03-10-downloading-music-the-1337-way.markdown)
+* Stripping audio from video, [instead of this method](/2008/03/10/downloading-music-the-1337-way)
 * Any other ideas?
 

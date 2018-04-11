@@ -3,9 +3,9 @@
 title: "Etymology of an Open Source App/Project"
 author: rami
 layout: linuxologist 
-permalink: /2009/03/11/etymology-of-an-open-source-appproject/
+permalink: /2009/03/11/etymology-of-an-open-source-app-project/
 categories: [Blog]
-tags: [linux, open-source, etymology]
+tags: [linux, open-source]
 summary: "Last year, I blogged about [35 Distros and how they got their names](/2008/04/06/etymology-of-a-distro). Some of the distros out there have fascinating stories, while others are just too mundane. However make sure you[read that blog](/2008/04/06/etymology-of-a-distro), its a very interesting one (trust me)."
 
 ---
@@ -31,7 +31,7 @@ Pidgin used to be called Gaim, but after a prolonged naming dispute with AOL's A
 
 ## 4-Amarok
 
-My favorite music player, and perhaps one of the few pieces of software that I can truly say "I love". Amarok was originally named after [Mike Oldfield](http://en.wikipedia.org/wiki/Mike\_Oldfield)'s album [Amarok](http://en.wikipedia.org/wiki/Amarok\_%28album%29). This fact has been included as an [easter egg](/2007/12/27/amarok-easter-egg)I blogged about some time ago.
+My favorite music player, and perhaps one of the few pieces of software that I can truly say "I love". Amarok was originally named after [Mike Oldfield](http://en.wikipedia.org/wiki/Mike\_Oldfield)'s album [Amarok](http://en.wikipedia.org/wiki/Amarok\_%28album%29). This fact has been included as an [easter egg](/2017/12/27/amarok-easter-egg) I blogged about some time ago.
 
 ## 5-XBMC
 

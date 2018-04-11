@@ -24,7 +24,7 @@ Also, [Extremadura](http://en.wikipedia.org/wiki/Extremadura) is one of the poor
 
 <iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/nR8Oh0Js_lA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-For more information about this remarkable success story, check [out my interview with Daniel Campos,](2008-02-07-an-interview-with-an-extremadura-developer-bringing-linux-to-the-masses.markdown)
+For more information about this remarkable success story, check [out my interview with Daniel Campos,](/2008/02/07/an-interview-with-spanish-region-extremadura-linux-developer)
 
 # Russia
 

@@ -16,7 +16,7 @@ summary: "If you've just started using Linux, you've probably noticed an interes
 
 If you've just started using Linux, you've probably noticed an interesting phenomenon. You've entered a group of rugged individualists, non-conformists, people who know how to pull things apart and put them back together, people who don't like being spoon fed. There's plenty about Linux and the various desktops and applications in open source that's easy and fun to use. But real Linux nerds prefer rolling up their sleeves and getting their hands dirty.
 
-One branch of this rugged individualism, so to speak, is [running Linux in different environments](/2008/11/07/how-linux-can-save-chickens-helps-the-environment-and-navigate-the-high-seas). Just using Linux in your PC? Ok, that's pretty good. But how about building a Linux system from scratch? Or [on your phone](/2008/09/03/openmoko-freerunner-unboxing)? Even better, how about in your car?
+One branch of this rugged individualism, so to speak, is [running Linux in different environments](/2008/11/07/how-linux-can-save-chickens-helps-the-environment-and-navigate-the-high-seas). Just using Linux in your PC? Ok, that's pretty good. But how about building a Linux system from scratch? Or [on your phone](/2008/09/openmoko-freerunner-unboxing/)? Even better, how about in your car?
 
 ##Linux as Car Stereo
 

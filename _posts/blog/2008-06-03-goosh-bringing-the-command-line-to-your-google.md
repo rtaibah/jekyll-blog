@@ -6,11 +6,11 @@ layout: linuxologist
 permalink: /2008/06/03/goosh-bringing-the-command-line-to-your-google
 categories: [Blog]
 tags: [google, internet ]
-summary: In a previous blog of mine, I have explained how you can [Google straight from the comfort of your command line](/blog/linux-general/google-search-straight-from-the-command-line "Google straight from the comfort of your command line"). Well now, why don't we do the opposite? Bring the command line to Google? Well, my friend and colleague Adnan tipped me on [goosh.org](http://goosh.org/ "gnoosh.org"), the Unofficial Google Shell!
+summary: "In a previous blog of mine, I have explained how you can [Google straight from the comfort of your command line](/2008/04/18/google-search-straight-from-the-command-line/). Well now, why don't we do the opposite? Bring the command line to Google? Well, my friend and colleague Adnan tipped me on [goosh.org](http://goosh.org/), the Unofficial Google Shell!"
 
 ---
 
-In a previous blog of mine, I have explained how you can [Google straight from the comfort of your command line](/blog/linux-general/google-search-straight-from-the-command-line "Google straight from the comfort of your command line"). Well now, why don't we do the opposite? Bring the command line to Google? Well, my friend and colleague Adnan tipped me on [goosh.org](http://goosh.org/ "gnoosh.org"), the Unofficial Google Shell!
+In a previous blog of mine, I have explained how you can [Google straight from the comfort of your command line](/2008/04/18/google-search-straight-from-the-command-line/). Well now, why don't we do the opposite? Bring the command line to Google? Well, my friend and colleague Adnan tipped me on [goosh.org](http://goosh.org/ "gnoosh.org"), the Unofficial Google Shell!
 
 When you first visit the [goosh.org](http://goosh.org), you are welcomed with a brief description of the service, and the ever-so-lovable the command prompt:
 
