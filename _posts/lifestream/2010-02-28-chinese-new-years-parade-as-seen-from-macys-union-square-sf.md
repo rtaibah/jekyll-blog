@@ -1,22 +1,14 @@
 ---
-id: 383
-title: 'Chinese New Years Parade as Seen From Macy&#8217;s Union Square, SF'
-date: 2010-02-28T01:47:33+00:00
+
+title: "Chinese New Years Parade as Seen From Macy's Union Square, SF"
 author: rami
-layout: post
-guid: http://rtaibah1.wordpress.com/2010/02/28/chinese-new-years-parade-as-seen-from-macys-union-square-sf
+layout: lifestream 
 permalink: /2010/02/28/chinese-new-years-parade-as-seen-from-macys-union-square-sf/
-posterous_39894d3ad3d9f6a441052a50351e8a54_post_id:
-  - "12439638"
-  - "12439638"
-  - "12439638"
-posterous_39894d3ad3d9f6a441052a50351e8a54_permalink:
-  - http://blog.ramitaibah.com/chinese-new-years-parade-as-seen-from-macys-u
-  - http://blog.ramitaibah.com/chinese-new-years-parade-as-seen-from-macys-u
-  - http://blog.ramitaibah.com/chinese-new-years-parade-as-seen-from-macys-u
-categories:
-  - Uncategorized
+categories: [Lifestream]
+tags: [usa, california, san-francisco]
+
 ---
+
 Sent from my Nexus One
 
 <div class='p_embed p_image_embed'>

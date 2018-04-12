@@ -1,22 +1,14 @@
 ---
-id: 363
-title: 'From The Top of The Campanile #ucberkeley [PICS]'
-date: 2010-03-05T20:46:28+00:00
+
+title: "From The Top of The Campanile #ucberkeley [PICS]"
 author: rami
-layout: post
-guid: http://rtaibah1.wordpress.com/2010/03/05/from-the-top-of-the-campanile-ucberkeley-pics
-permalink: /2010/03/05/from-the-top-of-the-campanile-ucberkeley-pics/
-posterous_39894d3ad3d9f6a441052a50351e8a54_post_id:
-  - "12784022"
-  - "12784022"
-  - "12784022"
-posterous_39894d3ad3d9f6a441052a50351e8a54_permalink:
-  - http://blog.ramitaibah.com/from-the-top-of-the-campanile-ucberkeley-pics
-  - http://blog.ramitaibah.com/from-the-top-of-the-campanile-ucberkeley-pics
-  - http://blog.ramitaibah.com/from-the-top-of-the-campanile-ucberkeley-pics
-categories:
-  - Uncategorized
+layout: lifestream 
+permalink: /2010/03/05/from-the-top-of-the-campanile
+categories: [Lifestream]
+tags: [usa, california, cal, berkeley]
+
 ---
+
 Sent from my Nexus One
 
 <div class='p_embed p_image_embed'>
