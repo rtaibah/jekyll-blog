@@ -1,22 +1,14 @@
 ---
-id: 7
-title: Never Paid Attention To Android Theming Capabilities. But I Just Made This. What Do You Think?
-date: 2011-04-27T03:14:00+00:00
+
+title: "Never Paid Attention To Android Theming Capabilities. But I Just Made This. What Do You Think?"
 author: rami
-layout: post
-guid: http://rtaibah1.wordpress.com/2011/04/27/never-paid-attention-to-android-theming-capabilities-but-i-just-made-this-what-do-you-think
-permalink: /2011/04/27/never-paid-attention-to-android-theming-capabilities-but-i-just-made-this-what-do-you-think/
-posterous_39894d3ad3d9f6a441052a50351e8a54_post_id:
-  - "50942194"
-  - "50942194"
-  - "50942194"
-posterous_39894d3ad3d9f6a441052a50351e8a54_permalink:
-  - http://blog.ramitaibah.com/never-paid-attention-to-android-theming-capab
-  - http://blog.ramitaibah.com/never-paid-attention-to-android-theming-capab
-  - http://blog.ramitaibah.com/never-paid-attention-to-android-theming-capab
-categories:
-  - Uncategorized
+layout: lifestream 
+permalink: /2011/04/27/never-paid-attention-to-android-theming-capabilities
+categories: [Lifestream]
+tags: [android, mobile, geek, berkeley, california, usa]
+
 ---
+
 Sent from my HTC EVO
 
 <div class='p_embed p_image_embed'>
