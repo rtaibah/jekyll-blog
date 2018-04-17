@@ -10,6 +10,8 @@ summary: "Its no secret that Apple keeps its products held very closely in attem
 
 ---
 
+![Linux iphone](/assets/images/content/blog/linux_iphone.jpg)
+
 Its no secret that Apple keeps its products held very closely in attempt to lock users in their own walled-garden. While most people seem more than happy to lock themselves down, most Linux users are disgusted by Apple’s practices but still own an Apple device for some reason or another. Managing iPhones & iPods (probably iPads too) on Linux is notoriously buggy, prone to many cryptic error messages, and generally not for the faint of heart. The results are usually abysmal; sometimes it works, most of the time it doesn’t. [Libmobiledevice](https://web.archive.org/web/20130730154707/http://www.libimobiledevice.org/), aims to change that, and they seem to be on track.
 
 > libimobiledevice is a software library that talks the protocols to support iPhone®, iPod Touch® and iPad® devices on Linux. Unlike other projects, it does not depend on using any existing proprietary libraries and does not require jailbreaking. It allows other software to easily access the device’s filesystem, retrieve information about the device and it’s internals, backup/restore the device, manage SpringBoard® icons, manage installed applications, retrieve addressbook/calendars/notes and bookmarks and synchronize music and video to the device. The library is in development since August 2007 with the goal to bring support for these devices to the Linux Desktop.
