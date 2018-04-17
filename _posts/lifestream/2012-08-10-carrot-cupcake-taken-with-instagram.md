@@ -1,17 +1,12 @@
 ---
-id: 2034
-date: 2012-08-10T03:08:47+00:00
+
+title: 'Carrot Cupcake'
 author: rami
 layout: post
-guid: http://rtaibah.com/carrot-cupcake-taken-with-instagram/
 permalink: /2012/08/10/carrot-cupcake-taken-with-instagram/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29098804797/carrot-cupcake-taken-with-instagram
-tumblr_rtaibah_id:
-  - "29098804797"
-categories:
-  - Uncategorized
-format: gallery
+categories: [Lifestream]
+tags: [food-porn, usa, california, berkeley]
+
 ---
 <div id='gallery-2' class='gallery galleryid-2034 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

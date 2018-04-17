@@ -1,16 +1,12 @@
 ---
-id: 2030
-date: 2012-08-10T04:07:21+00:00
+
+title: "Coffee Time!"
 author: rami
-layout: post
-guid: http://rtaibah.com/coffee-time-taken-with-instagram/
+layout: lifestream 
 permalink: /2012/08/10/coffee-time-taken-with-instagram/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29102619846/coffee-time-taken-with-instagram
-tumblr_rtaibah_id:
-  - "29102619846"
-categories:
-  - Uncategorized
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, coffee]
+
 ---
-Coffee Time! (Taken with [Instagram](http://instagram.com))
+
+{% include image.html url="/assets/images/content/lifestream/coffee-time.jpg" description="Coffee Time!" %}
