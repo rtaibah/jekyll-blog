@@ -1,17 +1,11 @@
 ---
-id: 2037
-date: 2012-08-10T00:36:45+00:00
+title: 'Sweet Treat Shop Truck'
 author: rami
-layout: post
-guid: http://rtaibah.com/taken-with-instagram-at-sweet-treat-shop-truck/
+layout: lifestream 
 permalink: /2012/08/10/taken-with-instagram-at-sweet-treat-shop-truck/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29088266411/taken-with-instagram-at-sweet-treat-shop-truck
-tumblr_rtaibah_id:
-  - "29088266411"
-categories:
-  - Uncategorized
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
 <div id='gallery-1' class='gallery galleryid-2037 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

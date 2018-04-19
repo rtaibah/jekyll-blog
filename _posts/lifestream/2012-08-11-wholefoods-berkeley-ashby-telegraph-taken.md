@@ -1,23 +1,14 @@
 ---
-id: 2021
-date: 2012-08-11T02:49:31+00:00
+
+title:
 author: rami
-layout: post
-guid: http://rtaibah.com/wholefoods-berkeley-ashby-telegraph-taken/
-permalink: /2012/08/11/wholefoods-berkeley-ashby-telegraph-taken/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29168090608/wholefoods-berkeley-ashby-telegraph-taken
-tumblr_rtaibah_id:
-  - "29168090608"
-categories:
-  - Uncategorized
-tags:
-  - ashby
-  - Berkeley
-  - telegraph
-  - wholefoods
-format: gallery
+layout: lifestream 
+permalink: /2012/08/11/wholefoods-berkeley-ashby-telegraph
+categories: [Lifestream]
+tags: [berkeley, usa, california]
+
 ---
+
 <div id='gallery-6' class='gallery galleryid-2021 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

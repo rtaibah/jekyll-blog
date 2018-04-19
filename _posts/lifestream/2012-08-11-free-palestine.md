@@ -1,21 +1,14 @@
 ---
-id: 2018
-date: 2012-08-11T04:28:33+00:00
+
+title: "Free Palestine"
 author: rami
 layout: post
-guid: http://rtaibah.com/free-palestine-taken-with-instagram/
-permalink: /2012/08/11/free-palestine-taken-with-instagram/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29174700762/free-palestine-taken-with-instagram
-tumblr_rtaibah_id:
-  - "29174700762"
-categories:
-  - Uncategorized
-tags:
-  - free
-  - palestine
-format: gallery
+permalink: /2012/08/11/free-palestine
+categories: [Lifestream]
+tags: [palestine, berkeley, california, usa]
+
 ---
+
 <div id='gallery-7' class='gallery galleryid-2018 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

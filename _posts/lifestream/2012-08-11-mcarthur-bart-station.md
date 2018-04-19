@@ -1,22 +1,14 @@
 ---
-id: 2012
-date: 2012-08-11T04:57:40+00:00
+
+title: "McArthur Bart Station"
 author: rami
-layout: post
-guid: http://rtaibah.com/mcarthur-bart-station-taken-with-instagram/
-permalink: /2012/08/11/mcarthur-bart-station-taken-with-instagram/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29176536716/mcarthur-bart-station-taken-with-instagram
-tumblr_rtaibah_id:
-  - "29176536716"
-categories:
-  - Uncategorized
-tags:
-  - bart
-  - mcarthur
-  - station
-format: gallery
+layout: lifestream 
+permalink: /2012/08/11/mcarthur-bart-station
+categories: [Lifestream]
+tags: [oakland, usa, california]
+
 ---
+
 <div id='gallery-9' class='gallery galleryid-2012 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

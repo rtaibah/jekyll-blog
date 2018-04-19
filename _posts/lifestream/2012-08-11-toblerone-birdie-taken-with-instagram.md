@@ -1,19 +1,12 @@
 ---
-id: 2024
-date: 2012-08-11T02:49:27+00:00
+
+title: "Toblerone Birdie"
 author: rami
-layout: post
-guid: http://rtaibah.com/toblerone-birdie-taken-with-instagram/
-permalink: /2012/08/11/toblerone-birdie-taken-with-instagram/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29168086412/toblerone-birdie-taken-with-instagram
-tumblr_rtaibah_id:
-  - "29168086412"
-categories:
-  - Uncategorized
-tags:
-  - toblerone
-format: gallery
+layout: lifestream 
+permalink: /2012/08/11/toblerone-birdie
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
 <div id='gallery-5' class='gallery galleryid-2024 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

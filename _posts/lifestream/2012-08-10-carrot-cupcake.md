@@ -3,7 +3,7 @@
 title: 'Carrot Cupcake'
 author: rami
 layout: post
-permalink: /2012/08/10/carrot-cupcake-taken-with-instagram/
+permalink: /2012/08/10/carrot-cupcake
 categories: [Lifestream]
 tags: [food-porn, usa, california, berkeley]
 

@@ -1,18 +1,14 @@
 ---
-id: 2031
-date: 2012-08-10T04:02:33+00:00
+
+title: "At Black Diamond Cafe"
 author: rami
-layout: post
-guid: http://rtaibah.com/taken-with-instagram-at-black-diamond-cafe/
-permalink: /2012/08/10/taken-with-instagram-at-black-diamond-cafe/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29102302858/taken-with-instagram-at-black-diamond-cafe
-tumblr_rtaibah_id:
-  - "29102302858"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/08/10/at-black-diamond-cafe/
+categories: [Lifestream]
+tags: [usa, california, berkeley, food-porn]
+
 ---
+
 <div id='gallery-3' class='gallery galleryid-2031 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

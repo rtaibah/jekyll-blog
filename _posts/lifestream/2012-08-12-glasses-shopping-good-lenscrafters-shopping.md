@@ -1,25 +1,14 @@
 ---
-id: 1997
-date: 2012-08-12T23:23:23+00:00
+
+title: "Glasses Shopping"
 author: rami
-layout: post
-guid: http://rtaibah.com/glasses-shopping-good-lenscrafters-shopping/
-permalink: /2012/08/12/glasses-shopping-good-lenscrafters-shopping/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29295411569/glasses-shopping-good-lenscrafters-shopping
-tumblr_rtaibah_id:
-  - "29295411569"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - California
-  - eastbay
-  - emeryville
-  - lenscrafters
-  - shopping
-format: gallery
+layout: lifestream 
+permalink: /2012/08/12/glasses-shopping
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
+
 <div id='gallery-14' class='gallery galleryid-1997 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   
