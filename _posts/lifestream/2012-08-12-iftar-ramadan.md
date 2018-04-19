@@ -1,31 +1,14 @@
 ---
-id: 2003
-date: 2012-08-12T03:23:28+00:00
+
+title: "Iftar Ramadan"
 author: rami
-layout: post
-guid: http://rtaibah.com/iftar-ramadan-emeryville-bayarea-islam/
-permalink: /2012/08/12/iftar-ramadan-emeryville-bayarea-islam/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29239082177/iftar-ramadan-emeryville-bayarea-islam
-tumblr_rtaibah_id:
-  - "29239082177"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - California
-  - eastbay
-  - emeryville
-  - holiday
-  - iftar
-  - Islam
-  - muslim
-  - noms
-  - oakland
-  - omnom
-  - ramadan
-format: gallery
+layout: lifestream 
+permalink: /2012/08/12/iftar-ramadan
+categories: [Lifestream]
+tags: [usa, emeryville, california]
+
 ---
+
 <div id='gallery-12' class='gallery galleryid-2003 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

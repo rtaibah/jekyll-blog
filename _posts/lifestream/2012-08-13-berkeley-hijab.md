@@ -1,26 +1,14 @@
 ---
-id: 1994
-date: 2012-08-13T00:20:57+00:00
+
+title: "Berkeley Hijab"
 author: rami
-layout: post
-guid: http://rtaibah.com/berkeley-california-eastbay-bayarea-hijab/
-permalink: /2012/08/13/berkeley-california-eastbay-bayarea-hijab/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29299415080/berkeley-california-eastbay-bayarea-hijab
-tumblr_rtaibah_id:
-  - "29299415080"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - Berkeley
-  - California
-  - eastbay
-  - hijab
-  - Islam
-  - ramadan
-format: gallery
+layout: lifestream 
+permalink: /2012/08/13/berkeley--hijab/
+categories: [Lifestream]
+tags: [usa, california, berkeley, islam, hijab]
+
 ---
+
 <div id='gallery-15' class='gallery galleryid-1994 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

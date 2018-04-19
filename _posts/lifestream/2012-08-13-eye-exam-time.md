@@ -1,26 +1,14 @@
 ---
-id: 1982
-date: 2012-08-13T22:29:09+00:00
+
+title: "Eye Exam Time"
 author: rami
-layout: post
-guid: http://rtaibah.com/eye-exam-time-emeryville-bayarea-california/
-permalink: /2012/08/13/eye-exam-time-emeryville-bayarea-california/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29363605378/eye-exam-time-emeryville-bayarea-california
-tumblr_rtaibah_id:
-  - "29363605378"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - California
-  - eastbay
-  - emeryville
-  - eye
-  - lenscrafters
-  - oakland
-format: gallery
+layout: lifestream 
+permalink: /2012/08/13/eye-exam-time
+categories: [Lifestream]
+tags: [emeryville, usa, california
+
 ---
+
 <div id='gallery-19' class='gallery galleryid-1982 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

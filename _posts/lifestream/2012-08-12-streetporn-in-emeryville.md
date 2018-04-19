@@ -1,27 +1,14 @@
 ---
-id: 2000
-date: 2012-08-12T23:08:13+00:00
+
+title: "Streetporn in Emeryville"
 author: rami
-layout: post
-guid: http://rtaibah.com/streetporn-emeryville-eastbay-california/
-permalink: /2012/08/12/streetporn-emeryville-eastbay-california/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29294373207/streetporn-emeryville-eastbay-california
-tumblr_rtaibah_id:
-  - "29294373207"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - Berkeley
-  - Cal
-  - California
-  - eastbay
-  - emeryville
-  - oakland
-  - streetporn
-format: gallery
+layout: lifestream 
+permalink: /2012/08/12/streetporn-in-emeryville
+categories: [Lifestream]
+tags: [usa, califronia, emeryville]
+
 ---
+
 <div id='gallery-13' class='gallery galleryid-2000 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

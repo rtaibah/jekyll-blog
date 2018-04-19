@@ -1,26 +1,14 @@
 ---
-id: 1988
-date: 2012-08-13T03:17:20+00:00
+
+title: "Iftar Ramadan 2"
 author: rami
-layout: post
-guid: http://rtaibah.com/iftar-ramadan-emeryville-eastbay-california/
-permalink: /2012/08/13/iftar-ramadan-emeryville-eastbay-california/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29311575643/iftar-ramadan-emeryville-eastbay-california
-tumblr_rtaibah_id:
-  - "29311575643"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - buckhorn
-  - California
-  - eastbay
-  - emeryville
-  - iftar
-  - ramadan
-format: gallery
+layout: lifestream 
+permalink: /2012/08/13/iftar-ramadan-2/
+categories: [Lifestream]
+tags: [emeryville, usa, california, ramadan]
+
 ---
+
 <div id='gallery-17' class='gallery galleryid-1988 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

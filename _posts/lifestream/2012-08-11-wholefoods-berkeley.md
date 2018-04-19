@@ -3,7 +3,7 @@
 title:
 author: rami
 layout: lifestream 
-permalink: /2012/08/11/wholefoods-berkeley-ashby-telegraph
+permalink: /2012/08/11/wholefoods-berkeley
 categories: [Lifestream]
 tags: [berkeley, usa, california]
 

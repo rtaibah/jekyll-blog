@@ -1,23 +1,14 @@
 ---
-id: 2006
-date: 2012-08-12T02:27:00+00:00
+
+title: "Grading Papers" 
 author: rami
-layout: post
-guid: http://rtaibah.com/grading-papers-cal-berkeley-ischool-teachinh/
+layout: lifestream 
 permalink: /2012/08/12/grading-papers-cal-berkeley-ischool-teachinh/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29235414137/grading-papers-cal-berkeley-ischool-teachinh
-tumblr_rtaibah_id:
-  - "29235414137"
-categories:
-  - Uncategorized
-tags:
-  - Berkeley
-  - Cal
-  - iSchool
-  - teachinh
-format: gallery
+categories: [Blog]
+tags: [usa, berkeley, california, cal, ischool]
+
 ---
+
 <div id='gallery-11' class='gallery galleryid-2006 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   
