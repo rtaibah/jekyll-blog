@@ -1,24 +1,15 @@
 ---
-id: 1910
+
+title: "Mintleaf Thai"
 date: 2012-08-30T23:37:16+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/berkeley-eastbay-california-mintleaf-thai/
-permalink: /2012/08/30/berkeley-eastbay-california-mintleaf-thai/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30550176932/berkeley-eastbay-california-mintleaf-thai
-tumblr_rtaibah_id:
-  - "30550176932"
-categories:
-  - Uncategorized
-tags:
-  - Berkeley
-  - California
-  - eastbay
-  - mintleaf
-  - thai
-format: gallery
+layout: lifestream 
+permalink: /2012/08/30/mintleaf-thai/
+categories: [Lifestream]
+tags: [usa, california, berkeley]
+
 ---
+
 <div id='gallery-42' class='gallery galleryid-1910 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

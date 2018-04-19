@@ -1,23 +1,15 @@
 ---
-id: 1940
+
+title: "New Glasses"
 date: 2012-08-23T00:34:13+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/new-glasses-lenscrafters-emeryville-eastbay/
-permalink: /2012/08/23/new-glasses-lenscrafters-emeryville-eastbay/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30000254780/new-glasses-lenscrafters-emeryville-eastbay
-tumblr_rtaibah_id:
-  - "30000254780"
-categories:
-  - Uncategorized
-tags:
-  - eastbay
-  - emeryville
-  - lenscrafters
-  - oakland
-format: gallery
+layout: lifestream 
+permalink: /2012/08/23/new-glasses
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
+
 <div id='gallery-33' class='gallery galleryid-1940 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

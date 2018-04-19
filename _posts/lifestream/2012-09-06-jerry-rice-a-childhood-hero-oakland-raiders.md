@@ -1,25 +1,15 @@
 ---
-id: 1856
+
+Title: "Jerry Rice: A Childhood Hero"
 date: 2012-09-06T01:13:05+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/jerry-rice-a-childhood-hero-oakland-raiders/
-permalink: /2012/09/06/jerry-rice-a-childhood-hero-oakland-raiders/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30967986091/jerry-rice-a-childhood-hero-oakland-raiders
-tumblr_rtaibah_id:
-  - "30967986091"
-categories:
-  - Uncategorized
-tags:
-  - 49ers
-  - California
-  - nfl
-  - oakland
-  - raiders
-  - sanfrancisco
-format: gallery
+layout: lifestream 
+permalink: /2012/09/06/jerry-rice-a-childhood-hero-
+categories: [Lifestream]
+tags: [usa, california, san-francisco, 49ers, oakland, raiders, nfl]
+
 ---
+
 <div id='gallery-60' class='gallery galleryid-1856 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

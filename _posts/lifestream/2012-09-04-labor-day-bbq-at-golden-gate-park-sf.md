@@ -1,26 +1,15 @@
 ---
-id: 1865
+
+Title: "Labor Day BBQ At Golden Gate Park, SF"
 date: 2012-09-04T00:01:04+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/labor-day-bbq-at-golden-gate-park-sf/
+layout: lifestream 
 permalink: /2012/09/04/labor-day-bbq-at-golden-gate-park-sf/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30835442667/labor-day-bbq-at-golden-gate-park-sf
-tumblr_rtaibah_id:
-  - "30835442667"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - bbq
-  - California
-  - foodporn
-  - omnom
-  - sanfrancisco
-  - sf
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, san-francisco, food-porn]
+
 ---
+
 <div id='gallery-57' class='gallery galleryid-1865 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

@@ -1,18 +1,15 @@
 ---
-id: 1934
+
+title: "Late Night Dessert"
 date: 2012-08-25T04:58:43+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/late-night-dessert-they-make-awesome/
-permalink: /2012/08/25/late-night-dessert-they-make-awesome/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30153479265/late-night-dessert-they-make-awesome
-tumblr_rtaibah_id:
-  - "30153479265"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/08/25/late-night-dessert
+categories: [Lifestream]
+tags: [usa, california, emeryville, food-porn]
+
 ---
+
 <div id='gallery-35' class='gallery galleryid-1934 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

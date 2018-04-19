@@ -1,18 +1,15 @@
 ---
-id: 1853
+
+title: "La Note" 
 date: 2012-09-06T19:57:50+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/la-note-late-brunch-more-of-lunch-actually/
-permalink: /2012/09/06/la-note-late-brunch-more-of-lunch-actually/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31008480074/la-note-late-brunch-more-of-lunch-actually
-tumblr_rtaibah_id:
-  - "31008480074"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/09/06/la-note
+categories: [Lifestream]
+tags: [usa, california, berkeley]
+
 ---
+
 <div id='gallery-61' class='gallery galleryid-1853 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

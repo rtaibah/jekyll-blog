@@ -1,24 +1,15 @@
 ---
-id: 1889
+
+title: "Bikeporn Oakland"
 date: 2012-08-31T23:07:35+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/bikeporn-biking-rockridge-piedmont-oakland/
-permalink: /2012/08/31/bikeporn-biking-rockridge-piedmont-oakland/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30614043009/bikeporn-biking-rockridge-piedmont-oakland
-tumblr_rtaibah_id:
-  - "30614043009"
-categories:
-  - Uncategorized
-tags:
-  - bikeporn
-  - biking
-  - oakland
-  - piedmont
-  - rockridge
-format: gallery
+layout: lifestream 
+permalink: /2012/08/31/bikeporn-oakland/
+categories: [Lifestream]
+tags: [usa, california, oakland, bikes]
+
 ---
+
 <div id='gallery-49' class='gallery galleryid-1889 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

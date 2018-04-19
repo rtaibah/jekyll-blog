@@ -1,25 +1,15 @@
 ---
-id: 1877
+
+Title: "Steak Poggio"
 date: 2012-09-02T02:29:41+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/sausalitio-steak-poggio-marin-foodporn/
-permalink: /2012/09/02/sausalitio-steak-poggio-marin-foodporn/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30697331448/sausalitio-steak-poggio-marin-foodporn
-tumblr_rtaibah_id:
-  - "30697331448"
-categories:
-  - Uncategorized
-tags:
-  - carnivores
-  - foodporn
-  - marin
-  - poggio
-  - sausalitio
-  - steak
-format: gallery
+layout: lifestream 
+permalink: /2012/09/02/steak-poggio
+categories: [Lifestream]
+tags: [usa, california, sausalitio, food-porn]
+
 ---
+
 <div id='gallery-53' class='gallery galleryid-1877 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

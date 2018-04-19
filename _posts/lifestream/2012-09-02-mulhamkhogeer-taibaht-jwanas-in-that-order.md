@@ -1,18 +1,15 @@
 ---
-id: 1871
+
+Title: "@mulhamkhogeer @taibaht @jwanas; in That Order"
 date: 2012-09-02T03:54:47+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/mulhamkhogeer-taibaht-jwanas-in-that-order/
+layout: lifestream 
 permalink: /2012/09/02/mulhamkhogeer-taibaht-jwanas-in-that-order/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30702890967/mulhamkhogeer-taibaht-jwanas-in-that-order
-tumblr_rtaibah_id:
-  - "30702890967"
-categories:
-  - Uncategorized
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, sausalitio]
+
 ---
+
 <div id='gallery-55' class='gallery galleryid-1871 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

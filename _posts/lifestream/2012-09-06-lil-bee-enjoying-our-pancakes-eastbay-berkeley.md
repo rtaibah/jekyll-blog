@@ -1,25 +1,15 @@
 ---
-id: 1847
+
+Title: "Lil Bee Enjoying our Pancakes"
 date: 2012-09-06T20:51:02+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/lil-bee-enjoying-our-pancakes-eastbay-berkeley/
-permalink: /2012/09/06/lil-bee-enjoying-our-pancakes-eastbay-berkeley/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31011644035/lil-bee-enjoying-our-pancakes-eastbay-berkeley
-tumblr_rtaibah_id:
-  - "31011644035"
-categories:
-  - Uncategorized
-tags:
-  - Berkeley
-  - brunch
-  - Cal
-  - California
-  - eastbay
-  - shattuck
-format: gallery
+layout: lifestream 
+permalink: /2012/09/06/lil-bee-enjoying-our-pancakes
+categories: [Lifestream]
+tags: [usa, california, berkeley]
+
 ---
+
 <div id='gallery-63' class='gallery galleryid-1847 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

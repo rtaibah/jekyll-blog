@@ -1,21 +1,15 @@
 ---
-id: 1859
+
+Title: "Win Whale Gushing Rainbow Goodness"
 date: 2012-09-04T03:21:02+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/win-whale-gushing-rainbow-goodness-taken-with/
-permalink: /2012/09/04/win-whale-gushing-rainbow-goodness-taken-with/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30849138922/win-whale-gushing-rainbow-goodness-taken-with
-tumblr_rtaibah_id:
-  - "30849138922"
-categories:
-  - Uncategorized
-tags:
-  - whale
-  - win
-format: gallery
+layout: lifestream 
+permalink: /2012/09/04/win-whale-gushing-rainbow-goodness
+categories: [Lifestream]
+tags: [usa, california]
+
 ---
+
 <div id='gallery-59' class='gallery galleryid-1859 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

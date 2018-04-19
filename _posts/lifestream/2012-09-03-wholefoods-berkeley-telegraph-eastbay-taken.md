@@ -1,23 +1,15 @@
 ---
-id: 1868
+
+Title: "Wholefoods Berkeley"
 date: 2012-09-03T19:39:11+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/wholefoods-berkeley-telegraph-eastbay-taken/
-permalink: /2012/09/03/wholefoods-berkeley-telegraph-eastbay-taken/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30816819977/wholefoods-berkeley-telegraph-eastbay-taken
-tumblr_rtaibah_id:
-  - "30816819977"
-categories:
-  - Uncategorized
-tags:
-  - Berkeley
-  - eastbay
-  - telegraph
-  - wholefoods
-format: gallery
+layout: lifestream 
+permalink: /2012/09/03/wholefoods-berkeley
+categories: [Lifestream]
+tags: [usa, california, berkeley]
+
 ---
+
 <div id='gallery-56' class='gallery galleryid-1868 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

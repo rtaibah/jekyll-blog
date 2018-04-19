@@ -1,27 +1,15 @@
 ---
-id: 1880
+
+title: "Carporn Sausalitio"
 date: 2012-09-02T01:28:10+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/carporn-sausalitio-vintage-cars-classic/
-permalink: /2012/09/02/carporn-sausalitio-vintage-cars-classic/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30693319996/carporn-sausalitio-vintage-cars-classic
-tumblr_rtaibah_id:
-  - "30693319996"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - California
-  - carporn
-  - cars
-  - classic
-  - marin
-  - sausalitio
-  - vintage
-format: gallery
+layout: lifestream 
+permalink: /2012/09/02/carporn-sausalitio
+categories: [Lifestream]
+tags: [usa, california, sausalitio, car-porn]
+
 ---
+
 <div id='gallery-52' class='gallery galleryid-1880 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

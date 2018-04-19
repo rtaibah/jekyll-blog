@@ -1,11 +1,12 @@
 ---
 
-title: "taken with instagram at bay area orthopaedic"
+title: "Bay Area Orthopaedic Sports & Spine"
 date: 2012-08-20T22:34:11+00:00
 author: rami
 layout: lifestream 
 permalink: /2012/08/20/taken-with-instagram-at-bay-area-orthopaedic/
 categories: [Lifestream]
+tags: [usa, california, emeryville, acl]
 
 ---
 

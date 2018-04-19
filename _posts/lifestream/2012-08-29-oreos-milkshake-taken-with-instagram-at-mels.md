@@ -1,18 +1,15 @@
 ---
-id: 1913
+
+title: "Oreos Milkshake"
 date: 2012-08-29T06:24:11+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/oreos-milkshake-taken-with-instagram-at-mels/
-permalink: /2012/08/29/oreos-milkshake-taken-with-instagram-at-mels/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30441411374/oreos-milkshake-taken-with-instagram-at-mels
-tumblr_rtaibah_id:
-  - "30441411374"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/08/29/oreos-milkshake
+categories: [Lifestream]
+tags: [usa, california, san-francisco, food-porn]
+
 ---
+
 <div id='gallery-41' class='gallery galleryid-1913 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

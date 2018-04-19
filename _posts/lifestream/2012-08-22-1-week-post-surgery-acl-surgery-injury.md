@@ -1,25 +1,15 @@
 ---
-id: 1943
+
+title: "1 Week Post Surgery Acl Surgery Injury"
 date: 2012-08-22T20:49:52+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/1-week-post-surgery-acl-surgery-injury/
-permalink: /2012/08/22/1-week-post-surgery-acl-surgery-injury/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29985086763/1-week-post-surgery-acl-surgery-injury
-tumblr_rtaibah_id:
-  - "29985086763"
-categories:
-  - Uncategorized
-tags:
-  - acl
-  - bayarea
-  - eastbay
-  - injury
-  - oakland
-  - surgery
-format: gallery
+layout: lifestream 
+permalink: /2012/08/22/1-week-post-surgery-acl-surgery
+categories: [Lifestream]
+tags: [usa, california, emeryville, acl]
+
 ---
+
 <div id='gallery-32' class='gallery galleryid-1943 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

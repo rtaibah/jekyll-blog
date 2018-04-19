@@ -1,18 +1,15 @@
 ---
-id: 1937
+
+title: "Running A Memtest is Akin to Watching Paint Dry"
 date: 2012-08-25T04:03:00+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/running-a-memtest-is-akin-to-watching-paint-dry/
+layout: lifestream 
 permalink: /2012/08/25/running-a-memtest-is-akin-to-watching-paint-dry/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30150080329/running-a-memtest-is-akin-to-watching-paint-dry
-tumblr_rtaibah_id:
-  - "30150080329"
-categories:
-  - Uncategorized
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, emeryville, geek]
+
 ---
+
 <div id='gallery-34' class='gallery galleryid-1937 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

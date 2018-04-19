@@ -1,18 +1,15 @@
 ---
-id: 1928
+
+title: "Series A Starts Today And I Am Ready"
 date: 2012-08-25T06:17:46+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/series-a-starts-today-and-i-am-ready-taken-with/
-permalink: /2012/08/25/series-a-starts-today-and-i-am-ready-taken-with/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30157249817/series-a-starts-today-and-i-am-ready-taken-with
-tumblr_rtaibah_id:
-  - "30157249817"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/08/25/series-a-starts-today-and-i-am-ready
+categories: [Lifestream]
+tags: [usa, california, emeryville, juventus, calcio, soccer]
+
 ---
+
 <div id='gallery-37' class='gallery galleryid-1928 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

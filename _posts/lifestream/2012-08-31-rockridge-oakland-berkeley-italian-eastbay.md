@@ -1,25 +1,15 @@
 ---
-id: 1895
+
+title: "Lococo's"
 date: 2012-08-31T22:57:12+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/rockridge-oakland-berkeley-italian-eastbay/
-permalink: /2012/08/31/rockridge-oakland-berkeley-italian-eastbay/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30613374326/rockridge-oakland-berkeley-italian-eastbay
-tumblr_rtaibah_id:
-  - "30613374326"
-categories:
-  - Uncategorized
-tags:
-  - Berkeley
-  - California
-  - eastbay
-  - italian
-  - oakland
-  - rockridge
-format: gallery
+layout: lifestream 
+permalink: /2012/08/31/lococos
+categories: [Lifestream]
+tags: [usa, california, oakland]
+
 ---
+
 <div id='gallery-47' class='gallery galleryid-1895 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

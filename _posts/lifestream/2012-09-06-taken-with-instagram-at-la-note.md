@@ -1,18 +1,15 @@
 ---
-id: 1844
+
+title: "Zogag Berkeley | زقاق بيركلي  "
 date: 2012-09-06T21:11:18+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/taken-with-instagram-at-la-note/
-permalink: /2012/09/06/taken-with-instagram-at-la-note/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31012917799/taken-with-instagram-at-la-note
-tumblr_rtaibah_id:
-  - "31012917799"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/09/06/zogag-berkeley
+categories: [Lifestream]
+tags: [usa, california, berkeley]
+
 ---
+
 <div id='gallery-64' class='gallery galleryid-1844 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

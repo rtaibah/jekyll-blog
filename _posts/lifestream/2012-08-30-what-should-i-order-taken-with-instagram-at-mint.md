@@ -1,18 +1,15 @@
 ---
-id: 1907
+
+title: "What Should I Order Taken"
 date: 2012-08-30T23:39:00+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/what-should-i-order-taken-with-instagram-at-mint/
-permalink: /2012/08/30/what-should-i-order-taken-with-instagram-at-mint/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30550298841/what-should-i-order-taken-with-instagram-at-mint
-tumblr_rtaibah_id:
-  - "30550298841"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/08/30/what-should-i-order
+categories: [Lifestream]
+tags: [usa, california, berkeley]
+
 ---
+
 <div id='gallery-43' class='gallery galleryid-1907 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

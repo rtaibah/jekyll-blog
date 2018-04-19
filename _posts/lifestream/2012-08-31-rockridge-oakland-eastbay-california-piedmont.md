@@ -1,24 +1,15 @@
 ---
-id: 1892
+
+title: "Montclair Antiques"
 date: 2012-08-31T23:00:42+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/rockridge-oakland-eastbay-california-piedmont/
-permalink: /2012/08/31/rockridge-oakland-eastbay-california-piedmont/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30613604195/rockridge-oakland-eastbay-california-piedmont
-tumblr_rtaibah_id:
-  - "30613604195"
-categories:
-  - Uncategorized
-tags:
-  - California
-  - eastbay
-  - oakland
-  - piedmont
-  - rockridge
-format: gallery
+layout: lifestream 
+permalink: /2012/08/31/montclair-antiques
+categories: [Lifestream]
+tags: [usa, california, oakland]
+
 ---
+
 <div id='gallery-48' class='gallery galleryid-1892 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

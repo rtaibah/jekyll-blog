@@ -1,25 +1,15 @@
 ---
-id: 1898
+
+title: "Got My Cal Alumni Membership Kit"
 date: 2012-08-31T22:15:09+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/got-my-cal-alumni-membership-kit-berkeley/
-permalink: /2012/08/31/got-my-cal-alumni-membership-kit-berkeley/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30610669504/got-my-cal-alumni-membership-kit-berkeley
-tumblr_rtaibah_id:
-  - "30610669504"
-categories:
-  - Uncategorized
-tags:
-  - alumni
-  - Berkeley
-  - Cal
-  - emeryville
-  - gobears
-  - uc
-format: gallery
+layout: lifestream 
+permalink: /2012/08/31/got-my-cal-alumni-membership-kit
+categories: [Lifestream]
+tags: [usa, california, emeryville, berkeley, cal, ischool]
+
 ---
+
 <div id='gallery-46' class='gallery galleryid-1898 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

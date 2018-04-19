@@ -1,18 +1,15 @@
 ---
-id: 1922
+
+title: "Before/After" 
 date: 2012-08-26T03:54:27+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/before-after-taken-with-instagram-at/
-permalink: /2012/08/26/before-after-taken-with-instagram-at/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30218911215/before-after-taken-with-instagram-at
-tumblr_rtaibah_id:
-  - "30218911215"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/08/26/before-after
+categories: [Lifestream]
+tags: [usa, california, emeryville, food-porn]
+
 ---
+
 <div id='gallery-39' class='gallery galleryid-1922 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

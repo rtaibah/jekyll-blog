@@ -1,26 +1,15 @@
 ---
-id: 1931
+
+title: "Rasberry Fig Blueberry Nutella Crepe"
 date: 2012-08-25T05:23:35+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/rasberry-fig-blueberry-nutella-crepe-like-dessert/
-permalink: /2012/08/25/rasberry-fig-blueberry-nutella-crepe-like-dessert/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30154786257/rasberry-fig-blueberry-nutella-crepe-like-dessert
-tumblr_rtaibah_id:
-  - "30154786257"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - California
-  - eastbay
-  - emeryville
-  - hotitalian
-  - oakland
-  - omnom
-format: gallery
+layout: lifestream 
+permalink: /2012/08/25/rasberry-fig-blueberry-nutella-crepe
+categories: [Lifestream]
+tags: [usa, california, emeryville, food-porn]
+
 ---
+
 <div id='gallery-36' class='gallery galleryid-1931 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

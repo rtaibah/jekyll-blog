@@ -1,18 +1,15 @@
 ---
-id: 1883
+
+title: "Found This Antique Latin Book From 1643"
 date: 2012-09-01T00:28:02+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/found-this-antique-latin-book-from-1643-taken/
-permalink: /2012/09/01/found-this-antique-latin-book-from-1643-taken/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30619204237/found-this-antique-latin-book-from-1643-taken
-tumblr_rtaibah_id:
-  - "30619204237"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/09/01/found-this-antique-latin-book-from-1643
+categories: [Lifestream]
+tags: [usa, california, oakland]
+
 ---
+
 <div id='gallery-51' class='gallery galleryid-1883 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

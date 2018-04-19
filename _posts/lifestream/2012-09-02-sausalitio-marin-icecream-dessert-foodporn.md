@@ -1,26 +1,15 @@
 ---
-id: 1874
+
+title: "Sausalitio Marin Ice Cream"
 date: 2012-09-02T03:02:16+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/sausalitio-marin-icecream-dessert-foodporn/
-permalink: /2012/09/02/sausalitio-marin-icecream-dessert-foodporn/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30699492244/sausalitio-marin-icecream-dessert-foodporn
-tumblr_rtaibah_id:
-  - "30699492244"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - California
-  - dessert
-  - foodporn
-  - icecream
-  - marin
-  - sausalitio
-format: gallery
+layout: lifestream 
+permalink: /2012/09/02/sausalitio-marin-icecream
+categories: [Lifestream]
+tags: [usa, california, sausalitio, food-porn]
+
 ---
+
 <div id='gallery-54' class='gallery galleryid-1874 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

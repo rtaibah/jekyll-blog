@@ -1,22 +1,15 @@
 ---
-id: 1919
+
+title: "My Leg In A Brace Watching The Campaign"
 date: 2012-08-26T06:03:31+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/my-leg-in-a-brace-watching-the-campaign/
+layout: lifestream 
 permalink: /2012/08/26/my-leg-in-a-brace-watching-the-campaign/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30226550465/my-leg-in-a-brace-watching-the-campaign
-tumblr_rtaibah_id:
-  - "30226550465"
-categories:
-  - Uncategorized
-tags:
-  - eastbay
-  - emeryville
-  - oakland
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, emeryville, acl]
+
 ---
+
 <div id='gallery-40' class='gallery galleryid-1919 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

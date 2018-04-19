@@ -1,22 +1,15 @@
 ---
-id: 1904
+
+title: "Orange Juice Jars"
 date: 2012-08-30T23:47:32+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/orange-juice-jars-berkeley-mintleaf-thai/
-permalink: /2012/08/30/orange-juice-jars-berkeley-mintleaf-thai/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30550891742/orange-juice-jars-berkeley-mintleaf-thai
-tumblr_rtaibah_id:
-  - "30550891742"
-categories:
-  - Uncategorized
-tags:
-  - Berkeley
-  - mintleaf
-  - thai
-format: gallery
+layout: lifestream 
+permalink: /2012/08/30/orange-juice-jars
+categories: [Lifestream]
+tags: [usa, california, berkeley, food-porn]
+
 ---
+
 <div id='gallery-44' class='gallery galleryid-1904 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

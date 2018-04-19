@@ -1,24 +1,15 @@
 ---
-id: 1901
+
+title: "Oubi Like a Boss"
 date: 2012-08-31T06:16:19+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/oubi-likeaboss-eastbay-emeryville-eastbay/
-permalink: /2012/08/31/oubi-likeaboss-eastbay-emeryville-eastbay/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30573705000/oubi-likeaboss-eastbay-emeryville-eastbay
-tumblr_rtaibah_id:
-  - "30573705000"
-categories:
-  - Uncategorized
-tags:
-  - eastbay
-  - emeryville
-  - likeaboss
-  - oakland
-  - oubi
-format: gallery
+layout: lifestream 
+permalink: /2012/08/31/oubi-likeaboss
+categories: [Lifestream]
+tags: [usa, california, emeryville, oubi]
+
 ---
+
 <div id='gallery-45' class='gallery galleryid-1901 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

@@ -1,25 +1,15 @@
 ---
-id: 1862
+
+Title: "Dat Corner"
 date: 2012-09-04T02:27:15+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/dat-corner-haight-ashbury-sf-hipster-hippie/
-permalink: /2012/09/04/dat-corner-haight-ashbury-sf-hipster-hippie/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/30845675422/dat-corner-haight-ashbury-sf-hipster-hippie
-tumblr_rtaibah_id:
-  - "30845675422"
-categories:
-  - Uncategorized
-tags:
-  - ashbury
-  - haight
-  - hippie
-  - hipster
-  - sf
-  - thegloriousseventies
-format: gallery
+layout: lifestream 
+permalink: /2012/09/04/dat-corner-haight-ashbury
+categories: [Lifestream]
+tags: [usa, california, san-francisco]
+
 ---
+
 <div id='gallery-58' class='gallery galleryid-1862 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

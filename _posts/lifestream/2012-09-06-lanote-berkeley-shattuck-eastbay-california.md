@@ -1,26 +1,15 @@
 ---
-id: 1850
+
+title: "La Note 2"
 date: 2012-09-06T20:45:16+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/lanote-berkeley-shattuck-eastbay-california/
-permalink: /2012/09/06/lanote-berkeley-shattuck-eastbay-california/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31011289918/lanote-berkeley-shattuck-eastbay-california
-tumblr_rtaibah_id:
-  - "31011289918"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - Berkeley
-  - brunch
-  - California
-  - eastbay
-  - lanote
-  - shattuck
-format: gallery
+layout: lifestream 
+permalink: /2012/09/06/la-note-2
+categories: [Lifestream]
+tags: [usa, california, berkleey, food-porn]
+
 ---
+
 <div id='gallery-62' class='gallery galleryid-1850 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   
