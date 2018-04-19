@@ -1,25 +1,15 @@
 ---
-id: 1967
+
+title: "Ice Machine Pumping around my Knee"
 date: 2012-08-14T22:54:25+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/ice-machine-pumping-around-my-knee-acl-injury/
-permalink: /2012/08/14/ice-machine-pumping-around-my-knee-acl-injury/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29437657708/ice-machine-pumping-around-my-knee-acl-injury
-tumblr_rtaibah_id:
-  - "29437657708"
-categories:
-  - Uncategorized
-tags:
-  - acl
-  - bayarea
-  - eastbay
-  - injury
-  - oakland
-  - soccer
-format: gallery
+layout: lifestream 
+permalink: /2012/08/14/ice-machine-pumping-around-my-knee
+categories: [Lifestream]
+tags: [usa, california, oakland, acl]
+
 ---
+
 <div id='gallery-24' class='gallery galleryid-1967 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

@@ -1,31 +1,15 @@
 ---
-id: 1946
+
+title: "Apparently my Doctor Also Treated Gail Devers"
 date: 2012-08-20T23:25:14+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/apparently-my-doctor-also-treated-gail-devers/
+layout: lifestream 
 permalink: /2012/08/20/apparently-my-doctor-also-treated-gail-devers/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29858035312/apparently-my-doctor-also-treated-gail-devers
-tumblr_rtaibah_id:
-  - "29858035312"
-categories:
-  - Uncategorized
-tags:
-  - "1996"
-  - acl
-  - atlanta
-  - bayarea
-  - California
-  - devers
-  - eastbay
-  - emeryville
-  - gail
-  - injury
-  - oakland
-  - olympics
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, emeryville, acl]
+
 ---
+
 <div id='gallery-31' class='gallery galleryid-1946 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

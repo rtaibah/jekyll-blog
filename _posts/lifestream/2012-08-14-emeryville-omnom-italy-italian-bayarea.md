@@ -1,27 +1,15 @@
 ---
-id: 1979
+
+title: "Emeryville Omnom"
 date: 2012-08-14T04:08:34+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/emeryville-omnom-italy-italian-bayarea/
+layout: lifestream 
 permalink: /2012/08/14/emeryville-omnom-italy-italian-bayarea/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29387307378/emeryville-omnom-italy-italian-bayarea
-tumblr_rtaibah_id:
-  - "29387307378"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - eastbay
-  - emeryville
-  - italian
-  - italy
-  - oakland
-  - omnom
-  - pizza
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, emeryville, food-porn ]
+
 ---
+
 <div id='gallery-20' class='gallery galleryid-1979 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

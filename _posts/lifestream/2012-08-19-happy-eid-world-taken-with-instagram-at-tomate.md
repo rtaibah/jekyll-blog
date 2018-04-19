@@ -1,18 +1,15 @@
 ---
-id: 1952
+
+title: "Happy Eid World" 
 date: 2012-08-19T17:32:37+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/happy-eid-world-taken-with-instagram-at-tomate/
-permalink: /2012/08/19/happy-eid-world-taken-with-instagram-at-tomate/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29766592511/happy-eid-world-taken-with-instagram-at-tomate
-tumblr_rtaibah_id:
-  - "29766592511"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/08/19/happy-eid-world
+categories: [Lifestream]
+tags: [usa, california, berkeley, eid]
+
 ---
+
 <div id='gallery-29' class='gallery galleryid-1952 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

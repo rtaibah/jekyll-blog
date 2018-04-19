@@ -1,22 +1,15 @@
 ---
-id: 1958
+
+title: "Arch Linux Successfully Installed"
 date: 2012-08-19T04:55:59+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/arch-linux-successfully-installed-and-a/
-permalink: /2012/08/19/arch-linux-successfully-installed-and-a/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29739635810/arch-linux-successfully-installed-and-a
-tumblr_rtaibah_id:
-  - "29739635810"
-categories:
-  - Uncategorized
-tags:
-  - arch
-  - kde
-  - linux
-format: gallery
+layout: lifestream 
+permalink: /2012/08/19/arch-linux-successfully
+categories: [Lifestream]
+tags: [usa, california, emeryville, arch, linux]
+
 ---
+
 <div id='gallery-27' class='gallery galleryid-1958 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

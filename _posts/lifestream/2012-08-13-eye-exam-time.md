@@ -5,7 +5,7 @@ author: rami
 layout: lifestream 
 permalink: /2012/08/13/eye-exam-time
 categories: [Lifestream]
-tags: [emeryville, usa, california
+tags: [emeryville, usa, california]
 
 ---
 

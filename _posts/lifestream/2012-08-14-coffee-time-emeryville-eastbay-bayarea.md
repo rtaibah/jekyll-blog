@@ -1,24 +1,13 @@
 ---
-id: 1976
+
+title: "Coffee Time"
 date: 2012-08-14T04:19:16+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/coffee-time-emeryville-eastbay-bayarea/
-permalink: /2012/08/14/coffee-time-emeryville-eastbay-bayarea/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29387996651/coffee-time-emeryville-eastbay-bayarea
-tumblr_rtaibah_id:
-  - "29387996651"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - California
-  - coffee
-  - eastbay
-  - emeryville
-  - oakland
-format: gallery
+layout: lifestream 
+permalink: /2012/08/14/coffee-time
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
 <div id='gallery-21' class='gallery galleryid-1976 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

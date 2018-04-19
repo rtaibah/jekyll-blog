@@ -1,25 +1,15 @@
 ---
-id: 1973
+
+title: "Ready for Knee Surgery"
 date: 2012-08-14T14:46:34+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/ready-for-knee-surgery-acl-soccer-emeryville/
-permalink: /2012/08/14/ready-for-knee-surgery-acl-soccer-emeryville/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29409543351/ready-for-knee-surgery-acl-soccer-emeryville
-tumblr_rtaibah_id:
-  - "29409543351"
-categories:
-  - Uncategorized
-tags:
-  - acl
-  - emeryville
-  - injury
-  - likeaboss
-  - oakland
-  - soccer
-format: gallery
+layout: lifestream 
+permalink: /2012/08/14/ready-for-knee-surgery
+categories: [Lifestream]
+tags: [usa, california, oakland, acl]
+
 ---
+
 <div id='gallery-22' class='gallery galleryid-1973 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

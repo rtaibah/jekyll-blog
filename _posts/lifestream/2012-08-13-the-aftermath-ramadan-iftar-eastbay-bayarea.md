@@ -1,26 +1,15 @@
 ---
-id: 1985
+
+title: "The Aftermath"
 date: 2012-08-13T03:50:17+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/the-aftermath-ramadan-iftar-eastbay-bayarea/
-permalink: /2012/08/13/the-aftermath-ramadan-iftar-eastbay-bayarea/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29313730652/the-aftermath-ramadan-iftar-eastbay-bayarea
-tumblr_rtaibah_id:
-  - "29313730652"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - eastbay
-  - emeryville
-  - iftar
-  - oakland
-  - omnom
-  - ramadan
-format: gallery
+layout: lifestream 
+permalink: /2012/08/13/the-aftermath
+categories: [Lifestream]
+tags: [usa, california, emeryville, iftar, ramadan]
+
 ---
+
 <div id='gallery-18' class='gallery galleryid-1985 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

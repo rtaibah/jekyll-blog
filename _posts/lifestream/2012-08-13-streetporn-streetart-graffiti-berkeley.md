@@ -1,27 +1,15 @@
 ---
-id: 1991
+
+title: "Berkeley Street Porn"
 date: 2012-08-13T00:36:54+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/streetporn-streetart-graffiti-berkeley/
-permalink: /2012/08/13/streetporn-streetart-graffiti-berkeley/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29300490083/streetporn-streetart-graffiti-berkeley
-tumblr_rtaibah_id:
-  - "29300490083"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - Berkeley
-  - Cal
-  - California
-  - eastbay
-  - graffiti
-  - streetart
-  - streetporn
-format: gallery
+layout: lifestream 
+permalink: /2012/08/13/berkeley-street-porn
+categories: [Lifestream]
+tags: [usa, california, emeryville, graffiti, street-porn]
+
 ---
+
 <div id='gallery-16' class='gallery galleryid-1991 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

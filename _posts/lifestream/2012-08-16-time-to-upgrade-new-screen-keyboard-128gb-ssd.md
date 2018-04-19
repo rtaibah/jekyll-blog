@@ -1,21 +1,15 @@
 ---
-id: 1964
+
+title: "Time to Upgrade" 
 date: 2012-08-16T20:37:39+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/time-to-upgrade-new-screen-keyboard-128gb-ssd/
-permalink: /2012/08/16/time-to-upgrade-new-screen-keyboard-128gb-ssd/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29570638877/time-to-upgrade-new-screen-keyboard-128gb-ssd
-tumblr_rtaibah_id:
-  - "29570638877"
-categories:
-  - Uncategorized
-tags:
-  - hwporn
-  - thinkpad
-format: gallery
+layout: lifestream 
+permalink: /2012/08/16/time-to-upgrade
+categories: [Lifestream]
+tags: [thinkpad, usa, california, emeryville]
+
 ---
+
 <div id='gallery-25' class='gallery galleryid-1964 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

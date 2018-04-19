@@ -1,18 +1,14 @@
 ---
-id: 1949
+
+title: "taken with instagram at bay area orthopaedic"
 date: 2012-08-20T22:34:11+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/taken-with-instagram-at-bay-area-orthopaedic/
+layout: lifestream 
 permalink: /2012/08/20/taken-with-instagram-at-bay-area-orthopaedic/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29854609035/taken-with-instagram-at-bay-area-orthopaedic
-tumblr_rtaibah_id:
-  - "29854609035"
-categories:
-  - Uncategorized
-format: gallery
+categories: [Lifestream]
+
 ---
+
 <div id='gallery-30' class='gallery galleryid-1949 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

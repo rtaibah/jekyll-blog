@@ -1,23 +1,15 @@
 ---
-id: 1970
+
+title: "Ready. Going in any minute now"
 date: 2012-08-14T16:05:22+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/ready-going-in-any-minute-now-acl-surgery/
-permalink: /2012/08/14/ready-going-in-any-minute-now-acl-surgery/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29412938081/ready-going-in-any-minute-now-acl-surgery
-tumblr_rtaibah_id:
-  - "29412938081"
-categories:
-  - Uncategorized
-tags:
-  - acl
-  - eastbay
-  - oakland
-  - surgery
-format: gallery
+layout: lifestream 
+permalink: /2012/08/14/ready-going-in-any-minute-now
+categories: [Lifestream]
+tags: [usa, california, oakland, acl]
+
 ---
+
 <div id='gallery-23' class='gallery galleryid-1970 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

@@ -1,18 +1,15 @@
 ---
-id: 1955
+
+title: "Tricks on iPad" 
 date: 2012-08-19T07:16:57+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/tricks-on-ipad-awesome-game-highly-recommend/
-permalink: /2012/08/19/tricks-on-ipad-awesome-game-highly-recommend/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29746351500/tricks-on-ipad-awesome-game-highly-recommend
-tumblr_rtaibah_id:
-  - "29746351500"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/08/19/tricks-on-ipad
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
+
 <div id='gallery-28' class='gallery galleryid-1955 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

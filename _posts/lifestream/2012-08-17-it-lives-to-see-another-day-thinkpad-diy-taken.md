@@ -1,21 +1,15 @@
 ---
-id: 1961
+
+title: "It Lives to See Another Day"
 date: 2012-08-17T00:46:40+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/it-lives-to-see-another-day-thinkpad-diy-taken/
-permalink: /2012/08/17/it-lives-to-see-another-day-thinkpad-diy-taken/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/29587241225/it-lives-to-see-another-day-thinkpad-diy-taken
-tumblr_rtaibah_id:
-  - "29587241225"
-categories:
-  - Uncategorized
-tags:
-  - diy
-  - thinkpad
-format: gallery
+layout: lifestream 
+permalink: /2012/08/17/it-lives-to-see-another-day
+categories: [Lifestream]
+tags: [usa, california, emeryville, thinkpdad]
+
 ---
+
 <div id='gallery-26' class='gallery galleryid-1961 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   
