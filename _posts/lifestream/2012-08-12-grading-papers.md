@@ -4,7 +4,7 @@ title: "Grading Papers"
 author: rami
 layout: lifestream 
 permalink: /2012/08/12/grading-papers-cal-berkeley-ischool-teachinh/
-categories: [Blog]
+categories: [Lifestream]
 tags: [usa, berkeley, california, cal, ischool]
 
 ---
