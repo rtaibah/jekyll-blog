@@ -2,7 +2,7 @@ import os
 import glob
 import re
 
-directory = '/home/rami/projects/jekyll-blog/assets/images/content/zeitgeist/'
+directory = '/home/rami/projects/jekyll-blog/assets/images/content/lifestream/'
 picfiles = glob.glob(r'/home/rami/projects/jekyll-blog/assets/images/content/zeitgeist/*/*/*/*.png')
 
 # clean up the folder namings with these replacements
