@@ -1,26 +1,14 @@
 ---
-id: 1839
-date: 2012-09-07T21:23:42+00:00
+
+title: "Coffee Time Berkeley College Coffee"
 author: rami
-layout: post
-guid: http://rtaibah.com/coffee-time-berkeley-college-coffee/
+layout: lifestream 
 permalink: /2012/09/07/coffee-time-berkeley-college-coffee/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31076176462/coffee-time-berkeley-college-coffee
-tumblr_rtaibah_id:
-  - "31076176462"
-categories:
-  - Uncategorized
-tags:
-  - Berkeley
-  - Cal
-  - coffee
-  - coffeeholics
-  - college
-  - eastbay
-  - gobears
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, berkeley, coffee]
+
 ---
+
 <div id='gallery-65' class='gallery galleryid-1839 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

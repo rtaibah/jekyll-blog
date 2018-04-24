@@ -1,25 +1,14 @@
 ---
-id: 1836
-date: 2012-09-08T01:55:06+00:00
+
+title: "Berkeley Bart Shattuck Gobears California"
 author: rami
-layout: post
-guid: http://rtaibah.com/berkeley-bart-shattuck-gobears-california/
-permalink: /2012/09/08/berkeley-bart-shattuck-gobears-california/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31094419466/berkeley-bart-shattuck-gobears-california
-tumblr_rtaibah_id:
-  - "31094419466"
-categories:
-  - Uncategorized
-tags:
-  - bart
-  - Berkeley
-  - Cal
-  - California
-  - gobears
-  - shattuck
-format: gallery
+layout: lifestream 
+permalink: /2012/09/08/berkeley-bart-shattuck-2
+categories: [Lifestream]
+tags: [usa, california, berkeley, bart]
+
 ---
+
 <div id='gallery-66' class='gallery galleryid-1836 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   
