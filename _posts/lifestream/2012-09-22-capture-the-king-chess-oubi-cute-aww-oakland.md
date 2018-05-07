@@ -1,28 +1,15 @@
 ---
-id: 1767
+
+title: "Capture the King"
 date: 2012-09-22T01:47:54+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/capture-the-king-chess-oubi-cute-aww-oakland/
-permalink: /2012/09/22/capture-the-king-chess-oubi-cute-aww-oakland/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32020612120/capture-the-king-chess-oubi-cute-aww-oakland
-tumblr_rtaibah_id:
-  - "32020612120"
-categories:
-  - Uncategorized
-tags:
-  - aww
-  - bayarea
-  - California
-  - chess
-  - cute
-  - eastbay
-  - emeryville
-  - oakland
-  - oubi
-format: gallery
+layout: lifestream 
+permalink: /2012/09/22/capture-the-king
+categories: [Lifestream]
+tags: [usa, california, oakland, oubi]
+
 ---
+
 <div id='gallery-89' class='gallery galleryid-1767 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

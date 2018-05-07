@@ -1,29 +1,15 @@
 ---
-id: 1773
+
+title: "Burger + Fries + Turkish Coffee Milkshake"
 date: 2012-09-21T23:37:29+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/burger-fries-turkish-coffee-milkshake/
+layout: lifestream 
 permalink: /2012/09/21/burger-fries-turkish-coffee-milkshake/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32012384182/burger-fries-turkish-coffee-milkshake
-tumblr_rtaibah_id:
-  - "32012384182"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - Berkeley
-  - burger
-  - California
-  - carnivores
-  - coffee
-  - eastbay
-  - foodporn
-  - fries
-  - shattuck
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, berkeley, foodporn]
+
 ---
+
 <div id='gallery-87' class='gallery galleryid-1773 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

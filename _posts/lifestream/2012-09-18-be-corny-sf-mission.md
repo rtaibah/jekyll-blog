@@ -1,22 +1,15 @@
 ---
-id: 1788
+
+title: "Be Corny"
 date: 2012-09-18T20:23:48+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/be-corny-sf-mission/
-permalink: /2012/09/18/be-corny-sf-mission/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31812115374/be-corny-sf-mission
-tumblr_rtaibah_id:
-  - "31812115374"
-categories:
-  - Uncategorized
-tags:
-  - mission
-  - sanfrancisco
-  - sf
-format: gallery
+layout: lifestream 
+permalink: /2012/09/18/be-corny
+categories: [Lifestream]
+tags: [usa, california, san-francisco]
+
 ---
+
 <div id='gallery-82' class='gallery galleryid-1788 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

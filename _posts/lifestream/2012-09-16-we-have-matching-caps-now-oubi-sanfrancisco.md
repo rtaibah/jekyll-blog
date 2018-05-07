@@ -1,23 +1,15 @@
 ---
-id: 1800
+
+title: "Matching Caps"
 date: 2012-09-16T01:53:56+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/we-have-matching-caps-now-oubi-sanfrancisco/
-permalink: /2012/09/16/we-have-matching-caps-now-oubi-sanfrancisco/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31627924203/we-have-matching-caps-now-oubi-sanfrancisco
-tumblr_rtaibah_id:
-  - "31627924203"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - chestnut
-  - oubi
-  - sanfrancisco
-format: gallery
+layout: lifestream 
+permalink: /2012/09/16/matching-caps
+categories: [Lifestream]
+tags: [usa, california, san-francisco, oubi]
+
 ---
+
 <div id='gallery-78' class='gallery galleryid-1800 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

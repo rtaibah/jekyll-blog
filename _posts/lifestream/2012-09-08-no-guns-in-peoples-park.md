@@ -1,18 +1,15 @@
 ---
-id: 1827
+
+title: "No Guns in People's Park"
 date: 2012-09-08T04:02:37+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/taken-with-instagram-at-cafe-milano/
-permalink: /2012/09/08/taken-with-instagram-at-cafe-milano/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31102932309/taken-with-instagram-at-cafe-milano
-tumblr_rtaibah_id:
-  - "31102932309"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/09/08/no-guns-in-peoples-park
+categories: [Lifestream]
+tags: [usa, california, berkeley]
+
 ---
+
 <div id='gallery-69' class='gallery galleryid-1827 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

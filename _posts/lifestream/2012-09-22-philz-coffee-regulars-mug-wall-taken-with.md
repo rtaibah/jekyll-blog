@@ -1,20 +1,15 @@
 ---
-id: 1770
+
+title: "Philz Regulars"
 date: 2012-09-22T00:04:32+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/philz-coffee-regulars-mug-wall-taken-with/
-permalink: /2012/09/22/philz-coffee-regulars-mug-wall-taken-with/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32014050924/philz-coffee-regulars-mug-wall-taken-with
-tumblr_rtaibah_id:
-  - "32014050924"
-categories:
-  - Uncategorized
-tags:
-  - coffee
-format: gallery
+layout: lifestream 
+permalink: /2012/09/22/philz-regulars
+categories: [Lifestream]
+tags: [usa, california, berkeley, coffee]
+
 ---
+
 <div id='gallery-88' class='gallery galleryid-1770 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

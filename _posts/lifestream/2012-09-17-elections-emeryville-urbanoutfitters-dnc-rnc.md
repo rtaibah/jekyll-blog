@@ -1,26 +1,15 @@
 ---
-id: 1791
+
+title: "Rational Human Being"
 date: 2012-09-17T00:41:26+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/elections-emeryville-urbanoutfitters-dnc-rnc/
-permalink: /2012/09/17/elections-emeryville-urbanoutfitters-dnc-rnc/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31698444178/elections-emeryville-urbanoutfitters-dnc-rnc
-tumblr_rtaibah_id:
-  - "31698444178"
-categories:
-  - Uncategorized
-tags:
-  - dnc
-  - elections
-  - emeryville
-  - obama
-  - rnc
-  - romney
-  - urbanoutfitters
-format: gallery
+layout: lifestream 
+permalink: /2012/09/17/rational-human-being
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
+
 <div id='gallery-81' class='gallery galleryid-1791 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

@@ -1,26 +1,15 @@
 ---
-id: 1776
+
+title: "Coffee on Telegraph"
 date: 2012-09-21T21:27:55+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/coffee-berkeley-telegraph-california-eastbay/
-permalink: /2012/09/21/coffee-berkeley-telegraph-california-eastbay/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32004260576/coffee-berkeley-telegraph-california-eastbay
-tumblr_rtaibah_id:
-  - "32004260576"
-categories:
-  - Uncategorized
-tags:
-  - Berkeley
-  - Cal
-  - California
-  - coffee
-  - coffeeholics
-  - eastbay
-  - telegraph
-format: gallery
+layout: lifestream 
+permalink: /2012/09/21/coffee-on-telegraph
+categories: [Lifestream]
+tags: [usa, california, berkeley, coffee]
+
 ---
+
 <div id='gallery-86' class='gallery galleryid-1776 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

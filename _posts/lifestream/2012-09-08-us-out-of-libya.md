@@ -1,18 +1,15 @@
 ---
-id: 1824
+
+title: "US Out of Libya"
 date: 2012-09-08T04:15:56+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/taken-with-instagram-at-sather-gate/
-permalink: /2012/09/08/taken-with-instagram-at-sather-gate/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31103726687/taken-with-instagram-at-sather-gate
-tumblr_rtaibah_id:
-  - "31103726687"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/09/08/us-out-of-libya
+categories: [Lifestream]
+tags: [usa, california, berkeley, libya]
+
 ---
+
 <div id='gallery-70' class='gallery galleryid-1824 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

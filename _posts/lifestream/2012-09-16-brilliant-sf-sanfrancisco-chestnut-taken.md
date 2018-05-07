@@ -1,22 +1,15 @@
 ---
-id: 1803
+
+title: "Brilliant Makeup" 
 date: 2012-09-16T01:19:54+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/brilliant-sf-sanfrancisco-chestnut-taken/
-permalink: /2012/09/16/brilliant-sf-sanfrancisco-chestnut-taken/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31625785032/brilliant-sf-sanfrancisco-chestnut-taken
-tumblr_rtaibah_id:
-  - "31625785032"
-categories:
-  - Uncategorized
-tags:
-  - chestnut
-  - sanfrancisco
-  - sf
-format: gallery
+layout: lifestream 
+permalink: /2012/09/16/brilliant-makeup
+categories: [Lifestream]
+tags: [usa, california, san-francisco]
+
 ---
+
 <div id='gallery-77' class='gallery galleryid-1803 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

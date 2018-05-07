@@ -1,25 +1,15 @@
 ---
-id: 1797
+
+title: "Emeryville Trainporn"
 date: 2012-09-16T23:33:07+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/emeryville-eastbay-amtrak-trainporn/
-permalink: /2012/09/16/emeryville-eastbay-amtrak-trainporn/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31693740625/emeryville-eastbay-amtrak-trainporn
-tumblr_rtaibah_id:
-  - "31693740625"
-categories:
-  - Uncategorized
-tags:
-  - amtrak
-  - California
-  - eastbay
-  - emeryville
-  - railroad
-  - trainporn
-format: gallery
+layout: lifestream 
+permalink: /2012/09/16/emeryville-trainporn/
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
+
 <div id='gallery-79' class='gallery galleryid-1797 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

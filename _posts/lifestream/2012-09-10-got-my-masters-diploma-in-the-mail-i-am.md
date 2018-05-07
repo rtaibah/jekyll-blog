@@ -1,21 +1,15 @@
 ---
-id: 1818
+
+title: "Got my Masters Diploma"
 date: 2012-09-10T00:49:50+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/got-my-masters-diploma-in-the-mail-i-am/
+layout: lifestream 
 permalink: /2012/09/10/got-my-masters-diploma-in-the-mail-i-am/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31240229480/got-my-masters-diploma-in-the-mail-i-am
-tumblr_rtaibah_id:
-  - "31240229480"
-categories:
-  - Uncategorized
-tags:
-  - Berkeley
-  - Cal
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, emeryville, cal, ischool]
+
 ---
+
 <div id='gallery-72' class='gallery galleryid-1818 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

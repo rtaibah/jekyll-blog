@@ -1,23 +1,15 @@
 ---
-id: 1779
+
+title: "Espresso Blue Bottle"
 date: 2012-09-20T01:18:49+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/coffee-espresso-bluebottle-sf-taken-with/
-permalink: /2012/09/20/coffee-espresso-bluebottle-sf-taken-with/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31895269978/coffee-espresso-bluebottle-sf-taken-with
-tumblr_rtaibah_id:
-  - "31895269978"
-categories:
-  - Uncategorized
-tags:
-  - bluebottle
-  - coffee
-  - espresso
-  - sf
-format: gallery
+layout: lifestream 
+permalink: /2012/09/20/espresso-blue-bottle
+categories: [Lifestream]
+tags: [usa, california, san-francisco, coffee]
+
 ---
+
 <div id='gallery-85' class='gallery galleryid-1779 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

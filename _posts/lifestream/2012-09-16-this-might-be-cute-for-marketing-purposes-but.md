@@ -1,25 +1,15 @@
 ---
-id: 1794
+
+title: "Materazzi is Completely Off the Table"
 date: 2012-09-16T23:42:37+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/this-might-be-cute-for-marketing-purposes-but/
-permalink: /2012/09/16/this-might-be-cute-for-marketing-purposes-but/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31694377337/this-might-be-cute-for-marketing-purposes-but
-tumblr_rtaibah_id:
-  - "31694377337"
-categories:
-  - Uncategorized
-tags:
-  - bintermilan
-  - calcio
-  - eastbay
-  - emeryville
-  - hotitalian
-  - juventus
-format: gallery
+layout: lifestream 
+permalink: /2012/09/16/materazzi-is-completely-off-the-table
+categories: [Lifestream]
+tags: [usa, california, emeryville, soccer, calcio]
+
 ---
+
 <div id='gallery-80' class='gallery galleryid-1794 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

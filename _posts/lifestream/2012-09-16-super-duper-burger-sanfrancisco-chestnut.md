@@ -1,28 +1,15 @@
 ---
-id: 1806
+
+title: "A Super Duper Burger"
 date: 2012-09-16T00:44:24+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/super-duper-burger-sanfrancisco-chestnut/
-permalink: /2012/09/16/super-duper-burger-sanfrancisco-chestnut/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31623601871/super-duper-burger-sanfrancisco-chestnut
-tumblr_rtaibah_id:
-  - "31623601871"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - burger
-  - California
-  - carnivores
-  - chestnut
-  - duper
-  - foodporn
-  - sanfrancisco
-  - super
-format: gallery
+layout: lifestream 
+permalink: /2012/09/16/a-super-duper-burger
+categories: [Lifestream]
+tags: [usa, california, san-francisco, foodporn]
+
 ---
+
 <div id='gallery-76' class='gallery galleryid-1806 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

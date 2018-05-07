@@ -1,18 +1,15 @@
 ---
-id: 1812
+
+title: "Got my Square Reader"
 date: 2012-09-12T04:42:58+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/got-my-square-reader-in-the-mail-taken-with/
-permalink: /2012/09/12/got-my-square-reader-in-the-mail-taken-with/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31385101843/got-my-square-reader-in-the-mail-taken-with
-tumblr_rtaibah_id:
-  - "31385101843"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/09/12/got-my-square-reader
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
+
 <div id='gallery-74' class='gallery galleryid-1812 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

@@ -1,26 +1,15 @@
 ---
-id: 1821
+
+title: "Vintage Cars in Emeryville"
 date: 2012-09-09T00:31:42+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/vintage-cars-emeryville-eastbay-oakland/
-permalink: /2012/09/09/vintage-cars-emeryville-eastbay-oakland/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31160986840/vintage-cars-emeryville-eastbay-oakland
-tumblr_rtaibah_id:
-  - "31160986840"
-categories:
-  - Uncategorized
-tags:
-  - California
-  - carporn
-  - cars
-  - eastbay
-  - emeryville
-  - oakland
-  - vintage
-format: gallery
+layout: lifestream 
+permalink: /2012/09/09/vintage-cars-emeryville
+categories: [Lifestream]
+tags: [usa, california, emeryville, car-porn]
+
 ---
+
 <div id='gallery-71' class='gallery galleryid-1821 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

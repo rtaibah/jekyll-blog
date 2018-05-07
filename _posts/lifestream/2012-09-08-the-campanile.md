@@ -1,18 +1,15 @@
 ---
-id: 1830
+
+title: "The Campanile"
 date: 2012-09-08T03:55:41+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/taken-with-instagram-at-campanile-sather-tower/
-permalink: /2012/09/08/taken-with-instagram-at-campanile-sather-tower/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31102512413/taken-with-instagram-at-campanile-sather-tower
-tumblr_rtaibah_id:
-  - "31102512413"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/09/08/the-campanile
+categories: [Lifestream]
+tags: [usa, california, berkeley, cal]
+
 ---
+
 <div id='gallery-68' class='gallery galleryid-1830 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

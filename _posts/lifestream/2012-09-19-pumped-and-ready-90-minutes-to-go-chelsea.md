@@ -1,24 +1,15 @@
 ---
-id: 1785
+
+title: "Pumped and Ready: 90 Minutes to go For Chelsea"
 date: 2012-09-19T17:18:55+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/pumped-and-ready-90-minutes-to-go-chelsea/
-permalink: /2012/09/19/pumped-and-ready-90-minutes-to-go-chelsea/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31866619037/pumped-and-ready-90-minutes-to-go-chelsea
-tumblr_rtaibah_id:
-  - "31866619037"
-categories:
-  - Uncategorized
-tags:
-  - championleague
-  - chelsea
-  - cl
-  - juventus
-  - stamfordbridge
-format: gallery
+layout: lifestream 
+permalink: /2012/09/19/pumped-and-ready-90-minutes-to-go-for-chelsea/
+categories: [Lifestream]
+tags: [usa, california, emeryville, juventus]
+
 ---
+
 <div id='gallery-83' class='gallery galleryid-1785 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

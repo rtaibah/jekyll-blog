@@ -1,18 +1,15 @@
 ---
-id: 1782
+
+title: "My Demon Lover" 
 date: 2012-09-19T17:42:28+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/my-demon-lover-waffles-maple-syrup-fried/
-permalink: /2012/09/19/my-demon-lover-waffles-maple-syrup-fried/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31867626373/my-demon-lover-waffles-maple-syrup-fried
-tumblr_rtaibah_id:
-  - "31867626373"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/09/19/my-demon-lover
+categories: [Lifestream]
+tags: [usa, california, berkeley, foodporn]
+
 ---
+
 <div id='gallery-84' class='gallery galleryid-1782 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

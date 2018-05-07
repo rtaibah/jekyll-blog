@@ -1,18 +1,15 @@
 ---
-id: 1815
+
+title: "Meh I Did 30 in 2"
 date: 2012-09-12T04:22:58+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/mesh-i-did-30-in-2-taken-with-instagram-at/
-permalink: /2012/09/12/mesh-i-did-30-in-2-taken-with-instagram-at/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/31384208863/mesh-i-did-30-in-2-taken-with-instagram-at
-tumblr_rtaibah_id:
-  - "31384208863"
-categories:
-  - Uncategorized
-format: gallery
+layout: lifestream 
+permalink: /2012/09/12/mesh-i-did-30-in-2
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
+
 <div id='gallery-73' class='gallery galleryid-1815 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   
