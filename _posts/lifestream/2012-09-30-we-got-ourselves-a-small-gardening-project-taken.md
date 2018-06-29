@@ -1,20 +1,15 @@
 ---
-id: 1734
+
+title: "We Got Ourseleves a Small Gardening Project"
 date: 2012-09-30T22:10:14+00:00
 author: rami
 layout: post
-guid: http://rtaibah.com/we-got-ourselves-a-small-gardening-project-taken/
 permalink: /2012/09/30/we-got-ourselves-a-small-gardening-project-taken/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32626063420/we-got-ourselves-a-small-gardening-project-taken
-tumblr_rtaibah_id:
-  - "32626063420"
-categories:
-  - Uncategorized
-tags:
-  - gardening
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
+
 <div id='gallery-100' class='gallery galleryid-1734 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

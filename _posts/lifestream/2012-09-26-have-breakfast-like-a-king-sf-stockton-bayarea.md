@@ -1,23 +1,13 @@
 ---
-id: 1755
+
+title: "Have Breakfast like a King"
 date: 2012-09-26T18:21:26+00:00
 author: rami
 layout: post
-guid: http://rtaibah.com/have-breakfast-like-a-king-sf-stockton-bayarea/
 permalink: /2012/09/26/have-breakfast-like-a-king-sf-stockton-bayarea/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32338790958/have-breakfast-like-a-king-sf-stockton-bayarea
-tumblr_rtaibah_id:
-  - "32338790958"
-categories:
-  - Uncategorized
-tags:
-  - bayarea
-  - norcal
-  - omnom
-  - sf
-  - stockton
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, san-francisco, food-porn]
+
 ---
 <div id='gallery-93' class='gallery galleryid-1755 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

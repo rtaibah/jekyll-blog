@@ -1,21 +1,15 @@
 ---
-id: 1752
+
+title: "Admiral Dewey From a Different Angle"
 date: 2012-09-26T20:00:35+00:00
 author: rami
 layout: post
-guid: http://rtaibah.com/admiral-dewey-from-a-different-angle-unionsquare/
 permalink: /2012/09/26/admiral-dewey-from-a-different-angle-unionsquare/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32344394205/admiral-dewey-from-a-different-angle-unionsquare
-tumblr_rtaibah_id:
-  - "32344394205"
-categories:
-  - Uncategorized
-tags:
-  - sf
-  - unionsquare
-format: gallery
+categories: [Lifestream]
+tags: [usa, san-francisco, california]
+
 ---
+
 <div id='gallery-94' class='gallery galleryid-1752 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

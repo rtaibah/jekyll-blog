@@ -1,21 +1,15 @@
 ---
-id: 1737
+
+title: "Mano's Big 3-O"
 date: 2012-09-30T02:40:50+00:00
 author: rami
 layout: post
-guid: http://rtaibah.com/the-big-3-o-happybirthdaymano-berkeley-taken/
-permalink: /2012/09/30/the-big-3-o-happybirthdaymano-berkeley-taken/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32566590889/the-big-3-o-happybirthdaymano-berkeley-taken
-tumblr_rtaibah_id:
-  - "32566590889"
-categories:
-  - Uncategorized
-tags:
-  - Berkeley
-  - happybirthdaymano
-format: gallery
+permalink: /2012/09/30/manos-big-3-o
+categories: [Lifestream]
+tags: [usa, california, berkeley, mulham]
+
 ---
+
 <div id='gallery-99' class='gallery galleryid-1737 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

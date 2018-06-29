@@ -1,23 +1,15 @@
 ---
-id: 1743
+
+title: "Late Night Snack"
 date: 2012-09-29T08:59:40+00:00
 author: rami
 layout: post
-guid: http://rtaibah.com/late-night-snack-emeryville-avenue64-oakland/
 permalink: /2012/09/29/late-night-snack-emeryville-avenue64-oakland/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32511555958/late-night-snack-emeryville-avenue64-oakland
-tumblr_rtaibah_id:
-  - "32511555958"
-categories:
-  - Uncategorized
-tags:
-  - avenue64
-  - emeryville
-  - oakland
-  - omnom
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
+
 <div id='gallery-97' class='gallery galleryid-1743 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

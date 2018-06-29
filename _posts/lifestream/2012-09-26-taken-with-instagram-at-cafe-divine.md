@@ -1,17 +1,13 @@
 ---
-id: 1758
+
+title: "Cafe Divine"
 date: 2012-09-26T17:54:36+00:00
 author: rami
 layout: post
-guid: http://rtaibah.com/taken-with-instagram-at-cafe-divine/
-permalink: /2012/09/26/taken-with-instagram-at-cafe-divine/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32337454070/taken-with-instagram-at-cafe-divine
-tumblr_rtaibah_id:
-  - "32337454070"
-categories:
-  - Uncategorized
-format: gallery
+permalink: /2012/09/26/cafe-divine/
+categories: [Lifestream]
+tags: [usa, california, san-francisco ]
+
 ---
 <div id='gallery-92' class='gallery galleryid-1758 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

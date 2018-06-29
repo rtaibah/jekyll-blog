@@ -1,17 +1,13 @@
 ---
-id: 1761
+
+title: "The Roster of the Dead"
 date: 2012-09-26T17:34:34+00:00
 author: rami
 layout: post
-guid: http://rtaibah.com/the-roster-of-the-dead-taken-with-instagram/
 permalink: /2012/09/26/the-roster-of-the-dead-taken-with-instagram/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32336470706/the-roster-of-the-dead-taken-with-instagram
-tumblr_rtaibah_id:
-  - "32336470706"
-categories:
-  - Uncategorized
-format: gallery
+categories: [Lifestream]
+tags: []
+
 ---
 <div id='gallery-91' class='gallery galleryid-1761 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

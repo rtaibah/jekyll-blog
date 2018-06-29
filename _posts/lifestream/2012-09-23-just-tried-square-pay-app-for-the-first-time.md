@@ -1,18 +1,15 @@
 ---
-id: 1764
+
+title: "Just Tried Square Pay App for the First Time"
 date: 2012-09-23T22:36:07+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/just-tried-square-pay-app-for-the-first-time/
+layout: lifestream 
 permalink: /2012/09/23/just-tried-square-pay-app-for-the-first-time/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32156880790/just-tried-square-pay-app-for-the-first-time
-tumblr_rtaibah_id:
-  - "32156880790"
-categories:
-  - Uncategorized
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
+
 <div id='gallery-90' class='gallery galleryid-1764 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

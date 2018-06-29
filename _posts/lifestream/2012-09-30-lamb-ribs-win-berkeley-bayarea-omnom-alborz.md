@@ -1,27 +1,15 @@
 ---
-id: 1740
+
+title: "Lamb Ribs Win!"
 date: 2012-09-30T01:50:04+00:00
 author: rami
 layout: post
-guid: http://rtaibah.com/lamb-ribs-win-berkeley-bayarea-omnom-alborz/
 permalink: /2012/09/30/lamb-ribs-win-berkeley-bayarea-omnom-alborz/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32563278050/lamb-ribs-win-berkeley-bayarea-omnom-alborz
-tumblr_rtaibah_id:
-  - "32563278050"
-categories:
-  - Uncategorized
-tags:
-  - alborz
-  - bayarea
-  - Berkeley
-  - Cal
-  - foodporn
-  - gobears
-  - omnom
-  - win
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, berkeley, food-porn]
+
 ---
+
 <div id='gallery-98' class='gallery galleryid-1740 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   

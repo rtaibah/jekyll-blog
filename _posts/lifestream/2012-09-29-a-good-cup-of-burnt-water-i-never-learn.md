@@ -1,20 +1,13 @@
 ---
-id: 1746
+
+title: "A Good Cup of Burnt Water"
 date: 2012-09-29T02:27:33+00:00
 author: rami
 layout: post
-guid: http://rtaibah.com/a-good-cup-of-burnt-water-i-never-learn/
 permalink: /2012/09/29/a-good-cup-of-burnt-water-i-never-learn/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/32495502137/a-good-cup-of-burnt-water-i-never-learn
-tumblr_rtaibah_id:
-  - "32495502137"
-categories:
-  - Uncategorized
-tags:
-  - emeryville
-  - starbucks
-format: gallery
+categories: [Lifestream]
+tags: [usa, california, emeryville]
+
 ---
 <div id='gallery-96' class='gallery galleryid-1746 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

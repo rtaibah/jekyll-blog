@@ -1,6 +1,6 @@
 ---
 
-title: "Berkeley Bowl Halal
+title: "Berkeley Bowl Halal"
 date: 2012-09-12T20:31:17+00:00
 author: rami
 layout: lifestream 
