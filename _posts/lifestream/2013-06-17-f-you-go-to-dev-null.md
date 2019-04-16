@@ -6,6 +6,7 @@ layout: lifestream
 permalink: /2013/06/17/f-you-go-to-dev-null
 categories: [Lifestream]
 tags: [humor,geek, path, pictures]
+image: f-you-go-to-dev-null.jpg
 
 ---
 

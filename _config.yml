@@ -39,7 +39,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Rami Taibah 
   avatar: bio-photo.jpg
-  email: taibah@gmail.com 
+  email: rami@taibah.co 
   disqus-shortname:
   twitter: rtaibah
   facebook: rtaibah
