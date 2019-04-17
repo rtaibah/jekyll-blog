@@ -1,28 +1,13 @@
 ---
-id: 1430
+
 title: Beautiful Horse Bust
-date: 2013-05-02T13:27:55+00:00
 author: rami
-layout: post
-guid: http://rtaibah.com/jeddah-wildlife-at-view-on-path/
+layout: lifestream 
 permalink: /2013/05/02/jeddah-wildlife-at-view-on-path/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/49435469231/jeddah-wildlife-at-view-on-path
-tumblr_rtaibah_id:
-  - "49435469231"
-image: /wp-content/uploads/2013/05/tumblr_mm6aqkd94g1qb4qlko1_1280.jpg
-categories:
-  - Checkins
-  - Pictures
-  - Saudi Arabia
-tags:
-  - Al-Rafea Conservation
-  - Art
-  - Bust
-  - Horse
-  - jeddah
-  - Path
-  - محمية الرفيعة
-format: gallery
+categories: [Lifestream]
+tags: [jeddah, saudi-arabia, path]
+image: beautiful-horse-bust.jpg
+
 ---
-[mapsmarker marker=&#8221;8&#8243;]
+
+{% include image.html url="/assets/images/content/lifestream/beautiful-horse-bust.jpg" description="Beautiful Horse Bust" %}

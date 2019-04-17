@@ -1,6 +1,6 @@
 ---
 
-title: "F*** You All goto /dev/null"
+title: F*** You All goto /dev/null
 author: rami
 layout: lifestream
 permalink: /2013/06/17/f-you-go-to-dev-null

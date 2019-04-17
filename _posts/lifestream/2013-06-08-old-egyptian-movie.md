@@ -10,6 +10,6 @@ image: sporting-a-new-look.jpg
 
 ---
 
-{% include image.html url="/assets/images/content/lifestream/sporting-a-new-look.jpg" description="Rami Taibah Selfie" %}
-
 Comments I got: Old Egyptian movie, 70’s, 80’s, Luigi, porn star….
+
+{% include image.html url="/assets/images/content/lifestream/sporting-a-new-look.jpg" description="Sporting A New Look" %}

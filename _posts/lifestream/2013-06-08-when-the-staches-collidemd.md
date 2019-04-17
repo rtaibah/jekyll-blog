@@ -1,6 +1,6 @@
 ---
 
-title: 'When The ‘Staches Collide'
+title: When The ‘Staches Collide
 author: rami
 layout: lifestream
 permalink: /2013/06/08/when-the-staches-collide
@@ -10,4 +10,6 @@ image: when-the-staches-collide.jpg
 
 ---
 
-{% include image.html url="/assets/images/content/lifestream/when-the-staches-collide.jpg" description="When the ‘staches collide… With my brother @oobi" %}
+When the ‘staches collide… With my brother @oobi.
+
+{% include image.html url="/assets/images/content/lifestream/when-the-staches-collide.jpg" description="When The ‘Staches Collide" %}

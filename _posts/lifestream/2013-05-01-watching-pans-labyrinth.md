@@ -1,16 +1,16 @@
 ---
-id: 1442
-title: 'Watching Pan&#8217;s Labyrinth'
-date: 2013-05-01T21:48:43+00:00
+
+title: "Watching Pan's Labyrinth"
 author: rami
-layout: post
-guid: http://rtaibah.com/watching-pans-labyrinth/
+layout: lifestream 
 permalink: /2013/05/01/watching-pans-labyrinth/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/49387233786/watching-pans-labyrinth
-tumblr_rtaibah_id:
-  - "49387233786"
-categories:
-  - Uncategorized
+categories: [Lifestream]
+tags: [jeddah, saudi-arabia, watching-now]
+image: watching-pans-labyrinth.jpg
+
 ---
-with May – View on [Path](https://path.com/p/1z14Ib).
+
+Watching Pan's Labyrinth with May.
+
+{% include image.html url="/assets/images/content/lifestream/watching-pans-labyrinth.jpg" description="Watching Pan's Labyrinth" %}
+
