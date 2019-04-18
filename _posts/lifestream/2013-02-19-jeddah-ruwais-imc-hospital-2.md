@@ -10,7 +10,7 @@ image: view-from-imc-hospital.jpg
 
 ---
 
-#jeddah #ruwais #IMC #Hospital at International Medical Center (IMC) | المركز الطبي الدولي 
+jeddah #ruwais #IMC #Hospital at International Medical Center (IMC) | المركز الطبي الدولي 
 
 {% include image.html url="/assets/images/content/lifestream/view-from-imc-hospital.jpg" description="View from IMC Hospital" %}
 
