@@ -6,8 +6,7 @@ excerpt: Web stuffs including images, videos, et al, that encompasses the 'spiri
 
 ---
 
-<h3>Work in progress!</h3>
-<div>Web stuffs including images, videos, et al, that encompasses the 'spirit' of my web experience at a given time.</div>
+<div class="description-blue">Over the years I blogged/shared (read: overshared) many things. This Web Zeitgeist holds all the things I shared but don't really fit in a blogpost, nor are they personal. It mostly contains memes, viral content, and intersting things I found around the web. It encompasses the 'spirit' of my web experience at a given time.</div>
 
 <ul class="post-list">
 {% for post in site.categories.Shenanigans %} 
