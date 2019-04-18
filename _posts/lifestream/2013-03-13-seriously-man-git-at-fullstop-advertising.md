@@ -5,7 +5,7 @@ author: rami
 layout: lifestream 
 permalink: /2013/03/13/seriously-man-git-at-fullstop-advertising/
 categories: [Lifestream]
-tags: [jeddah, saudi-arabia, full-stop, geek]
+tags: [jeddah, saudi-arabia, full-stop, geek, path]
 image: seriously-git.jpg
 
 ---

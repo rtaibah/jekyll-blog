@@ -5,7 +5,7 @@ author: rami
 layout: lifestream 
 permalink: /2013/03/11/10-games-22-points-to-go-with-games-against-the/
 categories: [Lifestream]
-tags: [jeddah, saudi-arabia, juve]
+tags: [jeddah, saudi-arabia, juve, path]
 image: 22-points-to-go.jpg
 
 ---

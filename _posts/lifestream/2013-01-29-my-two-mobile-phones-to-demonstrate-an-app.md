@@ -5,7 +5,7 @@ author: rami
 layout: lifestream 
 permalink: /2013/01/29/my-two-mobile-phones-to-demonstrate-an-app/
 categories: [Lifestream]
-tags: [jeddah, saudi-arabia, full-stop, design, ux] 
+tags: [jeddah, saudi-arabia, full-stop, design, ux, path] 
 image: my-two-mobile-phones-to-demonstrate-an-app.jpg
 
 ---

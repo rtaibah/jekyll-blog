@@ -5,7 +5,7 @@ author: rami
 layout: lifestream 
 permalink: /2013/02/08/i-am-error
 categories: [Lifestream]
-tags: [jeddah, saudi-arabia, geek] 
+tags: [jeddah, saudi-arabia, geek, path] 
 image: i-am-error.jpg
 
 ---

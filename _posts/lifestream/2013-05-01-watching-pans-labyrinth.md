@@ -5,7 +5,7 @@ author: rami
 layout: lifestream 
 permalink: /2013/05/01/watching-pans-labyrinth/
 categories: [Lifestream]
-tags: [jeddah, saudi-arabia, watching-now]
+tags: [jeddah, saudi-arabia, watching-now, path]
 image: watching-pans-labyrinth.jpg
 
 ---

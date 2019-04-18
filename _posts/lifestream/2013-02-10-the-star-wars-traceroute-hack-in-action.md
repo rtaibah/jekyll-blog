@@ -5,7 +5,7 @@ author: rami
 layout: lifestream 
 permalink: /2013/02/10/the-star-wars-traceroute-hack-in-action-hacking/
 categories: [Lifestream]
-tags: [jeddah, saudi-arabia, full-stop, geek] 
+tags: [jeddah, saudi-arabia, full-stop, geek, path] 
 image: the-star-wars-traceroute-hack-in-action-hacking.jpg
 
 ---
