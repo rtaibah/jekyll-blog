@@ -10,6 +10,6 @@ image: seriously-git.jpg
 
 ---
 
-Seriously git? At FullStop Advertising Agency
+# Seriously git? | FullStop Advertising Agency
 
 {% include image.html url="/assets/images/content/lifestream/seriously-git.jpg" description="Seriously Git?" %}
