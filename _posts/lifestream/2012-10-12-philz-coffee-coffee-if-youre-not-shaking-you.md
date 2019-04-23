@@ -1,30 +1,15 @@
 ---
-id: 1677
-date: 2012-10-12T23:42:40+00:00
-author: rami
-layout: post
-guid: http://rtaibah.com/philz-coffee-coffee-if-youre-not-shaking-you/
-permalink: /2012/10/12/philz-coffee-coffee-if-youre-not-shaking-you/
-tumblr_rtaibah_permalink:
-  - http://rtaibah.tumblr.com/post/33458903435/philz-coffee-coffee-if-youre-not-shaking-you
-tumblr_rtaibah_id:
-  - "33458903435"
-categories:
-  - Uncategorized
-tags:
-  - Berkeley
-  - coffee
-  - philz
-  - philzcoffee
-  - shattuck
-format: gallery
----
-<div id='gallery-119' class='gallery galleryid-1677 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://139.59.20.41/2012/10/12/philz-coffee-coffee-if-youre-not-shaking-you/attachment/1678/'><img width="150" height="150" src="http://139.59.20.41/wp-content/uploads/2012/10/tumblr_mbt0j4hUgI1qb4qlko1_1280-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://139.59.20.41/wp-content/uploads/2012/10/tumblr_mbt0j4hUgI1qb4qlko1_1280-150x150.jpg 150w, http://139.59.20.41/wp-content/uploads/2012/10/tumblr_mbt0j4hUgI1qb4qlko1_1280-300x300.jpg 300w, http://139.59.20.41/wp-content/uploads/2012/10/tumblr_mbt0j4hUgI1qb4qlko1_1280-100x100.jpg 100w, http://139.59.20.41/wp-content/uploads/2012/10/tumblr_mbt0j4hUgI1qb4qlko1_1280.jpg 612w" sizes="100vw" /></a>
-  </div></figure>
-</div>
 
-@philz_coffee &#8220;#Coffee if you&#8217;re not shaking, you are doing it wrong&#8221; 🙂 #philzCoffee #Berkeley #Shattuck #philz (Taken with [Instagram](http://instagram.com) at Philz Coffee)
+title: "If You're Not Shaking You Are Doing It Wrong"
+author: rami
+layout: lifestream
+categories: [Lifestream]
+tags: [california, usa, instagram]
+image: philz-coffee.jpg
+
+---
+
+If you're not shaking, you are doing it wrong 🙂 | at Philz Coffee
+
+
+{% include image.html url="/assets/images/content/lifestream/philz-coffee.jpg" description="If You're Not Shaking You Are Doing It Wrong" %}
