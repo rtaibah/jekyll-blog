@@ -3,7 +3,6 @@
 title: Instagram Policy Protest
 author: rami
 layout: lifestream 
-permalink: /2012/12/18/no-this-is-not-a-mistake/
 categories: [Lifestream, Blog]
 tags: [instagram, protest, privacy]
 image: instagram-policy-protest.jpg 

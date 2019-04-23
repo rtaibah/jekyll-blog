@@ -3,7 +3,6 @@
 title: My Family Has A Street In Jeddah
 author: rami
 layout: lifestream 
-permalink: /2012/12/22/my-family-has-a-street-in-jeddah-taibah/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia] 
 image: my-family-has-a-street-in-jeddah-taibah.jpg

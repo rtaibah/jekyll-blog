@@ -3,7 +3,6 @@
 title: One Step Closer
 author: rami
 layout: lifestream 
-permalink: /2013/01/25/one-step-closer/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, linux, path] 
 image: one-step-closer.jpg 

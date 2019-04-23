@@ -3,7 +3,6 @@
 title: Bikes,Books, and Coffee
 author: rami
 layout: lifestream 
-permalink: /2012/10/18/bikes-books-and-coffee/
 categories: [Lifestream]
 tags: [oakland, bikes, california, usa, coffee, instagram] 
 image: bikes-books-and-coffee.jpg

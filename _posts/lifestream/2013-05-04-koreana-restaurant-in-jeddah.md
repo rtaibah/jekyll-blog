@@ -3,7 +3,6 @@
 title: Koreana Restaurant in Jeddah
 author: rami
 layout: lifestream 
-permalink: /2013/05/04/found-this-hidden-korean-restaurant-lets-hope/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path]
 image: found-this-hidden-korean-restaurant.jpg

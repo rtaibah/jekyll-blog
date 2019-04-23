@@ -3,7 +3,6 @@
 title: Going to Riyadh; On That Dreaded bus
 author: rami
 layout: lifestream 
-permalink: /2013/02/17/going-to-riyadh-yes-on-that-dreaded-bus-jeddah/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path] 
 image: going-to-riyadh-yes-on-that-dreaded-bus-jeddah.jpg 

@@ -3,7 +3,6 @@
 title: "Our Billboards Need Ac's"
 author: rami
 layout: lifestream 
-permalink: /2013/01/04/our-billboards-need-acs/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path] 
 image: our-billboards-need-acs.jpg

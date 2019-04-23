@@ -3,7 +3,6 @@
 title: Crosses = Homicides 
 author: rami
 layout: lifestream 
-permalink: /2012/10/24/these-crosses-represent-the-number-of-homicides/
 categories: [Lifestream]
 tags: [instagram, usa, california, oakland]
 image: these-crosses-represent-the-number-of-homicides-oakland.jpg

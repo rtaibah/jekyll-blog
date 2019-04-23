@@ -3,7 +3,6 @@
 title: Campioni dItalia 12/13
 author: rami
 layout: lifestream
-permalink: /2013/05/05/campioniiii-juve-view-on-path/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, juve, path]
 image: campioni-d-italia-12-13.jpg

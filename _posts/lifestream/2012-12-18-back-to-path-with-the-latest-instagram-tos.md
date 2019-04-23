@@ -3,7 +3,6 @@
 title: Back To Path
 author: rami
 layout: lifestream 
-permalink: /2012/12/18/back-to-path/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path] 
 image: back-to-path.jpg

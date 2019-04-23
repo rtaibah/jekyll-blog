@@ -3,7 +3,6 @@
 title: Installing Arch Linux On A Macbook Pro
 author: rami
 layout: lifestream 
-permalink: /2013/01/25/installing-arch-linux-on-a-macbook-pro/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path, linux] 
 image: installing-arch-linux-on-a-macbook-pro.jpg

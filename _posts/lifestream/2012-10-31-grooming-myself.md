@@ -3,7 +3,6 @@
 title: Grooming Myself
 author: rami
 layout: lifestream 
-permalink: /2012/10/31/grooming-myself-i-know-it-doesnt-suit-me/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, instagram] 
 image: grooming-myself-i-know-it-doesnt-suit-me.jpg

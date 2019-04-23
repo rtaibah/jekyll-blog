@@ -3,7 +3,6 @@
 title: On Queue After Yesterday's Drubbing Of Chelsea
 author: rami
 layout: lifestream 
-permalink: /2012/11/21/on-queue-after-yesterdays-drubbing-of-chelsea/
 categories: [Lifestream]
 tags: [juve, jeddah, saudi-arabia, path]
 image: on-queue-after-yesterdays-drubbing-of-chelsea.jpg

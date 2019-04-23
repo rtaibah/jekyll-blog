@@ -3,7 +3,6 @@
 title: With May at 19th Century
 author: rami
 layout: lifestream 
-permalink: /2013/02/06/burger-omnom-jeddah-with-may-at-19th-century/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path] 
 image: burger-omnom-jeddah-with-may-at-19th-century.jpg

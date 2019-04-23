@@ -3,7 +3,6 @@
 title: Balah Al Sham
 author: rami
 layout: lifestream 
-permalink: /2013/02/18/balah-al-sham-foodporn-jeddah-omnom-arabic/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, food-porn, path] 
 image: balah-al-sham.jpg

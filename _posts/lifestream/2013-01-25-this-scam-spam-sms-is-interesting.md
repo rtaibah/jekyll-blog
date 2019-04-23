@@ -3,7 +3,6 @@
 title: This Scam/Spam SMS is Interesting
 author: rami
 layout: lifestream 
-permalink: /2013/01/25/this-scam-spam-sms-is-interesting-on-so-many/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path, security] 
 image: this-scam-is-interesting.jpg

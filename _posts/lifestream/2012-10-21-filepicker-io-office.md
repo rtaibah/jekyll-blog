@@ -3,7 +3,6 @@
 title: Filepicker.io Office
 author: rami
 layout: lifestream 
-permalink: /2012/10/21/filepicker-io-office/
 categories: [Lifestream]
 tags: [san-francisco, california, usa, instagram] 
 image: filepicker-io-office-view-at-filepicker-io.jpg

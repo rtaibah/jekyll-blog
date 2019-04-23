@@ -3,7 +3,6 @@
 title: Othmalia Kibbat Laban and Cheese Roqaqat
 author: rami
 layout: lifestream 
-permalink: /2013/02/14/othmalia-kibbat-laban-and-and-cheese-roqaqat/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, food-porn, path] 
 image: othmalia-kibbat-laban-and-and-cheese-roqaqat.jpg

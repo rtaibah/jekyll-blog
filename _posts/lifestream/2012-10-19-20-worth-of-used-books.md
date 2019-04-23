@@ -3,7 +3,6 @@
 title: 20 Worth Of Used Books
 author: rami
 layout: lifestream 
-permalink: /2012/10/19/20-worth-of-used-books/
 categories: [Lifestream]
 tags: [berkeley, usa, california, instagram] 
 image: 20-worth-of-used-books-yay-at-moes-books.jpg

@@ -3,7 +3,6 @@
 title: "Jeddah's Balad near Tamer"
 author: rami
 layout: lifestream 
-permalink: /2013/02/06/jeddah-balad-near-tamer/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path] 
 image: tamer-jeddah-balad.jpg

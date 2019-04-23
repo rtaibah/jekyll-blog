@@ -3,7 +3,6 @@
 title: Niners Pom Poms
 author: rami
 layout: lifestream 
-permalink: /2012/10/19/niners-pom-poms/
 categories: [Lifestream]
 tags: [49ers, san-francisco, usa, california, instagram] 
 image: niners-pom-poms-49ers-nfl.jpg

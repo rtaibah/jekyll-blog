@@ -3,7 +3,6 @@
 title: Noms Were Had
 author: rami
 layout: lifestream 
-permalink: /2013/05/01/with-hassan-al-bargi-doing-some-user-research-at/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path]
 image: noms-were-had.jpg

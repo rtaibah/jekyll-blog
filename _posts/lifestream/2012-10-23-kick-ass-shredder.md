@@ -3,7 +3,6 @@
 title: Kick Ass Shredder
 author: rami
 layout: lifestream 
-permalink: /2012/10/23/kick-ass-shredder-berkeley-privacy-at/
 categories: [Lifestream]
 tags: [berkeley, usa, california, instagram] 
 image: kick-ass-shredder-berkeley-privacy.jpg

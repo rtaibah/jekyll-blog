@@ -3,7 +3,6 @@
 title: IKEA Assembly Time!
 author: rami
 layout: lifestream 
-permalink: /2013/05/04/ikea-assembly-time-fun-jeddah-themove-view/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, ikea]
 image: ikea-assembly-time.jpg

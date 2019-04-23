@@ -3,7 +3,6 @@
 title: The Forlorn City
 author: rami
 layout: lifestream 
-permalink: /2013/02/17/the-forlorn-city-riyadh-at-riyadh-king-khalid/
 categories: [Lifestream]
 tags: [riyadh, saudi-arabia, path] 
 image: the-forlorn-city-riyadh-at-riyadh-king-khalid.jpg

@@ -3,7 +3,6 @@
 title: Just Got A Lifebook Testing Unit From Fujitsu
 author: rami
 layout: lifestream 
-permalink: /2012/11/07/just-got-a-lifebook-testing-unit-from-fujitsu/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, instagram] 
 image: just-got-a-lifebook-testing-unit-from-fujitsu.jpg

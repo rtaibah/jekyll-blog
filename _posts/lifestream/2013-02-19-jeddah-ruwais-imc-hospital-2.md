@@ -3,7 +3,6 @@
 title: View From IMC Hosptial
 author: rami
 layout: lifestream 
-permalink: /2013/02/19/jeddah-ruwais-imc-hospital-at-international/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path] 
 image: view-from-imc-hospital.jpg

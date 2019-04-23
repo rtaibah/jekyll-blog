@@ -3,7 +3,6 @@
 title: "UX @ Hauali: Sneak Peak"
 author: rami
 layout: lifestream 
-permalink: /2013/06/07/a-sneak-peak-of-the-ux-process-at-hauali/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, ux, wireframes, design]
 image: a-sneak-peak-of-the-ux-process-at-hauali.jpg

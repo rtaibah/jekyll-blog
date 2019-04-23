@@ -3,7 +3,6 @@
 title: When The ‘Staches Collide
 author: rami
 layout: lifestream
-permalink: /2013/06/08/when-the-staches-collide
 categories: [Lifestream]
 tags: [family, picture, path, jeddah, saudi-arabia]
 image: when-the-staches-collide.jpg

@@ -3,7 +3,6 @@
 title: Sporting A New Look
 author: rami
 layout: lifestream 
-permalink: /2013/06/08/comments-i-got-old-egyptian-movie-70s-80s/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, selfie]
 image: sporting-a-new-look.jpg 

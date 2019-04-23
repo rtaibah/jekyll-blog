@@ -3,7 +3,6 @@
 title: Was Wondering What The Lyrics for Nyancat
 author: rami
 layout: lifestream 
-permalink: /2013/02/05/nyan-cat-lyrics/
 categories: [Lifestream]
 tags: [full-stop, jeddah, saudi-arabia, path] 
 image: nyan-cat-lyrics.jpg

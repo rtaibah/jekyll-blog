@@ -3,7 +3,6 @@
 title: "Anjal: My School"
 author: rami
 layout: lifestream 
-permalink: /2012/11/04/anjal-my-school/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, instagram]
 image: anjal-my-school-jeddah.jpg

@@ -3,7 +3,6 @@
 title: Chicago Pizza @ Berkeley
 author: rami
 layout: lifestream 
-permalink: /2012/10/24/chicago-pizza-berkeley-albany-foodporn/
 categories: [Lifestream]
 tags: [berkeley, usa, california, food-porn, instagram]
 image: chicago-pizza-berkeley-albany-foodporn.jpg

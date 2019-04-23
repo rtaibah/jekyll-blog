@@ -3,7 +3,6 @@
 title: Jeddah IMC Hospital With May
 author: rami
 layout: lifestream 
-permalink: /2013/02/18/jeddah-imc-hospital-with-may-at-international/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, may, path]
 image: jeddah-imc-hospital-with-may.jpg

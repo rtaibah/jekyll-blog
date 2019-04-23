@@ -3,7 +3,6 @@
 title: Self Repair Manifesto Poster
 author: rami
 layout: lifestream 
-permalink: /2012/10/18/self-repair-manifesto-poster-installed/
 categories: [Lifestream]
 tags: [emeryville, california, usa, instagram] 
 image: self-repair-manifesto-poster-installed.jpg

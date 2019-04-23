@@ -3,7 +3,6 @@
 title: Jeddah Equivalent of Karanteena 
 author: rami
 layout: lifestream 
-permalink: /2012/10/17/i-am-in-jeddah-equivalent-of-the-karanteena/
 categories: [Lifestream]
 tags: [san-francisco, usa, california, instagram] 
 image: i-am-in-jeddah-equivalent-of-the-karanteena-tenderloin.jpg

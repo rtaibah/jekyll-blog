@@ -3,7 +3,6 @@
 title: Jeddah's New Corniche 
 author: rami
 layout: lifestream 
-permalink: /2012/12/01/1542/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path] 
 image: jeddah-new-corniche.jpg

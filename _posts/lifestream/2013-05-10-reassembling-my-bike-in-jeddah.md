@@ -3,7 +3,6 @@
 title: Reassembling My Bike in Jeddah
 author: rami
 layout: lifestream 
-permalink: /2013/05/10/reassembled-my-bike-on-my-own-today-learned-so/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, bike-porn, path]
 image: reassembling-my-bike-in-jeddah.jpg

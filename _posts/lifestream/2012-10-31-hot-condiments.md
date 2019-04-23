@@ -3,7 +3,6 @@
 title: Hot Condiments Ordered By Spicines 
 author: rami
 layout: lifestream 
-permalink: /2012/10/31/hot-condiments-ordered-by-spiciness/
 categories: [Lifestream]
 tags: [instagram, jeddah, saudi-arabia, food-porn]
 image: hot-condiments-ordered-by-spiciness-jeddah.jpg

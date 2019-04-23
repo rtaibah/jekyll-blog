@@ -3,7 +3,6 @@
 title: I'm Gonna Learn Braille Using
 author: rami
 layout: lifestream 
-permalink: /2013/01/27/im-gonna-learn-braille-using-this/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path] 
 image: im-gonna-learn-braille-using-this.jpg

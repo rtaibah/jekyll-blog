@@ -3,7 +3,6 @@
 title: My New Geeky Spectacles
 author: rami
 layout: lifestream 
-permalink: /2013/01/28/my-new-geeky-spectacles-what-do-you-think-at/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path] 
 image: my-new-geeky-spectacles.jpg

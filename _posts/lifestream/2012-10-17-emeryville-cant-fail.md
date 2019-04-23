@@ -3,7 +3,6 @@
 title: Emeryville's Can't Fail
 author: rami
 layout: lifestream 
-permalink: /2012/10/17/emeryville-cant-fail/
 categories: [Lifestream]
 tags: [emeryville, usa, california, instagram] 
 image: emeryville-cant-fail.jpg

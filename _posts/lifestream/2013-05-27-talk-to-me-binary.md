@@ -3,7 +3,6 @@
 title: Talk To Me Binary
 author: rami
 layout: lifestream 
-permalink: /2013/05/27/the-guys-at-work-got-me-a-baby-monitor-and-this/
 categories: [Lifestream]
 tags: [saudi-arabia, jeddah, keynan, full-stop, path]
 image: the-guys-at-work-got-me-a-baby-monitor-and-this.jpg

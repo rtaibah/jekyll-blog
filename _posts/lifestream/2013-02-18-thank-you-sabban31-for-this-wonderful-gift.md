@@ -3,7 +3,6 @@
 title: Thank You @Sabban31 For This Wonderful Gift
 author: rami
 layout: lifestream 
-permalink: /2013/02/18/thank-you-sabban31-for-this-wonderful-gift/
 categories: [Lifestream]
 tags: [juve, jeddah, saudi-arabia, path] 
 image: thank-you-sabban31-forza-juve.jpg

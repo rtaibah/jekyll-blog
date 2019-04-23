@@ -3,7 +3,6 @@
 title: Ajr 
 author: rami
 layout: lifestream 
-permalink: /2012/11/08/ajr/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, instagram] 
 image: ajr.jpg

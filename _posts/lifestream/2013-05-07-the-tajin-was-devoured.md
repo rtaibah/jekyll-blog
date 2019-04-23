@@ -3,7 +3,6 @@
 title: The Tajin Was Devoured
 author: rami
 layout: lifestream 
-permalink: /2013/05/07/the-tajin-was-devoured-jeddah-food-omnom/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, food-porn]
 image: the-tajin-was-devoured-jeddah-food-omnom.jpg

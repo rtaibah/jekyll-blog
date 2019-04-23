@@ -3,7 +3,6 @@
 title: Hanging Out
 author: rami
 layout: lifestream 
-permalink: /2013/01/08/hanging-out/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, food-porn] 
 image: hanging-out.jpg

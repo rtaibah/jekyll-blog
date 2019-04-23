@@ -3,7 +3,6 @@
 title: Oakland Brunch
 author: rami
 layout: lifestream 
-permalink: /2012/10/18/oakland-brunch-foodporn/
 categories: [Lifestream]
 tags: [oakland, food-porn, usa, california, instagram] 
 image: oakland-brunch-foodporn.jpg

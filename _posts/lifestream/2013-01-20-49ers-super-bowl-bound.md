@@ -3,7 +3,6 @@
 title: Yesssssss 49ers Super Bowl Bound
 author: rami
 layout: lifestream 
-permalink: /2013/01/20/49ers-superbowl-bound/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, path, 49ers] 
 image: 49ers-superbowl-bound.jpg

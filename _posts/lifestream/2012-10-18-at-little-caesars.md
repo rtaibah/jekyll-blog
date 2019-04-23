@@ -3,7 +3,6 @@
 title: At Little Caesars
 author: rami
 layout: lifestream 
-permalink: /2012/10/18/at-little-caesars/
 categories: [Lifestream]
 tags: [oakland, california, usa, instagram] 
 image: at-little-caesars.jpg

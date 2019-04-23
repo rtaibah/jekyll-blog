@@ -3,7 +3,6 @@
 title: Banana Kunafa
 author: rami
 layout: lifestream 
-permalink: /2013/02/05/banana-kunafa/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, food-porn, path] 
 image: banana-kunafa.jpg

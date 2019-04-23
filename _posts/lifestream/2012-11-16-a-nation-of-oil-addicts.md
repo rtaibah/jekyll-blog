@@ -3,7 +3,6 @@
 title: A Nation Of Oil Addicts Sh3b Oil
 author: rami
 layout: lifestream 
-permalink: /2012/11/16/a-nation-of-oil-addicts-sh3b-oil/
 categories: [Lifestream]
 tags: [jeddah, saudi-arabia, instagram, graffiti]
 image: a-nation-of-oil-addicts-sh3b-oil.jpg
