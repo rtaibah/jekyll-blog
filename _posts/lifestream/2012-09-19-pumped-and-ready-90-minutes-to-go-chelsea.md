@@ -1,21 +1,14 @@
 ---
 
-title: "Pumped and Ready: 90 Minutes to go For Chelsea"
-date: 2012-09-19T17:18:55+00:00
+title: Pumped and Ready
 author: rami
 layout: lifestream 
-permalink: /2012/09/19/pumped-and-ready-90-minutes-to-go-for-chelsea/
 categories: [Lifestream]
-tags: [usa, california, emeryville, juventus]
+tags: [usa, california, emeryville, juventus, instagram]
+image: pumped-and-ready-90-minutes-to-go-chelsea.jpg
 
 ---
 
-<div id='gallery-83' class='gallery galleryid-1785 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://139.59.20.41/2012/09/19/pumped-and-ready-90-minutes-to-go-chelsea/attachment/1786/'><img width="150" height="150" src="http://139.59.20.41/wp-content/uploads/2012/09/tumblr_malxfj4QTq1qb4qlko1_1280-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://139.59.20.41/wp-content/uploads/2012/09/tumblr_malxfj4QTq1qb4qlko1_1280-150x150.jpg 150w, http://139.59.20.41/wp-content/uploads/2012/09/tumblr_malxfj4QTq1qb4qlko1_1280-300x300.jpg 300w, http://139.59.20.41/wp-content/uploads/2012/09/tumblr_malxfj4QTq1qb4qlko1_1280-100x100.jpg 100w, http://139.59.20.41/wp-content/uploads/2012/09/tumblr_malxfj4QTq1qb4qlko1_1280.jpg 612w" sizes="100vw" /></a>
-  </div></figure>
-</div>
+Pumped and ready! 90 minutes to go for Chelse! 
 
-Pumped and ready! 90 minutes to go! #Chelsea #Juventus #CL #ChampionLeague #StamfordBridge (Taken with [Instagram](http://instagram.com))
+{% include image.html url="/assets/images/content/lifestream/pumped-and-ready-90-minutes-to-go-chelsea.jpg" description="Pumped and Ready: 90 Minutes to go For Chelsea" %}
