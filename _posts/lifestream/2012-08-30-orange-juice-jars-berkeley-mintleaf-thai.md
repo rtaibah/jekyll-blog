@@ -1,21 +1,14 @@
 ---
 
-title: "Orange Juice Jars"
-date: 2012-08-30T23:47:32+00:00
+title: Orange Juice Jars
 author: rami
 layout: lifestream 
-permalink: /2012/08/30/orange-juice-jars
 categories: [Lifestream]
-tags: [usa, california, berkeley, food-porn]
+tags: [usa, california, berkeley, food-porn, instagram]
+image: orange-juice-jars.jpg
 
 ---
 
-<div id='gallery-44' class='gallery galleryid-1904 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://139.59.20.41/2012/08/30/orange-juice-jars-berkeley-mintleaf-thai/attachment/1905/'><img width="150" height="150" src="http://139.59.20.41/wp-content/uploads/2012/08/tumblr_m9le38aEcF1qb4qlko1_1280-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://139.59.20.41/wp-content/uploads/2012/08/tumblr_m9le38aEcF1qb4qlko1_1280-150x150.jpg 150w, http://139.59.20.41/wp-content/uploads/2012/08/tumblr_m9le38aEcF1qb4qlko1_1280-300x300.jpg 300w, http://139.59.20.41/wp-content/uploads/2012/08/tumblr_m9le38aEcF1qb4qlko1_1280-100x100.jpg 100w, http://139.59.20.41/wp-content/uploads/2012/08/tumblr_m9le38aEcF1qb4qlko1_1280.jpg 612w" sizes="100vw" /></a>
-  </div></figure>
-</div>
+Orange juice jars. #Berkeley #MintLeaf #Thai | at Mint Leaf Vietnamese Restaurant
 
-Orange juice jars. #Berkeley #MintLeaf #Thai (Taken with [Instagram](http://instagram.com) at Mint Leaf Vietnamese Restaurant)
+{% include image.html url="/assets/images/content/lifestream/orange-juice-jars.jpg" description="Orange Juice Jars" %}
