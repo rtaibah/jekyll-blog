@@ -1,21 +1,14 @@
 ---
 
-title: "The Campanile"
-date: 2012-09-08T03:55:41+00:00
+title: The Campanile
 author: rami
 layout: lifestream 
-permalink: /2012/09/08/the-campanile
 categories: [Lifestream]
-tags: [usa, california, berkeley, cal]
+tags: [usa, california, berkeley, cal, instagram]
+image: the-campanile.jpg
 
 ---
 
-<div id='gallery-68' class='gallery galleryid-1830 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://139.59.20.41/2012/09/08/taken-with-instagram-at-campanile-sather-tower/attachment/1831/'><img width="150" height="150" src="http://139.59.20.41/wp-content/uploads/2012/09/tumblr_ma0iwuYmU21qb4qlko1_1280-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://139.59.20.41/wp-content/uploads/2012/09/tumblr_ma0iwuYmU21qb4qlko1_1280-150x150.jpg 150w, http://139.59.20.41/wp-content/uploads/2012/09/tumblr_ma0iwuYmU21qb4qlko1_1280-300x300.jpg 300w, http://139.59.20.41/wp-content/uploads/2012/09/tumblr_ma0iwuYmU21qb4qlko1_1280-100x100.jpg 100w, http://139.59.20.41/wp-content/uploads/2012/09/tumblr_ma0iwuYmU21qb4qlko1_1280.jpg 612w" sizes="100vw" /></a>
-  </div></figure>
-</div>
+The Campanile | at Campanile (Sather Tower)
 
-Taken with [Instagram](http://instagram.com) at Campanile (Sather Tower)
+{% include image.html url="/assets/images/content/lifestream/the-campanile.jpg" description="The Campanile" %}
