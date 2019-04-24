@@ -1,6 +1,6 @@
 ---
 
-Title: Steak Poggio
+title: Steak Poggio
 author: rami
 layout: lifestream 
 categories: [Lifestream]

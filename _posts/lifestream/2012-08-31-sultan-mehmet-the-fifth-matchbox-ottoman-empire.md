@@ -1,6 +1,6 @@
 ---
 
-Title: Sultan Mehmet The Fifth Matchbox
+title: Sultan Mehmet The Fifth Matchbox
 author: rami
 layout: lifestream 
 categories: [Lifestream]
