@@ -1,6 +1,6 @@
 ---
 
-Title: Lil Bee Enjoying our Pancakes
+title: Lil Bee Enjoying our Pancakes
 author: rami
 layout: lifestream 
 categories: [Lifestream]

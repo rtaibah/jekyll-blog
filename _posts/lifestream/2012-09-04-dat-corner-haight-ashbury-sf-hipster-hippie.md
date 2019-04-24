@@ -1,6 +1,6 @@
 ---
 
-Title: Dat Corner
+title: Dat Corner
 author: rami
 layout: lifestream 
 categories: [Lifestream]

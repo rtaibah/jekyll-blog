@@ -1,6 +1,6 @@
 ---
 
-Title: "Jerry Rice: A Childhood Hero"
+title: "Jerry Rice: A Childhood Hero"
 author: rami
 layout: lifestream 
 categories: [Lifestream]

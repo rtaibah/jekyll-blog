@@ -1,6 +1,6 @@
 ---
 
-Title: Labor Day BBQ At Golden Gate Park
+title: Labor Day BBQ At Golden Gate Park
 author: rami
 layout: lifestream 
 categories: [Lifestream]

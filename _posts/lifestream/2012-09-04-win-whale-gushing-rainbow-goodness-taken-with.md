@@ -1,6 +1,6 @@
 ---
 
-Title: Win Whale Gushing Rainbow Goodness
+title: Win Whale Gushing Rainbow Goodness
 author: rami
 layout: lifestream 
 categories: [Lifestream]
