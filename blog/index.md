@@ -3,11 +3,30 @@
 layout: page
 title: Blog
 excerpt: "An archive of blog posts sorted by date."
+pagination: 
+  enabled: true
+  category: Blog 
 
 ---
 
+
+{% if paginator.total_pages > 1 %}
+<ul class="paginator">
+  {% if paginator.previous_page %}
+  <li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
+
 <ul class="post-list">
-{% for post in site.categories.Blog%} 
+{% for post in paginator.posts %}
   <li>
     <article>
       <h3><a href="{{ site.siteurl }}{{ post.url }}">{{ post.title }} </a></h3>
