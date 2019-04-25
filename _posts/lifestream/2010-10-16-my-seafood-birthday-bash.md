@@ -1,20 +1,47 @@
 ---
 
-title: "My Seafood Birthday Bash"
+title: My Seafood Birthday Bash
 author: rami
 layout: lifestream 
-permalink: /2010/10/16/my-seafood-birthday-bash/
 categories: [Lifestream]
 tags: [usa, california, san-francisco, birthday]
+image: my-seafood-birthday-bash-1.jpg
 
 ---
 
-<div class='p_embed p_image_embed'>
-  <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020362-scaled1000.jpg"><img alt="P1020362" height="375" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020362-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020363-scaled1000.jpg"><img alt="P1020363" height="667" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020363-scaled1000.jpg?w=225" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020364-scaled1000.jpg"><img alt="P1020364" height="667" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020364-scaled1000.jpg?w=225" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020365-scaled1000.jpg"><img alt="P1020365" height="667" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020365-scaled1000.jpg?w=225" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020366-scaled1000.jpg"><img alt="P1020366" height="375" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020366-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020367-scaled1000.jpg"><img alt="P1020367" height="667" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020367-scaled1000.jpg?w=225" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020368-scaled1000.jpg"><img alt="P1020368" height="667" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020368-scaled1000.jpg?w=225" width="500" /></a><br /> <a href="http://rtaibah1.files.wordpress.com/2010/10/p1020369-scaled1000.jpg"><img alt="P1020369" height="667" src="http://rtaibah1.files.wordpress.com/2010/10/p1020369-scaled1000.jpg?w=225" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020370-scaled1000.jpg"><img alt="P1020370" height="667" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020370-scaled1000.jpg?w=225" width="500" /></a><br /> <a href="http://rtaibah1.files.wordpress.com/2010/10/p1020371-scaled1000.jpg"><img alt="P1020371" height="375" src="http://rtaibah1.files.wordpress.com/2010/10/p1020371-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020375-scaled1000.jpg"><img alt="P1020375" height="375" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020375-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020376-scaled1000.jpg"><img alt="P1020376" height="375" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020376-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://rtaibah1.files.wordpress.com/2010/10/p1020377-scaled1000.jpg"><img alt="P1020377" height="375" src="http://rtaibah1.files.wordpress.com/2010/10/p1020377-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020378-scaled1000.jpg"><img alt="P1020378" height="375" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020378-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020379-scaled1000.jpg"><img alt="P1020379" height="375" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020379-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020380-scaled1000.jpg"><img alt="P1020380" height="375" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020380-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020381-scaled1000.jpg"><img alt="P1020381" height="375" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020381-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020382-scaled1000.jpg"><img alt="P1020382" height="375" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020382-scaled1000.jpg?w=300" width="500" /></a><br /> <a href="http://139.59.20.41/wp-content/uploads/2011/12/p1020383-scaled1000.jpg"><img alt="P1020383" height="667" src="http://139.59.20.41/wp-content/uploads/2011/12/p1020383-scaled1000.jpg?w=225" width="500" /></a></p> 
-  
-  <div class='p_see_full_gallery'>
-    <a href="http://blog.ramitaibah.com/my-seafood-birthday-bash">See the full gallery on Posterous</a>
-  </div>
-</div>
+Crabs, shrimps, mussels and a bib. Thats the recipe for a perfect birthday. A [brand new Samsung Galaxy S helps too](/lifestream/got-the-best-birthday-present-a-g33k-could-ask-for-a-samsung-galaxy-s/) 🙂
 
-Crabs, shrimps, mussels and a bib. Thats the recipe for a perfect birthday. A [brand new Samsung Galaxy S helps too](http://blog.ramitaibah.com/got-the-best-birthday-present-a-g33k-could-as) 🙂
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-1.jpg" description="My Seafood Birthday Bash 1" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-2.jpg" description="My Seafood Birthday Bash 2" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-3.jpg" description="My Seafood Birthday Bash 3" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-4.jpg" description="My Seafood Birthday Bash 4" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-5.jpg" description="My Seafood Birthday Bash 5" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-6.jpg" description="My Seafood Birthday Bash 6" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-7.jpg" description="My Seafood Birthday Bash 7" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-8.jpg" description="My Seafood Birthday Bash 8" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-9.jpg" description="My Seafood Birthday Bash 9" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-10.jpg" description="My Seafood Birthday Bash 10" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-11.jpg" description="My Seafood Birthday Bash 11" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-12.jpg" description="My Seafood Birthday Bash 12" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-13.jpg" description="My Seafood Birthday Bash 13" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-14.jpg" description="My Seafood Birthday Bash 14" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-15.jpg" description="My Seafood Birthday Bash 15" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-16.jpg" description="My Seafood Birthday Bash 16" %}
+
+{% include image.html url="/assets/images/content/lifestream/my-seafood-birthday-bash-17.jpg" description="My Seafood Birthday Bash 17" %}
