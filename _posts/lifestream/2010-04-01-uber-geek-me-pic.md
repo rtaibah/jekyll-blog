@@ -1,16 +1,12 @@
 ---
 
-title: "Uber Geek Me [PIC]"
+title: Uber Geek Me
 author: rami
 layout: lifestream 
-permalink: /2010/04/01/uber-geek-me-pic/
 categories: [Lifestream]
 tags: [boston, usa]
+image: uber-geek-me.jpg
 
 ---
 
-<div class='p_embed p_image_embed'>
-  <a href="http://139.59.20.41/wp-content/uploads/2011/12/2010-04-01_09-37-56-scaled-1000.jpg"><img alt="2010-04-01_09" height="667" src="http://139.59.20.41/wp-content/uploads/2011/12/2010-04-01_09-37-56-scaled-1000.jpg?w=225" width="500" /></a>
-</div></p> 
-
-Sent from my Nexus One
+{% include image.html url="/assets/images/content/lifestream/uber-geek-me.jpg" description="Uber Geek Me [PIC]" %}
