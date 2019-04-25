@@ -1,14 +1,12 @@
 ---
 
-title: "Shepard Fairey @ ICA Boston"
+title: Shepard Fairey @ ICA Boston
 author: rami
 layout: lifestream 
-permalink: /2009/06/04/shepard-fairey-ica-boston/
 categories: [Lifestream]
-tags: [usa, boston, museums]
+tags: [usa, boston, museum, art]
+image: shepard-fairey-ica-boston.jpg
 
 ---
 
-<div class='p_embed p_image_embed'>
-  <a href="http://139.59.20.41/wp-content/uploads/2011/12/6mfwn-scaled1000.jpg"><img alt="6mfwn" height="667" src="http://139.59.20.41/wp-content/uploads/2011/12/6mfwn-scaled1000.jpg?w=225" width="500" /></a>
-</div>
+{% include image.html url="/assets/images/content/lifestream/shepard-fairey-ica-boston.jpg" description="Shepard Fairey @ ICA Boston" %}

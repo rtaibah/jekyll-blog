@@ -1,6 +1,6 @@
 ---
 
-title: Brilliant Makeup"
+title: Brilliant Makeup
 author: rami
 layout: lifestream 
 categories: [Lifestream]

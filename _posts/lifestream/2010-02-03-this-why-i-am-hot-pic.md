@@ -1,14 +1,12 @@
 ---
 
-title: "This Why I Am Hot [PIC]"
+title: This Why I Am Hot
 author: rami
 layout: lifestream 
-permalink: /2010/02/03/this-why-i-am-hot/
 categories: [Lifestream]
-tags: [boston, usa, nintendo, mario]
+tags: [boston, usa, nintendo, mario, retro]
+image: this-why-i-am-hot.jpg
 
 ---
 
-<div class='p_embed p_image_embed'>
-  <a href="http://139.59.20.41/wp-content/uploads/2011/12/2010-02-02_20-22-50-scaled-1000.jpg"><img alt="2010-02-02_20" height="667" src="http://139.59.20.41/wp-content/uploads/2011/12/2010-02-02_20-22-50-scaled-1000.jpg?w=225" width="500" /></a>
-</div>
+{% include image.html url="/assets/images/content/lifestream/this-why-i-am-hot.jpg" description="This Why I Am Hot" %}
