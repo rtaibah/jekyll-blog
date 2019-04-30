@@ -26,8 +26,8 @@ pagination:
   {% endif %}
 </ul>
 {% endif %}
-<ul class="post-list">
 
+<ul class="post-list">
 {% for post in paginator.posts %}
   <li>
     <article>
