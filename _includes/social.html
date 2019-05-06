@@ -1,0 +1,12 @@
+{%- assign owner= site.minima.site.owner -%}
+
+<ul class="owner.media-list">
+  {%- if owner.dribbble -%}<li><a href="https://dribbble.com/{{ owner.dribbble | cgi_escape | escape }}" title="{{ owner.dribbble | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-owner.icons.svg#dribbble' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  {%- if owner.flickr -%}<li><a href="https://www.flickr.com/photos/{{ owner.flickr | cgi_escape | escape }}" title="{{ owner.flickr | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-owner.icons.svg#flickr' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  {%- if owner.github -%}<li><a href="https://github.com/{{ owner.github | cgi_escape | escape }}" title="{{ owner.github | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-owner.icons.svg#github' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  {%- if owner.linkedin -%}<li><a href="https://www.linkedin.com/in/{{ owner.linkedin | cgi_escape | escape }}" title="{{ owner.linkedin | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-owner.icons.svg#linkedin' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  {%- for mst in owner.mastodon -%}{%- if mst.username and mst.instance -%}<li><a rel="me" href="https://{{ mst.instance | cgi_escape | escape}}/@{{mst.username}}" title="{{ mst.username | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-owner.icons.svg#mastodon' | relative_url }}"></use></svg></a></li>{%- endif -%}{%- endfor -%}
+  {%- if owner.twitter -%}<li><a href="https://twitter.com/{{ owner.twitter | cgi_escape | escape }}" title="{{ owner.twitter | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-owner.icons.svg#twitter' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  {%- if owner.telegram -%}<li><a href="https://t.me/{{ owner.telegram | cgi_escape | escape }}" title="{{ owner.telegram | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-owner.icons.svg#telegram' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  {%- if owner.rss -%}<li><a href="{{ 'feed.xml' | relative_url }}" title="{{ owner.rss | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-owner.icons.svg#rss' | relative_url }}"></use></svg></a></li>{%- endif -%}
+</ul>

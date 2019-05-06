@@ -20,7 +20,7 @@ pagination:
   </li>
   {% endif %}
   {% if paginator.next_page %}
-  <li>
+  <li class="older">
     <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
   </li>
   {% endif %}
@@ -42,3 +42,19 @@ pagination:
   </li>
 {% endfor %}
 </ul>
+
+{% if paginator.total_pages > 1 %}
+<ul class="paginator">
+  {% if paginator.previous_page %}
+  <li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="older">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
+
