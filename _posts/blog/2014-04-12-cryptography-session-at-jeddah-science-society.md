@@ -7,6 +7,7 @@ permalink: /2014/04/12/cryptography-session-at-jeddah-science-society/
 categories: [Blog]
 tags: [crypto, security, jeddah, saudi-arabia]
 summary: "Today, I lead a cryptography basics session at [Jeddah Science Society](http://thesciencesociety.com/). We started with the basics of a [Caesar ciphers](http://en.wikipedia.org/wiki/Caesar_cipher) and built up from there to how stream ciphers work. The topics covered:"
+image: rami-taibah-jeddah-science-society-crypto.jpg
 
 ---
 
