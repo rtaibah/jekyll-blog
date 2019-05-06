@@ -6,15 +6,16 @@ layout: linuxologist
 permalink: /2007/12/30/hiding-dirty-stuff-windows-vs-linux/
 categories: [Blog]
 tags: [humour, linux, windows]
+image: hiding-dirty-stuff-windows.jpg
 
 ---
 **In Windows:**
 
-![Hiding Dirty Stuff In Windows]({{"assets/images/content/blog/hiding-dirty-stuff-windows.jpg" | absolute_url }})
+![Hiding Dirty Stuff In Windows](/assets/images/content/blog/hiding-dirty-stuff-windows.jpg)
 
 **In Linux:**
 
-![Hiding Dirty Stuff In Linux]({{"assets/images/content/blog/hiding-dirty-stuff-linux.jpg" | absolute_url }})
+![Hiding Dirty Stuff In Linux](/assets/images/content/blog/hiding-dirty-stuff-linux.jpg)
 
 Paints you a pretty picture eh? :D
 

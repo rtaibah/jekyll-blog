@@ -6,7 +6,7 @@ layout: linuxologist
 permalink: /2010/04/01/linuxologist-in-a-new-skin
 category: [Blog]
 tags: [linux]
-summary: "Hello fellow Linuxologists! I am sure you have noticed that it has been a while since a new blogpost popped up in your RSS/Twitter feed. Don’t worry, we are not dead (yes we, its not just Rami anymore.) Since New Years, we have been working diligently on this new theme along with our main designer [Kumail](http://kumailht.com), who has been so supportive & inspirational, and I would like to take this chance to thank him for everything."
+image: Its-a-new-day.jpg
 
 ---
 ![It's a new day](/assets/images/content/blog/Its-a-new-day.jpg)

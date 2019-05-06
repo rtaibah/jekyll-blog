@@ -4,9 +4,9 @@ title: "Saudi First Kiss Parody"
 author: rami
 layout: historical-blog 
 permalink: /2014/04/06/saudi-first-kiss-parody/
-categories: [Blogs]
+categories: [Blog]
 tags: [first-kiss, meme, parody, saudi-arabia]
-summary: "In Saudi, it is traditional for some tribesmen to rub their noses. This is considered a very noble thing, and not in any way homosexual. The tradition comes off as weird and awkward to many 'modern' Saudis. Uturn (a popular Saudi Youtube channel) decided to parody the original first kiss video with a 'first nose' video."
+video: htZkAHFzDN8
 
 ---
 In Saudi, it is traditional for some tribesmen to rub their noses. This is considered a very noble thing, and not in any way homosexual. The tradition comes off as weird and awkward to many 'modern' Saudis. Uturn (a popular Saudi Youtube channel) decided to parody the original first kiss video with a 'first nose' video.

@@ -6,7 +6,6 @@ layout: linuxologist
 permalink: /2008/01/11/10-governments-running-linux-you-probably-didnt-know-about/
 categories: [Blog]
 tags: [linux, brazil, germany, austria, spain, china, france, india, south-korea peru, russia]
-summary: There are many governments around the world using Linux, here are a few.
 
 ---
 

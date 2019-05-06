@@ -6,7 +6,7 @@ layout: historical-blog
 permalink: /2010/02/03/dear-lost-director-iran-does-not-equal-iraq/
 category: [Blog]
 tags: [lost, tv]
-summary: Well the highly anticipated 6th season of Lost premiered today, and it did not fail to impress. Now I am not the kind of guy that dwells over details in the show, but something caught my attention that really irked me. Around 39:30, Sayid pulls out a passport, and opens it to look at Nadia's picture. Also, a US customs declaration form is visible in the background, with his name, DOB, flight, destination among other information. Which obviously means they took special attention to details in this shot. However, the passport itself was not Iraqi, but Iranian. In a glimpse of a second, I realized that the text was not Arabic, but Farsi (or Urdu.) What makes it worse, is that below the Farsi text, English text is clearly visible, and it says IRAN in capital letters.
+image: lost-sayid-iran-iraq-passport.jpg
 
 ---
 ![Lost-sayid-iran-iraq-passport](/assets/images/content/blog/lost-sayid-iran-iraq-passport.jpg)

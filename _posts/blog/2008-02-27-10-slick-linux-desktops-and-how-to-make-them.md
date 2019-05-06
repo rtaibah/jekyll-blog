@@ -6,6 +6,7 @@ layout: linuxologist
 permalink: /2008/02/27/10-slick-linux-desktops-and-how-to-make-them
 categories: [Blog]
 tags: [eye-candy, desktops, linux]
+image: planetary.jpeg
 
 ---
 
@@ -24,7 +25,7 @@ Having one wallpaper usually gets a bit dull, the solution? You get xplanet! xpl
 * Taskbars: top and bottom (no expansion)
 * Transparency: terminal only
 
-![Planetary Eye Candy Linux Desktop]({{"assets/images/content/blog/planetary.jpeg" | absolute_url }})
+![Planetary Eye Candy Linux Desktop](/assets/images/content/blog/planetary.jpeg)
 
 ## 2-Marshmallow Hunting
 
@@ -34,7 +35,7 @@ This one is one of my favorites because it's very easy on the eye. The [wallpape
 * Taskbars: top (no expansion) and Mac OSX style
 * Transparency: none
 
-![David Lanham Marshmellow hung destkop on linux]({{"assets/images/content/blog/marchmellowhunt_screenshot.jpeg" | absolute_url }})
+![David Lanham Marshmellow hung destkop on linux](/assets/images/content/blog/marchmellowhunt_screenshot.jpeg)
 
 ## 3-Futuristic Gentoo
 
@@ -44,7 +45,7 @@ This one is a StarWarish-Pokemonish-Haloish desktop. The original wallpaper is t
 * Taskbars: top and bottom (no expansion)
 * Transparency: yes
 
-![Futuristic Gentoo Desktop Linux Screenshot]({{"assets/images/content/blog/pokemon_screenshot.jpeg" | absolute_url }})
+![Futuristic Gentoo Desktop Linux Screenshot](/assets/images/content/blog/pokemon_screenshot.jpeg)
 
 
 ## 4-Even More Gentooish
@@ -55,7 +56,7 @@ This one is a jaw dropper, it just screams Gentoo! The icon theme is called [Lil
 * Taskbars: top, bottom, and Mac OSX style
 * Transparency: yes 
 
-![Futuristic Gentoo Desktop Linux Screenshot]({{"assets/images/content/blog/evenmoregentooish_screenshot.jpeg" | absolute_url }})
+![Futuristic Gentoo Desktop Linux Screenshot](/assets/images/content/blog/evenmoregentooish_screenshot.jpeg)
 
 
 ## 5-Bart Goes Nude
@@ -66,7 +67,7 @@ Who doesn't love Bart? A kid that never seems to age or mature over the years. I
 * Taskbars: bottom (no expansion)
 * Transparency: none
 
-![Nude Bart Linux Desktop Screenshot]({{"assets/images/content/blog/nudebart_wp.jpeg" | absolute_url }})
+![Nude Bart Linux Desktop Screenshot](/assets/images/content/blog/nudebart_wp.jpeg)
 
 ## 6-Agent Smith Meet KDE
 
@@ -76,7 +77,7 @@ No Linux desktop list is complete without a Matrix desktop! This cool wallpaper 
 * Taskbars: top and bottom (no expansion)
 * Transparency: none
 
-![Agent Smith Linux Desktop Screenshot]({{"assets/images/content/blog/screensmith.jpeg" | absolute_url }})
+![Agent Smith Linux Desktop Screenshot](/assets/images/content/blog/screensmith.jpeg)
 
 ## 7-Hmmm...Portal?
 
@@ -86,7 +87,7 @@ This [wallpaper]({{"assets/images/content/blog/virtual_insanity.jpeg" | absolute
 * Taskbars: top and bottom (no expansion)
 * Transparency: yes
 
-![Portal Desktop Linux Screenshot]({{"assets/images/content/blog/hmmportal.jpeg" | absolute_url }})
+![Portal Desktop Linux Screenshot](/assets/images/content/blog/hmmportal.jpeg)
 
 ## 8-CamelSnowMan
 
@@ -96,7 +97,7 @@ This one was done by [CamelSnowMan](http://camelsnowman.deviantart.com/ "CamelSn
 * Taskbars: bottom (no expansion)
 * Transparency: none
 
-![CamelSnowMan Desktop Linux Screenshot]({{"assets/images/content/blog/gentoo_by_camelsnowman.jpeg" | absolute_url }})
+![CamelSnowMan Desktop Linux Screenshot](/assets/images/content/blog/gentoo_by_camelsnowman.jpeg)
 
 ## 9-Fedora Sky
 
@@ -106,7 +107,7 @@ Ok ok ya this one is mine, but it sure is slick, right? I already have [featured
 * Taskbars: Bottom (no expansion)
 * Transparency: Yes
 
-![Fedora Sky Desktop Linux Screenshot]({{"assets/images/content/blog/fedora_sky.jpeg" | absolute_url }})
+![Fedora Sky Desktop Linux Screenshot](/assets/images/content/blog/fedora_sky.jpeg)
 
 ## 10-Shrooms
 
@@ -116,4 +117,4 @@ This one is one of my favorite, dark and manageable! The [wallpaper]({{"assets/i
 * Tasbars: top (expansion) and bottom (no expansion)
 * Transparency: yes
 
-![Gentoo Linux Shrooms Desktop]({{"assets/images/content/blog/gentoo-linux.shrooms.png" | absolute_url }})
+![Gentoo Linux Shrooms Desktop](/assets/images/content/blog/gentoo-linux.shrooms.png)

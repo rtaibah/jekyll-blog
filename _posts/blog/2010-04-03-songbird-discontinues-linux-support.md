@@ -6,6 +6,7 @@ layout: linuxologist
 permalink: /2010/04/03/songbird-discontinues-linux-support/
 category: [Blog]
 tags: [linux]
+image: songbird-no-linux.png
 
 ---
 

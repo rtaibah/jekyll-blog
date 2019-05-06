@@ -6,6 +6,7 @@ layout: linuxologist
 permalink: /2010/06/17/linus-torvalds-to-nvidia-fuck-you
 category: [Blog]
 tags: [linux, nvidia, linus-torvalds]
+image: linus-torvalds-middle-finger.jpg
 
 ---
 

@@ -30,11 +30,17 @@ pagination:
     <article>
       <h3><a href="{{ site.siteurl }}{{ post.url }}">{{ post.title }} </a></h3>
       <div class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></div>
+
+      {% if post.video %}
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ post.video }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      {% endif %}
+
       {% if post.image %}
-        <a href="{{ site.siteurl }}{{ post.url }}">
+        <a class="post-thumb" href="{{ site.siteurl }}{{ post.url }}">
           <img src="{{ site.baseurl }}/assets/images/content/blog/{{ post.image }}">
         </a>
       {% endif %}
+
       {{ post.content | strip_html | truncatewords: 50 }}<a href="{{ site.siteurl }}{{ post.url }}"> continue reading</a>
     </article>
   </li>

@@ -6,7 +6,6 @@ layout: historical-blog
 permalink: /2008/01/24/digg-cartels-is-there-such-a-thing
 categories: [Blog]
 tags: [digg, kevin-rose, social-media]
-summary: Ever since the new "shout" function was introduced, things started to go downhill. Users would submit their stories and shout it left and right, getting 40 or 50 diggs in a couple of hours. Now that would be acceptable if these friends actually liked these stories and voted for them. But the reality couldn't be further! Blind shout digging is rampant! All of us know that, but nobody is really talking about it. It's Digg's big elephant in the room.
 
 ---
 

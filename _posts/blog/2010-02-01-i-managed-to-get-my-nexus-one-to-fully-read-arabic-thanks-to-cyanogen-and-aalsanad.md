@@ -6,7 +6,7 @@ layout: historical-blog
 permalink: /2010/02/01/i-managed-to-get-my-nexus-one-to-fully-read-arabic-thanks-to-cyanogen-and-aalsanad/
 category: [Blog]
 tags: [android, mobile, ux]
-summary: Well we have came a long way! I am not sure how long this has been around since I stopped to care with my G1. I was just content with it working. But now that I got the Nexus, I am back to tinkering with my phone.
+image: arabic-android-1.png
 
 ---
 Well we have came a long way! I am not sure how long this has been around since I stopped to care with my G1. I was just content with it working. But now that I got the Nexus, I am back to tinkering with my phone.

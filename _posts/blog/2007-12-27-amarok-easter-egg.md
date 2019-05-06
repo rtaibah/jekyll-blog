@@ -6,7 +6,7 @@ layout: linuxologist
 permalink: /2017/12/27/amarok-easter-egg
 categories: [Blog]
 tags: [amarok, easter-egg, linux]
-summary: One of [Mike Oldfield](http://en.wikipedia.org/wiki/Mike_Oldfield "Mike Oldfield")'s best pieces of work, [Amarok](http://en.wikipedia.org/wiki/Amarok_%28software%29 "Amarok"), inspired the name behind the audio-player you are currently using. Thanks for choosing Amarok!
+image: amarok-easter-egg-mike-oldfield.jpg
 
 ---
 
@@ -23,7 +23,7 @@ On [Answer.com](http://www.answers.com/topic/amarok-audio "Answer.com") Amarok p
 
 So I decided to test it out, here is a screen shot:
 
-![Amarok Easter Egg - Mike Oldfield]({{"assets/images/content/blog/amarok-easter-egg-mike-oldfield.jpg" | absolute_url }})
+![Amarok Easter Egg - Mike Oldfield](/assets/images/content/blog/amarok-easter-egg-mike-oldfield.jpg)
 
 Oddly enough, Answer.com states that their source is [Wikipedia](http://www.wikipedia.com "Wikipedia"), but this easter egg does not appear in the [Amarok](http://en.wikipedia.org/wiki/Amarok_%28software%29 "Amarok") article of wiki.
 

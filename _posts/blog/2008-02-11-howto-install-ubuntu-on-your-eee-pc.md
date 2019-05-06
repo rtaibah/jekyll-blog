@@ -6,7 +6,7 @@ layout: linuxologist
 permalink: /2008/02/11/howto-install-ubuntu-on-your-eee-pc
 categories: [Blog]
 tags: [eee-pc, ubuntu, howto]
-summary: I have [posted](/2008/02/06/eee-pcfinally) earlier that the "easy mode" of the Eee PC is like living on the bottom bunker in a basement cell of the Alcatraz. Liberating it to the default Xandros "advanced mode" is just like going out to yard with sweaty inmates, which isn't saying much.
+image: install-ubuntu-on-eee-pc-1.png
 
 ---
 
@@ -32,22 +32,22 @@ A couple of minutes later you will be on your default Ubuntu desktop. Before cli
 
 Now you are ready for installing, so click on the "Install" icon located on your desktop (pictures are eclipsed due to screen size):
 
-![Eee PC Ubuntu Install]({{"assets/images/content/blog/install-ubuntu-on-eee-pc-1.png" | absolute_url }})
+![Eee PC Ubuntu Install](/assets/images/content/blog/install-ubuntu-on-eee-pc-1.png)
 Select your language.
 
-![Eee PC Ubuntu Install]({{"assets/images/content/blog/install-ubuntu-on-eee-pc-2.png" | absolute_url }})
+![Eee PC Ubuntu Install](/assets/images/content/blog/install-ubuntu-on-eee-pc-2.png)
 Select your keyboard layout.
 
-![Eee PC Ubuntu Install]({{"assets/images/content/blog/install-ubuntu-on-eee-pc-3.png" | absolute_url }})
+![Eee PC Ubuntu Install](/assets/images/content/blog/install-ubuntu-on-eee-pc-3.png)
 Select manual partitioning.
 
-![Eee PC Ubuntu Install]({{"assets/images/content/blog/install-ubuntu-on-eee-pc-4.png" | absolute_url }})
+![Eee PC Ubuntu Install](/assets/images/content/blog/install-ubuntu-on-eee-pc-4.png)
 
 This is the tricky part, basically you will need to set a root partition for the system to be installed in. So we are going to partition /dev/sda1 and make it our root. Click on /dev/sda1 and then delete whatever partitions under it. Then click on new and in filesystem choose ext2 (we are not going to use ext3 because we want to limit writes due to the solid state disk nature of the Eee PC). Also set mount point to "/" (without the quotes).
 
 If you have an SDHC card click on it and edit the mount point to "/media/\*whatever\*". If you have nothing interesting in that card you might want to just delete whatever partitions and make a new partition, and choosing the filesystem as "fat32″. Since you never know when you might want to use it on Windows machine ;).
 
-![Eee PC Ubuntu Install]({{"assets/images/content/blog/install-ubuntu-on-eee-pc-5.png" | absolute_url }})
+![Eee PC Ubuntu Install](/assets/images/content/blog/install-ubuntu-on-eee-pc-5.png)
 
 Enter your details. Name, user name, password, and machine name. Click next.
 

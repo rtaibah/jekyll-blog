@@ -6,7 +6,7 @@ layout: linuxologist
 permalink: /2010/04/08/iphone-ipod-management-on-linux-just-got-easier
 category: [Blog]
 tags: [linux, apple]
-summary: "Its no secret that Apple keeps its products held very closely in attempt to lock users in their own walled-garden. While most people seem more than happy to lock themselves down, most Linux users are disgusted by Apple’s practices but still own an Apple device for some reason or another. Managing iPhones & iPods (probably iPads too) on Linux is notoriously buggy, prone to many cryptic error messages, and generally not for the faint of heart. The results are usually abysmal; sometimes it works, most of the time it doesn’t. [Libmobiledevice](https://web.archive.org/web/20130730154707/http://www.libimobiledevice.org/), aims to change that, and they seem to be on track."
+video: WGf4i_kxqRU
 
 ---
 

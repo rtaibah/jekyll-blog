@@ -6,7 +6,7 @@ layout: historical-blog
 permalink: /2010/11/29/mozilla-seabird-phone-concept-video/
 category: [Blog]
 tags: [mozilla, mobile, concept]
-summary: "I want this phone. I want it now! I find the wireless charging functionality is a killer here, its probably technically possible too. The keyboard would also be very cool, a bit gimmicky though."
+video: oG3tLxEQEdg
 
 ---
 

@@ -6,7 +6,7 @@ layout: linuxologist
 permalink: /2008/02/19/envelopes-15-minutes-of-fame
 categories: [Blog]
 tags: [macbook air, humour, parody, apple]
-summary: "Thanks to Apple, fitting gadgets into all kinds of envelopes has become some kind of a fad. Only on the Internet where one can shift focus from high-end expensive gadgets to a flat paper container!!"
+video: jLrW5SKusn0
 
 ---
 

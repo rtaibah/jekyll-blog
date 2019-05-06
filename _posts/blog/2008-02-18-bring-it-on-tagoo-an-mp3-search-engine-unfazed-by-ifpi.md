@@ -6,8 +6,7 @@ layout: linuxologist
 permalink: /2008/02/18/bring-it-on-tagoo-an-mp3-search-engine-unfazed-by-ifpi/
 categories: [Blog]
 tags: [oink, tagoo, allofmp3, piracy]
-
-summary: OiNK's final squeal was [last October](http://arstechnica.com/news.ars/post/20071023-police-ifpi-make-bacon-of-oink-bittorrent-tracker.html), AllOfMP3.com simply [changed its name](http://arstechnica.com/news.ars/post/20070703-allofmp3-com-breathes-its-final-breath.html), and The Pirate Bay is [busy reading a few legal documents](http://arstechnica.com/news.ars/post/20080114-swedish-prosecutors-dump-4000-legal-docs-on-the-pirate-bay.html). All across the globe the war against file sharing is heating up, and amidst all this commotion, a new Russian company named [Tagoo](http://www.tagoo.ru) apparently felt it was the right time to make a splash with its new MP3 search engine. The international game of whack-a-mole continues on, unsurprisingly, despite the IFPI's best efforts.
+image: tagooresults.jpg
 
 ---
 
@@ -17,5 +16,5 @@ You just gotta love the Russians! Complete disregard of the IFPI and their antic
 
 [via Ars Technica](http://arstechnica.com/news.ars/post/20080217-tagoo-youre-it-new-mp3-search-engine-unfazed-by-ifpi.html)
 
-![Tagoo]({{"assets/images/content/blog/tagooresults.jpg" | absolute_url }})
+![Tagoo](/assets/images/content/blog/tagooresults.jpg)
 

@@ -6,7 +6,7 @@ layout: historical-blog
 permalink: /2010/05/02/howto-auto-tweet-your-digg-submissions-once-they-hit-the-front-page/
 category: [Blog]
 tags: [digg, social-media]
-summary: As most of you know, I am an avid Digger ([rtaibah](http://digg.com/users/rtaibah).) So yesterday, I thought how cool would it be if I could auto-tweet any Digg story I submit once it hit the home page. Unfortunately, Digg provides RSS feeds for users' submits only, but not popular stories submitted by users. Enter Yahoo Pipes!
+image: yahoo-pipes-digg-tutorial-1.png
 
 ---
 As most of you know, I am an avid Digger ([rtaibah](http://digg.com/users/rtaibah).) So yesterday, I thought how cool would it be if I could auto-tweet any Digg story I submit once it hit the home page. Unfortunately, Digg provides RSS feeds for users' submits only, but not popular stories submitted by users. Enter Yahoo Pipes!

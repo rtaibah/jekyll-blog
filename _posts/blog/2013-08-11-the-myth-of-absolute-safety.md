@@ -6,6 +6,7 @@ layout: historical-blog
 permalink: /2013/08/11/the-myth-of-absolute-safety/
 categories: [Blog]
 tags: [saudi-arbia, violence]
+image: the-myth-of-absolute-safety.jpg
 
 ---
 

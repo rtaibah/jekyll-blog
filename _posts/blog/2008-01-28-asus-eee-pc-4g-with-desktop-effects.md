@@ -6,6 +6,7 @@ layout: linuxologist
 permalink: /2008/01/28/asus-eee-pc-4g-with-desktop-effects
 categories: [Blog]
 tags: [eee-pc, gadgets, eye candy]
+video: NFK7sOEVw5o
 
 ---
 

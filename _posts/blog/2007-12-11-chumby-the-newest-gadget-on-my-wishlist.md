@@ -6,11 +6,11 @@ layout: linuxologist
 permalink: /2007/11/06/chumby-the-newest-gadget-on-my-wishlist
 categories: [Blog]
 tags: [chumby, gadgets]
-summary: Chumby? What has gotten into you? God it looks ugly! Would you even buy a product called such a childish and pathetic name? Well yes, let's go beyond aesthetics and nomenclature criticism, and let me tell you what this little bad boy can do.
+image: chumby.jpg
 
 ---
 
-![Chumby]({{"assets/images/content/blog/chumby.jpg" | absolute_url }})
+![Chumby](/assets/images/content/blog/chumby.jpg)
 
 Chumby? What has gotten into you? God it looks ugly! Would you even buy a product called such a childish and pathetic name? Well yes, let's go beyond aesthetics and nomenclature criticism, and let me tell you what this little bad boy can do.
 

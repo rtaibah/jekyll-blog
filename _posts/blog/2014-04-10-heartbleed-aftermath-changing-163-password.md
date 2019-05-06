@@ -6,6 +6,7 @@ layout: historical-blog
 permalink: /2014/04/10/heartbleed-aftermath-changing-163-password/
 categories: [Blog]
 tags: [heart-bleed, security, lastpass]
+image: lastpass-password-change-1.png
 
 ---
 

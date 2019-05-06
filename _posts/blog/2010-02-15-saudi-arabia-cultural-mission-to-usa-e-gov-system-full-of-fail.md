@@ -6,7 +6,7 @@ layout: historical-blog
 permalink: /2010/02/15/saudi-arabia-cultural-mission-to-usa-e-gov-system-full-of-fail/
 category: [Blog]
 tags: [ux, saudi-arabia]
-summary: This is really stupid, especially in today's world. I mean I understand that Windows is THE dominant operating system (unfortunately.) But this is just, errm whats the word, ahhh yes PATHETIC! What about the other 10% non-Windows users? Need I remind the Mission that at least 40% of users do not use IE? 
+image: saudi-arabia-cultural-mission-to-usa-e-gov-system-full-of-fail-1.jpg
 
 ---
 

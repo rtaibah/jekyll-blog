@@ -6,6 +6,7 @@ layout: linuxologist
 permalink: top-10-reasons-you-should-use-windows
 categories: [Blog]
 tags: [windows, microsoft, lists, humour]
+image: bsod.gif
 
 ---
 
@@ -29,6 +30,6 @@ tags: [windows, microsoft, lists, humour]
 
 10- You are fond of the color blue! After any new hardware installation or system tweak, you appreciate being greeted with blue screens.
 
-![Windows BSOD]({{"assets/images/content/blog/bsod.gif" | absolute_url }})
+![Windows BSOD](/assets/images/content/blog/bsod.gif)
 
 *Thanks to [numerodix](http://www.matusiak.eu/numerodix/blog/) for helping me compiling this list.*

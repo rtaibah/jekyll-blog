@@ -6,7 +6,7 @@ layout: linuxologist
 permalink: /2008/03/01/compiz-website-hacked
 categories: [Blog]
 tags: [compiz]
-summary: While going about my business trying to find more [slick Linux desktops]({filename}/blog/2008-02-27-10-slick-linux-desktops-and-how-to-make-them.markdown), I decided to check out the [Compiz](http://compiz.org) website. So normally I navigated to the [screenshot](http://compiz.org/Home/Screenshots) section. I was left unsatisfied with a handful of low-res pictures. But I noticed a [discussion link](http://compiz.org/Talk:Home/Screenshots); so I thought "alright let's check that out maybe other people posted their stuff"
+image: compiz-website-hacked.png
 
 ---
 
@@ -16,7 +16,7 @@ To my surprise the "discussion" was nothing more than spam links! Everything fro
 
 Check out the screenshot (click to enlarge):
 
-[![Compiz Website Hacked?]({{"assets/images/content/blog/compiz-website-hacked.png" | absolute_url }})]({filename}/images/compiz-website-hacked.png)
+![Compiz Website Hacked?](/assets/images/content/blog/compiz-website-hacked.png)
 
 *Update*: Apparently the guys at Compiz were alerted (not sure if it was this blog entry though) and removed the links. But still there is a two line mumbo jumbo going on down there.
 
