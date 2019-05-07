@@ -1,17 +1,16 @@
 ---
 
-title: "Tell Me Your Distro, Ill Tell You Who You Are"
+title: "Tell Me Your Distro, I'll Tell You Who You Are"
 author: rami
 layout: linuxologist
-permalink: /2008/08/17/tell-me-your-distro-ill-tell-you-who-you-are
 categories: [Blog]
 tags: [linux, distros, anime]
-summary: "If the wine you drink, car you drive, food you eat, clothes you wear and even pets you have defines you as a person; does your choice of Linux Distro defines you too?"
+image: linux-distros-anime.jpe
 
 ---
 
 
-![Linux Distros Anime]({{"assets/images/content/blog/linux-distros-anime.jpeg" | absolute_url }})
+![Linux Distros Anime](/assets/images/content/blog/linux-distros-anime.jpeg)
 
 If the wine you drink, car you drive, food you eat, clothes you wear and even pets you have defines you as a person; does your choice of Linux Distro defines you too?
 

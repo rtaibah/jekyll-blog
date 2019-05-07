@@ -3,7 +3,6 @@
 title: I Managed To Get My Nexus One To Fully Read Arabic! Thanks to @Cyanogen and @aalsanad
 author: rami
 layout: historical-blog 
-permalink: /2010/02/01/i-managed-to-get-my-nexus-one-to-fully-read-arabic-thanks-to-cyanogen-and-aalsanad/
 category: [Blog]
 tags: [android, mobile, ux]
 image: arabic-android-1.png

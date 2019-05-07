@@ -3,7 +3,6 @@
 title: "10 Slick Linux Desktops, and How To Make Them"
 author: rami
 layout: linuxologist
-permalink: /2008/02/27/10-slick-linux-desktops-and-how-to-make-them
 categories: [Blog]
 tags: [eye-candy, desktops, linux]
 image: planetary.jpeg

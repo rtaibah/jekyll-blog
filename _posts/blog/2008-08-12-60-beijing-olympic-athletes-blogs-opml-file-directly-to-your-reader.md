@@ -3,15 +3,14 @@
 title: "60 Personal Blogs of Athletes Competing in Beijing: OPML File Directly To Your RSS Reader!"
 author: rami
 layout: historical-blog
-permalink: /2008/08/12/60-beijing-olympic-athletes-blogs-opml-file-directly-to-your-reader
 categories: [Blog]
 tags: [sports, olympics ]
-summary: "I have given this post a lot of thought, as I have been keeping this blog strictly a Linux and Open Source blog. But I must confess, I have been bitten by the Olympics bug, which is kind of distracting me from this blog. Beijing has literally flipped my life upside down. Events start around 5 AM in my local time, so I have been sleeping around 9 PM in order to wake up at 5! If I don't do this I will miss the whole thing, as I have a 9-6 workday. "
+image: linux-olympics.jpg
 
 ---
 
 
-![Linux Olympics]({{"assets/images/content/blog/linux-olympics.jpg" | absolute_url }})
+![Linux Olympics](/assets/images/content/blog/linux-olympics.jpg)
 
 I have given this post a lot of thought, as I have been keeping this blog strictly a Linux and Open Source blog. But I must confess, I have been bitten by the Olympics bug, which is kind of distracting me from this blog. Beijing has literally flipped my life upside down. Events start around 5 AM in my local time, so I have been sleeping around 9 PM in order to wake up at 5! If I don't do this I will miss the whole thing, as I have a 9-6 workday. 
 

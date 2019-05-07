@@ -3,7 +3,6 @@
 title: "Top 10 Reasons You Should Use Windows "
 author: rami
 layout: linuxologist
-permalink: top-10-reasons-you-should-use-windows
 categories: [Blog]
 tags: [windows, microsoft, lists, humour]
 image: bsod.gif

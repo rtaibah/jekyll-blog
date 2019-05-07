@@ -3,7 +3,6 @@
 title: "Bring It On! Tagoo, an MP3 search engine unfazed by IFPI!"
 author: rami
 layout: linuxologist
-permalink: /2008/02/18/bring-it-on-tagoo-an-mp3-search-engine-unfazed-by-ifpi/
 categories: [Blog]
 tags: [oink, tagoo, allofmp3, piracy]
 image: tagooresults.jpg

@@ -3,10 +3,9 @@
 title: "Lessons Linux Should Learn From Windows and Mac"
 author: rami
 layout: linuxologist
-permalink: /2008/10/things-we-could-learn-from-windows-and-mac/
 categories: [Blog]
 tags: [linux, linuxologist, windows, mac osx, observations]
-summary: "It shouldn't be too much of a stretch to assume that a good portion of those whom read this blog are Linux users, and so are involved to varying degrees in what is commonly called the 'Linux Community'. Anyone who's been into the whole Linux thang for a while has probably noticed this; I haven't even been into it for very long (just a year and a bit, perhaps), but I've seen the following attitude on display here and there throughout the community."
+image: mac-vs-linux-vs-win-custom.jpg
 
 ---
 

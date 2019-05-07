@@ -3,7 +3,6 @@
 title: "Digg Cartels: Is There Such A Thing?"
 author: rami
 layout: historical-blog
-permalink: /2008/01/24/digg-cartels-is-there-such-a-thing
 categories: [Blog]
 tags: [digg, kevin-rose, social-media]
 

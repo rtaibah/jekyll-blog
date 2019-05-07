@@ -3,14 +3,13 @@
 title: "9 Linux Myths Debunked"
 author: rami
 layout: linuxologist
-permalink: /2008/08/18/9-linux-myth-debunked
 categories: [Blog]
 tags: [linux, fud, microsoft, linuxologist]
-summary: "When it comes to Linux there are 4 kinds of people, those who never heard of it, those who love it, those who are afraid of it, and those who hate it and spread falsities about it. I don't really care about the first, they probably aren't really technologically literate anyways, as long as they have E-mail they are content. While the third  group is the result of the actions of the fourth. Let's hit two birds with one stone shall we?"
+image: linux-fud.jpg
 
 ---
 
-![Linux Faces FUD]({{"assets/images/content/blog/linux-fud.jpg" | absolute_url }})
+![Linux Faces FUD](/assets/images/content/blog/linux-fud.jpg)
 
 **If you enjoyed this article, then I would recommend to also read [The 7 Habits of Highly Effective Linux Users](/2008/04/16/the-7-habits-of-highly-effective-linux-users) and [Etymology of A Distro](/2008/04/06/etymology-of-a-distro). Enjoy!**
 
@@ -52,13 +51,13 @@ Well Linux provides you both and everything in between! And in a million and one
 
 You can install Compiz, which gives you rotating cubes for different desktops, wobbly windows, animated window behavior just to name a few. You can install [Enlightenment](http://www.enlightenment.org/), which provides you a sleek looking desktop that you have never seen before. KDE4 is a scene to behold! Anyways I think a picture is worth a thousand words,  here judge by yourself:
 
-![Linux and the Compiz Cube]({{"assets/images/content/blog/xgl-compiz.jpg" | absolute_url }})
+![Linux and the Compiz Cube](/assets/images/content/blog/xgl-compiz.jpg)
 
-![Linux and Compiz Cube]({{"assets/images/content/blog/compiz-6.jpeg" | absolute_url }})
+![Linux and Compiz Cube](/assets/images/content/blog/compiz-6.jpeg)
 
-![It's Snowing in Linux Land]({{"assets/images/content/blog/ubuntu-gusty-compiz-xgl-snow.png" | absolute_url }})
+![It's Snowing in Linux Land](/assets/images/content/blog/ubuntu-gusty-compiz-xgl-snow.png)
 
-![enlightenment-e17]({{"assets/images/content/blog/enlightenment-e17.jpg" | absolute_url }}) 
+![enlightenment-e17](/assets/images/content/blog/enlightenment-e17.jpg) 
 
 
 In fact you can actually make Linux like whatever you want, you can make it even look like Apple or Windows! The sky is the limit !;)
@@ -71,7 +70,7 @@ Seriously, just yesterday I walked into my brother's room, and  found a collecti
 
 Today, there are literally 100's of games that work under Linux, true they haven't been ported, but [Wine](http://en.wikipedia.org/wiki/Wine_%28software%29) (a program that allows Windows programs to run under Linux) has taken care of that. Just looking at the top [10 list of apps working under Wine](http://appdb.winehq.org/), one finds quite a lot of them are games. And a lot of them are VERY popular! Wine could also help in a lot of [other games](http://appdb.winehq.org/appbrowse.php?iCatId=2) too! You can also purchase [Cedega](http://www.transgaming.com/products/cedega/) which depends on Wine but makes the experience much more user-friendly. There is a [lot of help out there](http://frankscorner.org/), you just need to open your eyes a bit! And if all fails, virtualization could be a last resort!
 
-![World of Worldcraft Running on Linux using Wine]({{"assets/images/content/blog/wow-on-linux-using-wine.jpeg" | absolute_url }})
+![World of Worldcraft Running on Linux using Wine](/assets/images/content/blog/wow-on-linux-using-wine.jpeg)
 
 One could still argue that there are no Linux games, as all that this means that there are no native Linux games. Right? Not really, there are loads of native Open Source Linux games, I can't really vouch for them, but from the screen shots they do seem cool. Here have a [glimpse](http://rangit.com/software/top-8-linux-games-of-2007/).
 

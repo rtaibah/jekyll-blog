@@ -3,17 +3,16 @@
 title: "Plat Home : The Palm Size Linux Server"
 author: rami
 layout: linuxologist
-permalink: /2008/06/01/plathome-the-palm-size-linux-server
 categories: [Blog]
 tags: [hardware, linux]
-summary: While reading Linux Format magazine that other day, I stumbled upon a tidbit about a palm sized Linux server provided by a Japaneese based company has been officially launched in the US market. The magazine claimed that this server could be used as a firewall, DNS server, network management, and VoIP management. Like any hot-blooded geek, this instantly fused my interest, and jumped online to find out more about it.
+image: open-micro-server.gif
 
 ---
 
 While reading Linux Format magazine that other day, I stumbled upon a tidbit about a palm sized Linux server provided by a Japaneese based company has been officially launched in the US market. The magazine claimed that this server could be used as a firewall, DNS server, network management, and VoIP management. Like any hot-blooded geek, this instantly fused my interest, and jumped online to find out more about it.
 
 
-![Plat'Home's OpemMicroServer]({{"assets/images/content/blog/open-micro-server.gif" | absolute_url }})
+![Plat'Home's OpemMicroServer](/assets/images/content/blog/open-micro-server.gif)
 
 ## OpenMicroServer
 
@@ -41,6 +40,6 @@ I am pretty sure that there are even more applications this beast could be used 
 
 What makes this little device great is it's ultimate placement flexibility, it could fixed on walls, radars, airships, hell if you want to you can fix it under your sink! Trust me it won't complain! Just a word of caution, ITS NOT WATERPROOF! But it is Heatproof, it can handle very extreme weather conditions, according to the website, OpenMicroServer has an aluminum heat sink to the aluminum casing, which eliminates the need for a fan. The unit also employs a power efficient Alchemy CPU and precise part placement based on thermo-fluid analysis to achieve semi-hermetic construction with a guaranteed maximum operating temperature of 50°C/122°F.
 
-![OpenMicroServer Can Operate in Very Extreme Weather Conditions]({{"assets/images/content/blog/open-micro-server-weather.jpg" | absolute_url }})
+![OpenMicroServer Can Operate in Very Extreme Weather Conditions](/assets/images/content/blog/open-micro-server-weather.jpg)
 
 You can find out more over at [Plat'Home OpenMicroServer official page](http://www.plathome.com/products/microserver/oms/index.html).

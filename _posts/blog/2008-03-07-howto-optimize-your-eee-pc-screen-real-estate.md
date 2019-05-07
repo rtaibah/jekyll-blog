@@ -3,11 +3,9 @@
 title: "HOWTO: Optimize Your Eee PC Screen Real Estate"
 author: rami
 layout: linuxologist
-permalink: /2008/03/07/howto-optimize-your-eee-pc-screen-real-estate
 categories: [Blog]
 tags: [eee-pc, howto]
-summary: You will probably notice that the default [Ubuntu install](/2008/02/11/howto-install-ubuntu-on-your-eee-pc) screws up your valuable real estate very badly, everything is just cramped up. We need to do the some tweaks to snug everything into it's place.
-
+image: tiny-menu-plugin-for-firefox.png
 
 ---
 
@@ -66,11 +64,11 @@ This one is pretty straight forward. Just right click on both taskbars (top and 
 
 1- To minimize your menu you can install the [tiny menu plugin](https://addons.mozilla.org/en-US/firefox/addon/1455 "tiny menu plugin"), [microfox](https://addons.mozilla.org/en-US/firefox/addon/354 "microfox"), or [littlefox plugin](https://addons.mozilla.org/en-US/firefox/addon/307 "littlefox plugin").
 
-![Tiny Menu Plugin For Firefox]({{"assets/images/content/blog/tiny-menu-plugin-for-firefox.png" | absolute_url }})
+![Tiny Menu Plugin For Firefox](/assets/images/content/blog/tiny-menu-plugin-for-firefox.png)
 
-![Microfox Plugin for Firefox]({{"assets/images/content/blog/microfox-plugin-for-firefox.png" | absolute_url }})
+![Microfox Plugin for Firefox](/assets/images/content/blog/microfox-plugin-for-firefox.png)
 
-![Littlefox Plugin for Firefox]({{"assets/images/content/blog/littlefox-plugin-for-firefox.png" | absolute_url }})
+![Littlefox Plugin for Firefox](/assets/images/content/blog/littlefox-plugin-for-firefox.png)
 
 2-Install the stop-or-reload plugin. This plugin merges the stop and reload button into one.
 

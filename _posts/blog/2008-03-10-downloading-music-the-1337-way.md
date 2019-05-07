@@ -3,10 +3,8 @@
 title: "Downloading Music the 1337 Way!"
 author: rami
 layout: linuxologist
-permalink: /2008/03/10/downloading-music-the-1337-way
 categories: [Blog]
 tags: [bash-scripting, linux, music, howto]
-summary:  So you are at work and really want a song but just can't get it because torrenting at work is blocked or could really get you in trouble? No problem, why not use [youtube](http://youtube.com)? Chances are that the song is already there on some video, either the official music video or some random compilation!
 
 ---
 

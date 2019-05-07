@@ -3,7 +3,6 @@
 title: 'Feature Request: @Tweetdeck Half Columns. 8 Column/Screen Instead of 4'
 author: rami
 layout: historical-blog 
-permalink: /2010/03/28/feature-request-tweetdeck-half-columns-8-columnscreen-instead-of-4/
 category: [Blog]
 tags: [twitter, social-media, tweet-deck, ux]
 image: tweetdeck-feature-request-8-column.png

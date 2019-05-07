@@ -3,10 +3,9 @@
 title: "Ubuntu Dominating Google! Or is it?"
 author: rami
 layout: linuxologist
-permalink: /2008/09/29/ubuntu-dominating-google-or-is-it/
 categories: [Blog]
 tags: [microsoft, windows, ubuntu, linux,osx, google-trends]
-summary: "Google is a wonderful tool. No I am not talking about how it helps us locating the information we seek, unearthing valuable gems. But rather how it reveals trends. It's only logical, the more people are searching a keyword the more revealing of current trends. A pretty simple and straightforward hypothesis."
+image: ubuntu-vista-xp.jpg
 
 ---
 

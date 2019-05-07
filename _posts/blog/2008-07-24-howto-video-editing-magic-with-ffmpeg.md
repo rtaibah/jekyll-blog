@@ -2,11 +2,10 @@
 
 title: "HOWTO: Video Editing Magic with ffmpeg"
 author: rami
-permalink: /2008/07/24/howto-video-editing-magic-with-ffmpeg/
 layout: linuxologist
 categories: [Blog]
 tags: [linux, ffmpeg]
-summary: "ffmpeg is a very powerful tool to edit your videos, I would wager that it's all you will ever need. Unforunately ffmpeg is somewhat cumbersome, and I admit it isn't really 'top of mine' when I want to convert video files. I usually go around googling for GUI tools and totally forget about this tool, and when I do remember it, I am awfully intimidated by it. I am sure I am not alone on this :)."
+video: ln9YgXt6gxw
 
 ---
 

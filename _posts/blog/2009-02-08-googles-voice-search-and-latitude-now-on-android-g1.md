@@ -3,10 +3,8 @@
 title: "Googles Voice Search and Latitude Now on Android G1!"
 author: rami
 layout: linuxologist 
-permalink: /2009/02/08/googles-voice-search-and-latitude-now-on-android-g1/
 categories: [Blog]
 tags: [android, g1, google, jesusfreke]
-summary: "A lot of G1 users were disappointed when Google's voice search was first introduced for the iPhone but not the G1. It seemed almost scandalous. While Google's most recent innovations, Latitude, was promised for the G1, but on my modded RC30 phone all it said was 'coming soon'."
 
 ---
 

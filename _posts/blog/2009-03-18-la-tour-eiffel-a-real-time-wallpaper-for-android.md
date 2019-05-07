@@ -3,10 +3,9 @@
 title: "La Tour Eiffel: A Real-time Wallpaper For Android"
 author: rami
 layout: linuxologist 
-permalink: /2009/03/18/la-tour-eiffel-a-real-time-wallpaper-for-android/
 category: [Blog]
 tags: [android, technology, geek]
-summary: "[La Tour Eiffel](http://jraf.org/code-latoureiffel/content.xml) is an Android application develeoped by [Benoît Lubek](http://jraf.org/). It basically captures a live shot of the Eiffel tower in Paris, France and plasters it as your wallpaper on your Android phone. The updates are done every 30 minutes, and the shots are amazing! Its really fun seeing the Eiffel tower glowing at night and posing in all its glory under daylight."
+image: eiffel-tower-android.png
 
 ---
 

@@ -3,10 +3,9 @@
 title: "Order Pizza From A Linux Command Line"
 author: rami
 layout: linuxologist
-permalink: /2008/07/27/order-pizza-from-a-linux-command-line
 categories: [Blog]
 tags: [pizza, command line, linux, dominos]
-summary: "Linux beginners are usually advised to learn the command line, or at least I usually pass out that advice. There is probably nothing you can't do using a terminal, you just need to know what you are doing. Hell you can even order your own Pizza!"
+video: x7pPajOvQGo
 
 ---
 

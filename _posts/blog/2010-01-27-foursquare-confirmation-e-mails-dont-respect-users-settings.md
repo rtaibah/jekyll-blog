@@ -3,7 +3,6 @@
 title: "Foursquare Confirmation E-Mails Don't Respect Users Settings"
 author: rami
 layout: historical-blog 
-permalink: /2010/01/27/foursquare-confirmation-e-mails-dont-respect-users-settings/
 category: [Blog]
 tags: [foursquare, social-media, internet-history]
 image: foursquare-confirmation-emails-dont-respect-users-settings-1.png

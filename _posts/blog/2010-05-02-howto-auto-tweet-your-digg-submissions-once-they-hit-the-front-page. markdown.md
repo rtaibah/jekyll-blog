@@ -3,7 +3,6 @@
 title: 'Howto: Auto-Tweet Your Digg Submissions Once They Hit The Front Page'
 author: rami
 layout: historical-blog 
-permalink: /2010/05/02/howto-auto-tweet-your-digg-submissions-once-they-hit-the-front-page/
 category: [Blog]
 tags: [digg, social-media]
 image: yahoo-pipes-digg-tutorial-1.png

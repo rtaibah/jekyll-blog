@@ -3,10 +3,9 @@
 title: "Howto: Install KDE 4.3 on Ubuntu Jaunty"
 author: rami
 layout: linuxologist 
-permalink: /2009/08/07/howto-install-kde-4-3-on-ubuntu-jaunty/
 categories: [Blog]
 tags: [kde, linux, ubuntu, desktop]
-summary: "KDE 4.3 was released 3 days ago, bringing integration with other technologies, such as PolicyKit, NetworkManager & Geolocation services, was another focus of this release. KRunner's interface has been overhauled. A much more flexible system tray has been developed. Many new Plasmoids have been added, including the openDesktop.org Plasmoid -- an initial take on the Social Desktop. Plasma also receives more keyboard shortcuts."
+image: kde430-inspired.png
 
 ---
 

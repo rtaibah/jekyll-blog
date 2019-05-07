@@ -6,7 +6,7 @@ layout: linuxologist
 permalink: /2008/06/25/top-20-geek-epitaphs
 categories: [Blog]
 tags: [humour, geek]
-summary: 'What would the best geek epitaph be?. This immediately caught my attention as the question posed is fertile for for outrageous humor, witty comments, and downright geeky cheekiness. Here are some beaming examples:'
+image: geek-epitaph-not-be-right-back.jpg
 
 ---
 
@@ -52,8 +52,8 @@ I also took the liberty of googling some more, here are some other great example
 
 Pictures are worth a 1000 words:
 
-![Merv Griffin Epitaph]({{"assets/images/content/blog/geek-epitaph-not-be-right-back.jpg" | absolute_url }})
+![Merv Griffin Epitaph](/assets/images/content/blog/geek-epitaph-not-be-right-back.jpg)
 
-![R Andersen Epitaph; Connection Reset by Peer]({{"assets/images/content/blog/geektombstone-epitaph-connection-reset-by-peer.jpg" | absolute_url }})
+![R Andersen Epitaph; Connection Reset by Peer](/assets/images/content/blog/geektombstone-epitaph-connection-reset-by-peer.jpg)
 
 What would YOU have on your epitaph?

@@ -3,7 +3,6 @@
 title: 'Mozilla Seabird Phone Concept [VIDEO]'
 author: rami
 layout: historical-blog 
-permalink: /2010/11/29/mozilla-seabird-phone-concept-video/
 category: [Blog]
 tags: [mozilla, mobile, concept]
 video: oG3tLxEQEdg

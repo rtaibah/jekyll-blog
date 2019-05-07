@@ -3,7 +3,6 @@
 title: 'Saudi Arabia Cultural Mission to USA “e-gov” System Full of #FAIL'
 author: rami
 layout: historical-blog 
-permalink: /2010/02/15/saudi-arabia-cultural-mission-to-usa-e-gov-system-full-of-fail/
 category: [Blog]
 tags: [ux, saudi-arabia]
 image: saudi-arabia-cultural-mission-to-usa-e-gov-system-full-of-fail-1.jpg

@@ -3,10 +3,8 @@
 title: "Compositing With Metacity -- An Early Look"
 author: rami
 layout: linuxologist
-permalink: /2008/10/21/compositing-with-metacity-another-look/
 categories: [Blog]
 tags: [metacity, linux, compositing]
-summary: "When the [compositing capabilities](http://en.wikipedia.org/wiki/Compositing_window_manager) of Spiftacity [merged into the Metacity trunk](http://blog/s.gnome.org/metacity/2007/12/19/compositor-on-trunk/), it caused a fair bit of stir among GNOME users. Included in version 2.21.5 of GNOME, though hidden from casual users, the compositing showed a lot of promise but remained just something to play around with."
 
 ---
 

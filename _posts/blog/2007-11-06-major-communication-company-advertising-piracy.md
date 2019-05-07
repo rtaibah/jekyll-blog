@@ -3,7 +3,6 @@
 title: "Major Communications Company Advertising Piracy?"
 author: rami
 layout: historical-blog 
-permalink: /2007/11/06/major-communication-company-advertising-piracy/
 categories: [Blog]
 tags: [mobily,pics,wtf,saudi-arabia]
 image: mobily-saudi-arabia-promoting-piracy-large.jpg

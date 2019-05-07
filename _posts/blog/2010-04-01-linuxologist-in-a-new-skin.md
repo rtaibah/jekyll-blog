@@ -3,7 +3,6 @@
 title: "Linuxologist In A New Skin & A Fresh New Outlook"
 author: rami
 layout: linuxologist 
-permalink: /2010/04/01/linuxologist-in-a-new-skin
 category: [Blog]
 tags: [linux]
 image: Its-a-new-day.jpg

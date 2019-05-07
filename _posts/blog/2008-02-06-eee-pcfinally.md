@@ -3,7 +3,6 @@
 title: "eee pc...Finally!"
 author: rami
 layout: linuxologist
-permalink: /2008/02/06/eee-pc-finally
 categories: [Blog]
 tags: [eee-pc, asus, gadgets, xandros, eeexubuntu]
 image: eee-pc-rami-taibah-1.jpg

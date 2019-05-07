@@ -3,10 +3,9 @@
 title: Sony Xperia X10 gets official launch date
 author: rami
 layout: historical-blog 
-permalink: /2009/11/16/sony-xperia-x10-gets-official-launch-date/
 category: [Blog]
 tags: [mobile]
-summary: Sony Ericsson has unveiled the release date for its first-ever Android device – the Sony Xperia X10.
+image: sony-xperia-x10-gets-official-launch-date.jpg
 
 ---
 

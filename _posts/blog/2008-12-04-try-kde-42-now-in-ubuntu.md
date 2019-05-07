@@ -3,10 +3,8 @@
 title: "Ubuntu: Try KDE 4.2 Now!"
 author: rami
 layout: linuxologist
-permalink: /2008/12/04/try-kde-42-now-in-ubuntu/
 categories: [Blog]
 tags: [linux, kde, kwin, amarok]
-summary: "The fourth iteration of the [K Desktop Environment](http://www.kde.org) saw its first release in January of this year; while it generated a lot of hype in the community, its release disappointed many folks whom were expecting to be able to jump headlong into a brand new, next-generation, fully working desktop environment. The result was something that while buggy and unpolished, still hinted at innovation and greatness that only recently has started to really shine through."
 
 ---
 

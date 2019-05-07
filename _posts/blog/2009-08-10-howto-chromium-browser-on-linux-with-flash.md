@@ -3,10 +3,9 @@
 title: "Howto: Chromium Browser On Linux With Flash"
 author: rami
 layout: linuxologist 
-permalink: /2009/08/10/howto-chromium-browser-on-linux-with-flash/
 categories: [Blog]
 tags: [chromium, linux, ubuntu, flash]
-summary: "Around last year, we jumped through hoops by means of [Wine and Codeweavers to get Chromium up and running on Linux](/2008/09/28/chromium-googles-browser-on-linux-and-mac) (and Mac.) Luckily things have evolved since last year; today we have a daily build of Chromium on Linux, and Ubuntu even has its own [PPA](https://launchpad.net/~chromium-daily/+archive/ppa)!"
+image: Chromium-Linux-Flash1-1024x640.png
 
 ---
 

@@ -3,10 +3,9 @@
 title: "Help Spread Linux... Dont Preach It!"
 author: rami
 layout: linuxologist 
-permalink: /2008/11/14/help-spread-linux-without-preaching-it/
 categories: [Blog]
 tags: [linux, guest blog, advocacy]
-summary: "What does using Linux mean to you? Do you simply use it because it works best for you? While at its heart Linux itself, is nothing more than a software kernel, to many people it is much more. It is a mission, a mission to show the big industry players just what the common user can do without their help. On Ubuntu's Launchpad Bugs page, bug #1 to them has long been that 'Microsoft has majority market share'."
+image: preaching-linux.jpg
 
 ---
 

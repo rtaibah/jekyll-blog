@@ -3,7 +3,6 @@
 title: "It's A Wonderful Internet...But Not On Every Pasture"
 author: rami
 layout: linuxologist
-permalink: /2007/12/15/its-a-wonderful-internet-but-not-every-pasture/
 categories: [Blog]
 tags: [mobile, android, iphone, openmoko]
 image: web2.jpg

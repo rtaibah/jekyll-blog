@@ -3,10 +3,9 @@
 title: "Ubuntus Karmic Koala Needs You!"
 author: rami
 layout: linuxologist 
-permalink: /2009/07/15/ubuntus-karmic-koala-needs-you/
 categories: [Blog]
 tags: [ubuntu, linux, eye-candy]
-summary: "The Canonical Design team is currently running a contest for beautiful desktop wallpapers for its upcoming Ubuntu Karmic Koala 9.10 scheduled to be released in October 2009. They have created [a photo pool on Flickr](http://www.flickr.com/groups/ubuntu-artwork/) where you can submit or just browse proposed backgrounds:"
+image: Ubuntu-Artwork-Flickr-Karmic-Koala-9-10.png
 
 ---
 

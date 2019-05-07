@@ -3,10 +3,9 @@
 title: "Linux + Compiz + Touchscreen = Lethal Combo"
 author: rami
 layout: linuxologist
-permalink: /2008/09/27/linux-compiz-touchscreen-lethal-combo/
 categories: [Blog]
 tags: [eye-candy, linux]
-summary: "Touchscreens existed for quite some time. I knew they did, you knew they did, everybody knew they did. So why the **hell** have I not seen these videos before? I feel almost ashamed that these were uploaded back in 2006! Am really disappointed in myself, I think I need to improve my Interwebs kung fu! _moving into a fetal position_"
+video: dQkSObRtw0o
 
 ---
 

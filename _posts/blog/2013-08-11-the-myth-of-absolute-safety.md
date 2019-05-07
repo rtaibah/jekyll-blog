@@ -3,9 +3,8 @@
 title: "The Myth Of Absolute Safety"
 author: rami
 layout: historical-blog 
-permalink: /2013/08/11/the-myth-of-absolute-safety/
 categories: [Blog]
-tags: [saudi-arbia, violence]
+tags: [saudi-arabia, violence]
 image: the-myth-of-absolute-safety.jpg
 
 ---

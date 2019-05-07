@@ -3,10 +3,9 @@
 title: 'Top 10 Diggers: How They Lost Their "Virginity"'
 author: rami
 layout: historical-blog
-permalink: /2008/04/11/top-10-diggers-how-they-lost-their-virginity
 categories: [Blog]
 tags: [digg, social-media]
-summary: "Despite all it's faults and slip-ups, I absolutely love Digg. It has provided me great content, some inspiring, some funny, and others downright outrageous! But as any one would tell you, any social network is only as good as it's users, and Digg doesn't seem to be lacking on those. However, any great digger had a beginning, and most probably not a great one either."
+image: mrbabyman.png
 
 ---
 
@@ -14,7 +13,7 @@ Despite all it's faults and slip-ups, I absolutely love Digg. It has provided me
 
 I traced back the beginnings of the top 10 digg users according to [Chris Finke's list](http://www.chrisfinke.com/digg/topusers.html) (not sure how authentic it is, but hey at least I [am](http://digg.com/users/bianconeri4ever) on his 1000 list :P) What were their first bases (submissions)? How about their first home runs (first page)? Ladies and gentlemen, strap your seatbelts, upon reaching 88 mph we are gonna generate 1.21 gigawatts and go back to the future, errrm I mean past...we are gonna find out:
 
-![MrBabyMan Digg Avatar]({{"assets/images/content/blog/mrbabyman.png" | absolute_url }})
+![MrBabyMan Digg Avatar](/assets/images/content/blog/mrbabyman.png)
 
 ## MrBabyMan
 [MrBabyMan](http://digg.com/users/MrBabyMan/) joined Digg in December 2005, he is on the top of the food chain right now, everything he touches is gold.
@@ -23,7 +22,7 @@ I traced back the beginnings of the top 10 digg users according to [Chris Finke'
 
 **Home Run:** [Fatal1ty loses challenge at CES](http://digg.com/gaming_news/Fatal1ty_loses_challenge_at_CES), success finally! 1975 diggs :)
 
-![Msaleem Digg Avatar]({{"assets/images/content/blog/msaleem.png" | absolute_url }})
+![Msaleem Digg Avatar](/assets/images/content/blog/msaleem.png)
 
 ## Msaleem
 [Msaleem](https://msaleem.com) the social media maven joined Digg in September 2005.
@@ -32,7 +31,7 @@ I traced back the beginnings of the top 10 digg users according to [Chris Finke'
 
 **Home Run:** [How Google woos the best and brightest](http://digg.com/tech_news/How_Google_woos_the_best_and_brightest). Only the 5th submission, and he hit gold! 971 diggs.
 
-![Zaibatsu Digg Avatar]({{"assets/images/content/blog/zaibatsu.png" | absolute_url }})
+![Zaibatsu Digg Avatar](/assets/images/content/blog/zaibatsu.png)
 
 ## Zaibatsu
 
@@ -42,7 +41,7 @@ I traced back the beginnings of the top 10 digg users according to [Chris Finke'
 
 He scored a Home Run on his first date! Now I know Reg is a playa ;), it garnered only 72 diggs.
 
-![supernova17 Digg Avatar]({{"assets/images/content/blog/supernova17.png" | absolute_url }})
+![supernova17 Digg Avatar](/assets/images/content/blog/supernova17.png)
 
 ## supernova17
 
@@ -52,7 +51,7 @@ He scored a Home Run on his first date! Now I know Reg is a playa ;), it garnere
 
 **Home Run**: 4th submission; [Free 128mb flash drive from Insight](http://digg.com/tech_news/Free_128mb_flash_drive_from_Insight) with 104 diggs.
 
-![digitalgopher Digg Avatar]({{"assets/images/content/blog/digitalgopher.png" | absolute_url }})
+![digitalgopher Digg Avatar](/assets/images/content/blog/digitalgopher.png)
 
 ## digitalgopher
 
@@ -62,7 +61,7 @@ He scored a Home Run on his first date! Now I know Reg is a playa ;), it garnere
 
 **Home Run**: another Xbox submission; [Best Buy's response to Xbox 360 bundling complaints](http://digg.com/gaming_news/Best_Buy_s_response_to_Xbox_360_bundling_complaints) 1645 diggs.
 
-![cliffosakajapan Digg Avatar]({{"assets/images/content/blog/cliffosakajapan.png" | absolute_url }})
+![cliffosakajapan Digg Avatar](/assets/images/content/blog/cliffosakajapan.png)
 
 ## CLIFFosakaJAPAN
 
@@ -72,7 +71,7 @@ He scored a Home Run on his first date! Now I know Reg is a playa ;), it garnere
 
 **Home Run**: [Apple: ITunes Video Sales Top 1 Million in the first 20 days!!](http://digg.com/apple/Apple_ITunes_Video_Sales_Top_1_Million_in_the_first_20_days) 934 diggs.
 
-![mklopez Digg Avatar]({{"assets/images/content/blog/mklopez.png" | absolute_url }})
+![mklopez Digg Avatar](/assets/images/content/blog/mklopez.png)
 
 ## mklopez
 
@@ -82,7 +81,7 @@ He scored a Home Run on his first date! Now I know Reg is a playa ;), it garnere
 
 **Home Run**: [The longest concert in history is on right now. It will last 639 years.](http://digg.com/general_sciences/The_longest_concert_in_history_is_on_right_now._It_will_last_639_years.) 326 diggs.
 
-![p9s50W5k4GUD2c6 Digg Avatar]({{"assets/images/content/blog/p9s50W5k4GUD2c6.png" | absolute_url }})
+![p9s50W5k4GUD2c6 Digg Avatar](/assets/images/content/blog/p9s50W5k4GUD2c6.png)
 
 ## p9s50W5k4GUD2c6
 
@@ -92,7 +91,7 @@ He scored a Home Run on his first date! Now I know Reg is a playa ;), it garnere
 
 **Home Run**: 3rd submission; [Viruses: The New Battery Of The Future](http://digg.com/general_sciences/Viruses%3A_The_New_Battery_Of_The_Future). 675 diggs.
 
-![skored  Digg Avatar]({{"assets/images/content/blog/skored.png" | absolute_url }})
+![skored  Digg Avatar](/assets/images/content/blog/skored.png)
 
 ## skored
 
@@ -102,7 +101,7 @@ He scored a Home Run on his first date! Now I know Reg is a playa ;), it garnere
 
 **Home Run**: ['Santa Claus does not exist' school tells stunned kids](http://digg.com/odd_stuff/Santa_Claus_does_not_exist_school_tells_stunned_kids). 873 diggs
 
-![aaaz  Digg Avatar]({{"assets/images/content/blog/aaaz.png" | absolute_url }})
+![aaaz  Digg Avatar](/assets/images/content/blog/aaaz.png)
 
 ## aaaz
 

@@ -3,10 +3,9 @@
 title: "A Saudi's Pilgrimage to Torino!"
 author: rami
 layout: historical-blog 
-permalink: /2009/03/11/a-saudis-pilgrimage-to-torino/
 categories: [Blog]
 tags: [juventus, calcio, football]
-summary: "Around two years ago, Juventus fans were shocked with the very unfortunate fate of relegation. As a Juventus supporter, I went through the five stages of grief:  Denial, anger, bargaining, depression, and acceptance. I remember each stage vividly: Denying that the verdict would ever be applied, angry at the culprits, bargaining on the degree of punishment, depression in the first weeks of the season, and finally acceptance."
+image: a-saudis-pilgrimage-to-torino.jpg
 
 ---
 

@@ -3,10 +3,8 @@
 title: "30 Blogs Every Open Source Enthusiast Should Keep an Eye On"
 author: rami
 layout: linuxologist
-permalink: /2008/05/02/30-blogs-every-open-source-enthusiast-should-keep-an-eye-on
 categories: [Blog]
 tags: [linux, blogs]
-summary: Ok I have a confession, actually I really don't need to make one, because it's so transparent, but yes this is a linkbait. But I also promise you that each one of these blogs are great, fun and informative, and that I did my research on them. It's not just a headless list of blogs.
 
 ---
 

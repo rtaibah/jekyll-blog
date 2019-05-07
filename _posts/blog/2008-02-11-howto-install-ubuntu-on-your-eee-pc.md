@@ -3,7 +3,6 @@
 title: "HOWTO: Install Ubuntu on Your Eee PC"
 author: rami
 layout: linuxologist
-permalink: /2008/02/11/howto-install-ubuntu-on-your-eee-pc
 categories: [Blog]
 tags: [eee-pc, ubuntu, howto]
 image: install-ubuntu-on-eee-pc-1.png

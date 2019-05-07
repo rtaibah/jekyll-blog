@@ -3,7 +3,6 @@
 title: "Amarok Easter Egg"
 author: rami
 layout: linuxologist 
-permalink: /2017/12/27/amarok-easter-egg
 categories: [Blog]
 tags: [amarok, easter-egg, linux]
 image: amarok-easter-egg-mike-oldfield.jpg

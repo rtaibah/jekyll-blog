@@ -3,10 +3,9 @@
 title: "Create Your Own Linux Distro!"
 author: rami
 layout: linuxologist
-permalink: /2008/07/15/create-your-own-linux-distro
 categories: [Blog]
 tags: [nimblex, linux]
-summary: "One thing that I would probably have on my '50 Things I Should Do Before I Die' list (remind me to compile that), is create my own distro. And of course all of us Linux geeks would immediately think [Linux From Scratch](http://www.linuxfromscratch.org)! LFS is definately the way to go, but not all of us have the time or the knowledge (which requires even more time) to go about such project. So for us mere mortals, a project called [NimbleX 2 ](http://custom.nimblex.net/)works as a procrastination pill!"
+image: nimblex.jpg
 
 ---
 
@@ -20,7 +19,7 @@ One thing that I would probably have on my "50 Things I Should Do Before I Die" 
 [NimbleX 2](http://custom.nimblex.net/) is based obviously on NimbleX which is a Romanian version based on Slackware. [Raiden's Realm did an extensive review on NimbleX ](http://www.raiden.net/?cat=2&aid=328)if you are interested.
 
 
-![NimbleX]({{"assets/images/content/blog/nimblex.jpg" | absolute_url }})
+![NimbleX](/assets/images/content/blog/nimblex.jpg)
 
 ## Eeny, meeny, miny, moe...Not
 
@@ -34,7 +33,7 @@ You will basically have 3 options to choose from. But to be honest I really don'
 
 The first is redundant, the other two are just basically the same except for some check ticks...
 
-![NimbleX 2 Choose your Option]({{"assets/images/content/blog/nimblex2_select_customization.jpg" | absolute_url }})
+![NimbleX 2 Choose your Option](/assets/images/content/blog/nimblex2_select_customization.jpg)
 
 
 ## Customization...For the Faint of Heart
@@ -43,7 +42,7 @@ I will go with the 'Custom' option, after all I am 1337 and hardcore, I don't ne
 
 The customizer gives you a selection of tools divided into Office, Games, Network, Graphics, Multimedia, System, Develop, Libraries, and Drivers. You  choose whatever category you think will want/need in your distro of choice. For example, I am not really into Linux gaming, so I will probably leave that out. If you want to use NimbleX2 as an emergency tool, then you probably want to leave Graphics, Multimedia, Games, and Office out, and so on and so forth.
 
-![NimbleX 2 Choose Your Categories]({{"assets/images/content/blog/nimblex2_select_categories.jpg" | absolute_url }})
+![NimbleX 2 Choose Your Categories](/assets/images/content/blog/nimblex2_select_categories.jpg)
 
 ## Choose Your Poison
 
@@ -71,10 +70,10 @@ The app packages seem to be a bit dated though. For example OpenOffice is still 
 
 Unfortunately \*most\* computer users don't really live by this saying when it comes to choosing their OS. When it comes to OS'es they look for the bling bling and cool factor. Not us Linux users! That's why this option comes last! And rightly so. NimbleX 2 gives you the option to choose your desktop wallpaper from a preset of chosen categories, or upload your own.
 
-![NimbleX 2 Wallpapers]({{"assets/images/content/blog/nimblex2_select_wallpaper.jpg" | absolute_url }})
+![NimbleX 2 Wallpapers](/assets/images/content/blog/nimblex2_select_wallpaper.jpg)
 
 Next you will need to configure your default sound volume, greeting sounds, and KDE sounds. It's a shame that there is a very revolting spelling error in there!
 
-![Nimblex 2 Linux Sound]({{"assets/images/content/blog/nimblex2_select_sound.jpg" | absolute_url }})
+![Nimblex 2 Linux Sound](/assets/images/content/blog/nimblex2_select_sound.jpg)
 
 You will be finally asked to choose your username, root password, and language. Do your really want a screenshot for that? Ya I though so ;). The configurator will finally provide you with the settings you chose, and recommend tweaks if it thinks something is not right (default voice in my case). You will be greeted with a final note and a burn icon, click that, and you will have your iso in a matter of seconds! You will be allowed to create a distro only once a day though. Since the project is just funded by one person and very old hardware, if you like this, please consider [donating](https://www.paypal.com/ro/cgi-bin/webscr?cmd=_flow&SESSION=d5KJ2i8j53Ku3Ak7auqzG2RDEcThle5HPVhsd0wOVQMBOX5OmbsUlXukCxu&dispatch=5885d80a13c0db1f80512b0980fcab74abc3e59231243d18cfd0766a79a3b6f5)! I know I will!

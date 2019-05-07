@@ -3,10 +3,8 @@
 title: "Linux Could Even Look Like Windows If It Wanted To"
 author: rami
 layout: linuxologist 
-permalink: /2009/01/12/linux-could-look-like-windows-if-it-wanted-to
 category: [Blog]
 tags: [eye-candy,linux]
-summary: "I know, I know, why would you want to do that? Well maybe so you can trick your mother into thinking she’s on Windows and save yourself the obligatory bi-yearly tune-up. Or maybe you want to ease your friend into a Linux conversion. Or maybe just because “why not?”"
 
 ---
 

@@ -3,10 +3,9 @@
 title: "Numpty Physics: An Addictive Crayola-istic Puzzle Game!"
 author: rami
 layout: linuxologist 
-permalink: /2009/06/27/numpty-physics-an-addictive-crayola-istic-puzzle-game/
 categories: [Blog]
 tags: [linux, geek, gaming]
-summary: "Gaming in Linux has come a long way, last February, we covered [World of Goo](/2009/02/world-of-goo-an-eye-popping-game-ported-to-linux/). World of Goo captured headlines because it's originally a Nintendo Wii game but the developers have decided to port it to Linux. Anyways, if you liked World of Goo, then you will LOVE  [Numpty Physics](http://numptyphysics.garage.maemo.org/):"
+video: RXvr7ukkE80
 
 ---
 

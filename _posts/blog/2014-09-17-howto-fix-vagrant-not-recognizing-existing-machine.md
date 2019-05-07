@@ -3,7 +3,6 @@
 title: "HOWTO: Fix Vagrant Not Recognizing Existing Machine"
 author: rami
 layout: historical-blog 
-permalink: /2014/09/17/howto-fix-vagrant-not-recognizing-existing-machine/
 categories: [Blog]
 tags: [dev, vagrant]
 

@@ -3,10 +3,9 @@
 title: "Slitaz Linux: Zero to Distro in 30 MB!"
 author: rami
 layout: linuxologist 
-permalink: /2009/12/08/slitaz-linux-zero-to-distro-in-30-mb
 category: [Blog]
 tags: [linux, slitaz, distro-review]
-summary: "As a small (30 MB), quick-to-boot distro, SliTaz is entering a field well-served by the likes of DSL and Puppy Linux. When going up against such heavyweights, SliTaz must offer something truly remarkable to distinguish itself. This brief review of the LiveCD version demonstrates where SliTaz has exceeded expectations – and a few places it could use some polishing."
+image: slitaz-spider-logo.png
 
 ---
  ![Slitaz Linux spider logo](/assets/images/content/blog/slitaz-spider-logo.png)

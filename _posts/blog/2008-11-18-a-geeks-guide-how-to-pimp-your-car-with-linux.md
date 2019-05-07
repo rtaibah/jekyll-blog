@@ -3,10 +3,9 @@
 title: "A Geeks Guide: How To Pimp Your Car With Linux"
 author: rami
 layout: linuxologist
-permalink: /2008/11/18/a-geeks-guide-how-to-pimp-your-car-with-linux/
 categories: [Blog]
 tags: [car, linux, stereo]
-summary: "If you've just started using Linux, you've probably noticed an interesting phenomenon. You've entered a group of rugged individualists, non-conformists, people who know how to pull things apart and put them back together, people who don't like being spoon fed. There's plenty about Linux and the various desktops and applications in open source that's easy and fun to use. But real Linux nerds prefer rolling up their sleeves and getting their hands dirty."
+image: state-my-car-destination-linux.jpg
 
 ---
 

@@ -3,10 +3,9 @@
 title: "UbuntuSun: Proposed Lucid Lynx Theme Available For Download"
 author: rami
 layout: linuxologist 
-permalink: /2009/12/01/ubuntusun-proposed-lucid-lynx-theme-available-for-download
 category: [Blog]
 tags: [ubuntu, eye-candy-, ux]
-summary: "This blog has been neglected for quite some time, and been feeling really guilty about it. So lets kick off our emergence with some humor:"
+image: mockup-ubuntu-dawn-3.png
 
 ---
 

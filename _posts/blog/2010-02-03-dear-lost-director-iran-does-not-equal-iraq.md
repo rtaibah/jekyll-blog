@@ -3,7 +3,6 @@
 title: 'Dear #Lost Director, Iran Does NOT Equal Iraq'
 author: rami
 layout: historical-blog 
-permalink: /2010/02/03/dear-lost-director-iran-does-not-equal-iraq/
 category: [Blog]
 tags: [lost, tv]
 image: lost-sayid-iran-iraq-passport.jpg

@@ -3,14 +3,13 @@
 title: "PlatHomes Will Linux Work? Contest"
 author: rami
 layout: linuxologist
-permalink: /2008/08/01/plathomes-will-linux-work-contest
 categories: [Blog]
 tags: [plathome, linux, hardware]
-summary: "I previously did a review of the multi-purpose [Plat'home palm-size Linux  server](/2008/06/01/plathome-the-palm-size-linux-server). Plat'home claims that their servers can operate in very harsh and rigid environments. They can guarantee that this little critter can operate in tempratures up to 50°C/122°F!"
+image: plathome.jpg
 
 ---
 
-![plathome Linux OpenMicroServer]({{"assets/images/content/blog/plathome.jpg" | absolute_url }})
+![plathome Linux OpenMicroServer](/assets/images/content/blog/plathome.jpg)
 
 I previously did a review of the multi-purpose [Plat'home palm-size Linux  server](/2008/06/01/plathome-the-palm-size-linux-server). Plat'home claims that their servers can operate in very harsh and rigid environments. They can guarantee that this little critter can operate in tempratures up to 50°C/122°F!
 

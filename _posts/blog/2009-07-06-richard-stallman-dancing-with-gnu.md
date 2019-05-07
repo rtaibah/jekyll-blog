@@ -3,10 +3,9 @@
 title: "Richard Stallman Dancing With GNU!"
 author: rami
 layout: linuxologist 
-permalink: /2009/07/06/richard-stallman-dancing-with-gnu/
 categories: [Blog]
 tags: [humor, linux, gnu, off-topic]
-summary: "To some, [Richard Stallman](http://en.wikipedia.org/wiki/Richard_Stallman) is very controversial. But no one can doubt that he is in sync with his inner [GNU](http://en.wikipedia.org/wiki/GNU)! Here he is dancing at the [FISL 10 forum in Brazil](http://www.fisl.org.br/10/www/)."
+video: neRw5b7HVjw
 
 ---
 

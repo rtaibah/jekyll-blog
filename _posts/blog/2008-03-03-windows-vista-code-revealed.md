@@ -3,11 +3,8 @@
 title: "Windows Vista Code Revealed!!"
 author: rami
 layout: linuxologist
-permalink: /2008/03/03/windows-vista-code-revealed
 categories: [Blog]
 tags: [humour, microsoft, windows vista]
-
-summary: Well not really, it's just a funny little ad by [techradar](http://www.techradar.com "techradar") I found in the [Linux Format](http://www.linuxformat.co.uk "Linux Format") Special Edition "CODE IT!"
 
 ---
 

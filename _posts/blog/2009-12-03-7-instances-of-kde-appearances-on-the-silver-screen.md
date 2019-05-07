@@ -3,10 +3,9 @@
 title: "7 Instances of KDE Appearances On The Silver Screen"
 author: rami
 layout: linuxologist 
-permalink: /2009/12/03/7-instances-of-kde-appearances-on-the-silver-screen
 category: [Blog]
 tags: [kde]
-summary: "I don’t know about you, but when ever a computer screen appears in a movie or series I instantly focus on the interface, trying to glean what they have installed on the device. Even better, when possible, I pause and try to analyze and read the damn thing. We dugg up 7 instances of KDE appearances on the silver screen. Two of which are very recent: 'The Big Bang Theory' and 'Lie To Me'"
+image: 7-instances-of-kde-appearances-on-the-silver-screen-1.png
 
 ---
 

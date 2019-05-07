@@ -3,10 +3,8 @@
 title: "HOWTO: Convert A Friend To Linux"
 author: rami
 layout: linuxologist 
-permalink: /2007/12/27/howto-convert-a-friend-to-linux
 categories: [Blog]
 tags: [linux, humor, howto]
-summary:
 
 ---
 

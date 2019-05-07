@@ -3,10 +3,9 @@
 title: "Firefox 4.0 Screenshots Released"
 author: rami
 layout: linuxologist 
-permalink: /2009/07/28/firefox-4-0-screenshots-released/
 categories: [Blog]
 tags: [firefox, apps, ux]
-summary: "Unfortunately the screenshots are for Windows, none for Linux yet. Also, they warned that these are just a draft for exploration and/or brainstorming."
+image: Mockup-4-0-Vista-TabsBottom.png
 
 ---
 

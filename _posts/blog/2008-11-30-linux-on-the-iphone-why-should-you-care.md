@@ -3,10 +3,8 @@
 title: "Linux on the iPhone! Why Should You Care?"
 author: rami
 layout: linuxologist 
-permalink: /2008/11/30/linux-on-the-iphone-why-should-you-care/
 categories: [Blog]
 tags: [linux,iphone, mobile]
-summary: "[Time](/2008/07/11/sourceforge-on-your-iphone) and [time](/2008/07/25/iphone-3g-a-beautiful-jail) again I expressed my disdain for Apple and their anti-competitive tactics by locking down the iPhone and iPod. So its no wonder that the news the [Linux kernel has been successfully ported to the iPhone ](http://linuxoniphone.blogspot.com/2008/11/linux-on-iphone.html)came as a breath of fresh air. The guys over at [Linux on the iPhone ](http://www.iphonelinux.org/index.php/Main_Page) have managed to get the following to work:"
 
 ---
 

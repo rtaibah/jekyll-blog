@@ -3,10 +3,9 @@
 title: "3 Great Ways To Rotate Your Linux Desktop"
 author: rami
 layout: post
-permalink: /2009/03/25/3-great-ways-to-rotate-your-linux-desktop/
 categories: [Blog]
 tags: [linux, desktop, eye-candy]
-summary: "If you are like me, then you probably get bored of your desktop wallpaper quickly. Then why don't you rotate them? I know its nothing new really, and there are many ways to do that on your Linux desktop, but like all thing Linux, there is no one clear cut way to do it. There are several roads leading to Rome!"
+image: rotating-desktop.jpg
 
 ---
 

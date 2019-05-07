@@ -3,7 +3,6 @@
 title: "Caption This! And Win!!"
 author: rami
 layout: linuxologist
-permalink: /2008/02/15/caption-this-and-win
 categories: [Blog]
 tags: [contest, caption]
 image: windows-chicks-losing-their-virginity.jpg

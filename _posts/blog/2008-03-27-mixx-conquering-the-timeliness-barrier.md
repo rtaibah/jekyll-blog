@@ -3,10 +3,8 @@
 title: 'Mixx Conquering the "Timeliness" Barrier!'
 author: rami
 layout: historical-blog
-permalink: /2008/03/27/mixx-conquering-the-timeliness-barrier
 categories: [Blog]
 tags: [mixx, social media, digg]
-summary: "Social news websites are all the rave these days on web land, the basic idea is that users submit their news stories and then the community votes up or down. While such sites provide you with new and fresh content daily, but when it comes to breaking news it royally fails. For example, [this year's Pi day](http://digg.com/general_sciences/Happy_Pi_Day_10), which is celebrated on the 14th of March, reached to Digg's first page on the 15th where I live and the evening of the 14th in America. So in reality, Digg missed half the world by a day, and the other half had a late celebration."
 
 ---
 

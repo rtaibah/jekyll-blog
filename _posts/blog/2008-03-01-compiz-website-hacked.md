@@ -3,7 +3,6 @@
 title: "Compiz Website Hacked?"
 author: rami
 layout: linuxologist
-permalink: /2008/03/01/compiz-website-hacked
 categories: [Blog]
 tags: [compiz]
 image: compiz-website-hacked.png

@@ -3,10 +3,8 @@
 title: "A Major Milestone for Royal HeHe2-ness!"
 author: rami
 layout: linuxologist 
-permalink: /2008/07/10/a-major-milestone-for-royal-hehe2-ness
 categories: [Blog]
 tags: [announcements]
-summary: "For 8 month now, I have been blogging about Linux and Open Source. It has been a great journey so far, full of highs and lows, diggs, burries, and stumbles. But yesterday, a milestone has been achieved, something that I am really proud of, something that tells me that I must be doing something right! But before I announce it, let me just take you through my most succesful blogs:"
 
 ---
 

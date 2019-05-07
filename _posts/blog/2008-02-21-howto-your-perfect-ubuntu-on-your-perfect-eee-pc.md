@@ -3,7 +3,6 @@
 title: "Howto: Your Perfect Ubuntu on Your Perfect Eee PC"
 author: rami
 layout: linuxologist
-permalink: /2008/02/21/howto-your-perfect-ubuntu-on-your-perfect-eee-pc
 categories: Blog
 tags: [eee-pc, ubuntu, howto]
 summary: Now that you [installed Ubuntu](/2008/02/11/howto-install-ubuntu-on-your-eee-pc) on your Eee PC, you will soon realize that something is amiss. Wireless doesn't work, shutdown almost never works, the whole desktop seems to be cramped onto a small screen...etc. Now it's time to perfect our Ubuntu.

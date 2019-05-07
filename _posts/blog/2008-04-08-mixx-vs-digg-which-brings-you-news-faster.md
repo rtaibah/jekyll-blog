@@ -3,14 +3,13 @@
 title: "Mixx vs. Digg: Which Brings You News Faster?"
 author: rami
 layout: historical-blog
-permalink: /2008/04/08/mixx-vs-digg-which-brings-you-news-faster
 categories: [Blog]
 tags: [mixx, digg, social-media]
-summary: "I recently wrote a [blog post](/2008/03/27/mixx-conquering-the-timeliness-barrier) about Mixx's new [breaking news feature](http://blog.mixx.com/2008/03/25/mixx-puts-breaking-news-in-to-social-media/), which basically gives Mixx super users (SuperMixxers) the ability to flag a certain submission as 'breaking', two flag takes the story to the more prominent Breaking section on the site, giving it more exposure. On paper that sounds just perfect, but since I am a firm believer of the saying 'you cannot control what you can't measuere' I decided to measure the effectiveness of this new feature. The idea is pretty simple, just monitor the news that constitutes breaking news and see when it hits popular on both sites. So here we go:"
+image: mixx-vs-digg.jpg
 
 ---
 
-![Mixx vs. Digg]({{"assets/images/content/blog/mixx-vs-digg.jpg" | absolute_url }})
+![Mixx vs. Digg](/assets/images/content/blog/mixx-vs-digg.jpg)
 
 I recently wrote a [blog post](/2008/03/27/mixx-conquering-the-timeliness-barrier) about Mixx's new [breaking news feature](http://blog.mixx.com/2008/03/25/mixx-puts-breaking-news-in-to-social-media/ "breaking news feature"), which basically gives Mixx super users (SuperMixxers) the ability to flag a certain submission as "breaking", two flag takes the story to the more prominent Breaking section on the site, giving it more exposure. On paper that sounds just perfect, but since I am a firm believer of the saying "you cannot control what you can't measuere" I decided to measure the effectiveness of this new feature. The idea is pretty simple, just monitor the news that constitutes breaking news and see when it hits popular on both sites. So here we go:
 
@@ -45,7 +44,7 @@ Yeah, Mixx totally pwned Digg on this first one. Not only did it appear on Mixx 
 
 # B-1 Bomber Crashes in Qatar
 
-![B-1 Bomber]({{"assets/images/content/blog/b1-bomber.jpg" | absolute_url }})
+![B-1 Bomber](/assets/images/content/blog/b1-bomber.jpg)
 
 I submitted this story as soon as it broke on the Twitter [Breaking News Channel](http://twitter.com/BreakingNewsOn "Breaking News Channel"), and coincidentally I was the first on both sites. Initially Al-Jazeerah, the original news source, reported it was a B-52 bomber, only minutes later it was revealed that it was actually a B-1 bomber. Apparently Al-Jazeerah just screwed up, or the information about the whole story was scarce. It was interesting to see how both sites handled this sudden change of facts. Mixx had a very quick reaction to this, while Digg, well let's just inaction. Let me explain:
 
@@ -73,7 +72,7 @@ Digg as a community is very emotional about the war in Iraq, 114 users deemed it
 
 # Charles Heston, Dead at 84
 
-![Charles Heston]({{"assets/images/content/blog/charles-heston-dead.jpg" | absolute_url }})
+![Charles Heston](/assets/images/content/blog/charles-heston-dead.jpg)
 
 The moment I saw this, and it was early on 20 something diggs and a couple of Mixx votes, I knew that this would be popular on both sites. This more like the clash of the titans, it couldn't get any bigger than this. A movie legend and a political hotbed for controversy dead!
 

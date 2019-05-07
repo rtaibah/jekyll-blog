@@ -3,10 +3,9 @@
 title: 'My Micro-Blogging Rig: How I manage it all'
 author: rami
 layout: historical-blog 
-permalink: /2009/02/07/my-micro-blogging-rig-how-i-manage-it-all/
 category: [Blog]
 tags: [social-media, internet-history]
-summary: "Check out how I manage all my micro-blogging activities. This works for me thus far, I am sure there are more ways to enhance it, am still exploring."
+image: my-microblogging-rig.png
 
 ---
 

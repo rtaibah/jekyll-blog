@@ -3,7 +3,6 @@
 title: "Chumby: The Newest Gadget On My Wishlist!"
 author: rami
 layout: linuxologist 
-permalink: /2007/11/06/chumby-the-newest-gadget-on-my-wishlist
 categories: [Blog]
 tags: [chumby, gadgets]
 image: chumby.jpg

@@ -3,10 +3,9 @@
 title: "Microsofts Best Buy Lies About Linux Debunked"
 author: rami
 layout: linuxologist 
-permalink: /2009/09/07/microsofts-best-buy-lies-about-linux-debunked/
 categories: [Blog]
 tags: [microsoft, linux, fud, netbooks, hardware]
-summary: "In an effort to thwart Linux sales on netbooks, [Microsoft has started a training program at Best Buy to 'educate' their 'experts' on Linux](http://quaoar.ww7.be/ms_fud_of_the_year/569458-microsoft-attack-linux-retail-level-probably.html). And true to their fashion, MS resorted to FUD (Fear, Uncertainty, and Doubt) and straight out LIES! However, Microsoft still maintains that Linux is not a **threat** to their market, they are just spending all this money to 'help' people make an educated decision. Funny thing, is that they ended up promoting Linux."
+image: Linux-MS-FUD1.jpg
 
 ---
 

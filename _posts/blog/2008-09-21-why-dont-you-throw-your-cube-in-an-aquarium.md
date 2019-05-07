@@ -3,10 +3,9 @@
 title: "Why Dont You Throw Your Cube into an Aquarium?"
 author: rami
 layout: linuxologist
-permalink: /2008/09/21/why-dont-you-throw-your-cube-in-an-aquarium
 categories: [Blog]
-tags: [eye candy, apps, compiz, linux]
-summary: "[Sausagenmuff](http://www.youtube.com/user/sausagenmuff) has created a jaw-dropping Linux desktop featuring a cube, saltwater and fish. Now all of us have seen cool Compiz screenshots/screencasts, but this one takes the cake. He even called his desktop 'Atlantis', how fitting. Sausagenmuff describes how made this Desktop with 7 simple steps:"
+tags: [eye-candy, apps, compiz, linux]
+video: 2joXFz2rBuc
 
 ---
 

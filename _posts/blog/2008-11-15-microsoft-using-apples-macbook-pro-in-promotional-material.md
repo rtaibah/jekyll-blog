@@ -3,10 +3,9 @@
 title: "Microsoft Using Apples Macbook Pro In Promotional Material?"
 author: rami
 layout: linuxologist
-permalink: /2008/11/15/microsoft-using-apples-macbook-pro-in-promotional-material/
 categories: [Blog]
 tags: [microsoft, vista, playstation, macbook, apple]
-summary: "I know that this is a Linux blog, and thats what readers have come to expect. But sometimes one encounters stuff that is just too good to pass. So that other day my dad bought a new HP Pavilion desktop, and since I am the geek in residence I ended up setting it up for him. So while I was waiting for Microsoft's endless configuration and setup screens I decided to dig into the fluffy paraphernalia  and promotional material bundled with the Desktop. The first thing that fell into my hand was this Microsoft Vista promotional booklet that had an image of the ideal happy family computing on a laptop. What stood out was that the laptop looked awfully similar to the Macbook Pro! In fact I am 90% sure that its a Mac!"
+image: microsoft-using-apple-in-their-ads-2.jpg
 
 ---
 

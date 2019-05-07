@@ -3,10 +3,9 @@
 title: "Ext4 Filesystem Explained in Plain English"
 author: rami
 layout: linuxologist 
-permalink: /2009/01/23/ext4-filesystem-explained-in-plain-english/
 categories: [Blog]
 tags: [linux, ext, filesystems]
-summary: "Linux Kernel 2.6.28 was released while you were partying on New Years and declared the much anticipated Ext4 filesystem as stable. The web buzzed on [how fast and reliable Ext4](http://arstechnica.com/journals/linux.ars/2009/01/12/super-fast-ext4-filesystem-arrives-in-ubuntu-9-04) and the Ubutnu community celebrated to the news that the [upcoming 9.04 version will include Ext4](http://www.linux-magazine.com/online/news/ubuntu_9_04_supports_ext4). Ext4 brings a lot of enhancements, but to a non-technical person like me it does sound confusing, with a lot of technical terms that don't make much sense. So I thought I should read up and do my best to understand Ext4 and how it will enhance our day-to-day computing experience."
+image: harddrive.jpg
 
 ---
 

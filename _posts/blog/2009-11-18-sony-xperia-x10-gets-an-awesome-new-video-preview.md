@@ -3,10 +3,8 @@
 title: Sony Xperia X10 Gets an Awesome New Video Preview
 author: rami
 layout: historical-blog 
-permalink: /2009/11/18/sony-xperia-x10-gets-an-awesome-new-video-preview/
 category: [Blog]
 tags: [mobile]
-summary: The much anticipated Sony Xperia phone gets an awesome video preview.
 
 ---
 

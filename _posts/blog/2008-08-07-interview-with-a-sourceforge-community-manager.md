@@ -3,10 +3,9 @@
 title: "Interview With The SourceForge Community Manager"
 author: rami
 layout: linuxologist
-permalink: /2008/08/07/interview-with-a-sourceforge-community-manager
 categories: [Blog]
 tags: [sourceforge, interview, linux, advocacy]
-summary: "SourceForge is one of the most important entities in the Open Source movement. They manage the geek mecca of [slashdot](http://www.slashdot.com), sell geek paraphernalia that makes all our dreams come true at [thinkgeek](http://www.thinkgeek.com), manage [Freshmeat](http://www.freshmeat.net/) the mega app hub, and administer over 170,000 Open Source projects at [SourceForge](http://www.sourceforge.net)."
+image: ross-turk_portrait.jpeg
 
 ---
 
@@ -17,7 +16,7 @@ And if you are a long time Royal HeHe2-ness reader, you should by now realize ho
 
 **Q-Can you tell us a little more about yourself? You know general stuff?**
 
-![ross-turk_portrait]({{"assets/images/content/blog/ross-turk_portrait.jpeg" | absolute_url }})
+![ross-turk_portrait](/assets/images/content/blog/ross-turk_portrait.jpeg)
 
 Sure! I live in West Hollywood, CA, but I spend most of my time traveling around the country (and sometimes the world.) I've always been a giant fan of Linux -- when I was in high school, I ran the Linux network for a local ISP long before most people thought it was a viable option.
 
@@ -33,7 +32,7 @@ SourceForge, Inc., the parent company, also operates Slashdot, ThinkGeek, Linux.
 
 **Q-What are your responsibilities at Sourceforge? What projects did you work on?**
 
-![Ross Turk Sourceforge Conference]({{"assets/images/content/blog/ross-turk-sourceforge-conference.jpg" | absolute_url }})
+![Ross Turk Sourceforge Conference](/assets/images/content/blog/ross-turk-sourceforge-conference.jpg)
 
 I'm the Community Manager for SourceForge.net, and I've been doing this for almost two years. I've been with SourceForge for almost eight and a half years now, and I've had a lot of various roles, including consulting, architecture, and engineering management. My job now is to make myself available to the SourceForge community of users and developers, make sure they're happy, and figure out what would make them happier. I spend a lot of time a trade shows, but I also put together programs like the Community Choice Awards so that the entire community can get involved.
 
@@ -65,7 +64,7 @@ SourceForge, over the years, has become almost as much of a collection of ideas 
 
 **Q-What does the future hold for SourceForge and the gang?**
 
-![Open Source Project Logos]({{"assets/images/content/blog/opensourceprojectlogos.png" | absolute_url }})
+![Open Source Project Logos](/assets/images/content/blog/opensourceprojectlogos.png)
 
 Nobody can argue that open source has seen a great deal of success at the operating system level with Linux, [FreeBSD](http://www.freebsd.org), and, more recently, [OpenSolaris](http://www.opensolaris.org). Similarly, the programming space is seeing a lot of successful open source languages like [Perl](http://www.perl.org), [PHP](http://www.php.net), [Python](http://www.python.org), [Java](http://www.java.com), and [Ruby](http://www.ruby-lang.org/en/). Open source databases like [PostgreSQL](http://www.postgresql.org) and [MySQL](http://www.mysql.com) are mainstream now too, as are web servers like Apache and middleware like JBoss.
 

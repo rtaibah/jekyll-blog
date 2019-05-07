@@ -3,10 +3,9 @@
 title: 'Google Wave: Theory vs. Reality'
 author: rami
 layout: historical-blog 
-permalink: /2009/11/13/google-wave-theory-vs-reality/
 category: [Blog]
 tags: [google-wave, apps, internet-history]
-summary: I can really relate to this. Was fighting for an invite, and when I finally got one, I had no one to “wave” with! Had to dig up public waves to find uses of the services, which just cramped up my inbox. Luckily, I got 28 invites which I gave to friends.
+image: google-wave-theory-vs-reality.jpg
 
 ---
 

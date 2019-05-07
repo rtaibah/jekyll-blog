@@ -2,11 +2,10 @@
 
 title: "Multitouch + Tethering + Task Tanager for Android G1"
 author: rami
-permalink: /2009/02/03/howto-multitouch-tethering-task-manager-for-android-g1/
 layout: linuxologist 
 categories: [Blog]
 tags: [android, gadgets, mobile]
-summary: "Recently the web was [buzzing](http://i.gizmodo.com/5139087/multitouch-implemented-on-g1-android-unofficially) [about](http://www.engadget.com/2009/01/25/get-your-hack-on-unofficial-multi-touch-support-released-for-an/) how [multitouch](http://www.talkandroid.com/556-android-g1-multitouch/) [technology](http://androidcommunity.com/multitouch-hack-for-t-mobile-g1-video-demo-20090126/) was implemented unofficially on the *G1 Android*. While admittedly it's still not as smooth as I like it to be, its just a proof of concept and will probably be optimized over time. There are a lot of guides on how to implement it out there, am not bringing you anything new. But I haven't seen one that actually explains the reasoning behind each step, and most guides are fragmented over multiple pages and links."
+image: g1-android-jailbreak.jpg
 
 ---
 

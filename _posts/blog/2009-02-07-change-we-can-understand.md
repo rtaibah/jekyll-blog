@@ -3,10 +3,9 @@
 title: "Change We Can Understand"
 author: rami
 layout: linuxologist 
-permalink: /2009/02/07/change-we-can-understand/
 categories: [Blog]
 tags: [psa]
-summary: "More than a year ago I started this blog, it was a boring night, didn't really have my mind set into blogging. Just wanted to experiment and try something new, setting up a new blog was my idea of fun. Ya thats how geeky I am."
+image: change-we-can-understand.jpg
 
 ---
 

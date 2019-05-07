@@ -3,7 +3,6 @@
 title: "I Just Literally Burnt The Feeds!"
 author: rami
 layout: historical-blog
-permalink: /2008/01/23/i-just-literally-burnt-the-feeds/
 categories: [Blog]
 tags: [feeds, rss]
 

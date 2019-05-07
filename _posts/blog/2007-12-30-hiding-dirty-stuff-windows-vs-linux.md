@@ -3,7 +3,6 @@
 title: "Hiding Dirty Stuff: Windows vs. Linux"
 author: rami
 layout: linuxologist 
-permalink: /2007/12/30/hiding-dirty-stuff-windows-vs-linux/
 categories: [Blog]
 tags: [humour, linux, windows]
 image: hiding-dirty-stuff-windows.jpg

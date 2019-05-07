@@ -3,14 +3,13 @@
 title: "Sourceforge on Your iPhone!"
 author: rami
 layout: linuxologist
-permalink: /2008/07/11/sourceforge-on-your-iphone
 categories: [Blog]
 tags: [sourceforge, iphone]
-summary: "While I am not really big iPhone fan, I must admit it's a sexy piece of hardware, that captured the hearts of millions in a heartbeat. But the fact that Apple decided to lock it down, is a deal breaker for me. I have had the misfortune of buying a 32 GB iPod touch, and managing it from my Ubuntu box is simply a **nightmare**. While tools like _ipod-convenience_, can do the job, they are buggy and unstable to say the least and remain indivisual efforts of Linux hackers and reverse engineers."
+image: iphone.jpg
 
 ---
 
-![original iPhone]({{"assets/images/content/blog/iphone.jpg" | absolute_url }})
+![original iPhone](/assets/images/content/blog/iphone.jpg)
 
 While I am not really big iPhone fan, I must admit it's a sexy piece of hardware, that captured the hearts of millions in a heartbeat. But the fact that Apple decided to lock it down, is a deal breaker for me. I have had the misfortune of buying a 32 GB iPod touch, and managing it from my Ubuntu box is simply a **nightmare**. While tools like _ipod-convenience_, can do the job, they are buggy and unstable to say the least and remain indivisual efforts of Linux hackers and reverse engineers.
 

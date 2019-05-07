@@ -3,7 +3,6 @@
 title: Asus eee pc 8G Available At Newegg!
 author: rami
 layout: linuxologist 
-permalink: /2007/12/11/eee-pc-8g-at-newegg/
 categories: [Blog]
 tags: [eee-pc, gadgets, asus]
 image: eee-pc-chick.jpg

@@ -3,11 +3,9 @@
 title: "The Things You Find on the Internet"
 author: rami
 layout: historical-blog
-permalink: /2007/12/01/amazon-selling-uranium/
 categories: [Blog]
 tags: [wtf, uranium, amazon]
-image:
-summary: "Seems like there is nothing you can't buy off the Internet these days. Apparently the good fellas at Amazon.com are selling Uranium ore! Yes you heard it U-R-A-N-I-U-M! You know the stuff that would bust your balls."
+image: amazon-uranium-ore.jpg
 
 ---
 

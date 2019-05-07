@@ -3,10 +3,9 @@
 title: "30 Cool Linux Login Screens"
 author: rami
 layout: linuxologist
-permalink: /2008/11/03/30-cool-linux-login-screens/
 categories: [Blog]
 tags: [eye-candy, linux, linguxologist, gnome, kde, login-screens]
-summary: "One of the most powerful attributes that are running for Linux as opposed to other OS'es is it flexibility and customizibility. Its one of the first things mentioned when a Linux geek is asked about Linux. And we love to show it. I trekked [Gnome Look](http://www.gnome-look.org) and [KDE Look](http://www.kde-look.org) and chose for you these 30 great login screen themes. The first 15 are GNOME Specific, while 16-30 are for KDE."
+image: somatic.jpg
 
 ---
 

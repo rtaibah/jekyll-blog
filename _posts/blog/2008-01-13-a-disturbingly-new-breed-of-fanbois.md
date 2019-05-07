@@ -3,7 +3,6 @@
 title: "A Disturbingly New Breed of Fanbois"
 author: rami
 layout: linuxologist
-permalink: /2008/01/13/a-disturbingly-new-breed-of-fanbois
 categories: [Blog]
 tags: [humour, apple, windows, vista]
 image: mac-fanboi.jpg

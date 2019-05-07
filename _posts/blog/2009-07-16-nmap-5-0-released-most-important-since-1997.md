@@ -3,10 +3,9 @@
 title: "Nmap 5.0 Released: Most Important Since 1997!"
 author: rami
 layout: linuxologist 
-permalink: /2009/07/16/nmap-5-0-released-most-important-since-1997/
 categories: [Blog]
 tags: [security, nmap, news]
-summary: "Today, insecure.org announced the release of Nmap 5.0, which they consider the most important release since 1997. Their [release notes](http://nmap.org/5/) detail the most important changes:"
+image: trinity-nmapscreen.jpe
 
 ---
 

@@ -3,16 +3,15 @@
 title: "Etymology of an Open Source App/Project"
 author: rami
 layout: linuxologist 
-permalink: /2009/03/11/etymology-of-an-open-source-app-project/
 categories: [Blog]
 tags: [linux, open-source]
-summary: "Last year, I blogged about [35 Distros and how they got their names](/2008/04/06/etymology-of-a-distro). Some of the distros out there have fascinating stories, while others are just too mundane. However make sure you[read that blog](/2008/04/06/etymology-of-a-distro), its a very interesting one (trust me)."
+image: open-source-logos.png
 
 ---
 
 ![open-source-logos](/assets/images/content/blog/open-source-logos.png)
 
-Last year, I blogged about [35 Distros and how they got their names](/2008/04/06/etymology-of-a-distro). Some of the distros out there have fascinating stories, while others are just too mundane. However make sure you[read that blog](/2008/04/06/etymology-of-a-distro), its a very interesting one (trust me).
+Last year, I blogged about [35 Distros and how they got their names](/blog/etymology-of-a-distro). Some of the distros out there have fascinating stories, while others are just too mundane. However make sure you [read that blog](/blog/etymology-of-a-distro), its a very interesting one (trust me).
 
 
 The natural extension of the "Etymology of a Distro" blog would be delving deeper into Open Source project's etymologies. Indeed many readers already suggested that. Sadly I got sidetracked and put the whole idea on the back burner. Now I have put it off for way too long, here are 20 Open Source applications and the interesting (and not so interesting) stories behind their names:

@@ -3,14 +3,13 @@
 title: "Intrepid Ibex Release Schedule"
 author: rami
 layout: linuxologist
-permalink: /2008/05/04/intrepid-ibex-release-schedule
 categories: [Blog]
 tags: [ubuntu, linux]
-summary: It has been merely days since the exciting [release of Ubuntu Hardy Heron](/2008/04/24/ubuntu-hardy-heron-a-first-look) but for Canonical the ball is already rolling! Canonical has just announced it's next Ubuntu 8.10 codenamed **Intrepid Ibex.**
+image: horned-ibex.jpg
 
 ---
 
-![Intrepid Ibex]({{"assets/images/content/blog/horned-ibex.jpg" | absolute_url }})
+![Intrepid Ibex](/assets/images/content/blog/horned-ibex.jpg)
 
 It has been merely days since the exciting [release of Ubuntu Hardy Heron](/2008/04/24/ubuntu-hardy-heron-a-first-look) but for Canonical the ball is already rolling! Canonical has just announced it's next Ubuntu 8.10 codenamed **Intrepid Ibex.**
 

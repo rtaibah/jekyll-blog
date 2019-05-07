@@ -3,7 +3,6 @@
 title: 'Geocaching Trip: Ottoman Castle. Khulays, Saudi Arabia.'
 author: rami
 layout: historical-blog 
-permalink: /2011/01/12/geocaching-trip-ottoman-castle-khulays-saudi-arabia/
 category: [Blog]
 tags: [castle, fortress, geocaching, khulais, ottoman, saudi-arabia, toursim, turkey]
 image: geocaching-khulays-saudi-arabia-ottoman-1.jpg

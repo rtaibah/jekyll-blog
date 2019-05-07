@@ -3,10 +3,9 @@
 title: "'GNOME-Colors: Consistence and Elegance For GNOME Desktops'"
 author: rami
 layout: linuxologist 
-permalink: /2009/07/14/gnome-colors-consistence-and-elegance-for-gnome-desktops/
 categories: [Blog]
 tags: [gnome, linux, eye-candy]
-summary: "Lets face it, the default GNOME desktop isn't the easiest desktop on the eye. While Ubuntu's desert brown is actually an eye sore, other distros like Mint and Fedora have done better jobs in theming their desktops. But still most users aren't content with default desktops and usually tweak around their themes via [gnome-look.org](http://gnome-look.org) among others."
+image: gnomecolors.png
 
 ---
 

@@ -3,10 +3,9 @@
 title: "An Interview with an Extremadura Developer: Bringing Linux to the Masses"
 author: rami
 layout: linuxologist
-permalink: /2008/02/07/an-interview-with-spanish-region-extremadura-linux-developer
 categories: [Blog]
 tags: [extremadura, spain, linux]
-image: daniel-campos-extremadura-spain-linex-portrait.jpe
+image: stallman-and-former-extremadura-president-ibarra-2007.jpg
 
 ---
 

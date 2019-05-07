@@ -3,10 +3,9 @@
 title: "Saudi Girl Speaks Up Against Domestic Disturbance"
 author: rami
 layout: historical-blog 
-permalink: /2009/01/07/saudi-girl-speaks-up-against-domestic-disturbance/
 categories: [Blog]
 tags: [saudi-arabia, women, violence]
-summary: "That other day my cousin cast my hands for a short film against women violence for her video photography course. My hands happily obliged, they had fun splashing, splattering and spilling the paint. But take it from me, they definately didn't appreciate pounding on the table so aggressively. The punches really hurt, my knuckles were in extreme pain….I feel sad for them."
+video: eV2v3hvXczA
 
 ---
 

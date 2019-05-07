@@ -3,7 +3,6 @@
 title: "Thinnest Laptop in the World?....Pffft!!"
 author: rami
 layout: linuxologist 
-permalink: /2008/01/15/thinnest-laptop-in-the-world-pfft/
 categories: [Blog]
 tags: [macbook air, apple, steve jobs]
 image: steve-jobs-revealing-mac-book-air.jpg

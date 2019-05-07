@@ -3,10 +3,9 @@
 title: "A New Reason to Hate Macs!"
 author: rami
 layout: historical-blog 
-permalink: /2009/01/12/a-new-reason-to-hate-macs/
 categories: [Blog]
 tags: [apple, mac, ux]
-summary: "In numerous occasions, I have made it publically clear that I hate Apple and Macs. I made it publically known to my friends, giving them snarky remarks, or just condescending looks when they prance around with their iPhones and iMacs. I also made it publically known to the whole world, on my [Royal HeHe2-ness blog](/2008/08/25/iphone-3g-a-beautiful-jail/)."
+image: a-new-reason-to-hate-macs.png
 
 ---
 

@@ -3,10 +3,9 @@
 title: "The Best Use of Icons EVAARRR!"
 author: rami
 layout: linuxologist 
-permalink: /2009/05/20/the-best-use-of-icons-evaarrr/
 categories: [Blog]
 tags: [humor, geek]
-summary: "So it has been over a month since my last post and me [moving to America](/2009/04/14/big-changes-for-royal-linuxing-and-me) and my only connection to the world is a measly Dell mini 12 netbook that Intel somehow severely screwed up when it comes to Linux video drivers. The situation isn't exactly inspiring me to blog and do all the other activities that it entails. A molasses Firefox is driving me crazy, makes me want to chuck this netbook out of the window....Netbooks are NOT for everyday use! Luckily, my [Lenovo Thinkpad is on its way](http://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_US/systemconfig.runtime.workflow:LoadRuntimeTree?sb=:00000025:00001CC8:&smid=0A759CA6FAC74C46BC91C724ECD09BA7)."
+image: best-use-of-icons-evarr.jpg
 
 ---
 

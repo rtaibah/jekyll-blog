@@ -3,7 +3,6 @@
 title: "Saudi First Kiss Parody"
 author: rami
 layout: historical-blog 
-permalink: /2014/04/06/saudi-first-kiss-parody/
 categories: [Blog]
 tags: [first-kiss, meme, parody, saudi-arabia]
 video: htZkAHFzDN8

@@ -3,7 +3,6 @@
 title: "Show Me The Money! Blog and Get Paid with Snapbomb"
 author: rami
 layout: historical-blog 
-permalink: /2008/02/27/show-me-the-money-blog-and-get-paid-with-snapbomb
 categories: [Blog]
 tags: [snapbomb, blogging]
 

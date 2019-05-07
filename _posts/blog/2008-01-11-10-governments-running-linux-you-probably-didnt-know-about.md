@@ -3,7 +3,6 @@
 title: "10 Governments Running Linux You Probably Didnt Know About"
 author: rami
 layout: linuxologist 
-permalink: /2008/01/11/10-governments-running-linux-you-probably-didnt-know-about/
 categories: [Blog]
 tags: [linux, brazil, germany, austria, spain, china, france, india, south-korea peru, russia]
 

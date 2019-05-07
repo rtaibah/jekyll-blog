@@ -3,10 +3,9 @@
 title: "Proof That Linux Geeks Are Smooth With The Ladies"
 author: rami
 layout: linuxologist 
-permalink: /2009/11/30/proof-that-linux-geeks-are-smooth-with-the-ladies
 category: [Blog]
 tags: [humor]
-summary: "This blog has been neglected for quite some time, and been feeling really guilty about it. So lets kick off our emergence with some humor:"
+image: proof-that-linux-geeks-are-smooth-with-the-ladies.png
 
 ---
 

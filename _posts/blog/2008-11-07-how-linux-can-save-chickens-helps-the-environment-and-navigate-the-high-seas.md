@@ -3,10 +3,9 @@
 title: "How Linux Helped Chickens, Environmentalists, and a Pirate!"
 author: rami
 layout: linuxologist
-permalink: /2008/11/07/how-linux-can-save-chickens-helps-the-environment-and-navigate-the-high-seas/
 categories: [Blog]
 tags: [plathome, linux, hardware]
-summary: "Since then, I've used Linux at work and at home in a wide variety array of devices. Even today, now that I'm older and never have enough time for fiddling around with software constantly, I have Linux in my car, as an mp3 player. Any Empeg Rio Car users out there? With [no DRM](/2008/10/01/why-its-time-to-kick-drm-to-the-curb), Linux in your car is a far better solution that connecting your iPod through your car stereo."
+image: linux-ideas.jpg
 
 ---
 

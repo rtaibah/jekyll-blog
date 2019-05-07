@@ -4,9 +4,8 @@ title: "5 Linux Podcasts You Should Be Listening To"
 author: rami
 layout: linuxologist
 categories: [Blog]
-permalink: /2009/01/13/5-linux-podcasts-you-should-be-listening-to/
 tags: [linux, podcasts]
-summary: "Contributing to Linux and the Open Source movement can come in many guises. Programming, filing bugs, translating, blogging, and of course podcasting! In this day and age, jumping behind a mic and speaking isn't really hard, whats hard is actually sticking out of the clutter. Here are 5 podcasts that made an unknown blogger from Saudi Arabia jump out of bed at 4  in the morning to write about them! now thats sticking out of the clutter! So without further ado, I give you 5 podcast that you should be listening to:"
+image: linux-action-show.jpeg
 
 ---
 

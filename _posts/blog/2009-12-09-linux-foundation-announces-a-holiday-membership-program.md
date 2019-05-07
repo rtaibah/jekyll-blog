@@ -3,10 +3,9 @@
 title: "Linux Foundation Announces A Holiday Membership Program"
 author: rami
 layout: linuxologist 
-permalink: /2009/12/09/linux-foundation-announces-a-holiday-membership-program
 category: [Blog]
 tags: [linux, linux-foundation]
-summary: "Today the Linux Foundation announced a new holiday promotion. For every new individual member who joins ($99/year), the Linux Foundation will also give a free membership to a student."
+image: linux-foundation-announces-holiday-membership-program.jpg
 
 ---
 

@@ -3,10 +3,8 @@
 title: "Even More Incriminating Evidence in The Foxconn Debacle!"
 author: rami
 layout: linuxologist
-permalink: /2008/07/25/even-more-incriminating-evidence-in-the-foxconn-debacle
 categories: [Blog]
 tags: [microsoft, linux, foxconn]
-summary: "Could hardware vendors be deliberately blocking and sabotaging Linux? What would their incentive or motivation be? One would think that would be just stupid, since no matter how small the Linux market is, at the end of the day there will be money exchanging hands. Why would a company say no to paying customers?"
 
 ---
 

@@ -3,10 +3,9 @@
 title: "Google Seriously Broken"
 author: rami
 layout: linuxologist 
-permalink: /2009/01/31/google-seriously-broken/
 categories: [Blog]
 tags: [google]
-summary: "Around 3:30 GMT I was googling something, and noticed that ALL search results were labeled with 'This site may harm your computer.' Initially I brushed it off, and assumed that my company's IT were up to something, didn't really put much thought into it. 30 minutes later I went back home, and found the same problem. I quickly asked a friend of mine in the Netherlands, he seemed to have the same problem. A quick Twitter search confirmed it. Even googling 'Google' tells you that Google.com is harmful! And by the looks at the Twitter searches, the problem seems to be across the globe."
+image: google-down-2.png
 
 ---
 

@@ -3,9 +3,9 @@
 title: "Linux Artwork That You Will Love: The Ubuntu Rider"
 author: "rami"
 layout: linuxologist 
-permalink:  /2009/08/08/linuxologist-artwork-that-you-will-love-the-ubuntu-rider/
 categories: [Blog]
 tags: [linux, ubuntu, art, eye candy]
+image: ubuntu_linux_by_gegege_no.jpg
 
 ---
 

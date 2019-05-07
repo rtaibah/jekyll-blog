@@ -3,10 +3,9 @@
 title: "The Hypocritical Digg Revolt"
 author: rami
 layout: historical-blog
-permalink: /2009/01/02/the-hypocritical-digg-revolt/
 categories: [Blog]
 tags: [digg, social-media, internet-history]
-summary: "I have been on Digg for almost a year and a half now, and have witnessed at least 4 so-called revolts. From top contributors revolting against changes in the promotion algorithm to revolts against top users like [MrBabyMan](http://www.digg.com/users/mrbabyman). All these “revolts” have one thing in common they all died quickly, and changed nothing. In Digg's history there was only one revolt that really brought real change and thats the [HD-DVD revolt](http://en.wikipedia.org/wiki/Digg#aacs_encryption_key_controversy). Though some might argue the [2008 January revolt](/2008/01/24/digg-the-lulled-revolution/) conceived Digg Townhalls, but really what change did that bring?"
+image: hypocritical-digg-revolt-3.png
 
 ---
 

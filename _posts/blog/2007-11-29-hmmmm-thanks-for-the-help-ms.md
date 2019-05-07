@@ -3,7 +3,6 @@
 title: "Hmmmm, thanks for the help MS..."
 author: rami
 layout: linuxologist 
-permalink: /2007/11/29/hmmmm-thanks-for-the-help-ms
 categories: [Blog]
 tags: [humour, microsoft, ux, windows]
 image: microsoft-windows-defining-frequency.jpeg

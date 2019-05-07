@@ -3,10 +3,8 @@
 title: 'Chrome OS: Will Google Finally Bring Linux to The Desktop?'
 author: rami
 layout: historical-blog 
-permalink: /2009/11/20/chrome-os-will-google-finally-bring-linux-to-the-desktop/
 category: [Blog]
 tags: [linux, google, internet-history]
-summary: "Maybe. Maybe not. Though I have concerns of Google owning everything now. Imagine this project succeeds and millions upon millions have their data in Google&#8217;s cloud. They already have a huge amount of data on most of us, throw in all my activity on an OS, and you got a new and very frightening hegemony."
 
 ---
 

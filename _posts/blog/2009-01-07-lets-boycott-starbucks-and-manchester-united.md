@@ -3,10 +3,9 @@
 title: Lets Boycott Starbucks and Manchester United!
 author: rami
 layout: historical-blog 
-permalink: /2009/01/07/lets-boycott-starbucks-and-manchester-united/
 category: [Blog]
 tags: [manchester-united, football, israel, starbucks]
-summary: Am malnourished! Well not really, but I almost never have time to have breakfast before I go to work. I should be at work 8:30, on a good day, I wake up 8:15! Luckily we have a Starbucks in our building, so that kind of solves the breakfast problem (despite the fact that their food sucks).
+image: lets-boycott-starbucs-and-manchester-united.jpg
 
 ---
 

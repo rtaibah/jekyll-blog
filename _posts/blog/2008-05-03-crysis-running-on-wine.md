@@ -3,10 +3,9 @@
 title: "Crysis Running on Wine?"
 author: rami
 layout: linuxologist
-permalink: /2008/05/03/crysis-running-on-wine
 categories: [Blog]
 tags: [linux, wine, crysis]
-summary: "[Steven707](http://www.youtube.com/user/Steven707) seems to figured out how to run Crysis using Wine. Well almost! The game launches off perfectly, however during gameplay there are some glitches that makes the game almost unplayable. According to Steven, he had to tweak the registry a bit and use a few native Windows dll's just to get it to start. I hope he could give us more details on what exactly he did."
+video: 7BBzdL6neVs
 
 ---
 

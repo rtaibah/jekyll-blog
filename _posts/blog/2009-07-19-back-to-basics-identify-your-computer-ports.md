@@ -3,10 +3,9 @@
 title: "Back To Basics: Identify Your Computer Ports"
 author: rami
 layout: linuxologist 
-permalink: /2009/07/19/back-to-basics-identify-your-computer-ports/
 categories: [Blog]
 tags: [geek, hardware]
-summary: "Martin Owens over at [DoctorMo's blog](http://doctormo.wordpress.com/2009/07/17/learning-identifying-computer-ports/) designed an impressive set of visuals detailing a wide range of computer ports. Any self-respecting geek should know these, they do come in handy from time to time:"
+image: common-ports.png
 
 ---
 

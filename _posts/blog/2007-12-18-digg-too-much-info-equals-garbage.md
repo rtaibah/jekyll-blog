@@ -3,7 +3,6 @@
 title: "Digg: Too Much Info = Garbage!!"
 author: rami
 layout: historical-blog
-permalink: /2007/12/18/digg-too-much-info-equals-garbage
 categories: [Blog]
 tags: [digg, social-media, ux]
 image: digg-too-much-notifications.jpg

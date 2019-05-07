@@ -3,10 +3,9 @@
 title: "The Top 9 Linux Stories in 2009"
 author: rami
 layout: linuxologist 
-permalink: /2009/12/31/the-top-9-linux-stories-in-2009
 category: [Blog]
 tags: [linux]
-summary: "Wrap your head around this: In a couple of hours, the 90′s will be 20 years ago! Yup, its scary I know. But hey think of it this way: in 1990 we didn’t even have Linux, and in 2000 Linux looks like a crippled OS compared to today’s Linux. So its all good."
+image: baby-tux.png
 
 ---
 

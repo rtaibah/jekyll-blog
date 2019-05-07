@@ -3,7 +3,6 @@
 title: "iPhone & iPod Management on Linux Just Got Easier"
 author: rami
 layout: linuxologist 
-permalink: /2010/04/08/iphone-ipod-management-on-linux-just-got-easier
 category: [Blog]
 tags: [linux, apple]
 video: WGf4i_kxqRU

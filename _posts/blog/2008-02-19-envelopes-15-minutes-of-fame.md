@@ -3,7 +3,6 @@
 title: "Envelopes 15 Minutes of Fame!"
 author: rami
 layout: linuxologist
-permalink: /2008/02/19/envelopes-15-minutes-of-fame
 categories: [Blog]
 tags: [macbook air, humour, parody, apple]
 video: jLrW5SKusn0

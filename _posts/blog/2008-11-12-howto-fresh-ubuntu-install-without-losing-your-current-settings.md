@@ -3,10 +3,9 @@
 title: "Howto: Fresh Ubuntu Install Without Losing Your Current Settings"
 author: rami
 layout: linuxologist
-permalink: /2008/11/12/howto-fresh-ubuntu-install-without-losing-your-current-settings/
 categories: [Blog]
 tags: [ubuntu, howto, linux]
-summary: "**Warning**: There are  two commands mentioned in this how to, both that require double dashes -- -- but for some reason WordPress is not rendering that correctly. After each _dpkg_ hit _space_ and hit the dash button twice. Sorry for the the inconvenience."
+image: ubuntu-distros.jpg
 
 ---
 

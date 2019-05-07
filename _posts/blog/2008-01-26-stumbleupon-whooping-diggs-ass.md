@@ -3,7 +3,6 @@
 title: "StumbleUpon Whooping Diggs Ass!"
 author: rami
 layout: historical-blog
-permalink: /2008-01-26-stumbleupon-whooping-diggs-ass
 categories: [Blog]
 tags: [stumbleupon, digg, social, media, problogger]
 image: stumbleupon_vs_digg.jpeg

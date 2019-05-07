@@ -3,10 +3,8 @@
 title: "5 Linux Commercials I Like"
 author: rami
 layout: linuxologist
-permalink: /2008/08/05/5-linux-commercials-i-like
 categories: [Blog]
 tags: [linux, commercials, advocacy]
-summary: "Since this is a *Linux advocacy* blog, it's only normal for me to share with you guys my favorite list of *Linux* commercials. I love these because of the deep messages and meanings behind each of them:"
 
 ---
 

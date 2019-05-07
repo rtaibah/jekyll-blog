@@ -2,11 +2,10 @@
 
 title: "Free, Professional Music Production: A Linux Introduction"
 author: rami
-permalink: /2008/10/05/free-professional-music-production-a-linux-introduction/
 layout: linuxologist 
 categories: [Blog]
 tags: [guest-blog, linux, music production, apps]
-summary: "People who either dabble or work in computing enough are probably used to the idea that some operating systems are better than others as creative platforms; Mac OSX generally seems to be the preferred place for video editing, thanks to the likes of Final Cut Pro. They've also got the fantastic GarageBand program for audio production as part of their iLife suite, and with Windows, ProTools is often considered industry standard when it comes to audio production. But these popular, household names of programs come with a price; often a pretty hefty one, actually. If you're thinking of getting SONAR 8 Studio for your audio needs, be prepared to shell out $369 for it. Today, we're going to explore how with Linux we can make music, and from a software standpoint, it's going to cost us nothing."
+image: music-production.jpg
 
 ---
 

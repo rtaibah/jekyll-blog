@@ -3,10 +3,9 @@
 title: "Piracy Hurts Open Source Also!"
 author: rami
 layout: linuxologist
-permalink: /2008/10/27/do-commercial-software-companies-make-money-from-pirates/
 categories: [Blog]
 tags: [piracy, drm, linux]
-summary: "In an [earlier article](/2008/10/01/why-its-time-to-kick-drm-to-the-curb) we established that piracy of software is basically a given in today's world where information is so easily shared and duplicated. We also established that no matter what DRM measures are implemented by commercial software developers, no matter how advanced or how draconian they are, someone's always going to find a way around it. With that in mind, perhaps, if we're able to figure that out, surely so are they...?"
+image: piracy-johnny-depp3.jpg
 
 ---
 

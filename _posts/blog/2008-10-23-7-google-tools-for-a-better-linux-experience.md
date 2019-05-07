@@ -3,10 +3,9 @@
 title: "7 Google Tools For A Better Linux Experience"
 author: rami
 layout: linuxologist
-permalink: /2008/10/7-google-tools-for-a-better-linux-experience/
 categories: [Blog]
 tags: [howto, google, apps, linux, linuxologist]
-summary: "Google has changed our lives permanently, no one can deny it. The amount of innovation it brings to the table is almost dizzying. Just a decade ago, if someone told you that a company would offer street views, 5 GB of email storage, satellite pictures of the whole globe...etc you would have been laughed at."
+image: googlelinux.png
 
 ---
 

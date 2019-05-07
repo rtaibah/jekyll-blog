@@ -3,10 +3,9 @@
 title: "Howto: Download Tons of GNOME-Specific Wallpapers With One Command"
 author: rami
 layout: linuxologist 
-permalink: /2009/10/05/howto-download-tons-of-gnome-specific-wallpapers-with-one-command/
 categories: [Blog]
 tags: [gnome, eye candy, wallpapers, linux]
-summary: "Gnome-look.org has tons of wallpapers to decorate your favorite desktop. However the website isn't really friendly to download them all. You have to go through a long list of wallpapers, click through each and download the wallpaper from the wallpaper page. Luckily, with the power of the command terminal and ftp you can get tons of wallpapers with a single command!"
+image: Gnome_by_JennyJenna.jpg
 
 ---
 

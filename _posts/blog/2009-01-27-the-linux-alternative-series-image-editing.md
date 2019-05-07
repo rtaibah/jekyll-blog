@@ -3,10 +3,9 @@
 title: "The Linux Alternative Series: Image Editing"
 author: rami
 layout: linuxologist 
-permalink: /2009/01/27/the-linux-alternative-series-image-editing/
 categories: [Blog]
 tags: [apps, linux, photo-editing]
-summary: "Image editing on Linux is one of the most hotly debated categories. Actually it's probably one of the biggest stumbling blocks for people who want to convert to Linux. A lot of people got used to Adobe Photoshop and the way it does things, that an alternative is almost blasphemous!"
+image: gimp.jpg
 
 ---
 

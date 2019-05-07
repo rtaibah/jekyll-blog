@@ -3,10 +3,9 @@
 title: George W. Bush Pardoned Me! Yay!
 author: rami
 layout: historical-blog 
-permalink: /2009/01/13/george-w-bush-pardoned-me-yay/
 category: [Blog]
 tags: [humor, george-w-bush]
-summary: 
+image: george-bush-pardoned-me-1.jpg
 
 ---
 

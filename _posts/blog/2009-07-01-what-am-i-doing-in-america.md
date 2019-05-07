@@ -3,10 +3,9 @@
 title: "What Am I Doing in America?"
 author: rami
 layout: historical-blog 
-permalink: /2009/07/01/what-am-i-doing-in-america/
 categories: [Blog]
 tags: [personal]
-summary: "Its been almost 3 month since I moved from Saudi Arabia to Boston to prepare for my grad school studies. And in any social event I attend I am asked by people about what is I do. Saying “grad student” immediately elicits the “what school?” question. Usually, it isn't enough for me to say that I am preparing for grad school."
+image: what-ami-doing-in-america-statue-of-liberty.jpg
 
 ---
 

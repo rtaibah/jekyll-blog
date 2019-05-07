@@ -3,7 +3,6 @@
 title: 'The Trouble With SSL: You MUST Know this'
 author: rami
 layout: historical-blog 
-permalink: /2009/11/20/the-trouble-with-ssl-you-must-know-this/
 category: [Blog]
 tags: [security, podcast]
 

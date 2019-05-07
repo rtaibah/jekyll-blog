@@ -3,7 +3,6 @@
 title: "The Greatest Minds of the 20th Century"
 author: rami
 layout: historical-blog
-permalink: /2007/12/05the-greatest-minds-of-the-20th-century
 categories: [Blog]
 tags: [chemistry, nobel, physics, science, solvay]
 image: solvay-conference-1927-greatest-minds-of-the-twentieth-century.jpg

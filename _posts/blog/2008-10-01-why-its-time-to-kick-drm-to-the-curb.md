@@ -3,10 +3,9 @@
 title: "Why DRM Should Be Kicked to The Curb"
 author: rami
 layout: linuxologist
-permalink: /2008/10/01/why-its-time-to-kick-drm-to-the-curb/
 categories: [Blog]
 tags: [drm, advocacy, technology, microsoft, adobe, spore, secure-rom, guest-post]
-summary: "_This is a guest post by [Ian McLean](http://golbnikufesin.blogspot.com/), an Australian Linux and Open Source aficionado currently based in Romania._"
+image: eliminate-drm.jpg
 
 ---
 

@@ -3,7 +3,6 @@
 title: "Windows Chicks Losing Their Virginity!!"
 author: rami
 layout: linuxologist
-permalink: /2008/02/15/windows-chicks-loosing-their-virginity
 categories: [Blog]
 tags: [windows, microsoft, linux, humour]
 image: windows-chicks-losing-their-virginity.jpg

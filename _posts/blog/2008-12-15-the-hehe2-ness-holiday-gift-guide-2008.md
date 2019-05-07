@@ -3,10 +3,9 @@
 title: "The HeHe2-ness Holiday Gift Guide 2008"
 author: rami
 layout: linuxologist 
-permalink: /2008/12/15/the-hehe2-ness-holiday-gift-guide-2008/
 categories: [Blog]
 tags: [linux, gifts]
-summary: "Doing some shopping for your technical friends this year?  Or just following the Golden Rule of Giving?  That is, Give Something That You Yourself Would Like In Case They Don't Get Around To Using It.  Either way, we've shifted through a wide range of gifts to come up with suggestions and ideas in hopes that we can help you expand your range of gift giving.  Yes, a lot of peoples' companies and salaries have been hit this year.  If that's the case, as you know, some of the best Linux products are free or very inexpensive.  So we've split up this guide roughly based on price."
+image: linux-sticker.jpg
 
 ---
 

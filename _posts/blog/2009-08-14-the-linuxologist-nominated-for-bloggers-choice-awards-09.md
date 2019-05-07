@@ -3,10 +3,9 @@
 title: "The Linuxologist Nominated For Bloggers Choice Awards 09; Vote and WIN!"
 author: rami
 layout: linuxologist 
-permalink: /2009/08/14/the-linuxologist-nominated-for-bloggers-choice-awards-09/
 categories: [Blog]
 tags: [linuxologist, off-topic]
-summary: "A reader of The Linuxologist was passionate enough to nominate us for a [Blogger's Choice Award '09](http://bloggerschoiceawards.com) for the best Geek Blog. We really feel honored by this nomination, and if you do enjoy the blog we would really appreciate it if you would take the time to vote for The Linuxologist."
+image: bloggers-choice-awards.png
 
 ---
 
