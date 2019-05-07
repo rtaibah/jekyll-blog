@@ -1,10 +1,11 @@
 ---
+
 title: How To Build A Billion Dollar App | By George Berkowski 
-author: rami_taibah 
+author: rami
 layout: post
-permalink: /books/2014/10/how-to-build-a-billion-dollar-app
-categories: Books 
-tags: Books Apps Mobile Startups
+categories: [Books]
+tags: [books, apps, mobile, startups]
+
 ---
 
 **Start date:** Saturday 18th of October 2014
