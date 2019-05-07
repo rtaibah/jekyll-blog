@@ -34,10 +34,10 @@ pagination:
       <h3>
         <a href="{{ site.siteurl }}{{ post.url }}">{{ post.title }}</a>
       </h3>
+      <div class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></div>
         <a href="{{ site.siteurl }}{{ post.url }}">
           <img src="{{ site.baseurl }}/assets/images/content/lifestream/{{ post.image }}">
         </a>
-      <div class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></div>
     </article>
   </li>
 {% endfor %}
