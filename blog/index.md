@@ -32,7 +32,9 @@ pagination:
       <div class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></div>
 
       {% if post.video %}
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ post.video }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <div class="iframe-container">
+        <iframe src="https://www.youtube-nocookie.com/embed/{{ post.video }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
       {% endif %}
 
       {% if post.image %}
