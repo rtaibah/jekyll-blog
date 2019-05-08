@@ -34,6 +34,8 @@ pagination:
       <h3><a href="{{ site.siteurl }}{{ post.url }}">{{ post.title }} </a></h3>
       <div class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></div>
 
+      {{ post.content | strip_html | truncatewords: 50 }}
+
       {% if post.video %}
       <div class="iframe-container">
         <iframe src="https://www.youtube-nocookie.com/embed/{{ post.video }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -46,7 +48,6 @@ pagination:
         </a>
       {% endif %}
 
-      {{ post.content | strip_html | truncatewords: 50 }}
     </article>
   </li>
 {% endfor %}
