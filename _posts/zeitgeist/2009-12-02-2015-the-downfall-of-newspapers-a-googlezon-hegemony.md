@@ -1,30 +1,17 @@
 ---
-id: 569
-title: '2015: The Downfall of Newspapers &#038; A GoogleZon Hegemony'
-date: 2009-12-02T13:35:04+00:00
+
+title: '2015: The Downfall of Newspapers; A GoogleZon Hegemony'
 author: rami
-layout: post
-guid: http://rtaibah1.wordpress.com/2009/12/02/2015-the-downfall-of-newspapers-a-googlezon-hegemony
-permalink: /2009/12/02/2015-the-downfall-of-newspapers-a-googlezon-hegemony/
-posterous_39894d3ad3d9f6a441052a50351e8a54_post_id:
-  - "8178592"
-  - "8178592"
-  - "8178592"
-posterous_39894d3ad3d9f6a441052a50351e8a54_permalink:
-  - http://blog.ramitaibah.com/2015-the-downfall-of-newspapers-and-a-googlez
-  - http://blog.ramitaibah.com/2015-the-downfall-of-newspapers-and-a-googlez
-  - http://blog.ramitaibah.com/2015-the-downfall-of-newspapers-and-a-googlez
-categories:
-  - Uncategorized
+layout: zeitgeist 
+categories: [Zeitgeist]
+tags: [video, internet, google]
+video: boLj_Kkd5zg
+comments: true
+
 ---
-<div class="posterous_bookmarklet_entry">
-  <blockquote class="posterous_long_quote">
-    <p>
-      <a href="http://70.85.109.171/albino_flash010/epic/ols-mattrobin-flash.swf">http://70.85.109.171/albino_flash010/epic/ols-mattrobin-flash.swf</a>
-    </p>
-  </blockquote>
-  
-  <div class="posterous_quote_citation">
-    via <a href="http://www.albinoblacksheep.com/flash/epic">albinoblacksheep.com</a>
-  </div></p>
+
+<div class="iframe-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/boLj_Kkd5zg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+

@@ -2,9 +2,9 @@
 
 title: Hot Girls Risky Business Fail Video
 author: rami
-layout: post
+layout: zeitgeist 
 categories: [Zeitgeist]
-tags: [funny]
+tags: [video, funny]
 video: NcEDLMA6FC0
 comments: true
 

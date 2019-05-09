@@ -1,32 +1,24 @@
 ---
-id: 594
-title: 'Bugatti Veyron wrecking into Lake &#8211; Actual Film'
-date: 2009-11-15T22:00:00+00:00
+
+title: 'Bugatti Veyron wrecking into Lake Actual Film'
 author: rami
-layout: post
-guid: http://rtaibah1.wordpress.com/2009/11/15/bugatti-veyron-wrecking-into-lake-actual-film
-permalink: /2009/11/15/bugatti-veyron-wrecking-into-lake-actual-film/
-posterous_39894d3ad3d9f6a441052a50351e8a54_post_id:
-  - "7523775"
-  - "7523775"
-  - "7523775"
-posterous_39894d3ad3d9f6a441052a50351e8a54_permalink:
-  - http://blog.ramitaibah.com/bugatti-veyron-wrecking-into-lake-actual-film
-  - http://blog.ramitaibah.com/bugatti-veyron-wrecking-into-lake-actual-film
-  - http://blog.ramitaibah.com/bugatti-veyron-wrecking-into-lake-actual-film
-categories:
-  - Uncategorized
+layout: zeitgeist 
+categories: [Zeitgeist]
+tags: [video, cars]
+video: 4NJmB1F2mdE
+comments: true
+
 ---
-<div class="posterous_bookmarklet_entry">
-  <p>
-    Money down the drain.
-  </p>
+
+Money down the drain.
+
+<div class="iframe-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/4NJmB1F2mdE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
   
-  <p>
-    <strong>Update: towing it out:</strong>
-  </p>
-  
-  <p>
-    [youtube http://www.youtube.com/watch?v=zVwVx41zX9s?wmode=transparent]
-  </p>
+__Update: towing it out:__
+
+<div class="iframe-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/zVwVx41zX9s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>

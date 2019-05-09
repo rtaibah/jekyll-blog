@@ -10,5 +10,5 @@ comments: true
 
 ---
 
-{% include image.html url="/assets/images/content/zeitgeist/i-really-hope-google-is-wrong-on-this-one.jpg" %}
+{% include image.html url="/assets/images/content/zeitgeist/i-really-hope-google-is-wrong-on-this-one.jpg" description="I really hope google is wrong on this one" %}
 

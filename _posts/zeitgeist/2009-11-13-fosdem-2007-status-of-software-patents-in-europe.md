@@ -2,9 +2,9 @@
 
 title: FOSDEM 2007 Status of Software Patents in Europe
 author: rami
-layout: post
+layout: zeitgeist 
 categories: [Zeitgeist]
-tags: [software, copyrights]
+tags: [video, software, copyrights]
 video: 65C5-51unqI
 comments: true
 

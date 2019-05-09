@@ -2,9 +2,9 @@
 
 title: 'Alex Del Piero: Magic'
 author: rami
-layout: post
+layout: zeitgeist 
 categories: [Zeitgeist]
-tags: [soccer, juve]
+tags: [dead-video, soccer, juve]
 video: ortTpvaZwQ4
 comments: true
 

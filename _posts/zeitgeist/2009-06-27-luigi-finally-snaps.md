@@ -2,9 +2,9 @@
 
 title: Luigi Finally Snaps!
 author: rami
-layout: post
+layout: zeitgeist 
 categories: [Zeitgeist]
-tags: [funny, retro, nintendo]
+tags: [video, funny, retro, nintendo]
 video: e2C4F1xV8dg
 comments: true
 

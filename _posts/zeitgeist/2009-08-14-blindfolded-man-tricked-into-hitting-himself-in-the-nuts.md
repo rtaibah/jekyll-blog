@@ -2,9 +2,9 @@
 
 title: Blindfolded Man Tricked into Hitting Himself in the Nuts
 author: rami
-layout: post
+layout: zeitgeist 
 categories: [Zeitgeist]
-tags: [funny]
+tags: [video, funny]
 video: P1jklQjwrTQ
 comments: true
 

@@ -2,7 +2,7 @@
 
 title: 'It is About Time: Getting Our Values Around Copyright'
 author: rami
-layout: post
+layout: zeitgeist 
 categories: [Zeitgeist]
 tags: [software, video, copyrights]
 comments: true
