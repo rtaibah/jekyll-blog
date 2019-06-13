@@ -11,4 +11,4 @@ comments: true
 ---
 Censorship at its best. They sure paint a pretty picture of Tiananmen square events.
 
-{% include image.html url="/assets/images/content/zeitgeist/google-images-china-vs-the-world-spot-the-difference.png" description="Google Images China Vs. The World: Spot the Difference" %}
+![Google Images China Vs. The World: Spot the Difference](/assets/images/content/zeitgeist/google-images-china-vs-the-world-spot-the-difference.png)

@@ -10,4 +10,4 @@ comments: true
 
 ---
 
-{% include image.html url="/assets/images/content/zeitgeist/nikes-sweatshops-just-do-it.jpg" description="Nike's Sweatshops: Just Do It." %}
+![Nike's Sweatshops: Just Do It.](/assets/images/content/zeitgeist/nikes-sweatshops-just-do-it.jpg)

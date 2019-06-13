@@ -10,4 +10,4 @@ comments: true
 
 ---
 
-{% include image.html url="/assets/images/content/zeitgeist/the-twitter-celebrity-directory.jpg" description="The Twitter Celebrity Directory" %}
+![The Twitter Celebrity Directory](/assets/images/content/zeitgeist/the-twitter-celebrity-directory.jpg)

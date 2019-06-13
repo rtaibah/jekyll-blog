@@ -10,6 +10,6 @@ comments: true
 
 ---
 
-{% include image.html url="/assets/images/content/zeitgeist/ms-internet-explorer-finally-dethroned-in-germany.jpg" description="MS Internet Explorer finally dethroned in Germany!" %}
+![MS Internet Explorer finally dethroned in Germany!](/assets/images/content/zeitgeist/ms-internet-explorer-finally-dethroned-in-germany.jpg)
 
 via [spiegel.de](http://www.spiegel.de/fotostrecke/fotostrecke-49335-4.html)

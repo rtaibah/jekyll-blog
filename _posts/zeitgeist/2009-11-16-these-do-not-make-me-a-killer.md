@@ -12,4 +12,4 @@ comments: true
 
 Nuff said!
 
-{% include image.html url="/assets/images/content/zeitgeist/these-do-not-make-me-a-killer.jpg" description="These Do NOT Make Me A Killer" %}
+![These Do NOT Make Me A Killer](/assets/images/content/zeitgeist/these-do-not-make-me-a-killer.jpg)

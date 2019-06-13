@@ -10,4 +10,5 @@ comments: true
 
 ---
 
-{% include image.html url="/assets/images/content/zeitgeist/c-ronaldo-is-really-confused.gif" description="C. Ronaldo is Really Confused!" %}
+
+![C. Ronaldo is Really Confused!](/assets/images/content/zeitgeist/c-ronaldo-is-really-confused.gif)

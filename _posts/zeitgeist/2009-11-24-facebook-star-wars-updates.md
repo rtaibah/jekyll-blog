@@ -10,4 +10,4 @@ comments: true
 
 ---
 
-{% include image.html url="/assets/images/content/zeitgeist/facebook-star-wars-updates.jpg" description="Facebook Star Wars Updates" %}
+![Facebook Star Wars Updates](/assets/images/content/zeitgeist/facebook-star-wars-updates.jpg)

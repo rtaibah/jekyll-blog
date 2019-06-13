@@ -10,4 +10,4 @@ comments: true
 
 ---
 
-{% include image.html url="/assets/images/content/zeitgeist/nice-try-google.png" description="'Nice Try Google [PIC]'" %}
+![Nice Try Google'](/assets/images/content/zeitgeist/nice-try-google.png)

@@ -10,4 +10,4 @@ comments: true
 
 ---
 
-{% include image.html url="/assets/images/content/zeitgeist/the-omg-wall.jpg" description="The OMG Wall!" %}
+![The OMG Wall!](/assets/images/content/zeitgeist/the-omg-wall.jpg)
