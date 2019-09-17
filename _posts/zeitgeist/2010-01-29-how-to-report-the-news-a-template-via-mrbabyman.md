@@ -1,24 +1,15 @@
 ---
-id: 506
-title: How To Report The News; A Template (Via @MrBabyMan)
-date: 2010-01-29T16:50:29+00:00
+
+title: 'How To Report The News; A Template (Via @MrBabyMan)'
 author: rami
-layout: post
-guid: http://rtaibah1.wordpress.com/2010/01/29/how-to-report-the-news-a-template-via-mrbabyman
-permalink: /2010/01/29/how-to-report-the-news-a-template-via-mrbabyman/
-posterous_39894d3ad3d9f6a441052a50351e8a54_post_id:
-  - "10779938"
-  - "10779938"
-  - "10779938"
-posterous_39894d3ad3d9f6a441052a50351e8a54_permalink:
-  - http://blog.ramitaibah.com/how-to-report-the-news-a-template-via-mrbabym
-  - http://blog.ramitaibah.com/how-to-report-the-news-a-template-via-mrbabym
-  - http://blog.ramitaibah.com/how-to-report-the-news-a-template-via-mrbabym
-categories:
-  - Uncategorized
+layout: zeitgeist 
+categories: [Zeitgeist]
+tags: [video, humor]
+video: aHun58mz3vI 
+comments: true
+
 ---
-<div class="posterous_bookmarklet_entry">
-  <div class="posterous_quote_citation">
-    via <a href="http://www.youtube.com/watch?v=YtGSXMuWMR4">youtube.com</a>
-  </div></p>
+
+<div class="iframe-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/aHun58mz3vI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>

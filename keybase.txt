@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rami
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rtaibah.com
+  * I am rami (https://keybase.io/rami) on keybase.
+  * I have a public key ASDwO5inEU71gHQsLSsrgKpxO5LD_LVuEdYflsaArS3drwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010114eb485ea48f96e0fa61ef247a953fb5743ece8fd3aba4f8476edd3b322751180a",
+      "host": "keybase.io",
+      "kid": "0120f03b98a7114ef580742c2d2b2b80aa713b92c3fcb56e11d61f96c680ad2dddaf0a",
+      "uid": "2401d3bce32dc5d0731e635de1302200",
+      "username": "rami"
+    },
+    "merkle_root": {
+      "ctime": 1568712880,
+      "hash": "ba42c4997683a693c6aff02e477be805d63409350ef0024a58f89fb6f11d7a59c37fbceac306dd99bee5eb85d4d6ea597a6160cc10fd83032458ee1bbac4aff4",
+      "hash_meta": "860edc07f4c243ea2a1508c9122766162f803d12aa5bf187b8ed66bd211c50c7",
+      "seqno": 7511675
+    },
+    "service": {
+      "entropy": "HlKJUyBPL8sfluj/8qk6Ji17",
+      "hostname": "rtaibah.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568712898,
+  "expire_in": 504576000,
+  "prev": "46f0309358be6443cd0b33d1f67591f1bb0f97355b509d15b9a7f039c952b672",
+  "seqno": 40,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8DuYpxFO9YB0LC0rK4CqcTuSw/y1bhHWH5bGgK0t3a8Kp3BheWxvYWTESpcCKMQgRvAwk1i+ZEPNCzPR9nWR8bsPlzVbUJ0VuafwOclStnLEIDtVx6ZUvvILawsH1BpqchQwRC0Lkf3Fd1ZUIEji+L2PAgHCo3NpZ8RAcjnSqUxlGHvu1EnkWH5BS7fRvtGtLQ4HyAPR0ugqrcthh/5fVrm1BmfNzepX1GK90Osv+Aw346Z9Rjvl7n8rBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG408y7o73pKU683OKD0/AuROwxnl04Fc3htlEHgztSBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rami
+
+==================================================================
