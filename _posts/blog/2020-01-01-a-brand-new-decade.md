@@ -2,7 +2,7 @@
 
 title: "A Brand New Decade"
 author: rami
-layout: blog 
+layout: historical-blog 
 categories: [Blog]
 
 ---
