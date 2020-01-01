@@ -4,6 +4,7 @@ title: "A Brand New Decade"
 author: rami
 layout: historical-blog 
 categories: [Blog]
+image: a-brand-new-decade.jpg
 
 ---
 
@@ -19,12 +20,14 @@ It was a very tedious and labor-intensive task. Unsurprisingly, I eventually get
 
 My perfectionism got in the way. Poof, just like that a decade has gone. Perfectionism is the enemy of progress indeed. I am almost embarrassed to admit this. A decade! 10 years of limbo because of perfectionism. It's a disease.
 
-So for 2020, one of my resolutions is to blog at least once a week. This space will never be 'perfect'. However pumping out fresh content every week will undoubtedly help in motivating me to work more on it. I still need to publish my tweets in the [notes](/notes) section, my Foursquare activity in [checkins]/checkins(), and my books summaries in [books](/books). Some badly formatted posts still exist that need to be fixed. I also hope to get to a stage where I can syndicate my notes and images to twitter, and develop my own location checkin system.
+So for 2020, one of my resolutions is to blog at least once a week. This space will never be 'perfect'. However pumping out fresh content every week will undoubtedly help in motivating me to work more on it. I still need to publish my tweets in the [notes](/notes) section, my Foursquare activity in [checkins](/checkins), and my books summaries in [books](/books). Some badly formatted posts still exist that need to be fixed. I also hope to get to a stage where I can syndicate my notes and images to twitter, and develop my own location checkin system.
 
-I digress. The tldr; of the matter is will be blogging mostly about things going on in my life which are:
+I digress. The tldr; of the matter is that I will be blogging more often. Mostly about things going on in my life which are:
 
 - Front-end development, React, CSS, Javascript...etc
 - Crossfit
 - Podcasting
 - Retro video games
 - Vim productivity and tools
+
+Here is to 2020 🎉
