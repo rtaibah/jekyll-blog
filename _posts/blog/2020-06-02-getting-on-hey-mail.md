@@ -7,6 +7,8 @@ image: hey-email.jpg
 tags: email
 ---
 
+![getting on hey email](/assets/images/content/blog/hey-email.jpg)
+
 I am a big fan of [dhh](https://twitter.com/dhh) and the work he does at Basecamp. Recently he announced a new product that will supposedly make us fall again in love with email. It' s not launched yet, but one can get an early invite by sharing with them your story with email:
 
 > To get on the list, email iwant@hey.com and tell us how you feel about email. Could be a love story, or a hate story. Could be long, could be short. It’s your story, so it’s up to you. Invites will begin going out June 15th, 2020.
